@@ -4,15 +4,10 @@ import { ArrowRight, Flame, Sparkles, Star } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { LEARN_LESSONS, countCompletedKana, isLessonUnlocked } from "@/lib/learn-lessons";
 import { demoProgress, readProgress, writeProgress, type LearningProgress } from "@/lib/progress-storage";
 import { InstallPrompt } from "@/components/pwa/install-prompt";
 import { MobileNav } from "@/components/mobile-nav";
-
-const lessons = [
-  { number: 1, kana: "あ い う え お", state: "MASTERED", href: "/learn#lesson-1" },
-  { number: 2, kana: "か き く け こ", state: "LEARNING", href: "/learn#lesson-2" },
-  { number: 3, kana: "さ し す せ そ", state: "AVAILABLE", href: "/learn#lesson-3" },
-];
 
 export function HomeScreen() {
   const [progress, setProgress] = useState<LearningProgress>(demoProgress);
@@ -40,6 +35,18 @@ export function HomeScreen() {
   };
 
   const reviewPercent = Math.round((progress.reviewsDone / progress.dailyReviewGoal) * 100);
+  const completedLessonIds = new Set(Object.keys(progress.lessonProgress ?? {}).filter((id) => progress.lessonProgress[id]?.completedAt));
+  const hiraganaDone = countCompletedKana(completedLessonIds, "hiragana");
+  const katakanaDone = countCompletedKana(completedLessonIds, "katakana");
+  const previewLessons = LEARN_LESSONS.slice(0, 3).map((lesson, index) => {
+    const completed = completedLessonIds.has(lesson.id);
+    const unlocked = isLessonUnlocked(completedLessonIds, index);
+    return {
+      ...lesson,
+      state: completed ? "COMPLETE" : unlocked ? "LEARNING" : "LOCKED",
+      href: unlocked ? `/learn/${lesson.id}` : "/learn",
+    };
+  });
 
   return (
     <div className="app-shell">
@@ -84,13 +91,13 @@ export function HomeScreen() {
 
         <section id="progress" className="stats-grid" aria-label="Learning progress">
           <article className="stat-card">
-            <div><span>Hiragana</span><strong>{progress.hiraganaMastered} / 46</strong></div>
-            <div className="stat-bar"><i style={{ width: `${(progress.hiraganaMastered / 46) * 100}%` }} /></div>
+            <div><span>Hiragana</span><strong>{hiraganaDone} / 46</strong></div>
+            <div className="stat-bar"><i style={{ width: `${(hiraganaDone / 46) * 100}%` }} /></div>
             <small>mastered</small>
           </article>
           <article className="stat-card katakana">
-            <div><span>Katakana</span><strong>{progress.katakanaMastered} / 46</strong></div>
-            <div className="stat-bar"><i style={{ width: `${(progress.katakanaMastered / 46) * 100}%` }} /></div>
+            <div><span>Katakana</span><strong>{katakanaDone} / 46</strong></div>
+            <div className="stat-bar"><i style={{ width: `${(katakanaDone / 46) * 100}%` }} /></div>
             <small>mastered</small>
           </article>
         </section>
@@ -101,10 +108,10 @@ export function HomeScreen() {
             <Link href="/learn">See all</Link>
           </div>
           <div className="lesson-list">
-            {lessons.map((lesson) => (
+            {previewLessons.map((lesson) => (
               <Link className={`lesson-card ${lesson.state.toLowerCase()}`} href={lesson.href} key={lesson.number}>
-                <span className="lesson-number">{lesson.state === "MASTERED" ? "✓" : lesson.number}</span>
-                <span className="lesson-copy"><small>LESSON {lesson.number}</small><strong>{lesson.kana}</strong></span>
+                <span className="lesson-number">{lesson.state === "COMPLETE" ? "✓" : lesson.number}</span>
+                <span className="lesson-copy"><small>LESSON {lesson.number}</small><strong>{lesson.kana.map((kana) => kana.character).join(" ")}</strong></span>
                 <span className="lesson-state">{lesson.state}</span>
                 <ArrowRight size={19} />
               </Link>

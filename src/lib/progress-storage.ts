@@ -7,7 +7,12 @@ export type LearningProgress = {
   reviewsDone: number;
   dailyReviewGoal: number;
   lastOpenedAt: string;
+  lessonProgress: Record<string, LearnLessonProgress>;
   writingProgress: Record<string, WritingKanaProgress>;
+};
+
+export type LearnLessonProgress = {
+  completedAt: string | null;
 };
 
 export type WritingKanaProgress = {
@@ -24,6 +29,7 @@ export const demoProgress: LearningProgress = {
   reviewsDone: 9,
   dailyReviewGoal: 12,
   lastOpenedAt: new Date(0).toISOString(),
+  lessonProgress: {},
   writingProgress: {
     "hiragana-ki": {
       writingAttempts: 14,
@@ -44,6 +50,7 @@ export function readProgress(): LearningProgress {
     return {
       ...demoProgress,
       ...parsed,
+      lessonProgress: { ...demoProgress.lessonProgress, ...parsed.lessonProgress },
       writingProgress: { ...demoProgress.writingProgress, ...parsed.writingProgress },
     };
   } catch {
@@ -79,4 +86,19 @@ export function recordWritingAttempt(kanaId: string, correct: boolean) {
   };
   writeProgress(next);
   return next.writingProgress[kanaId];
+}
+
+export function recordLearnLessonComplete(lessonId: string) {
+  const progress = readProgress();
+  const next: LearningProgress = {
+    ...progress,
+    lessonProgress: {
+      ...progress.lessonProgress,
+      [lessonId]: {
+        completedAt: progress.lessonProgress[lessonId]?.completedAt ?? new Date().toISOString(),
+      },
+    },
+  };
+  writeProgress(next);
+  return next;
 }
