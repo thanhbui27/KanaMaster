@@ -4,6 +4,7 @@ import { ArrowRight, Flame, Sparkles, Star } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import { KANA_BY_SCRIPT } from "@/data/kana";
 import { LEARN_LESSONS, countCompletedKana, isLessonUnlocked } from "@/lib/learn-lessons";
 import { demoProgress, readProgress, writeProgress, type LearningProgress } from "@/lib/progress-storage";
 import { InstallPrompt } from "@/components/pwa/install-prompt";
@@ -11,7 +12,6 @@ import { MobileNav } from "@/components/mobile-nav";
 
 export function HomeScreen() {
   const [progress, setProgress] = useState<LearningProgress>(demoProgress);
-  const [savedMessage, setSavedMessage] = useState(false);
 
   useEffect(() => {
     const frame = window.requestAnimationFrame(() => {
@@ -24,17 +24,6 @@ export function HomeScreen() {
     return () => window.cancelAnimationFrame(frame);
   }, []);
 
-  const completeReview = () => {
-    setProgress((current) => {
-      const next = { ...current, reviewsDone: Math.min(current.dailyReviewGoal, current.reviewsDone + 1) };
-      writeProgress(next);
-      return next;
-    });
-    setSavedMessage(true);
-    window.setTimeout(() => setSavedMessage(false), 1800);
-  };
-
-  const reviewPercent = Math.round((progress.reviewsDone / progress.dailyReviewGoal) * 100);
   const completedLessonIds = new Set(Object.keys(progress.lessonProgress ?? {}).filter((id) => progress.lessonProgress[id]?.completedAt));
   const hiraganaDone = countCompletedKana(completedLessonIds, "hiragana");
   const katakanaDone = countCompletedKana(completedLessonIds, "katakana");
@@ -71,17 +60,12 @@ export function HomeScreen() {
         <section className="daily-card" aria-labelledby="daily-title">
           <div className="daily-card-copy">
             <span className="section-kicker"><Sparkles size={16} /> TODAY’S REVIEW</span>
-            <h2 id="daily-title">{progress.dailyReviewGoal - progress.reviewsDone} characters waiting</h2>
-            <p>Keep your streak alive with a quick recall session.</p>
-            <div className="review-progress" aria-label={`${progress.reviewsDone} of ${progress.dailyReviewGoal} reviews complete`}>
-              <div style={{ width: `${reviewPercent}%` }} />
+            <h2 id="daily-title">Choose a review track</h2>
+            <p>Smart Review keeps Hiragana and Katakana results completely separate.</p>
+            <div className="home-review-links">
+              <Link className="primary-button" href="/test/hiragana/review">ひ Hiragana <ArrowRight size={18} /></Link>
+              <Link className="primary-button secondary" href="/test/katakana/review">カ Katakana <ArrowRight size={18} /></Link>
             </div>
-            <span className="progress-label">{progress.reviewsDone} / {progress.dailyReviewGoal} reviewed</span>
-            <button className="primary-button" type="button" onClick={completeReview} disabled={progress.reviewsDone >= progress.dailyReviewGoal}>
-              {progress.reviewsDone >= progress.dailyReviewGoal ? "Daily review complete" : "Continue learning"}
-              {progress.reviewsDone < progress.dailyReviewGoal && <ArrowRight size={19} />}
-            </button>
-            {savedMessage && <span className="save-toast" role="status">Progress saved on this device ✓</span>}
           </div>
           <div className="kana-focus" aria-label="Hiragana character a">
             <span>あ</span>
@@ -91,13 +75,13 @@ export function HomeScreen() {
 
         <section id="progress" className="stats-grid" aria-label="Learning progress">
           <article className="stat-card">
-            <div><span>Hiragana</span><strong>{hiraganaDone} / 46</strong></div>
-            <div className="stat-bar"><i style={{ width: `${(hiraganaDone / 46) * 100}%` }} /></div>
+            <div><span>Hiragana</span><strong>{hiraganaDone} / {KANA_BY_SCRIPT.hiragana.length}</strong></div>
+            <div className="stat-bar"><i style={{ width: `${(hiraganaDone / KANA_BY_SCRIPT.hiragana.length) * 100}%` }} /></div>
             <small>mastered</small>
           </article>
           <article className="stat-card katakana">
-            <div><span>Katakana</span><strong>{katakanaDone} / 46</strong></div>
-            <div className="stat-bar"><i style={{ width: `${(katakanaDone / 46) * 100}%` }} /></div>
+            <div><span>Katakana</span><strong>{katakanaDone} / {KANA_BY_SCRIPT.katakana.length}</strong></div>
+            <div className="stat-bar"><i style={{ width: `${(katakanaDone / KANA_BY_SCRIPT.katakana.length) * 100}%` }} /></div>
             <small>mastered</small>
           </article>
         </section>
@@ -105,7 +89,7 @@ export function HomeScreen() {
         <section id="learning-path" className="learning-path" aria-labelledby="path-title">
           <div className="section-heading">
             <div><span className="section-kicker">HIRAGANA</span><h2 id="path-title">Learning path</h2></div>
-            <Link href="/learn">See all</Link>
+            <Link href="/learn?script=hiragana">See Hiragana</Link>
           </div>
           <div className="lesson-list">
             {previewLessons.map((lesson) => (

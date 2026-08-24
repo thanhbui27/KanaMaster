@@ -16,7 +16,7 @@ import Link from "next/link";
 import { FormEvent, useEffect, useMemo, useState } from "react";
 import { HandwritingCanvas } from "@/components/handwriting/handwriting-canvas";
 import { MobileNav } from "@/components/mobile-nav";
-import { WRITING_KANA, type WritingKana } from "@/data/writing-kana";
+import { KANA_BY_SCRIPT, type KanaEntry } from "@/data/kana";
 import {
   LEARN_LESSONS,
   isLessonUnlocked,
@@ -25,7 +25,6 @@ import {
 import {
   collectHandwritingAttempt,
   handwritingRecognizer,
-  MIN_RECOGNITION_CONFIDENCE,
 } from "@/lib/handwriting/template-recognizer";
 import {
   readProgress,
@@ -82,10 +81,10 @@ function shuffleWithSeed<T>(values: T[], seed: number) {
   return shuffled;
 }
 
-function createChoices(kana: WritingKana, token: string) {
+function createChoices(kana: KanaEntry, token: string) {
   const distractors = Array.from(
     new Set(
-      WRITING_KANA.filter((item) => item.romaji !== kana.romaji).map(
+      KANA_BY_SCRIPT[kana.script].filter((item) => item.romaji !== kana.romaji).map(
         (item) => item.romaji,
       ),
     ),
@@ -129,19 +128,16 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
   const lessonIndex = LEARN_LESSONS.findIndex((item) => item.id === lesson.id);
   const unlocked =
     progress !== null && isLessonUnlocked(completedLessonIds, lessonIndex);
-  const currentStep = steps[stepIndex];
+  const activeSteps = lesson.supportsWriting ? steps : steps.filter((step) => step.id !== "writing");
+  const currentStep = activeSteps[stepIndex];
   const currentKana = lesson.kana[kanaIndex];
   const stepProgress = Math.round(
     ((stepIndex * lesson.kana.length + kanaIndex) /
-      (steps.length * lesson.kana.length)) *
+      (activeSteps.length * lesson.kana.length)) *
       100,
   );
-  const choices = useMemo(
-    () =>
-      createChoices(currentKana, `${lesson.id}:${currentStep.id}:${kanaIndex}`),
-    [currentKana, currentStep.id, kanaIndex, lesson.id],
-  );
-  const nextLesson = LEARN_LESSONS[lessonIndex + 1];
+  const choices = createChoices(currentKana, `${lesson.id}:${currentStep.id}:${kanaIndex}`);
+  const nextLesson = LEARN_LESSONS.slice(lessonIndex + 1).find((item) => item.script === lesson.script);
 
   const resetQuestion = () => {
     setSelected(null);
@@ -158,14 +154,14 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
       return;
     }
 
-    if (stepIndex < steps.length - 1) {
+    if (stepIndex < activeSteps.length - 1) {
       setStepIndex((value) => value + 1);
       setKanaIndex(0);
       resetQuestion();
       return;
     }
 
-    const nextProgress = recordLearnLessonComplete(lesson.id);
+    const nextProgress = recordLearnLessonComplete(lesson.id, lesson.kana.map((kana) => kana.id));
     setProgress(nextProgress);
     setCompleted(true);
   };
@@ -196,20 +192,12 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
         allowedCharacters: [currentKana.character],
         expectedCharacter: currentKana.character,
       });
-      const correctCharacter =
-        recognition.detectedCharacter === currentKana.character;
-      const plausibleExpected =
-        !correctCharacter && (recognition.expectedMatch ?? 0) >= 0.54;
-      const uncertain =
-        recognition.confidence < MIN_RECOGNITION_CONFIDENCE ||
-        !recognition.detectedCharacter ||
-        plausibleExpected;
-      const { correct, strokeScore, shapeScore, writingScore } =
+      const { correct } =
         calculateWritingScores(
           recognition,
           currentKana.character,
           strokes.length,
-          currentKana.strokeCount,
+          currentKana.strokeCount ?? strokes.length,
         );
       const match = recognition.expectedMatch ?? recognition.confidence;
       // const isCorrect = match >= TARGET_MATCH_PASS_THRESHOLD;
@@ -318,7 +306,7 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
 
       <section className="lesson-runner-card">
         <div className="lesson-stepper" aria-label="Lesson stages">
-          {steps.map((step, index) => {
+          {activeSteps.map((step, index) => {
             const Icon = step.icon;
             const state =
               index < stepIndex ? "done" : index === stepIndex ? "active" : "";

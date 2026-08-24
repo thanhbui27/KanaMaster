@@ -1,10 +1,29 @@
 "use client";
 
-import { ArrowRight, CheckCircle2, RotateCcw } from "lucide-react";
+import { ArrowRight, RotateCcw } from "lucide-react";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { MobileNav } from "@/components/mobile-nav";
-import { demoProgress, readProgress, writeProgress, type LearningProgress } from "@/lib/progress-storage";
+import { getKanaById, type KanaScript } from "@/data/kana";
+import { demoProgress, getTrackAccuracy, getWeakKanaIds, readProgress, type LearningProgress } from "@/lib/progress-storage";
+
+function ReviewTrack({ script, progress }: { script: KanaScript; progress: LearningProgress }) {
+  const track = progress.tracks[script];
+  const label = script === "hiragana" ? "Hiragana" : "Katakana";
+  const today = new Date().toISOString().slice(0, 10);
+  const done = track.lastReviewDate === today ? track.reviewsDone : 0;
+  const weak = getWeakKanaIds(track).map(getKanaById).filter(Boolean);
+  return (
+    <article className={`review-track-card ${script}`}>
+      <span className="review-big-icon">{script === "hiragana" ? "ひ" : "カ"}</span>
+      <p>{label.toUpperCase()} REVIEW</p><h2>{Math.max(0, track.dailyReviewGoal - done)} characters waiting</h2>
+      <div className="review-bar"><i style={{ width: `${Math.min(100, (done / Math.max(1, track.dailyReviewGoal)) * 100)}%` }} /></div>
+      <small>{done} / {track.dailyReviewGoal} today · {getTrackAccuracy(track)}% accuracy</small>
+      <div className="weak-preview"><span>Weak:</span><strong>{weak.length ? weak.map((kana) => kana?.character).join(" · ") : "No data yet"}</strong></div>
+      <Link href={`/test/${script}/review`}>Start smart review <ArrowRight size={17} /></Link>
+    </article>
+  );
+}
 
 export function ReviewPage() {
   const [progress, setProgress] = useState<LearningProgress>(demoProgress);
@@ -12,23 +31,11 @@ export function ReviewPage() {
     const frame = requestAnimationFrame(() => setProgress(readProgress()));
     return () => cancelAnimationFrame(frame);
   }, []);
-  const remaining = Math.max(0, progress.dailyReviewGoal - progress.reviewsDone);
-  const complete = () => setProgress((current) => {
-    const next = { ...current, reviewsDone: Math.min(current.dailyReviewGoal, current.reviewsDone + 1) };
-    writeProgress(next);
-    return next;
-  });
   return (
     <main className="standard-page">
       <header className="standard-header"><Link href="/">KanaMaster</Link><span>Review</span></header>
-      <section className="review-card">
-        <span className="review-big-icon">{remaining ? <RotateCcw /> : <CheckCircle2 />}</span>
-        <p>TODAY’S REVIEW</p><h1>{remaining ? `${remaining} characters waiting` : "All caught up!"}</h1>
-        <div className="review-bar"><i style={{ width: `${(progress.reviewsDone / progress.dailyReviewGoal) * 100}%` }} /></div>
-        <span>{progress.reviewsDone} / {progress.dailyReviewGoal} complete</span>
-        {remaining > 0 && <button type="button" onClick={complete}>Complete one review <ArrowRight size={17} /></button>}
-        <Link href="/practice/handwriting">Practice weak writing</Link>
-      </section>
+      <section className="standard-intro"><span><RotateCcw size={13} /> SMART REVIEW</span><h1>Review each alphabet separately.</h1><p>Wrong, new and overdue Kana receive priority; strong characters appear less often.</p></section>
+      <section className="review-track-grid"><ReviewTrack script="hiragana" progress={progress} /><ReviewTrack script="katakana" progress={progress} /></section>
       <MobileNav />
     </main>
   );

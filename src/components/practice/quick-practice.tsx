@@ -4,9 +4,10 @@ import { ArrowLeft, ArrowRight, Check, RotateCcw, Timer, X } from "lucide-react"
 import Link from "next/link";
 import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
 import { MobileNav } from "@/components/mobile-nav";
-import { WRITING_KANA } from "@/data/writing-kana";
+import { CHARACTER_TEST_KANA, type KanaScript } from "@/data/kana";
+import { recordQuestionResult } from "@/lib/progress-storage";
 
-type QuickPracticeProps = { mode: "recognition" | "typing" | "speed" };
+type QuickPracticeProps = { mode: "recognition" | "typing" | "speed"; initialScript?: KanaScript };
 
 const titles = {
   recognition: "Recognition",
@@ -44,11 +45,11 @@ function shuffleWithSeed<T>(values: T[], seed: number) {
   return shuffled;
 }
 
-function createChoices(currentIndex: number, questionNumber: number) {
-  const current = WRITING_KANA[currentIndex];
+function createChoices(catalogue: typeof CHARACTER_TEST_KANA.hiragana, currentIndex: number, questionNumber: number) {
+  const current = catalogue[currentIndex];
   const distractors = Array.from(
     new Set(
-      WRITING_KANA
+      catalogue
         .filter((kana) => kana.romaji !== current.romaji)
         .map((kana) => kana.romaji),
     ),
@@ -58,7 +59,9 @@ function createChoices(currentIndex: number, questionNumber: number) {
   return shuffleWithSeed([...selectedDistractors, current.romaji], hashSeed(`${seedBase}:answers`));
 }
 
-export function QuickPractice({ mode }: QuickPracticeProps) {
+export function QuickPractice({ mode, initialScript = "hiragana" }: QuickPracticeProps) {
+  const [script, setScript] = useState<KanaScript>(initialScript);
+  const catalogue = CHARACTER_TEST_KANA[script];
   const [index, setIndex] = useState(6);
   const [questionNumber, setQuestionNumber] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
@@ -68,18 +71,18 @@ export function QuickPractice({ mode }: QuickPracticeProps) {
   const [seconds, setSeconds] = useState(30);
   const [running, setRunning] = useState(false);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const current = WRITING_KANA[index];
+  const current = catalogue[index % catalogue.length];
   const answered = selected !== null;
   const isCorrect = selected === current.romaji;
 
-  const choices = useMemo(() => createChoices(index, questionNumber), [index, questionNumber]);
+  const choices = useMemo(() => createChoices(catalogue, index % catalogue.length, questionNumber), [catalogue, index, questionNumber]);
 
   useEffect(() => () => {
     if (timerRef.current) clearInterval(timerRef.current);
   }, []);
 
   const next = () => {
-    setIndex((value) => (value + 1) % WRITING_KANA.length);
+    setIndex((value) => (value + 1) % catalogue.length);
     setQuestionNumber((value) => value + 1);
     setSelected(null);
     setInput("");
@@ -91,6 +94,7 @@ export function QuickPractice({ mode }: QuickPracticeProps) {
     setSelected(value.toLowerCase().trim());
     if (correct) setScore((value) => value + 1);
     else setWrong((value) => value + 1);
+    recordQuestionResult(script, [current.id], correct);
 
     if (mode === "speed") window.setTimeout(next, 180);
   };
@@ -123,6 +127,18 @@ export function QuickPractice({ mode }: QuickPracticeProps) {
 
   const finishedSpeedRound = mode === "speed" && !running && seconds === 0;
   const canAnswer = mode !== "speed" || running;
+  const changeScript = (nextScript: KanaScript) => {
+    if (timerRef.current) clearInterval(timerRef.current);
+    setScript(nextScript);
+    setIndex(0);
+    setQuestionNumber(0);
+    setSelected(null);
+    setInput("");
+    setScore(0);
+    setWrong(0);
+    setSeconds(30);
+    setRunning(false);
+  };
 
   return (
     <main className="quick-practice-page">
@@ -131,6 +147,11 @@ export function QuickPractice({ mode }: QuickPracticeProps) {
         <strong>{titles[mode]}</strong>
         {mode === "speed" ? <span className="timer-chip"><Timer size={14} /> {seconds}s</span> : <span>{score} correct</span>}
       </header>
+
+      <div className="track-switch compact" role="group" aria-label="Practice alphabet">
+        <button className={script === "hiragana" ? "active" : ""} type="button" onClick={() => changeScript("hiragana")}>ひ Hiragana</button>
+        <button className={script === "katakana" ? "active" : ""} type="button" onClick={() => changeScript("katakana")}>カ Katakana</button>
+      </div>
 
       <section className="quick-quiz-card">
         {mode === "speed" && !running && !finishedSpeedRound ? (

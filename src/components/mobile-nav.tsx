@@ -17,7 +17,14 @@ export function MobileNav() {
   return (
     <nav className="mobile-nav" aria-label="Main navigation">
       {items.map(({ label, icon: Icon, href }) => {
-        const active = label === "Home" ? pathname === "/" : pathname.startsWith(href);
+        const isReviewTest = /^\/test\/(hiragana|katakana)\/review$/.test(pathname);
+        const active = label === "Home"
+          ? pathname === "/"
+          : label === "Review"
+            ? pathname.startsWith(href) || isReviewTest
+            : label === "Practice"
+              ? pathname.startsWith(href) || (pathname.startsWith("/test/") && !isReviewTest)
+              : pathname.startsWith(href);
         return (
         <Link key={label} href={href} className={active ? "nav-item active" : "nav-item"} aria-current={active ? "page" : undefined}>
           <Icon size={21} strokeWidth={active ? 2.8 : 2.2} />

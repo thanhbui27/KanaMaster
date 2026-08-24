@@ -1,43 +1,74 @@
-import { HIRAGANA_WRITING_KANA, KATAKANA_WRITING_KANA, type WritingKana } from "@/data/writing-kana";
+import { getKanaRows, type KanaCategory, type KanaEntry, type KanaScript } from "@/data/kana";
 
 export type LearnLesson = {
   id: string;
   number: number;
-  script: "hiragana" | "katakana";
+  script: KanaScript;
+  category: KanaCategory;
+  row: string;
+  rowLabel: string;
   title: string;
-  kana: WritingKana[];
+  description: string;
+  kana: KanaEntry[];
+  supportsWriting: boolean;
 };
 
-function chunkLessons(script: LearnLesson["script"], items: WritingKana[], offset: number): LearnLesson[] {
-  const scriptLabel = script === "hiragana" ? "Hiragana" : "Katakana";
+const categoryDescriptions: Record<KanaCategory, string> = {
+  basic: "The core gojūon characters used in everyday Japanese.",
+  dakuten: "Voiced and semi-voiced sounds marked with dakuten or handakuten.",
+  yoon: "Contracted sounds made with small ya, yu and yo.",
+  "small-tsu": "Use small tsu to double the following consonant, as in kitte and gakkou.",
+  "long-vowel": "Use the long vowel mark in Katakana words such as keeki and koohii.",
+};
+
+function buildScriptLessons(script: KanaScript): LearnLesson[] {
   const lessons: LearnLesson[] = [];
-  for (let index = 0; index < items.length; index += 5) {
-    const number = offset + lessons.length + 1;
-    lessons.push({
-      id: `${script}-${lessons.length + 1}`,
-      number,
-      script,
-      title: `${scriptLabel} ${lessons.length + 1}`,
-      kana: items.slice(index, index + 5),
+  const categories: KanaCategory[] = script === "katakana"
+    ? ["basic", "dakuten", "yoon", "small-tsu", "long-vowel"]
+    : ["basic", "dakuten", "yoon", "small-tsu"];
+
+  categories.forEach((category) => {
+    const rows = getKanaRows(script, [category]);
+    rows.forEach((row, index) => {
+      const kana = row.kana;
+      const categoryIndex = index + 1;
+      const id = category === "basic" ? `${script}-${categoryIndex}` : `${script}-${category}-${categoryIndex}`;
+      lessons.push({
+        id,
+        number: lessons.length + 1,
+        script,
+        category,
+        row: row.row,
+        rowLabel: row.label,
+        title: `${script === "hiragana" ? "Hiragana" : "Katakana"} · ${row.label}`,
+        description: categoryDescriptions[category],
+        kana,
+        supportsWriting: kana.every((item) => typeof item.strokeCount === "number"),
+      });
     });
-  }
+  });
   return lessons;
 }
 
-const hiraganaLessons = chunkLessons("hiragana", HIRAGANA_WRITING_KANA, 0);
-const katakanaLessons = chunkLessons("katakana", KATAKANA_WRITING_KANA, hiraganaLessons.length);
-
-export const LEARN_LESSONS = [...hiraganaLessons, ...katakanaLessons];
+export const LEARN_LESSONS = [...buildScriptLessons("hiragana"), ...buildScriptLessons("katakana")];
 
 export function getLearnLesson(id: string) {
   return LEARN_LESSONS.find((lesson) => lesson.id === id) ?? null;
 }
 
-export function isLessonUnlocked(completedLessonIds: Set<string>, lessonIndex: number) {
-  return lessonIndex === 0 || LEARN_LESSONS.slice(0, lessonIndex).every((lesson) => completedLessonIds.has(lesson.id));
+export function getLessonsForScript(script: KanaScript) {
+  return LEARN_LESSONS.filter((lesson) => lesson.script === script);
 }
 
-export function countCompletedKana(completedLessonIds: Set<string>, script: LearnLesson["script"]) {
+export function isLessonUnlocked(completedLessonIds: Set<string>, lessonIndex: number) {
+  const lesson = LEARN_LESSONS[lessonIndex];
+  if (!lesson) return false;
+  return LEARN_LESSONS.slice(0, lessonIndex)
+    .filter((item) => item.script === lesson.script)
+    .every((item) => completedLessonIds.has(item.id));
+}
+
+export function countCompletedKana(completedLessonIds: Set<string>, script: KanaScript) {
   return LEARN_LESSONS
     .filter((lesson) => lesson.script === script && completedLessonIds.has(lesson.id))
     .reduce((sum, lesson) => sum + lesson.kana.length, 0);
