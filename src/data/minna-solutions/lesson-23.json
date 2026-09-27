@@ -1,0 +1,177 @@
+{
+  "lesson": 23,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-23",
+  "solutions": [
+    {
+      "exerciseId": "23-section-7-exercise-1",
+      "question": "１）図書館で　本を　（____）　とき、カードが　要ります。",
+      "context": "\nあります　います　借ります　行きます　渡ります　出ます\n例1：買い物に　（行く）とき、カードを　持って　行きます。\n例2：妻が　（いない）とき、レストランで　一人で　食事します。",
+      "status": "reference",
+      "answers": [
+        [
+          "借りる"
+        ]
+      ],
+      "explanation": "Thẻ cần khi mượn sách; dùng thể từ điển trước とき."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-2",
+      "question": "２）道を　（____）　とき、左と　右を　よく　見なければ　なりません。",
+      "context": "\nあります　います　借ります　行きます　渡ります　出ます\n例1：買い物に　（行く）とき、カードを　持って　行きます。\n例2：妻が　（いない）とき、レストランで　一人で　食事します。",
+      "status": "reference",
+      "answers": [
+        [
+          "渡る"
+        ]
+      ],
+      "explanation": "道を渡る: băng qua đường; cần nhìn hai bên khi chuẩn bị qua."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-3",
+      "question": "３）時間が　（____）　とき、朝ごはんを　食べません。",
+      "context": "\nあります　います　借ります　行きます　渡ります　出ます\n例1：買い物に　（行く）とき、カードを　持って　行きます。\n例2：妻が　（いない）とき、レストランで　一人で　食事します。",
+      "status": "reference",
+      "answers": [
+        [
+          "ない"
+        ]
+      ],
+      "explanation": "時間がないとき: khi không có thời gian."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-4",
+      "question": "４）お釣りが　（____）　とき、この　ボタンを　押して　ください。",
+      "context": "\nあります　います　借ります　行きます　渡ります　出ます\n例1：買い物に　（行く）とき、カードを　持って　行きます。\n例2：妻が　（いない）とき、レストランで　一人で　食事します。",
+      "status": "reference",
+      "answers": [
+        [
+          "出ない"
+        ]
+      ],
+      "explanation": "Khi tiền thừa không ra thì bấm nút; 出る → 出ない."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-5",
+      "question": "１）（　暇です　→ ______ ）　とき、遊びに　来て　ください。",
+      "context": "2. 例：（　眠いです　→眠い）　とき、顔を　洗います。",
+      "status": "reference",
+      "answers": [
+        [
+          "暇な"
+        ]
+      ],
+      "explanation": "な-tính từ + なとき."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-6",
+      "question": "２）（　独身です　→ ______ ）　とき、よく　旅行を　しました。",
+      "context": "2. 例：（　眠いです　→眠い）　とき、顔を　洗います。",
+      "status": "reference",
+      "answers": [
+        [
+          "独身の",
+          "独身だった"
+        ]
+      ],
+      "explanation": "Danh từ + のとき là mẫu của bài. 独身だったとき cũng đúng khi nhấn mạnh thời kỳ đã qua."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-7",
+      "question": "３）母は（　若いです　→ ______ ）　とき、とても　きれいでした。",
+      "context": "2. 例：（　眠いです　→眠い）　とき、顔を　洗います。",
+      "status": "reference",
+      "answers": [
+        [
+          "若い",
+          "若かった"
+        ]
+      ],
+      "explanation": "若いとき là mẫu thông dụng; 若かったとき cũng đúng khi nhìn lại quá khứ."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-8",
+      "question": "１）（　a.疲れる、b.疲れた　）　とき、熱い　おふろに　入って、早く　寝ます。",
+      "context": "3. 例：うちへ（　a.帰る、b.帰った　）とき、「ただいま」と　言います。",
+      "status": "reference",
+      "answers": [
+        [
+          "疲れた"
+        ]
+      ],
+      "explanation": "Khi đã mệt thì tắm nóng và ngủ sớm; chọn dạng た."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-9",
+      "question": "２）うちを（　a.出る、b.出た　）　とき、電気を　消しませんでした。",
+      "context": "3. 例：うちへ（　a.帰る、b.帰った　）とき、「ただいま」と　言います。",
+      "status": "reference",
+      "answers": [
+        [
+          "出る"
+        ]
+      ],
+      "explanation": "Tắt điện là việc cần làm trước khi ra khỏi nhà; dùng 出るとき."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-10",
+      "question": "３）朝（　a.起きる、b.起きた　）　とき、家族の　写真に　「おはよう」と　言います。",
+      "context": "3. 例：うちへ（　a.帰る、b.帰った　）とき、「ただいま」と　言います。",
+      "status": "reference",
+      "answers": [
+        [
+          "起きた"
+        ]
+      ],
+      "explanation": "Nói lời chào sau khi thức dậy; dùng 起きたとき."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-11",
+      "question": "４）きのうの　夜（　a.寝る、b.寝た　）　とき、少し　お酒を　飲みました。",
+      "context": "3. 例：うちへ（　a.帰る、b.帰った　）とき、「ただいま」と　言います。",
+      "status": "reference",
+      "answers": [
+        [
+          "寝る"
+        ]
+      ],
+      "explanation": "Uống một chút trước khi ngủ; 寝るとき."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-12",
+      "question": "１）あの　交差点を　左へ　（______）と、銀行が　あります。",
+      "context": "4. 例：この　お茶を　（飲む）　と、元気に　なります。",
+      "status": "reference",
+      "answers": [
+        [
+          "曲がる"
+        ]
+      ],
+      "explanation": "左へ曲がると: rẽ trái thì thấy ngân hàng."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-13",
+      "question": "２）これを　右へ　（______）と、音が　大きく　なります。",
+      "context": "4. 例：この　お茶を　（飲む）　と、元気に　なります。",
+      "status": "reference",
+      "answers": [
+        [
+          "回す"
+        ]
+      ],
+      "explanation": "Vặn núm sang phải thì âm thanh lớn lên: 回すと."
+    },
+    {
+      "exerciseId": "23-section-7-exercise-14",
+      "question": "３）この　料理は　少し　お酒を　（______）と、おいしく　なります。",
+      "context": "4. 例：この　お茶を　（飲む）　と、元気に　なります。",
+      "status": "reference",
+      "answers": [
+        [
+          "入れる"
+        ]
+      ],
+      "explanation": "Cho thêm chút rượu thì món ăn ngon hơn; 入れると."
+    }
+  ]
+}

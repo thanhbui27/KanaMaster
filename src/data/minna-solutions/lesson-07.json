@@ -1,0 +1,133 @@
+{
+  "lesson": 7,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-7",
+  "solutions": [
+    {
+      "exerciseId": "7-section-7-exercise-1",
+      "question": "１）もう　大阪城へ　行きましたか。\n...  いいえ、______。\n日曜日　ミラーさんと______。いっしょに______。",
+      "context": "1. 例：もう　昼ごはんを　食べましたか。\n...  いいえ、まだです。\nこれから食べます。いっしょに食べませんか。",
+      "status": "sample",
+      "answers": [
+        [
+          "まだです"
+        ],
+        [
+          "行きます"
+        ],
+        [
+          "行きませんか"
+        ]
+      ],
+      "explanation": "Một cách hoàn chỉnh: chưa đi; sẽ đi Chủ nhật cùng Miller; mời người nghe đi cùng. まだです trả lời もう～ましたか ở nghĩa “chưa”."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-2",
+      "question": "２）もう　クリスマスカードを　書きましたか。\n...  はい、______。",
+      "context": "1. 例：もう　昼ごはんを　食べましたか。\n...  いいえ、まだです。\nこれから食べます。いっしょに食べませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "書きました",
+          "もう書きました"
+        ]
+      ],
+      "explanation": "はい xác nhận đã viết xong; có thể thêm もう."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-3",
+      "question": "３）もう　荷物を　送りましたか。\n...  いいえ、______。\nきょうの　午後　______。",
+      "context": "1. 例：もう　昼ごはんを　食べましたか。\n...  いいえ、まだです。\nこれから食べます。いっしょに食べませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "まだです"
+        ],
+        [
+          "送ります"
+        ]
+      ],
+      "explanation": "Chưa gửi, sẽ gửi chiều nay; 送ります là dự định tương lai."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-4",
+      "question": "４）テレーザちゃんは　もう　寝ましたか。\n...  はい、______。",
+      "context": "1. 例：もう　昼ごはんを　食べましたか。\n...  いいえ、まだです。\nこれから食べます。いっしょに食べませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "寝ました",
+          "もう寝ました"
+        ]
+      ],
+      "explanation": "Xác nhận đã ngủ rồi; dùng quá khứ của 寝ます."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-5",
+      "question": "１）わたしは　はし　（____）　ごはんを　食べます。",
+      "context": "2. 例：これは　イタリア　（の）　靴です。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "で chỉ dụng cụ: ăn bằng đũa."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-6",
+      "question": "２）メール　（____）　レポートを　送りました。",
+      "context": "2. 例：これは　イタリア　（の）　靴です。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "で chỉ phương tiện gửi: bằng email."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-7",
+      "question": "３）「さようなら」は　英語　（____）　何ですか。",
+      "context": "2. 例：これは　イタリア　（の）　靴です。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "英語で nghĩa là bằng tiếng Anh."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-8",
+      "question": "４）わたしは　きのう　彼女　（____）　手紙　（____）　書きました。",
+      "context": "2. 例：これは　イタリア　（の）　靴です。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "Người nhận hành động 書きます dùng に; vật được viết dùng を."
+    },
+    {
+      "exerciseId": "7-section-7-exercise-9",
+      "question": "５）わたしは　友達　（____）　お土産　（____）　もらいました。",
+      "context": "2. 例：これは　イタリア　（の）　靴です。",
+      "status": "reference",
+      "answers": [
+        [
+          "に",
+          "から"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "Người cho dùng に hoặc から với もらいます; quà nhận được dùng を."
+    }
+  ]
+}

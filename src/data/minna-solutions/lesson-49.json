@@ -1,0 +1,235 @@
+{
+  "lesson": 49,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-49",
+  "solutions": [
+    {
+      "exerciseId": "49-section-8-exercise-1",
+      "question": "１）社長はきのう遅くまで仕事を（しました…　　　　　　）そうです。",
+      "context": "１．\n例：田中先生はもう（帰りました…帰られました）か。",
+      "status": "reference",
+      "answers": [
+        [
+          "された"
+        ]
+      ],
+      "explanation": "Theo nhóm bài dùng ～れる／られる kính ngữ: しました → された; trước そう truyền đạt phải dùng thể thường."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-2",
+      "question": "２）先生はどちらで電車を（降ります…　　　　　　　　）か。",
+      "context": "１．\n例：田中先生はもう（帰りました…帰られました）か。",
+      "status": "reference",
+      "answers": [
+        [
+          "降りられます"
+        ]
+      ],
+      "explanation": "降りる → 降りられる dùng kính ngữ, không phải khả năng trong ngữ cảnh hỏi giáo viên."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-3",
+      "question": "３）先生はたった今教室を（出ました…　　　　　　　）ところです。",
+      "context": "１．\n例：田中先生はもう（帰りました…帰られました）か。",
+      "status": "reference",
+      "answers": [
+        [
+          "出られた"
+        ]
+      ],
+      "explanation": "出る → 出られる → 出られたところ: thầy/cô vừa ra khỏi lớp."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-4",
+      "question": "４）先生が教室へ（来ます…　　　　　　　）まえに、宿題を出してください。",
+      "context": "１．\n例：田中先生はもう（帰りました…帰られました）か。",
+      "status": "reference",
+      "answers": [
+        [
+          "来られる"
+        ]
+      ],
+      "explanation": "来ます → 来られる trước まえに, kính ngữ của 来る trong mẫu này."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-5",
+      "question": "５）今から先生が（説明します…　　　　　　　）とおりに、書類を書いてください。",
+      "context": "１．\n例：田中先生はもう（帰りました…帰られました）か。",
+      "status": "reference",
+      "answers": [
+        [
+          "説明される"
+        ]
+      ],
+      "explanation": "説明する → 説明される; trước とおりに dùng thể từ điển."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-6",
+      "question": "６）ワット先生はもう教室に（入りました…　　　　　　　　）。",
+      "context": "１．\n例：田中先生はもう（帰りました…帰られました）か。",
+      "status": "reference",
+      "answers": [
+        [
+          "入られました"
+        ]
+      ],
+      "explanation": "入る → 入られる → 入られました: giáo viên đã vào lớp."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-7",
+      "question": "1) 先生、＿＿＿＿＿＿＿＿＿＿＿でしょう？\n…ええ、すこし疲れましたね。",
+      "context": "２．\n例：クラス三は日本の新聞をお読みになりますか。\n…ええ、読みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お疲れになった"
+        ]
+      ],
+      "explanation": "お + gốc ます + になる, chuyển quá khứ お疲れになったでしょう: chắc thầy/cô mệt rồi."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-8",
+      "question": "2) 部長はこの会社に何年ぐらい＿＿＿＿＿＿＿＿＿＿＿？\n…そうですね・30年ぐらい勤めました。",
+      "context": "２．\n例：クラス三は日本の新聞をお読みになりますか。\n…ええ、読みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お勤めになりましたか"
+        ]
+      ],
+      "explanation": "勤めます → お勤めになります; câu đáp nói thời gian đã làm nên hỏi quá khứ."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-9",
+      "question": "3) 課長、会社に＿＿＿＿＿＿＿＿＿＿つもりですか。\n…ええ、戻ろうと思うっています。",
+      "context": "２．\n例：クラス三は日本の新聞をお読みになりますか。\n…ええ、読みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お戻りになる"
+        ]
+      ],
+      "explanation": "戻る → お戻りになる; trước つもり dùng thể từ điển."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-10",
+      "question": "4) その手帳、どちらで＿＿＿＿＿＿＿＿＿＿んですか。\n…エドヤストアで買いました。",
+      "context": "２．\n例：クラス三は日本の新聞をお読みになりますか。\n…ええ、読みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お買いになった"
+        ]
+      ],
+      "explanation": "買う → お買いになる → お買いになった; trước んです dùng thể thường."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-11",
+      "question": "5) 何を＿＿＿＿＿＿＿＿＿＿いるんですか。\n…車のかぎを探しているんですが。\nあ、ポケットの中にありました。",
+      "context": "２．\n例：クラス三は日本の新聞をお読みになりますか。\n…ええ、読みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お探しになって"
+        ]
+      ],
+      "explanation": "探す → お探しになる → お探しになっている; いる đã có ngoài ô."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-12",
+      "question": "1) たばこをお吸いになるときは、その灰皿を＿＿＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お使い"
+        ]
+      ],
+      "explanation": "お使いください: xin dùng gạt tàn này."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-13",
+      "question": "2) では、楽しい週末を＿＿＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お過ごし"
+        ]
+      ],
+      "explanation": "お過ごしください: chúc có cuối tuần vui vẻ."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-14",
+      "question": "3) 美術館に入るまえに、入り口で切符を＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お買い"
+        ]
+      ],
+      "explanation": "お買いください: xin mua vé trước khi vào."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-15",
+      "question": "4) あしたは8時までにロビーに＿＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お集まり"
+        ]
+      ],
+      "explanation": "お集まりください: xin tập trung ở sảnh."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-16",
+      "question": "5) 危ないですから、歩く方はこちらの道を＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お通り"
+        ]
+      ],
+      "explanation": "お通りください: xin đi qua lối này."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-17",
+      "question": "6) ここは出口ですから、あちらから＿＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お入り"
+        ]
+      ],
+      "explanation": "お入りください: xin vào từ phía kia."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-18",
+      "question": "7) これから始まるコンサートをどうぞ＿＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お楽しみ"
+        ]
+      ],
+      "explanation": "お楽しみください: xin thưởng thức buổi hòa nhạc."
+    },
+    {
+      "exerciseId": "49-section-8-exercise-19",
+      "question": "8) 申し訳ありませんが、あと10分ほど＿＿＿＿＿＿＿ください。",
+      "context": "３．\n掛けます、集まります、過ごします、使います、答えます、買います、通ります、楽しみます、入ります、待ちます\n例：どうぞ、そうのいすにお掛けください。",
+      "status": "reference",
+      "answers": [
+        [
+          "お待ち"
+        ]
+      ],
+      "explanation": "お待ちください: xin chờ thêm 10 phút."
+    }
+  ]
+}

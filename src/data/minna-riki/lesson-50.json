@@ -1,0 +1,1995 @@
+{
+  "schemaVersion": 1,
+  "lesson": 50,
+  "title": "Từ vựng ngữ pháp Minna bài 50",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-50",
+  "fetchedAt": "2026-09-27T09:08:08.772675+00:00",
+  "sourceSha256": "d59e375e54912cfdb8e567e66e139fb7833190f42093a55b139451b8f5ce38d5",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box353",
+      "title": "2. 謙譲語 (けんじょうご) - Khiêm tốn ngữ",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "謙譲語 là cách diễn đạt trong đó người nói thể hiện sự khiêm nhường khi nói về bản thân, cũng như hạ thấp những hành động của bản thân mình để bày tỏ sự kính trọng đối với người nghe hoặc người được đề cập đến trong câu chuyện ( tức là nhún mình xuống để nâng người đó lên). Cũng tương tự như 尊敬語 mà ta đã học ở bài trước, 謙譲語 cũng được dùng để thể hiện sự kính trọng đối với người trên, hoặc người ngoài nhóm. Nó cũng được sử dụng khi người nói nói về người nào đó trong nhóm của mình(ウチの人 ) với người ngoài nhóm（ソトの人）"
+        },
+        {
+          "type": "text",
+          "text": "1) お / ご ～します:"
+        },
+        {
+          "type": "text",
+          "text": "[if !supportLists]a.    [endif] お　V（ thể ます）します    ( V : nhóm I, II)"
+        },
+        {
+          "type": "text",
+          "text": "例1: Sinh viên thấy thầy giáo xách túi nặng liền nói :"
+        },
+        {
+          "type": "text",
+          "text": "重そうですね。持ちましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "=> 重そうですね。お持ちしましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "Trông nó có vẻ nặng nhỉ. Để em cầm giúp ạ."
+        },
+        {
+          "type": "text",
+          "text": "- Trong ví dụ trên, sinh viên dùng khiêm tốn ngữ để làm thấp đi hành động của mình ( dùng お持ちしますthay vì持ちます ) , nhún mình xuống để bày tỏ sự kính trọng đối với người nghe( là thầy giáo)"
+        },
+        {
+          "type": "text",
+          "text": "例2：Nhân viên 1 nói chuyện với nhân viên 2"
+        },
+        {
+          "type": "text",
+          "text": "私が　社長に　スケジュールを　知らせます。"
+        },
+        {
+          "type": "text",
+          "text": "=> 私が　社長に　スケジュールを　お知らせします。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi sẽ thông báo lịch với giám đốc."
+        },
+        {
+          "type": "text",
+          "text": "- Trong VD2, nhân viên 1 khi nói chuyện với nhân viên 2 cũng dùng khiêm tốn ngữ để làm thấp đi hành động của mình bằng cách dùngお知らします thay vì知らせます, qua đó bày tỏ sự kính trọng với ngài giám đốc - là người được đề cập đến trong câu chuyện."
+        },
+        {
+          "type": "text",
+          "text": "例3： Trưởng phòng C công ty A đến thăm công ty B. Sau đó giám đốc công ty B nói sẽ bảo anh Yamada là nhân viên công ty B đưa ông C về :"
+        },
+        {
+          "type": "text",
+          "text": "山田さんが　車で　送ります。"
+        },
+        {
+          "type": "text",
+          "text": "=> 山田さんが　車で　お送りします。"
+        },
+        {
+          "type": "text",
+          "text": "Anh Yamada sẽ đưa ngài về bằng xe hơi."
+        },
+        {
+          "type": "text",
+          "text": "- Trong VD3, hành động được thực hiên bởi anh Yamada là người cùng công ty với người nói chứ không phải người nói. Người nói coi mình và anh Yamada mình là 1 nhóm ( người trong cùng công ty) nên khi nói với một người ngoài nhóm ( trưởng phòng công ty A) thì vẫn dùng khiêm tốn ngữ để nói về hành động của anh Yamada để bày tỏ sự kính trọng của mình đối với người nghe."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý : Mẫu này không được dùng với những động từ mà thể ますchỉ có một âm tiết."
+        },
+        {
+          "type": "text",
+          "text": "[if !supportLists]a.    [endif] ご＋　V   ( V: nhóm III)"
+        },
+        {
+          "type": "text",
+          "text": "例1: Sinh viên thấy thầy giáo xách túi nặng liền nói :"
+        },
+        {
+          "type": "text",
+          "text": "重そうですね。持ちましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "=> 重そうですね。お持ちしましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "Trông nó có vẻ nặng nhỉ. Để em cầm giúp ạ."
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ trên, sinh viên dùng khiêm tốn ngữ để làm thấp đi hành động của mình ( dùng お持ちしますthay vì持ちます ) , nhún mình xuống để bày tỏ sự kính trọng đối với người nghe( là thầy giáo)"
+        },
+        {
+          "type": "text",
+          "text": "例2：Nhân viên 1 nói chuyện với nhân viên 2"
+        },
+        {
+          "type": "text",
+          "text": "私が　社長に　スケジュールを　知らせます。"
+        },
+        {
+          "type": "text",
+          "text": "=> 私が　社長に　スケジュールを　お知らせします。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi sẽ thông báo lịch với giám đốc."
+        },
+        {
+          "type": "text",
+          "text": "Trong VD2, nhân viên 1 khi nói chuyện với nhân viên 2 cũng dùng khiêm tốn ngữ để làm thấp đi hành động của mình bằng cách dùngお知らします thay vì知らせます, qua đó bày tỏ sự kính trọng với ngài giám đốc - là người được đề cập đến trong câu chuyện."
+        },
+        {
+          "type": "text",
+          "text": "例3：Trưởng phòng C công ty A đến thăm công ty B. Sau đó giám đốc công ty B nói sẽ bảo anh Yamada là nhân viên công ty B đưa ông C về :"
+        },
+        {
+          "type": "text",
+          "text": "山田さんが　車で　送ります。"
+        },
+        {
+          "type": "text",
+          "text": "=> 山田さんが　車で　お送りします。"
+        },
+        {
+          "type": "text",
+          "text": "Anh Yamada sẽ đưa ngài về bằng xe hơi."
+        },
+        {
+          "type": "text",
+          "text": "Trong VD3, hành động được thực hiên bởi anh Yamada là người cùng công ty với người nói chứ không phải người nói. Người nói coi mình và anh Yamada mình là 1 nhóm ( người trong cùng công ty) nên khi nói với một người ngoài nhóm ( trưởng phòng công ty A) thì vẫn dùng khiêm tốn ngữ để nói về hành động của anh Yamada để bày tỏ sự kính trọng của mình đối với người nghe."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý : Mẫu này không được dùng với những động từ mà thể ますchỉ có một âm tiết."
+        },
+        {
+          "type": "text",
+          "text": "[if !supportLists]a.    [endif] ご＋　V   ( V: nhóm III)"
+        },
+        {
+          "type": "text",
+          "text": "例4： Hướng dẫn viên công ty du lịch nói với các khách đi trong tour :"
+        },
+        {
+          "type": "text",
+          "text": "今日の　予定を　説明します。"
+        },
+        {
+          "type": "text",
+          "text": "=> 今日の　予定を　ご説明します。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi sẽ giải thích về lịch trình ngày hôm nay."
+        },
+        {
+          "type": "text",
+          "text": "Trong VD trên, hướng dẫn viên dùng khiêm tốn ngữ để bày tỏ sự kính trọng của mình đối với người nghe là các vị khách trong tour."
+        },
+        {
+          "type": "text",
+          "text": "例5：Sinh viên 1 nói với sinh viên 2 :"
+        },
+        {
+          "type": "text",
+          "text": "金村先生を　パーティーに　招待したいと　思います。"
+        },
+        {
+          "type": "text",
+          "text": "=> 金村先生を　パーティーに　ご招待したいと　思います。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi muốn mời cô Kanamura tới buổi tiệc."
+        },
+        {
+          "type": "text",
+          "text": "Ở VD này, thì SV1 dùng khiêm tốn ngữ để bày tỏ sự kính trọng của mình đối với người đề cập đến trong câu chuyện ( là cô Kanamura), chứ không phải đối với người nghe."
+        }
+      ],
+      "text": "謙譲語\nlà cách diễn đạt trong đó người nói\nthể hiện sự khiêm nhường\nkhi nói về bản thân\n,\ncũng như hạ thấp những hành động của bản thân mình để bày tỏ sự kính trọng\nđối với người nghe\nhoặc\nngười được đề cập đến\ntrong câu chuyện ( tức là nhún mình xuống để nâng người đó lên). Cũng tương tự như\n尊敬語\nmà ta đã học ở bài trước,\n謙譲語\ncũng được dùng để thể hiện sự kính trọng đối với người trên, hoặc người ngoài nhóm. Nó cũng được sử dụng khi người nói nói về người nào đó trong nhóm của mình(\nウチの人\n) với người ngoài nhóm\n（ソトの人）\n1)\nお\n/\nご\n～します:\na.\nお\nV\n（\nthể\nます）します\n( V : nhóm I, II)\n例\n1: Sinh viên thấy thầy giáo xách túi nặng liền nói :\n重\nそうですね。\n持\nちましょうか。\n=>\n重\nそうですね。お\n持\nちしましょうか。\nTrông nó có vẻ nặng nhỉ. Để em cầm giúp ạ.\n- Trong ví dụ trên, sinh viên dùng khiêm tốn ngữ để làm thấp đi hành động của mình ( dùng\nお\n持\nちします\nthay vì\n持\nちます\n) , nhún mình xuống để bày tỏ sự kính trọng đối với\nngười nghe\n( là thầy giáo)\n例\n2\n：\nNhân viên 1 nói chuyện với nhân viên 2\n私\nが\n社長\nに　スケジュールを\n知\nらせます。\n=>\n私\nが\n社長\nに　スケジュールを　お\n知\nらせします。\nTôi sẽ thông báo lịch với giám đốc.\n- Trong VD2, nhân viên 1 khi nói chuyện với nhân viên 2 cũng dùng khiêm tốn ngữ để làm thấp đi hành động của mình bằng cách dùng\nお\n知\nらします\nthay vì\n知\nらせます\n, qua đó bày tỏ sự kính trọng với ngài giám đốc - là\nngười được đề cập đến\ntrong câu chuyện.\n例\n3\n：\nTrưởng phòng C công ty A đến thăm công ty B. Sau đó giám đốc công ty B nói sẽ bảo anh Yamada là nhân viên công ty B đưa ông C về :\n山田\nさんが\n車\nで\n送\nります。\n=>\n山田\nさんが\n車\nで　お\n送\nりします。\nAnh Yamada sẽ đưa ngài về bằng xe hơi.\n- Trong VD3, hành động được thực hiên bởi anh Yamada là người cùng công ty với người nói chứ không phải người nói. Người nói coi\nmình và anh Yamada mình là 1 nhóm\n( người trong cùng công ty) nên khi nói với một người ngoài nhóm ( trưởng phòng công ty A) thì vẫn dùng khiêm tốn ngữ để nói về hành động của anh Yamada để bày tỏ sự kính trọng của mình đối với người nghe.\nLưu ý\n:\nMẫu này không được dùng với những động từ mà thể\nます\nchỉ có một âm tiết\n.\na.\nご＋\nV\n( V: nhóm III)\n例\n1: Sinh viên thấy thầy giáo xách túi nặng liền nói :\n重\nそうですね。\n持\nちましょうか。\n=>\n重\nそうですね。お\n持\nちしましょうか。\nTrông nó có vẻ nặng nhỉ. Để em cầm giúp ạ.\nTrong ví dụ trên, sinh viên dùng khiêm tốn ngữ để làm thấp đi hành động của mình ( dùng\nお\n持\nちします\nthay vì\n持\nちます\n) , nhún mình xuống để bày tỏ sự kính trọng đối với\nngười nghe\n( là thầy giáo)\n例\n2\n：\nNhân viên 1 nói chuyện với nhân viên 2\n私\nが\n社長\nに　スケジュールを\n知\nらせます。\n=>\n私\nが\n社長\nに　スケジュールを　お\n知\nらせします。\nTôi sẽ thông báo lịch với giám đốc.\nTrong VD2, nhân viên 1 khi nói chuyện với nhân viên 2 cũng dùng khiêm tốn ngữ để làm thấp đi hành động của mình bằng cách dùng\nお\n知\nらします\nthay vì\n知\nらせます\n, qua đó bày tỏ sự kính trọng với ngài giám đốc - là\nngười được đề cập đến\ntrong câu chuyện.\n例\n3\n：\nTrưởng phòng C công ty A đến thăm công ty B. Sau đó giám đốc công ty B nói sẽ bảo anh Yamada là nhân viên công ty B đưa ông C về :\n山田\nさんが\n車\nで\n送\nります。\n=>\n山田\nさんが\n車\nで　お\n送\nりします。\nAnh Yamada sẽ đưa ngài về bằng xe hơi.\nTrong VD3, hành động được thực hiên bởi anh Yamada là người cùng công ty với người nói chứ không phải người nói. Người nói coi\nmình và anh Yamada mình là 1 nhóm\n( người trong cùng công ty) nên khi nói với một người ngoài nhóm ( trưởng phòng công ty A) thì vẫn dùng khiêm tốn ngữ để nói về hành động của anh Yamada để bày tỏ sự kính trọng của mình đối với người nghe.\nLưu ý\n:\nMẫu này không được dùng với những động từ mà thể\nます\nchỉ có một âm tiết\n.\na.\nご＋\nV\n( V: nhóm III)\n例\n4\n：\nHướng dẫn viên công ty du lịch nói với các khách đi trong tour :\n今日\nの\n予定\nを\n説明\nします。\n=>\n今日\nの\n予定\nを　ご\n説明\nします。\nTôi sẽ giải thích về lịch trình ngày hôm nay.\nTrong VD trên, hướng dẫn viên dùng khiêm tốn ngữ để bày tỏ sự kính trọng của mình đối với người nghe là các vị khách trong tour.\n例\n5\n：\nSinh viên 1 nói với sinh viên 2 :\n金村\n先生\nを　パーティーに\n招待\nしたいと\n思\nいます。\n=>\n金村先生を　パーティーに　ご\n招待\nしたいと\n思\nいます\n。\nTôi muốn mời cô Kanamura tới buổi tiệc.\nỞ VD này, thì SV1 dùng khiêm tốn ngữ để bày tỏ sự kính trọng của mình đối với người đề cập đến trong câu chuyện ( là cô Kanamura), chứ không phải đối với người nghe.",
+      "ruby": [
+        {
+          "text": "謙譲語",
+          "readings": [
+            "けんじょうご"
+          ]
+        },
+        {
+          "text": "尊敬語",
+          "readings": [
+            "そんけいご"
+          ]
+        },
+        {
+          "text": "謙譲語",
+          "readings": [
+            "けんじょうご"
+          ]
+        },
+        {
+          "text": "重",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "重",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "送",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "送",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "重",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "重",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "送",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "送",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "今日",
+          "readings": [
+            "きょう"
+          ]
+        },
+        {
+          "text": "予定",
+          "readings": [
+            "よてい"
+          ]
+        },
+        {
+          "text": "説明",
+          "readings": [
+            "せつめい"
+          ]
+        },
+        {
+          "text": "今日",
+          "readings": [
+            "きょう"
+          ]
+        },
+        {
+          "text": "予定",
+          "readings": [
+            "よてい"
+          ]
+        },
+        {
+          "text": "説明",
+          "readings": [
+            "せつめい"
+          ]
+        },
+        {
+          "text": "金村",
+          "readings": [
+            "かなむら"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "招待",
+          "readings": [
+            "しょうたい"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "招待",
+          "readings": [
+            "しょうたい"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box354",
+      "title": "3. Động từ khiêm tốn ngữ đặc biệt :",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Một số động từ có động từ khiêm tốn ngữ đặc biệt tương ứng. Xem bảng sau :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "Động từ gốc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Động từ khiêm tốn ngữ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "行きます 来ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "参ります・　伺います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "食べます 飲みます もらいます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いただきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "見ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "拝見します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "言います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "申します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いたします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "聞きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うかがいます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "知って　います 知りません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "存じています 存じません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "会います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お目に　かかります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Những động từ đã có động từ kính ngữ đặc biệt tương ứng thì không dùng cách 1) ở trên. Ngoại trừ 2 động từ là あいますvà　ききます đôi lúc vẫn được dùng dưới dạng おあいします và おききしますđể thể hiện sự khiêm nhường."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 社長の　奥さんに　会いました。 Tôi đã gặp vợ giám đốc. => 社長の　奥様に　お目に　かかりました。（O） Tôi đã diện kiến phu nhân ngài giám đốc. => 社長の　奥様に　お会いにしました。（O） 例2：　 ちょっと　聞きたいことが　あるんですが、いま　いいですか。 Tôi muốn hỏi chút việc, bây giờ có được không? ちょっと　伺いたいことが　あるんですが、いま　いいですか。（O） => ちょっと　お聞きしたいことが　あるんですが、いま　いいですか。（O）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý : Khiêm tốn ngữ là cách diễn đạt được dùng để thể hiện sự kính trọng đối với người tiếp nhận hành động đó. Chỉ dùng khiêm tốn ngữ khi có mối liên hệ giữa hành động của người nói và người tiếp nhận hành động ( người mà người nói muốn thể hiện sự kính trọng). Vì vậy., khi không có mối liên hệ giữa hành động của người nói và người tiếp nhận hành động đó, thì không sử dụng khiêm tốn ngữ. Xem các ví dụ dưới đây :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3：　 Sinh viên nói chuyện với thầy giáo 明日　先生の　研究室に　伺います。（O） Mai em sẽ đến phòng nghiên cứu của thầy ạ. 明日　図書館に　伺います。（X） Mai em sẽ đến thư viện.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Trong VD1, ở câu trên, người nói đến phòng của thầy giáo. Vì thế,giữa hành động行きます  của người nói và người tiếp nhận hành động của người nói ( là thầy giáo) có mối liên hệ và người nói muốn thể hiện sự kính trọng đối với thầy giáo =>  Vì thế dùng được khiêm tốn ngữ."
+        },
+        {
+          "type": "text",
+          "text": "- Còn ở câu phía dưới, người nói đến thư viện. Như vậy trong câu này không tồn tại người tiếp nhận hành động của người nói => không có đối tượng để thể hiện sự kính trọng => không dùng khiêm tốn ngữ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4：　 昨日　田中さんの　レポートを　拝見しました。（O） Hôm qua tôi đã xem báo cáo của anh Tanaka. 昨日　テレビを　拝見しました。（X） Hôm qua tôi đã xem tivi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Tương tự, trong VD2, ở câu trên, người nói xem báo cáo của anh Tanaka à anh Tanaka có thể coi là đối tượng tiếp nhận hành động của người nói. Người nói muốn thể hiện sự kính trọng của mình đối với anh Tanaka nên dùng khiêm tốn ngữ."
+        },
+        {
+          "type": "text",
+          "text": "- Còn ở câu dưới, người nói chỉ đơn thuần nói về việc mình xem tivi. Bản thân người nghe cũng không phải là người tiếp nhận hành động みます của người nói à không có đối tượng để thể hiện sự kính trọng nên không dùng khiêm tốn ngữ."
+        }
+      ],
+      "text": "Một số động từ có động từ khiêm tốn ngữ đặc biệt tương ứng. Xem bảng sau :\nĐộng từ gốc\nĐộng từ khiêm tốn ngữ\n行\nきます\n来\nます\n参\nります・\n伺\nいます\n食\nべます\n飲\nみます\nもらいます\nいただきます\n見\nます\n拝見\nします\n言\nいます\n申\nします\nします\nいたします\n聞\nきます\nうかがいます\n知\nって　います\n知\nりません\n存\nじています\n存\nじません\n会\nいます\nお\n目\nに　かかります\nNhững động từ đã có động từ kính ngữ đặc biệt tương ứng thì\nkhông dùng cách 1) ở trên.\nNgoại trừ 2 động từ là\nあいます\nvà\nききます\nđôi lúc vẫn được dùng dưới dạng\nおあいします\nvà\nおききします\nđể thể hiện sự khiêm nhường.\n例1\n：\n社長\nの\n奥\nさんに\n会\nいました。\nTôi đã gặp vợ giám đốc.\n=>\n社長\nの\n奥様\nに　お\n目\nに　かかりました。（\nO\n）\nTôi đã diện kiến phu nhân ngài giám đốc.\n=>\n社長\nの\n奥様\nに　お\n会\nいにしました。（\nO\n）\n例2\n：\nちょっと\n聞\nきたいことが　あるんですが、いま　いいですか。\nTôi muốn hỏi chút việc, bây giờ có được không?\nちょっと\n伺\nいたいことが　あるんですが、いま　いいですか。（\nO\n）\n=>\nちょっと　お\n聞\nきしたいことが　あるんですが、いま　いいですか。（\nO\n）\nLưu ý\n:\nKhiêm tốn ngữ là cách diễn đạt được dùng để thể hiện sự kính trọng đối với người tiếp nhận hành động đó.\nChỉ dùng khiêm tốn ngữ khi có mối liên hệ giữa hành động của người nói và người tiếp nhận hành động\n( người mà người nói muốn thể hiện sự kính trọng). Vì vậy., khi không có mối liên hệ giữa hành động của người nói và người tiếp nhận hành động đó, thì không sử dụng khiêm tốn ngữ\n. Xem các ví dụ dưới đây :\n例3\n：\nSinh viên nói chuyện với thầy giáo\n明日\n先生\nの\n研究室\nに\n伺\nいます。（\nO\n）\nMai em sẽ đến phòng nghiên cứu của thầy ạ.\n明日\n図書館\nに\n伺\nいます。（\nX\n）\nMai em sẽ đến thư viện.\n- Trong VD1, ở câu trên, người nói đến phòng của thầy giáo. Vì thế,giữa hành động\n行\nきます\ncủa người nói và người tiếp nhận hành động của người nói ( là thầy giáo)\ncó mối liên hệ\nvà người nói muốn thể hiện sự kính trọng đối với thầy giáo =>\nVì thế dùng được khiêm tốn ngữ.\n- Còn ở câu phía dưới, người nói đến thư viện. Như vậy trong câu này\nkhông tồn tại người tiếp nhận hành động của người nói =>\nkhông có đối tượng để thể hiện sự kính trọng =>\nkhông dùng khiêm tốn ngữ.\n例4\n：\n昨日\n田中\nさんの　レポートを\n拝見\nしました。（\nO\n）\nHôm qua tôi đã xem báo cáo của anh Tanaka.\n昨日\nテレビを\n拝見\nしました。（\nX\n）\nHôm qua tôi đã xem tivi.\n-\nTương tự, trong VD2, ở câu trên, người nói xem báo cáo của anh Tanaka\nà\nanh Tanaka có thể coi là đối tượng tiếp nhận hành động của người nói\n. Người nói muốn thể hiện sự kính trọng của mình đối với anh Tanaka nên dùng khiêm tốn ngữ.\n- Còn ở câu dưới, người nói chỉ đơn thuần nói về việc mình xem tivi. Bản thân người nghe cũng không phải là người tiếp nhận hành động\nみます\ncủa người nói\nà\nkhông có đối tượng để thể hiện sự kính trọng nên không dùng khiêm tốn ngữ.",
+      "ruby": [
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "参",
+          "readings": [
+            "まい"
+          ]
+        },
+        {
+          "text": "伺",
+          "readings": [
+            "うかが"
+          ]
+        },
+        {
+          "text": "食",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "拝見",
+          "readings": [
+            "はいけん"
+          ]
+        },
+        {
+          "text": "言",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "申",
+          "readings": [
+            "もう"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "存",
+          "readings": [
+            "ぞん"
+          ]
+        },
+        {
+          "text": "存",
+          "readings": [
+            "ぞん"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "目",
+          "readings": [
+            "め"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "奥",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "奥様",
+          "readings": [
+            "おくさま"
+          ]
+        },
+        {
+          "text": "目",
+          "readings": [
+            "め"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "奥様",
+          "readings": [
+            "おくさま"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "伺",
+          "readings": [
+            "うかが"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "研究室",
+          "readings": [
+            "けんきゅうしつ"
+          ]
+        },
+        {
+          "text": "伺",
+          "readings": [
+            "うかが"
+          ]
+        },
+        {
+          "text": "図書館",
+          "readings": [
+            "としょかん"
+          ]
+        },
+        {
+          "text": "伺",
+          "readings": [
+            "うかが"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "昨日",
+          "readings": [
+            "きのう"
+          ]
+        },
+        {
+          "text": "田中",
+          "readings": [
+            "たなか"
+          ]
+        },
+        {
+          "text": "拝見",
+          "readings": [
+            "はいけん"
+          ]
+        },
+        {
+          "text": "昨日",
+          "readings": [
+            "きのう"
+          ]
+        },
+        {
+          "text": "拝見",
+          "readings": [
+            "はいけん"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box355",
+      "title": "4. 丁寧語(ていねいご) - Từ ngữ lịch sự",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Từ ngữ lịch sự là cách diễn đạt biểu thị thái độ lịch sự, tôn trọng đối với người nghe. Điển hình của là câu văn ở thể lịch sự 「です・ます」."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 明日　東京へ　参ります。（O） Ngày mai tôi đi Tokyo. 明日　東京へ　伺います。（X） 例2：　 日曜日は　たいてい　家に　おります。 Ngày Chủ Nhật tôi thường ở nhà.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Như đã nói ở phần lưu ý phía trên, “ khiêm tốn ngữ” chỉ được dùng để nói về những hành động của mình khi có mối liên hệ giữa người nói và người tiếp nhận hành động đó."
+        },
+        {
+          "type": "text",
+          "text": "Xét ví dụ 1 ở trên trên, việc người nói “東京へ行きます ” không có đối tượng tiếp nhận hành động => không dùng được khiêm tốn ngữ. Trong câu này, người nói chỉ đơn thuần là muốn nói một cách lịch sự về hành động đi Tokyo của mình => dùng từ ngữ lịch sự."
+        },
+        {
+          "type": "text",
+          "text": "Tương tự, ở VD2, người nói chỉ đơn thuần muốn nói về cuộc sống của mình một cách lịch sự => dùng từ ngữ lịch sự."
+        },
+        {
+          "type": "text",
+          "text": "Ngoài ra, từ ngữ lịch sự còn một số trường hợp đặc biệt sau :"
+        },
+        {
+          "type": "text",
+          "text": "1. ございます："
+        },
+        {
+          "type": "text",
+          "text": "ございますlà dạng lịch sự của あります."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　Ông A đang nghỉ tại khách sạn Melia. Ông muốn gọi điện thoại nên hỏi nhân viên quầy lễ tân xem điện thoại ở đâu. A：すみませんが、電話は　どこに　ありますか。 Xin lỗi, cho tôi hỏi điện thoại ở đâu? B：電話 は　2階に　ございます。 Điện thoại ở trên tầng 2 ạ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2. ～でございます："
+        },
+        {
+          "type": "text",
+          "text": "～でございます là dạng lịch sự củaです."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例2：　 Anh Hải gọi điện đến công ty IMC : A：はい、IMCでございます。 Vâng, đây là công ty IMC ạ. B：FPTの　ハイですが、山田さん、お願いします。 Tôi là Hải của công ty FPT. Xin cho tôi gặp anh Yamada.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "3. よろしいでしょうか："
+        },
+        {
+          "type": "text",
+          "text": "よろしいでしょうか là dạng lịch sự của いいですか"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　Trong quán ăn : A：お飲物は　何が　よろしいでしょうか。 Ngài dùng đồ uống gì ạ? B：コーヒーを　お願いします。 Cho tôi cà phê. 例3：　Ở một đại lý du lịch : この　パンフレットを　いただいても　よろしいでしょうか。 Tôi lấy cuốn sách hướng dẫn này có được không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Từ ngữ lịch sự là cách diễn đạt biểu thị thái độ lịch sự, tôn trọng đối với người nghe. Điển hình của là\ncâu văn ở thể lịch sự\n「です・ます」\n.\n例1\n：\n明日\n東京\nへ\n参\nります。（\nO\n）\nNgày mai tôi đi Tokyo.\n明日\n東京\nへ\n伺\nいます。（\nX\n）\n例2\n：\n日曜日\nは　たいてい\n家\nに　おります。\nNgày Chủ Nhật tôi thường ở nhà.\nNhư đã nói ở phần lưu ý phía trên, “ khiêm tốn ngữ” chỉ được dùng để nói về những hành động của mình khi có mối liên hệ giữa người nói và người tiếp nhận hành động đó.\nXét ví dụ 1 ở trên trên, việc người nói “\n東京\nへ\n行\nきます\n” không có đối tượng tiếp nhận hành động =>\nkhông dùng được khiêm tốn ngữ. Trong câu này, người nói chỉ đơn thuần là muốn nói một cách lịch sự về hành động đi Tokyo của mình =>\ndùng từ ngữ lịch sự.\nTương tự, ở VD2, người nói chỉ đơn thuần muốn nói về cuộc sống của mình một cách lịch sự =>\ndùng từ ngữ lịch sự.\nNgoài ra, từ ngữ lịch sự còn một số trường hợp đặc biệt sau\n:\n1.\nございます：\nございます\nlà dạng lịch sự của\nあります.\n例1\n：\nÔng A đang nghỉ tại khách sạn Melia. Ông muốn gọi điện thoại nên hỏi nhân viên quầy lễ tân xem điện thoại ở đâu.\nA\n：すみませんが、\n電話\nは　どこに　ありますか。\nXin lỗi, cho tôi hỏi điện thoại ở đâu?\nB\n：\n電話\nは\n2\n階\nに　ございます。\nĐiện thoại ở trên tầng 2 ạ.\n2.\n～でございます：\n～でございます\nlà dạng lịch sự của\nです\n.\n例2\n：\nAnh Hải gọi điện đến công ty IMC :\nA\n：はい、\nIMC\nでございます。\nVâng, đây là công ty IMC ạ.\nB\n：\nFPT\nの　ハイですが、\n山田\nさん、お\n願\nいします。\nTôi là Hải của công ty FPT. Xin cho tôi gặp anh Yamada.\n3.\nよろしいでしょうか\n：\nよろしいでしょうか\nlà dạng lịch sự của\nいいですか\n例1\n：\nTrong quán ăn :\nA\n：お\n飲物\nは\n何\nが　よろしいでしょうか。\nNgài dùng đồ uống gì ạ?\nB\n：コーヒーを　お\n願\nいします。\nCho tôi cà phê.\n例3\n：\nỞ một đại lý du lịch :\nこの　パンフレットを　いただいても　よろしいでしょうか。\nTôi lấy cuốn sách hướng dẫn này có được không?",
+      "ruby": [
+        {
+          "text": "明日",
+          "readings": [
+            "あす"
+          ]
+        },
+        {
+          "text": "東京",
+          "readings": [
+            "とうきょう"
+          ]
+        },
+        {
+          "text": "参",
+          "readings": [
+            "まい"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あす"
+          ]
+        },
+        {
+          "text": "東京",
+          "readings": [
+            "とうきょう"
+          ]
+        },
+        {
+          "text": "伺",
+          "readings": [
+            "うかが"
+          ]
+        },
+        {
+          "text": "日曜日",
+          "readings": [
+            "にちようび"
+          ]
+        },
+        {
+          "text": "家",
+          "readings": [
+            "うち"
+          ]
+        },
+        {
+          "text": "東京",
+          "readings": [
+            "とうきょう"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "電話",
+          "readings": [
+            "でんわ"
+          ]
+        },
+        {
+          "text": "電話",
+          "readings": [
+            "でんわ"
+          ]
+        },
+        {
+          "text": "階",
+          "readings": [
+            "かい"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "願",
+          "readings": [
+            "ねが"
+          ]
+        },
+        {
+          "text": "飲物",
+          "readings": [
+            "のみもの"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "願",
+          "readings": [
+            "ねが"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "１．"
+        },
+        {
+          "type": "text",
+          "text": "例：：私は貿易会社（に）勤めております。"
+        },
+        {
+          "type": "text",
+          "text": "1. 初めまして。林（　）申します。"
+        },
+        {
+          "type": "text",
+          "text": "2. ミラーさんがスポーツ大会（　）優勝したの（　）ご存じですか。"
+        },
+        {
+          "type": "text",
+          "text": "3. きれいな桜の花をビデオ（　）撮って、国の家族（　）見せたいと思います。"
+        },
+        {
+          "type": "text",
+          "text": "4. この賞金は何（　）お使いになるつもりですか。"
+        },
+        {
+          "type": "text",
+          "text": "5. お名前は何（　）おっしゃいますか。"
+        },
+        {
+          "type": "text",
+          "text": "6. 伊藤先生（　）パーティー（　）ご招待したいと思います。"
+        },
+        {
+          "type": "text",
+          "text": "２．"
+        },
+        {
+          "type": "text",
+          "text": "例１：タクシーを（呼びます…お呼びし）ましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "例２：私が（案内します…ご案内し）ます。"
+        },
+        {
+          "type": "text",
+          "text": "１）雨が降っていますね。傘を（貸します…　　　　　　　）ましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "２）私が書類を（届けます…　　　　　　　　　）ました。"
+        },
+        {
+          "type": "text",
+          "text": "３）先生、お茶を（入れます…　　　　　　　）ました。"
+        },
+        {
+          "type": "text",
+          "text": "４）私が写真を（撮ります…　　　　　　　）ます。"
+        },
+        {
+          "type": "text",
+          "text": "５）先生にはもう（話します…　　　　　　　）ました。"
+        },
+        {
+          "type": "text",
+          "text": "６）いつでも（手伝います…　　　　　　　　）ますあら、おっしゃってください。"
+        },
+        {
+          "type": "text",
+          "text": "７）この本を（借ります…　　　　　　　　　）もいいですか。"
+        },
+        {
+          "type": "text",
+          "text": "８）サイズが合わなければ、（取り替えます…　　　　　　）ますよ。"
+        },
+        {
+          "type": "text",
+          "text": "３．"
+        },
+        {
+          "type": "text",
+          "text": "例：部長に借りた本はもうお返しになりましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…はい、もうお返ししました。"
+        },
+        {
+          "type": "text",
+          "text": "1. 中村課長にお会いになりましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…はい、＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "2. 先生にご都合をお聞きになりましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…はい、＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "3. 先生にお手紙をお出しになりましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…はい、＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "4. 皆さんにお知らせになりましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…いいえ、まだです。あした＿＿＿＿＿＿＿＿＿＿＿＿＿つもりです。"
+        },
+        {
+          "type": "text",
+          "text": "４．"
+        },
+        {
+          "type": "text",
+          "text": "例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。"
+        },
+        {
+          "type": "text",
+          "text": "1. 先生はパーティーの時間を｛存じています、ご存じです、存じません｝か。"
+        },
+        {
+          "type": "text",
+          "text": "2. また先生に｛お目にかかりたい、拝見したい、ご覧になりたい｝と思います。"
+        },
+        {
+          "type": "text",
+          "text": "3. 先生の予定は受付で｛お聞きになって、お聞きして、伺って｝ください。"
+        },
+        {
+          "type": "text",
+          "text": "4. わたしたちは来週先生のお宅へ｛伺います、いらっしゃいます、来られます｝。"
+        },
+        {
+          "type": "text",
+          "text": "5. 先生は何と｛お話ししました、申しました、おっしゃいました｝か。"
+        },
+        {
+          "type": "text",
+          "text": "6. 私が旅行について｛ご説明します、説明されます、説明なさいます｝。"
+        },
+        {
+          "type": "text",
+          "text": "7. グプタさんは刺身を｛いただきません、召し上がりません、お食べしません｝。"
+        }
+      ],
+      "text": "１．\n例\n：：\n私\nは\n貿易会社\n（に）\n勤\nめております。\n1.\n初\nめまして。\n林\n（　）\n申\nします。\n2.\nミラ\nーさんが\nスポ\nー\nツ\n大会\n（　）\n優勝\nしたの（　）ご\n存\nじですか。\n3.\nきれいな\n桜\nの\n花\nを\nビデオ\n（　）\n撮\nって、\n国\nの\n家族\n（　）\n見\nせたいと\n思\nいます。\n4.\nこの\n賞金\nは\n何\n（　）お\n使\nいになるつもりですか。\n5.\nお\n名前\nは\n何\n（　）おっしゃいますか。\n6.\n伊藤先生（　）パーティー（　）ご招待したいと思います。\n２．\n例\n１：\nタクシ\nーを（\n呼\nびます\n…\nお\n呼\nびし）ましょうか。\n例\n２：\n私\nが（\n案内\nします\n…\nご\n案内\nし）ます。\n１）\n雨\nが\n降\nっていますね。\n傘\nを（\n貸\nします\n…\n）ましょうか。\n２）\n私\nが\n書類\nを（\n届\nけます\n…\n）ました。\n３）\n先生\n、お\n茶\nを（\n入\nれます\n…\n）ました。\n４）\n私\nが\n写真\nを（\n撮\nります\n…\n）ます。\n５）\n先生\nにはもう（\n話\nします\n…\n）ました。\n６）いつでも（\n手伝\nいます\n…\n）ますあら、おっしゃってください。\n７）この\n本\nを（\n借\nります\n…\n）もいいですか。\n８）\nサイズ\nが\n合\nわなければ、（\n取\nり替えます\n…\n）ますよ。\n３．\n例\n：\n部長\nに\n借\nりた\n本\nはもう\nお\n返\nしになりましたか\n。\n…\nはい、もうお\n返\nししました。\n1.\n中村課長\nにお\n会\nいになりましたか。\n…\nはい、＿＿＿＿＿＿＿＿＿＿＿＿＿\n2.\n先生\nにご\n都合\nをお聞きになりましたか。\n…\nはい、＿＿＿＿＿＿＿＿＿＿＿＿＿\n3.\n先生\nにお\n手紙\nをお\n出\nしになりましたか。\n…\nはい、＿＿＿＿＿＿＿＿＿＿＿＿＿\n4.\n皆\nさんにお\n知\nらせになりましたか。\n…\nいいえ、まだです。あした＿＿＿＿＿＿＿＿＿＿＿＿＿つもりです。\n４．\n例\n：\n父\nは\n再来週日本\nへ｛いらっしゃいます、\n来\nられます、\n参\nります\n｝。\n1.\n先生\nは\nパ\nー\nティ\nーの\n時間\nを｛\n存\nじています、ご\n存\nじです、存じません｝か。\n2.\nまた\n先生\nに｛お\n目\nにかかりたい、\n拝見\nしたい、ご\n覧\nになりたい｝と\n思\nいます。\n3.\n先生\nの\n予定\nは\n受付\nで｛お\n聞\nきになって、お聞きして、伺って｝ください。\n4.\nわたしたちは\n来週先生\nのお\n宅\nへ｛\n伺\nいます、いらっしゃいます、\n来\nられます｝。\n5.\n先生\nは\n何\nと｛お\n話\nししました、\n申\nしました、おっしゃいました｝か。\n6.\n私が旅行について｛ご説明します、説明されます、説明なさいます｝。\n7.\nグプタさんは刺身を｛いただきません、召し上がりません、お食べしません｝。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたくし"
+          ]
+        },
+        {
+          "text": "貿易会社",
+          "readings": [
+            "ぼうえきがいしゃ"
+          ]
+        },
+        {
+          "text": "勤",
+          "readings": [
+            "つと"
+          ]
+        },
+        {
+          "text": "初",
+          "readings": [
+            "はじ"
+          ]
+        },
+        {
+          "text": "林",
+          "readings": [
+            "はやし"
+          ]
+        },
+        {
+          "text": "申",
+          "readings": [
+            "もう"
+          ]
+        },
+        {
+          "text": "ミラ",
+          "readings": [
+            "みら"
+          ]
+        },
+        {
+          "text": "スポ",
+          "readings": [
+            "すぽ"
+          ]
+        },
+        {
+          "text": "ツ",
+          "readings": [
+            "つ"
+          ]
+        },
+        {
+          "text": "大会",
+          "readings": [
+            "たいかい"
+          ]
+        },
+        {
+          "text": "優勝",
+          "readings": [
+            "ゆうしょう"
+          ]
+        },
+        {
+          "text": "存",
+          "readings": [
+            "ぞん"
+          ]
+        },
+        {
+          "text": "桜",
+          "readings": [
+            "さくら"
+          ]
+        },
+        {
+          "text": "花",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "ビデオ",
+          "readings": [
+            "びでお"
+          ]
+        },
+        {
+          "text": "撮",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "国",
+          "readings": [
+            "くに"
+          ]
+        },
+        {
+          "text": "家族",
+          "readings": [
+            "かぞく"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "賞金",
+          "readings": [
+            "しょうきん"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "名前",
+          "readings": [
+            "なまえ"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "タクシ",
+          "readings": [
+            "たくし"
+          ]
+        },
+        {
+          "text": "呼",
+          "readings": [
+            "よ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "呼",
+          "readings": [
+            "よ"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたくし"
+          ]
+        },
+        {
+          "text": "案内",
+          "readings": [
+            "あんない"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "案内",
+          "readings": [
+            "あんない"
+          ]
+        },
+        {
+          "text": "雨",
+          "readings": [
+            "あめ"
+          ]
+        },
+        {
+          "text": "降",
+          "readings": [
+            "ふ"
+          ]
+        },
+        {
+          "text": "傘",
+          "readings": [
+            "かさ"
+          ]
+        },
+        {
+          "text": "貸",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "書類",
+          "readings": [
+            "しょるい"
+          ]
+        },
+        {
+          "text": "届",
+          "readings": [
+            "とど"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "茶",
+          "readings": [
+            "ちゃ"
+          ]
+        },
+        {
+          "text": "入",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "写真",
+          "readings": [
+            "しゃしん"
+          ]
+        },
+        {
+          "text": "撮",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "手伝",
+          "readings": [
+            "てつだ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "借",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "サイズ",
+          "readings": [
+            "さいず"
+          ]
+        },
+        {
+          "text": "合",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "取",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "部長",
+          "readings": [
+            "ぶちょう"
+          ]
+        },
+        {
+          "text": "借",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "返",
+          "readings": [
+            "かえ"
+          ]
+        },
+        {
+          "text": "返",
+          "readings": [
+            "かえ"
+          ]
+        },
+        {
+          "text": "中村課長",
+          "readings": [
+            "なかむらかちょう"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "都合",
+          "readings": [
+            "つごう"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "手紙",
+          "readings": [
+            "てがみ"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "だ"
+          ]
+        },
+        {
+          "text": "皆",
+          "readings": [
+            "みな"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "父",
+          "readings": [
+            "ちち"
+          ]
+        },
+        {
+          "text": "再来週日本",
+          "readings": [
+            "さらいしゅうにほん"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "参",
+          "readings": [
+            "まい"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "パ",
+          "readings": [
+            "ぱ"
+          ]
+        },
+        {
+          "text": "ティ",
+          "readings": [
+            "てぃ"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "存",
+          "readings": [
+            "ぞん"
+          ]
+        },
+        {
+          "text": "存",
+          "readings": [
+            "ぞん"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "目",
+          "readings": [
+            "め"
+          ]
+        },
+        {
+          "text": "拝見",
+          "readings": [
+            "はいけん"
+          ]
+        },
+        {
+          "text": "覧",
+          "readings": [
+            "らん"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "予定",
+          "readings": [
+            "よてい"
+          ]
+        },
+        {
+          "text": "受付",
+          "readings": [
+            "うけつけ"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "来週先生",
+          "readings": [
+            "らいしゅうせんせい"
+          ]
+        },
+        {
+          "text": "宅",
+          "readings": [
+            "たく"
+          ]
+        },
+        {
+          "text": "伺",
+          "readings": [
+            "うかが"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "申",
+          "readings": [
+            "もう"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

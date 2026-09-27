@@ -1,0 +1,128 @@
+{
+  "lesson": 25,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-25",
+  "solutions": [
+    {
+      "exerciseId": "25-section-7-exercise-1",
+      "question": "１）毎日　日本語を（　使います　→ ______ ）ら、上手に　なります。",
+      "context": "1. 例：雨が（　降ります　→　降った）ら、出かけません。",
+      "status": "reference",
+      "answers": [
+        [
+          "使った"
+        ]
+      ],
+      "explanation": "Thể điều kiện たら = thể た + ら; ô chỉ điền 使った vì ら đã có sẵn."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-2",
+      "question": "２）バスが（　来ません　→ ______ ）ら、タクシーで　行きましょう。",
+      "context": "1. 例：雨が（　降ります　→　降った）ら、出かけません。",
+      "status": "reference",
+      "answers": [
+        [
+          "来なかった",
+          "こなかった"
+        ]
+      ],
+      "explanation": "Phủ định quá khứ 来なかった + ら."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-3",
+      "question": "３）月曜日が（　無理です　→ ______ ）ら、火曜日に　レポートを　出して　ください。",
+      "context": "1. 例：雨が（　降ります　→　降った）ら、出かけません。",
+      "status": "reference",
+      "answers": [
+        [
+          "無理だった"
+        ]
+      ],
+      "explanation": "な-tính từ dùng だったら; ô không lặp ら."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-4",
+      "question": "４）日曜日　天気が（　いいです　→ ______ ）ら、ゴルフに　行きませんか。",
+      "context": "1. 例：雨が（　降ります　→　降った）ら、出かけません。",
+      "status": "reference",
+      "answers": [
+        [
+          "よかった"
+        ]
+      ],
+      "explanation": "いい có dạng quá khứ đặc biệt よかった; ghép ら."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-5",
+      "question": "５）（　考えます　→ ______ ）も、わかりません。",
+      "context": "1. 例：雨が（　降ります　→　降った）ら、出かけません。",
+      "status": "reference",
+      "answers": [
+        [
+          "考えて"
+        ]
+      ],
+      "explanation": "Thể て + も: dù suy nghĩ vẫn không hiểu; も có sẵn."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-6",
+      "question": "６）車は　高いですから、（　便利です　→ ______ ）も、買いません。",
+      "context": "1. 例：雨が（　降ります　→　降った）ら、出かけません。",
+      "status": "reference",
+      "answers": [
+        [
+          "便利で"
+        ]
+      ],
+      "explanation": "な-tính từ dùng でも: dù tiện vẫn không mua."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-7",
+      "question": "１）何時に　パワー電気へ　行きますか。（　会議が　終わります　）\n...  ______",
+      "context": "3. 例：いつ　旅行に　行きますか。（　夏休みに　なります　）\n...  夏休みに　なったら、すぐ　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "会議が終わったら行きます"
+        ]
+      ],
+      "explanation": "Sau khi cuộc họp kết thúc thì đi; dùng たら cho điều kiện xảy ra trước."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-8",
+      "question": "２）いつ　結婚したいですか。（　大学を　出ます　）\n...  ______",
+      "context": "3. 例：いつ　旅行に　行きますか。（　夏休みに　なります　）\n...  夏休みに　なったら、すぐ　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "大学を出たら結婚したいです"
+        ]
+      ],
+      "explanation": "Sau khi tốt nghiệp thì muốn kết hôn; giữ sắc thái mong muốn."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-9",
+      "question": "３）何時ごろ　出かけましょうか。（　昼ごはんを　食べます　）\n...  ______",
+      "context": "3. 例：いつ　旅行に　行きますか。（　夏休みに　なります　）\n...  夏休みに　なったら、すぐ　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "昼ごはんを食べたら出かけましょう"
+        ]
+      ],
+      "explanation": "Ăn trưa xong hãy đi; giữ lời rủ ましょう."
+    },
+    {
+      "exerciseId": "25-section-7-exercise-10",
+      "question": "４）いつごろ　新しい　仕事を　始めますか。（　国へ　帰ります　）\n...  ______",
+      "context": "3. 例：いつ　旅行に　行きますか。（　夏休みに　なります　）\n...  夏休みに　なったら、すぐ　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "国へ帰ったら新しい仕事を始めます"
+        ]
+      ],
+      "explanation": "Về nước xong sẽ bắt đầu công việc mới."
+    }
+  ]
+}

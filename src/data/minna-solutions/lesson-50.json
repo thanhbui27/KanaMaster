@@ -1,0 +1,321 @@
+{
+  "lesson": 50,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-50",
+  "solutions": [
+    {
+      "exerciseId": "50-section-4-exercise-1",
+      "question": "1. 初めまして。林（　）申します。",
+      "context": "１．\n例：：私は貿易会社（に）勤めております。",
+      "status": "reference",
+      "answers": [
+        [
+          "と"
+        ]
+      ],
+      "explanation": "林と申します: tôi tên là Hayashi, と đánh dấu tên được nói."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-2",
+      "question": "2. ミラーさんがスポーツ大会（　）優勝したの（　）ご存じですか。",
+      "context": "１．\n例：：私は貿易会社（に）勤めております。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "大会で優勝する: vô địch giải; ～のをご存じですか: có biết việc ấy không?"
+    },
+    {
+      "exerciseId": "50-section-4-exercise-3",
+      "question": "3. きれいな桜の花をビデオ（　）撮って、国の家族（　）見せたいと思います。",
+      "context": "１．\n例：：私は貿易会社（に）勤めております。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "ビデオに撮る: ghi hình vào video; 家族に見せる: cho gia đình xem."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-4",
+      "question": "4. この賞金は何（　）お使いになるつもりですか。",
+      "context": "１．\n例：：私は貿易会社（に）勤めております。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "何に使う: dùng tiền thưởng vào việc gì?"
+    },
+    {
+      "exerciseId": "50-section-4-exercise-5",
+      "question": "5. お名前は何（　）おっしゃいますか。",
+      "context": "１．\n例：：私は貿易会社（に）勤めております。",
+      "status": "reference",
+      "answers": [
+        [
+          "と"
+        ]
+      ],
+      "explanation": "何とおっしゃいますか: ngài tên là gì? と đánh dấu nội dung lời nói."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-6",
+      "question": "6. 伊藤先生（　）パーティー（　）ご招待したいと思います。",
+      "context": "１．\n例：：私は貿易会社（に）勤めております。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "伊藤先生をパーティーにご招待する: mời thầy Ito dự tiệc."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-7",
+      "question": "１）雨が降っていますね。傘を（貸します…　　　　　　　）ましょうか。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お貸しし"
+        ]
+      ],
+      "explanation": "お貸ししましょうか: để tôi cho mượn ô nhé; ましょうか đã có ngoài ô."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-8",
+      "question": "２）私が書類を（届けます…　　　　　　　　　）ました。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お届けし"
+        ]
+      ],
+      "explanation": "お届けしました: tôi đã mang tài liệu đến, khiêm nhường ngữ."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-9",
+      "question": "３）先生、お茶を（入れます…　　　　　　　）ました。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お入れし"
+        ]
+      ],
+      "explanation": "お茶をお入れしました: tôi đã pha trà cho thầy/cô."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-10",
+      "question": "４）私が写真を（撮ります…　　　　　　　）ます。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お撮りし"
+        ]
+      ],
+      "explanation": "写真をお撮りします: tôi sẽ chụp ảnh giúp."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-11",
+      "question": "５）先生にはもう（話します…　　　　　　　）ました。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お話しし"
+        ]
+      ],
+      "explanation": "お話ししました: đã thưa với giáo viên; không bỏ mất し của します."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-12",
+      "question": "６）いつでも（手伝います…　　　　　　　　）ますあら、おっしゃってください。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お手伝いし"
+        ]
+      ],
+      "explanation": "お手伝いします: tôi sẽ giúp. Nguồn ますあら phải là ますから."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-13",
+      "question": "７）この本を（借ります…　　　　　　　　　）もいいですか。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お借りして"
+        ]
+      ],
+      "explanation": "お借りしてもいいですか: tôi có thể mượn cuốn sách này không?"
+    },
+    {
+      "exerciseId": "50-section-4-exercise-14",
+      "question": "８）サイズが合わなければ、（取り替えます…　　　　　　）ますよ。",
+      "context": "２．\n例１：タクシーを（呼びます…お呼びし）ましょうか。\n例２：私が（案内します…ご案内し）ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "お取り替えし"
+        ]
+      ],
+      "explanation": "お取り替えします: tôi sẽ đổi cho quý khách."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-15",
+      "question": "1. 中村課長にお会いになりましたか。\n…はい、＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：部長に借りた本はもうお返しになりましたか。\n…はい、もうお返ししました。",
+      "status": "reference",
+      "answers": [
+        [
+          "もうお会いしました",
+          "お会いしました"
+        ]
+      ],
+      "explanation": "Khi nói hành động của mình với cấp trên dùng お会いする, không dùng kính ngữ お会いになる."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-16",
+      "question": "2. 先生にご都合をお聞きになりましたか。\n…はい、＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：部長に借りた本はもうお返しになりましたか。\n…はい、もうお返ししました。",
+      "status": "reference",
+      "answers": [
+        [
+          "もうお聞きしました",
+          "お聞きしました",
+          "もう伺いました",
+          "伺いました"
+        ]
+      ],
+      "explanation": "Khiêm nhường hỏi thầy/cô: お聞きする hoặc 伺う."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-17",
+      "question": "3. 先生にお手紙をお出しになりましたか。\n…はい、＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：部長に借りた本はもうお返しになりましたか。\n…はい、もうお返ししました。",
+      "status": "reference",
+      "answers": [
+        [
+          "もうお出ししました",
+          "お出ししました"
+        ]
+      ],
+      "explanation": "お手紙をお出ししました: tôi đã gửi thư, dùng khiêm nhường ngữ."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-18",
+      "question": "4. 皆さんにお知らせになりましたか。\n…いいえ、まだです。あした＿＿＿＿＿＿＿＿＿＿＿＿＿つもりです。",
+      "context": "３．\n例：部長に借りた本はもうお返しになりましたか。\n…はい、もうお返ししました。",
+      "status": "reference",
+      "answers": [
+        [
+          "お知らせする"
+        ]
+      ],
+      "explanation": "お知らせするつもりです: tôi định thông báo ngày mai; trước つもり dùng từ điển."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-19",
+      "question": "1. 先生はパーティーの時間を｛存じています、ご存じです、存じません｝か。",
+      "context": "４．\n例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "ご存じです"
+        ]
+      ],
+      "explanation": "Giáo viên là chủ thể biết nên dùng kính ngữ ご存じです."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-20",
+      "question": "2. また先生に｛お目にかかりたい、拝見したい、ご覧になりたい｝と思います。",
+      "context": "４．\n例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "お目にかかりたい"
+        ]
+      ],
+      "explanation": "Tôi muốn gặp giáo viên: khiêm nhường của 会う là お目にかかる."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-21",
+      "question": "3. 先生の予定は受付で｛お聞きになって、お聞きして、伺って｝ください。",
+      "context": "４．\n例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "お聞きになって"
+        ]
+      ],
+      "explanation": "Nhờ người nghe hỏi tại quầy: dùng kính ngữ お聞きになってください; không dùng khiêm nhường cho hành động người nghe trong mẫu này."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-22",
+      "question": "4. わたしたちは来週先生のお宅へ｛伺います、いらっしゃいます、来られます｝。",
+      "context": "４．\n例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "伺います"
+        ]
+      ],
+      "explanation": "Chúng tôi đến nhà giáo viên: dùng khiêm nhường của 行く là 伺う."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-23",
+      "question": "5. 先生は何と｛お話ししました、申しました、おっしゃいました｝か。",
+      "context": "４．\n例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "おっしゃいました"
+        ]
+      ],
+      "explanation": "Hỏi giáo viên đã nói gì: kính ngữ của 言う là おっしゃる."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-24",
+      "question": "6. 私が旅行について｛ご説明します、説明されます、説明なさいます｝。",
+      "context": "４．\n例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "ご説明します"
+        ]
+      ],
+      "explanation": "Tôi giải thích: ご + danh từ Hán + する, khiêm nhường."
+    },
+    {
+      "exerciseId": "50-section-4-exercise-25",
+      "question": "7. グプタさんは刺身を｛いただきません、召し上がりません、お食べしません｝。",
+      "context": "４．\n例：父は再来週日本へ｛いらっしゃいます、来られます、参ります｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "召し上がりません"
+        ]
+      ],
+      "explanation": "Gupta là người được nói đến bằng kính ngữ: 食べる → 召し上がる. いただく hạ mình/người trong nhóm mình."
+    }
+  ]
+}

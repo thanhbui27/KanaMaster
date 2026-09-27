@@ -1,0 +1,97 @@
+{
+  "lesson": 14,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-14",
+  "solutions": [
+    {
+      "exerciseId": "14-section-10-exercise-1",
+      "question": "１）時間が　ありませんから、　（___）ください。",
+      "context": "2.\n閉めます　貸します　待ちます　来ます　急ぎます\n例：すみませんが、ボールペンを　（貸して）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "急いで"
+        ]
+      ],
+      "explanation": "Không có thời gian nên yêu cầu làm nhanh; 急ぎます → 急いで."
+    },
+    {
+      "exerciseId": "14-section-10-exercise-2",
+      "question": "２）今　忙しいですから、　また　あとで（___）ください。",
+      "context": "2.\n閉めます　貸します　待ちます　来ます　急ぎます\n例：すみませんが、ボールペンを　（貸して）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "来て"
+        ]
+      ],
+      "explanation": "Bận nên nhờ quay lại sau: あとで来てください."
+    },
+    {
+      "exerciseId": "14-section-10-exercise-3",
+      "question": "３）荷物が　多いですね。1つ　（___）ましょう。\n...  すみません、お願いします。",
+      "context": "2.\n閉めます　貸します　待ちます　来ます　急ぎます\n例：すみませんが、ボールペンを　（貸して）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "持ち"
+        ]
+      ],
+      "explanation": "Đề đã có ましょう sau ô, chỉ điền thân động từ 持ち: để tôi cầm giúp một kiện."
+    },
+    {
+      "exerciseId": "14-section-10-exercise-4",
+      "question": "４）IMCに　この　レポートを　（___）ましょうか\n...  ええ、すぐ　（___）ください。",
+      "context": "2.\n閉めます　貸します　待ちます　来ます　急ぎます\n例：すみませんが、ボールペンを　（貸して）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "送り"
+        ],
+        [
+          "送って"
+        ]
+      ],
+      "explanation": "Đề nghị dùng 送りましょうか; yêu cầu dùng 送ってください. Hai ô khác dạng."
+    },
+    {
+      "exerciseId": "14-section-10-exercise-5",
+      "question": "１）テレーザちゃんは　どこですか。\n...  2階です。太郎君と　（___）います。",
+      "context": "3.\n降ります　泳ぎます　食べます　遊びます　します\n例：　山田さんは　今　昼ごはんを　（　食べて　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "遊んで"
+        ]
+      ],
+      "explanation": "遊びます → 遊んで; 遊んでいます: đang chơi."
+    },
+    {
+      "exerciseId": "14-section-10-exercise-6",
+      "question": "２）雨が　（___）　いますね。タクシーを　呼びましょうか。",
+      "context": "3.\n降ります　泳ぎます　食べます　遊びます　します\n例：　山田さんは　今　昼ごはんを　（　食べて　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "降って"
+        ]
+      ],
+      "explanation": "降ります → 降って; 雨が降っています: trời đang mưa."
+    },
+    {
+      "exerciseId": "14-section-10-exercise-7",
+      "question": "３）サントスさんは　今　何を　（___）　いますか　。\n...  プールで　（___）　ます。",
+      "context": "3.\n降ります　泳ぎます　食べます　遊びます　します\n例：　山田さんは　今　昼ごはんを　（　食べて　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "して"
+        ],
+        [
+          "泳いでい"
+        ]
+      ],
+      "explanation": "Ô đầu tạo 何をしていますか. Ô sau đã có ます, nên cần 泳いでい để thành 泳いでいます, không điền chỉ 泳いで."
+    }
+  ]
+}

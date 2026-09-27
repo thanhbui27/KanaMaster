@@ -1,0 +1,349 @@
+{
+  "lesson": 27,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-27",
+  "solutions": [
+    {
+      "exerciseId": "27-section-9-exercise-1",
+      "question": "1. 簡単な料理だったら、自分で＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1. 例：今日は車で来ましたから、お酒が飲めません。",
+      "status": "sample",
+      "answers": [
+        [
+          "作れます"
+        ]
+      ],
+      "explanation": "作る → 作れる: có thể tự nấu món đơn giản."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-2",
+      "question": "2. 早く漢字を覚えたいですが、なかなか＿＿＿＿＿＿＿＿＿＿",
+      "context": "1. 例：今日は車で来ましたから、お酒が飲めません。",
+      "status": "sample",
+      "answers": [
+        [
+          "覚えられません"
+        ]
+      ],
+      "explanation": "覚える → 覚えられる; なかなか + phủ định: mãi vẫn chưa nhớ được."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-3",
+      "question": "3. また会いたいですね。今度いつ＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1. 例：今日は車で来ましたから、お酒が飲めません。",
+      "status": "sample",
+      "answers": [
+        [
+          "会えますか"
+        ]
+      ],
+      "explanation": "会う → 会える: khi nào có thể gặp lại?"
+    },
+    {
+      "exerciseId": "27-section-9-exercise-4",
+      "question": "4. 去年は忙しかったですから、長い休みが＿＿＿＿＿＿＿＿＿",
+      "context": "1. 例：今日は車で来ましたから、お酒が飲めません。",
+      "status": "sample",
+      "answers": [
+        [
+          "取れませんでした"
+        ]
+      ],
+      "explanation": "休みを取る → 休みが取れる; năm ngoái không nghỉ dài được nên dùng phủ định quá khứ."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-5",
+      "question": "1. 自分で自転車を修理することができますか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：日本語で電話をかけることができますか。\n…日本語で電話がかけられますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "自分で自転車が修理できますか",
+          "自分で自転車を修理できますか"
+        ]
+      ],
+      "explanation": "修理することができる → 修理できる. Với khả năng, が là dạng trọng tâm của bài; を cũng dùng được."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-6",
+      "question": "2. あの人の名前を思い出すことができませんか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：日本語で電話をかけることができますか。\n…日本語で電話がかけられますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "あの人の名前が思い出せませんか",
+          "あの人の名前を思い出せませんか"
+        ]
+      ],
+      "explanation": "思い出す → 思い出せる; giữ phủ định nghi vấn của đề."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-7",
+      "question": "3. 明日１０時ごろ来ることができると思います。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：日本語で電話をかけることができますか。\n…日本語で電話がかけられますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "明日１０時ごろ来られると思います",
+          "明日10時ごろ来られると思います"
+        ]
+      ],
+      "explanation": "来る → 来られる, thể khả năng chuẩn; giữ と思います."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-8",
+      "question": "4. 一人で病院へ行くことができなかったんです。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：日本語で電話をかけることができますか。\n…日本語で電話がかけられますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "一人で病院へ行けなかったんです"
+        ]
+      ],
+      "explanation": "行く → 行ける → 行けなかった; giữ lý do んです."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-9",
+      "question": "5. １０時までに帰ることができたら、電話をください。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：日本語で電話をかけることができますか。\n…日本語で電話がかけられますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "１０時までに帰れたら電話をください",
+          "10時までに帰れたら電話をください"
+        ]
+      ],
+      "explanation": "帰ることができたら → 帰れたら; までに là hạn chót."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-10",
+      "question": "6. タワポンさんはパソコンを使うことができないことと言いました。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：日本語で電話をかけることができますか。\n…日本語で電話がかけられますか。",
+      "status": "sample",
+      "answers": [
+        [
+          "タワポンさんはパソコンが使えないと言いました",
+          "タワポンさんはパソコンを使えないと言いました"
+        ]
+      ],
+      "explanation": "使う → 使える → 使えない. Nguồn thừa こと trong できないことと言いました; câu sửa dùng 使えないと言いました."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-11",
+      "question": "1. 駅の近く（　）大きいマンション（　）できました。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "駅の近くに chỉ địa điểm, マンションができる nghĩa là được xây xong."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-12",
+      "question": "2. ２階の窓（　）お祭りの花火（　）見えます。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "から"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "窓から: từ cửa sổ; 花火が見える: nhìn thấy pháo hoa."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-13",
+      "question": "3. ここは波の音（　）よく聞こえます。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "Âm thanh nghe được tự nhiên dùng 音が聞こえる."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-14",
+      "question": "4. すみませんが、もう少し大きい声（　）話していただけませんか。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "大きい声で話す: nói bằng giọng lớn."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-15",
+      "question": "5. 時計の修理（　）いつできますか。\n…三日後（　）できます。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "は"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Nêu chủ đề việc sửa đồng hồ bằng は; 三日後に: sau ba ngày."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-16",
+      "question": "6. このカードでバス（　）乗れますか。\n…いいえ、バス（　）乗れません。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "には"
+        ]
+      ],
+      "explanation": "バスに乗れる; câu phủ định đối chiếu thêm は vào に: バスには乗れません."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-17",
+      "question": "7. これはデパート（　）買えますか。\n…ええ、スーパー（　）（　）買えますよ。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "で"
+        ],
+        [
+          "も"
+        ]
+      ],
+      "explanation": "Nơi có thể mua dùng で; siêu thị cũng mua được: スーパーでも買えます."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-18",
+      "question": "8. このマラション（　）犬や猫が飼えますか。\n…いいえ、このマンション（　）（　）飼えません。",
+      "context": "３．例：空港（まで）電車（で）行けますか。\n…ええ。バス（で）（も）行けますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "で"
+        ],
+        [
+          "は"
+        ]
+      ],
+      "explanation": "Nơi nuôi thú dùng で; đối chiếu このマンションでは飼えません. Nguồn có lỗi マラション → マンション."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-19",
+      "question": "１．冷蔵庫に卵がいくつありますか。二つ＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．例：夜どのくらい勉強しますか。…３０分ぐらいしか勉強しません。",
+      "status": "reference",
+      "answers": [
+        [
+          "しかありません"
+        ]
+      ],
+      "explanation": "二つしかありません: chỉ có hai quả; しか luôn đi với phủ định."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-20",
+      "question": "２．どんな料理が作れますか。…カレー＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．例：夜どのくらい勉強しますか。…３０分ぐらいしか勉強しません。",
+      "status": "reference",
+      "answers": [
+        [
+          "しか作れません"
+        ]
+      ],
+      "explanation": "カレーしか作れません: chỉ nấu được cà ri."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-21",
+      "question": "３．昨日の晩はよく寝られましたか。…いいえ、２時間ぐらい＿＿＿＿＿",
+      "context": "４．例：夜どのくらい勉強しますか。…３０分ぐらいしか勉強しません。",
+      "status": "reference",
+      "answers": [
+        [
+          "しか寝られませんでした"
+        ]
+      ],
+      "explanation": "２時間ぐらいしか寝られませんでした: chỉ ngủ được khoảng hai tiếng, dùng quá khứ."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-22",
+      "question": "４．昨日の晩はたくさん飲みましたか。…いいえ、少し＿＿＿＿＿＿＿＿",
+      "context": "４．例：夜どのくらい勉強しますか。…３０分ぐらいしか勉強しません。",
+      "status": "reference",
+      "answers": [
+        [
+          "しか飲みませんでした"
+        ]
+      ],
+      "explanation": "少ししか飲みませんでした: chỉ uống một chút."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-23",
+      "question": "1. 木村さんの住所と電話番号が分かりますか。（住所…O　電話番号…Ｘ）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "５．例：山田さんと佐藤さんに連絡しましたか。（佐藤さん…O山田さん…Ｘ）\n…（佐藤さんには連絡しましたが、山田さんには連絡しませんでした。）",
+      "status": "reference",
+      "answers": [
+        [
+          "住所は分かりますが、電話番号は分かりません"
+        ]
+      ],
+      "explanation": "は đối chiếu điều biết và không biết."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-24",
+      "question": "2. スポーツが好きですか。（ゴルフ…O　ほかのスポツ…Ｘ）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "５．例：山田さんと佐藤さんに連絡しましたか。（佐藤さん…O山田さん…Ｘ）\n…（佐藤さんには連絡しましたが、山田さんには連絡しませんでした。）",
+      "status": "reference",
+      "answers": [
+        [
+          "ゴルフは好きですが、ほかのスポーツは好きではありません",
+          "ゴルフは好きですが、ほかのスポーツは好きじゃありません"
+        ]
+      ],
+      "explanation": "Hai vế đối chiếu sở thích; phủ định của 好きです là 好きではありません."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-25",
+      "question": "3. コーヒーに砂糖とミルクを入れますか。（ミルク…O　砂糖…Ｘ）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "５．例：山田さんと佐藤さんに連絡しましたか。（佐藤さん…O山田さん…Ｘ）\n…（佐藤さんには連絡しましたが、山田さんには連絡しませんでした。）",
+      "status": "reference",
+      "answers": [
+        [
+          "ミルクは入れますが、砂糖は入れません"
+        ]
+      ],
+      "explanation": "Cho sữa nhưng không cho đường: は đánh dấu đối chiếu."
+    },
+    {
+      "exerciseId": "27-section-9-exercise-26",
+      "question": "4. 会社やうちでパソコンを使っていますか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "５．例：山田さんと佐藤さんに連絡しましたか。（佐藤さん…O山田さん…Ｘ）\n…（佐藤さんには連絡しましたが、山田さんには連絡しませんでした。）",
+      "status": "sample",
+      "answers": [
+        [
+          "会社では使っていますが、うちでは使っていません"
+        ]
+      ],
+      "explanation": "Câu mở về việc dùng máy tính ở công ty/nhà. Có thể đảo hai vế tùy thực tế; では đối chiếu địa điểm."
+    }
+  ]
+}

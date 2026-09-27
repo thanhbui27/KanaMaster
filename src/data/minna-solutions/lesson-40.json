@@ -1,0 +1,376 @@
+{
+  "lesson": 40,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-40",
+  "solutions": [
+    {
+      "exerciseId": "40-section-6-exercise-1",
+      "question": "1． 鉛筆がなんぼなりますか。数えてください\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例１：あしたどの映画を見ますか。決めましたか\n…あしたどの映画を見るか、決めましたか。\n例２：カリナさんは今うちにいますか。わかりません\n…カリナさんは今うちにいるかどうか、わかりません。",
+      "status": "sample",
+      "answers": [
+        [
+          "鉛筆が何本あるか、数えてください"
+        ]
+      ],
+      "explanation": "Câu nguồn なんぼなりますか bị lỗi; khôi phục thành 何本ありますか (có mấy cây bút). Câu hỏi có từ hỏi → thể thường + か, không thêm どうか."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-2",
+      "question": "2． シュミットさんはどんな料理が好きですか。知りたいです\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例１：あしたどの映画を見ますか。決めましたか\n…あしたどの映画を見るか、決めましたか。\n例２：カリナさんは今うちにいますか。わかりません\n…カリナさんは今うちにいるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "シュミットさんはどんな料理が好きか、知りたいです"
+        ]
+      ],
+      "explanation": "Câu hỏi có どんな: 好きか, bỏ です và không thêm だ."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-3",
+      "question": "3． ワットさんどうしてきませんでしたか。わかりますか\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例１：あしたどの映画を見ますか。決めましたか\n…あしたどの映画を見るか、決めましたか。\n例２：カリナさんは今うちにいますか。わかりません\n…カリナさんは今うちにいるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "ワットさんはどうして来なかったか、わかりますか"
+        ]
+      ],
+      "explanation": "Câu hỏi gián tiếp quá khứ phủ định: 来なかったか."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-4",
+      "question": "4． このカメラはいくらでしたか。覚えていません\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例１：あしたどの映画を見ますか。決めましたか\n…あしたどの映画を見るか、決めましたか。\n例２：カリナさんは今うちにいますか。わかりません\n…カリナさんは今うちにいるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "このカメラはいくらだったか、覚えていません"
+        ]
+      ],
+      "explanation": "いくらでしたか → いくらだったか."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-5",
+      "question": "5． 手紙の重さは２５グラム以下ですか。量ってください\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例１：あしたどの映画を見ますか。決めましたか\n…あしたどの映画を見るか、決めましたか。\n例２：カリナさんは今うちにいますか。わかりません\n…カリナさんは今うちにいるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "手紙の重さは２５グラム以下かどうか、量ってください",
+          "手紙の重さは25グラム以下かどうか、量ってください"
+        ]
+      ],
+      "explanation": "Câu hỏi có/không dùng かどうか; danh từ không thêm だ ở đây."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-6",
+      "question": "6． この答えは正しいですか。もう一度考えてください\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例１：あしたどの映画を見ますか。決めましたか\n…あしたどの映画を見るか、決めましたか。\n例２：カリナさんは今うちにいますか。わかりません\n…カリナさんは今うちにいるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "この答えは正しいかどうか、もう一度考えてください"
+        ]
+      ],
+      "explanation": "正しいかどうか: đúng hay không."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-7",
+      "question": "1． 冬、あの山に登るのは叫んですか。…＿＿＿＿＿＿＿＿、わかりません。",
+      "context": "2．\n例1：会議は何時からですか。…何時からか、わかりません。\n例２：あした来られますか。…来られるかどうか、わかりません。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Nguồn 冬、あの山に登るのは叫んですか bị hỏng tính từ, không xác định được ý định. Nếu từ định hỏi là 危ない, câu đáp sẽ là 危ないかどうか、わかりません. Đây chỉ là cách khôi phục có điều kiện."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-8",
+      "question": "2． この料理は辛いですか。…＿＿＿＿＿＿＿＿＿、食べてみてください。",
+      "context": "2．\n例1：会議は何時からですか。…何時からか、わかりません。\n例２：あした来られますか。…来られるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "辛いかどうか"
+        ]
+      ],
+      "explanation": "Có cay không thì hãy thử ăn; câu hỏi yes/no dùng かどうか."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-9",
+      "question": "3． マラソン大会に出ますか。…＿＿＿＿＿＿＿＿、まだ決めてません。",
+      "context": "2．\n例1：会議は何時からですか。…何時からか、わかりません。\n例２：あした来られますか。…来られるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "出るかどうか"
+        ]
+      ],
+      "explanation": "出ます → 出るかどうか: chưa quyết định có tham gia hay không."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-10",
+      "question": "4． スピーチコンテストの申し込みは何日なでですか。…＿＿＿＿＿＿＿＿、覚\nえてません。",
+      "context": "2．\n例1：会議は何時からですか。…何時からか、わかりません。\n例２：あした来られますか。…来られるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "何日までか"
+        ]
+      ],
+      "explanation": "Có từ hỏi 何日 nên chỉ dùng か. Nguồn なで là lỗi của まで."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-11",
+      "question": "5． 電話番号は間違いがありませんか。…＿＿＿＿＿＿＿＿、確かめます。",
+      "context": "2．\n例1：会議は何時からですか。…何時からか、わかりません。\n例２：あした来られますか。…来られるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "間違いがないかどうか"
+        ]
+      ],
+      "explanation": "Xác nhận xem số điện thoại có đúng/không có lỗi; ありません → ない."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-12",
+      "question": "6． ビールは何にから作られますか。…＿＿＿＿＿＿＿＿、よくわかりません。",
+      "context": "2．\n例1：会議は何時からですか。…何時からか、わかりません。\n例２：あした来られますか。…来られるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "何から作られるか"
+        ]
+      ],
+      "explanation": "Câu hỏi nguyên liệu dùng 何から; nguồn 何にから thừa に."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-13",
+      "question": "7． この料理はどうやって作りましたか。\n…母が作ったので、私も＿＿＿＿＿＿＿わからないんです。",
+      "context": "2．\n例1：会議は何時からですか。…何時からか、わかりません。\n例２：あした来られますか。…来られるかどうか、わかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "どうやって作ったか"
+        ]
+      ],
+      "explanation": "Có từ hỏi どうやって nên không dùng どうか; giữ quá khứ 作った."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-14",
+      "question": "１．（ちょうどいいですか・はきます）\n→ズボンを買うとき、長さが＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例：（うちを出ましたか・電話をかけます）\n→イーさんはもううちを出たかどうか、電話をかけてみます。",
+      "status": "reference",
+      "answers": [
+        [
+          "ちょうどいいかどうか、はいてみます"
+        ]
+      ],
+      "explanation": "Thử mặc quần để xem chiều dài có vừa không; thể て + みる."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-15",
+      "question": "２．（サイズが合いますか・かぶります）\n→帽子を買うとき、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例：（うちを出ましたか・電話をかけます）\n→イーさんはもううちを出たかどうか、電話をかけてみます。",
+      "status": "reference",
+      "answers": [
+        [
+          "サイズが合うかどうか、かぶってみます"
+        ]
+      ],
+      "explanation": "Thử đội mũ để xem có vừa cỡ không."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-16",
+      "question": "３．（足が威たくないですか・はいて歩きます）\n→靴を買うとき、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例：（うちを出ましたか・電話をかけます）\n→イーさんはもううちを出たかどうか、電話をかけてみます。",
+      "status": "reference",
+      "answers": [
+        [
+          "足が痛くないかどうか、はいて歩いてみます"
+        ]
+      ],
+      "explanation": "Thử xỏ giày rồi đi để xem chân có đau không. Nguồn 威たく là lỗi của 痛く."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-17",
+      "question": "４．（きますか・聞いてください）\n→いーさんはパーティーに＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例：（うちを出ましたか・電話をかけます）\n→イーさんはもううちを出たかどうか、電話をかけてみます。",
+      "status": "reference",
+      "answers": [
+        [
+          "来るかどうか、聞いてみてください"
+        ]
+      ],
+      "explanation": "Hãy thử hỏi xem anh Lee có đến dự tiệc không."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-18",
+      "question": "５．（どんな店ですか・入りました）\n→新しいレストランができたので、＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例：（うちを出ましたか・電話をかけます）\n→イーさんはもううちを出たかどうか、電話をかけてみます。",
+      "status": "reference",
+      "answers": [
+        [
+          "どんな店か、入ってみました"
+        ]
+      ],
+      "explanation": "Thử vào nhà hàng mới xem đó là quán như thế nào; danh từ + か."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-19",
+      "question": "１．鈴木さんは出かけているかもしれませんから、行く前に、電話を（かけます\n…　　　　　　　）ほうがいいですよ。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "かけてみた"
+        ]
+      ],
+      "explanation": "かけてみたほうがいい: nên thử gọi trước."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-20",
+      "question": "２．私が初めて作った日本料理です。おいしいかどうか、（食べます\n…　　　　　）ください。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "食べてみて"
+        ]
+      ],
+      "explanation": "食べてみてください: hãy ăn thử."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-21",
+      "question": "３．秋になったら、紅葉を見に（行きます…　　　　）たいです。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "行ってみ"
+        ]
+      ],
+      "explanation": "行ってみたい: muốn thử đi; たい đã có ngoài ô."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-22",
+      "question": "４．このコード、ちょっと（着ます…　　　　　　）もいいですか。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "着てみて"
+        ]
+      ],
+      "explanation": "着てみてもいいですか: có thể thử mặc không? Nguồn コード có vẻ là lỗi của コート."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-23",
+      "question": "５．林さんに借りた(CDを今晩（聞きます…　　　　）ましょう。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "聞いてみ"
+        ]
+      ],
+      "explanation": "聞いてみましょう: hãy nghe thử CD."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-24",
+      "question": "６．先生、私が（読みます…　　　　　）ますから、間違いを治してくださ\nい。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "読んでみ"
+        ]
+      ],
+      "explanation": "読んでみます: tôi sẽ thử đọc; ます đã có ngoài ô. Chữa lỗi dùng 直す, nguồn 治す dùng cho chữa bệnh."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-25",
+      "question": "７．初めて日本のお酒を（飲みます…　　　　　）ました。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲んでみ"
+        ]
+      ],
+      "explanation": "飲んでみました: đã thử uống rượu Nhật."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-26",
+      "question": "８．このカバンは何キロぐらいですか。ちょっと（持ちます…　　　　　）\nください。",
+      "context": "4．\n例：雪祭りにいっしょに（行きます…行ってみ）ませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "持ってみて"
+        ]
+      ],
+      "explanation": "持ってみてください: thử cầm túi để cảm nhận trọng lượng."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-27",
+      "question": "1． 封筒の「間、隣、裏」に自分の住所と名前を書きます。",
+      "context": "5．\n例：毎日２時間「以上、以下、いない」勉強してくださださい。",
+      "status": "reference",
+      "answers": [
+        [
+          "裏"
+        ]
+      ],
+      "explanation": "封筒の裏: mặt sau phong bì ghi địa chỉ/tên người gửi."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-28",
+      "question": "2． マラソン大会の「出発、申し込み、出席」は明後日までですよ。",
+      "context": "5．\n例：毎日２時間「以上、以下、いない」勉強してくださださい。",
+      "status": "reference",
+      "answers": [
+        [
+          "申し込み"
+        ]
+      ],
+      "explanation": "申し込みは明後日まで: hạn đăng ký là ngày kia."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-29",
+      "question": "3． 宇宙の「大きさ、重さ、はやさ」はどのくらいか、わかりますか。",
+      "context": "5．\n例：毎日２時間「以上、以下、いない」勉強してくださださい。",
+      "status": "reference",
+      "answers": [
+        [
+          "大きさ"
+        ]
+      ],
+      "explanation": "宇宙の大きさ: kích thước vũ trụ; câu hỏi không đưa số liệu thực tế."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-30",
+      "question": "4． 台風６「号、便、番」は多分日本へ来ないと思います。",
+      "context": "5．\n例：毎日２時間「以上、以下、いない」勉強してくださださい。",
+      "status": "reference",
+      "answers": [
+        [
+          "号"
+        ]
+      ],
+      "explanation": "台風６号: bão số 6, hậu tố đếm là 号."
+    },
+    {
+      "exerciseId": "40-section-6-exercise-31",
+      "question": "5． 試験の「様子、成績、返事」が悪かったので、３月に卒業できないかもしれません。",
+      "context": "5．\n例：毎日２時間「以上、以下、いない」勉強してくださださい。",
+      "status": "reference",
+      "answers": [
+        [
+          "成績"
+        ]
+      ],
+      "explanation": "試験の成績: kết quả thi."
+    }
+  ]
+}

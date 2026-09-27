@@ -1,0 +1,2543 @@
+{
+  "schemaVersion": 1,
+  "lesson": 29,
+  "title": "Từ vựng ngữ pháp Minna bài 29",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-29",
+  "fetchedAt": "2026-09-27T09:07:33.979480+00:00",
+  "sourceSha256": "65893847dffc1b35f5e5ee5250582eed02cd12d8259503968c5dc54bda4eada7",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box239",
+      "title": "1. Từ vựng Minna bài 29",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "開きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mở (cửa)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しまります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "閉まります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đóng(cửa)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bật,thắp sáng(đèn)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きえます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "消えます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tắt(đèn)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こみます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "込みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đông(đường)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vắng(đường)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こわれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "壊れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hỏng(ghế)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "われます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "割れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vỡ(cốc)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "折れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gãy(cây)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やぶれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "破れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "rách(giấy)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "よごれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "汚れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dơ,bẩn(tay)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "付きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dính, đính (có túi)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はずれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "外れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tuột,bung,rời ra(sút nút)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とまります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "止まります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dừng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まちがえます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhầm lẫn,sai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おとします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "落とします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "làm rơi,rớt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かかります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "掛かります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "khóa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lau(cửa)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とりかえます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thay(pin)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かたづけます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "片付けます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dọn dẹp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さら　（おさら）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "皿",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちゃわん　（おちゃわん）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "茶碗",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bát,chén",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "コップ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cốc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ガラス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ly",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふくろ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "袋",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "túi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しょるい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "書類",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giấy tờ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えだ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "枝",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cành cây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えきいん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "駅員",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhân viên nhà ga",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こうばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "交番",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đồn cảnh sát,bốt cảnh sát",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "スピーチ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "diễn văn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "へんじ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "返事",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trả lời",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おさきにどうぞ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お先にどうぞ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mời anh/chị cứ về trước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "げんじものがたり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "源氏物語",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tiểu thuyết được viết thời heian",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いまのでんしゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今の電車",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tàu điện vừa chạy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "わすれもの",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "忘れ物",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đồ bỏ quên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "このくらい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cỡ tầm này,cỡ chừng này",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "がわ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "側",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phía…",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ポケット",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "túi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "へん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "辺",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chỗ,vùng…",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おぼえていません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "覚えていません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tôi không nhớ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あみだな",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "網棚",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giá để hành lý",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たしか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "確か",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chắc là",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ああ、よかった",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ôi, may quá",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じしん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "地震",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "động đất",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かべ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "壁",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bức tường",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "針",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "kim đồng hồ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "付けます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chỉ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えきまえ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "駅前",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trước ga",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たおれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "倒れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đổ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にしのほう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "西の方",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phía tây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もえます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "燃えます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cháy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nNghĩa\n1\nあきます\n開きます\nmở (cửa)\n2\nしまります\n閉まります\nđóng(cửa)\n3\nつきます\nbật,thắp sáng(đèn)\n4\nきえます\n消えます\ntắt(đèn)\n5\nこみます\n込みます\nđông(đường)\n6\nすきます\nvắng(đường)\n7\nこわれます\n壊れます\nhỏng(ghế)\n8\nわれます\n割れます\nvỡ(cốc)\n9\nおれます\n折れます\ngãy(cây)\n10\nやぶれます\n破れます\nrách(giấy)\n11\nよごれます\n汚れます\ndơ,bẩn(tay)\n12\nつきます\n付きます\ndính, đính (có túi)\n13\nはずれます\n外れます\ntuột,bung,rời ra(sút nút)\n14\nとまります\n止まります\ndừng\n15\nまちがえます\nnhầm lẫn,sai\n16\nおとします\n落とします\nlàm rơi,rớt\n17\nかかります\n掛かります\nkhóa\n18\nふきます\nlau(cửa)\n19\nとりかえます\nthay(pin)\n20\nかたづけます\n片付けます\ndọn dẹp\n21\nさら　（おさら）\n皿\nđĩa\n22\nちゃわん　（おちゃわん）\n茶碗\nbát,chén\n23\nコップ\ncốc\n24\nガラス\nly\n25\nふくろ\n袋\ntúi\n26\nしょるい\n書類\ngiấy tờ\n27\nえだ\n枝\ncành cây\n28\nえきいん\n駅員\nnhân viên nhà ga\n29\nこうばん\n交番\nđồn cảnh sát,bốt cảnh sát\n30\nスピーチ\ndiễn văn\n31\nへんじ\n返事\ntrả lời\n32\nおさきにどうぞ\nお先にどうぞ\nmời anh/chị cứ về trước\n33\nげんじものがたり\n源氏物語\ntiểu thuyết được viết thời heian\n34\nいまのでんしゃ\n今の電車\ntàu điện vừa chạy\n35\nわすれもの\n忘れ物\nđồ bỏ quên\n36\nこのくらい\ncỡ tầm này,cỡ chừng này\n37\nがわ\n側\nphía…\n38\nポケット\ntúi\n39\nへん\n辺\nchỗ,vùng…\n40\nおぼえていません\n覚えていません\ntôi không nhớ\n41\nあみだな\n網棚\ngiá để hành lý\n42\nたしか\n確か\nchắc là\n43\nああ、よかった\nôi, may quá\n44\nじしん\n地震\nđộng đất\n45\nかべ\n壁\nbức tường\n46\nはり\n針\nkim đồng hồ\n47\nさします\n付けます\nchỉ\n48\nえきまえ\n駅前\ntrước ga\n49\nたおれます\n倒れます\nđổ\n50\nにしのほう\n西の方\nphía tây\n51\nもえます\n燃えます\ncháy",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box240",
+      "title": "2. Vています",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Vています diễn tả một trạng thái là kết quả của hành động được biểu thị bởi động từ V."
+        },
+        {
+          "type": "text",
+          "text": "*) N  が  Vています:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 窓が　割れています。 Cửa sổ bị vỡ. 例2：　 電気が　ついています。 Đèn sáng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Trong những ví dụ trên , khi người nói miêu tả trạng thái mà họ nhìn thấy trước mắt thì chủ thể của hành động hay trạng thái đó được biểu thị bằng trợ từ が. Trạng thái được đề cập đến trong ví dụ 1 chỉ ra rằng: “ cửa sổ đã bị làm vỡ tại một thời điểm nào đó trong quá khứ và kết quả ở hiện tại là nó đã vỡ”."
+        },
+        {
+          "type": "text",
+          "text": "- Những động từ được sử dụng trong mẫu trên là tự động từ, và hầu hết các động từ này đều chỉ một hành động diễn ra trong khoảnh khắc ( VD :　壊れます、消えます、あきます、こみます,…) ."
+        },
+        {
+          "type": "text",
+          "text": "- Khi diễn tả một trạng thái trong quá khứ, thì ta sử dụng mẫu : Vていました:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3：　 昨日　部屋に　帰ったら　電気が　ついていました。 Hôm qua khi tôi về phòng thì thấy điện sáng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) N  は  Vています:"
+        },
+        {
+          "type": "text",
+          "text": "Khi chủ thể của một hành động được đưa lên làm chủ đề, nó sẽ được biểu thị bằng trợ từ は. Trong ví dụ 4, bằng cách sử dụng chỉ thị từ この , người nói đã biết chiếc ghế mình muốn nói đến là chiếc nào, đưa nó lên làm chủ đề và miêu tả trạng thái của nó cho người nghe biết:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4：　 この　椅子は　壊れています。 Chiếc ghế này bị hỏng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "V\nています\ndiễn tả một trạng thái là kết quả của hành động được biểu thị bởi động từ V.\n*) N\nが\nV\nています:\n例1\n：\n窓\nが\n割\nれています。\nCửa sổ bị vỡ.\n例2\n：\n電気\nが　ついています。\nĐèn sáng.\n- Trong những ví dụ trên , khi người nói miêu tả trạng thái mà họ nhìn thấy trước mắt thì chủ thể của hành động hay trạng thái đó được biểu thị bằng trợ từ\nが\n. Trạng thái được đề cập đến trong ví dụ 1 chỉ ra rằng: “ cửa sổ đã bị làm vỡ tại một thời điểm nào đó trong quá khứ và kết quả ở hiện tại là nó đã vỡ”.\n- Những động từ được sử dụng trong mẫu trên là tự động từ, và hầu hết các động từ này đều chỉ một hành động diễn ra trong khoảnh khắc ( VD :\n壊\nれます、\n消\nえます、あきます、こみます\n,…) .\n- Khi diễn tả một trạng thái trong quá khứ, thì ta sử dụng mẫu : V\nていました\n:\n例3\n：\n昨日\n部屋\nに\n帰\nったら\n電気\nが　ついていました。\nHôm qua khi tôi về phòng thì thấy điện sáng.\n*)\nN\nは\nV\nています\n:\nKhi chủ thể của một hành động được đưa lên làm chủ đề, nó sẽ được biểu thị bằng trợ từ\nは\n. Trong ví dụ 4, bằng cách sử dụng chỉ thị từ\nこの\n, người nói đã biết chiếc ghế mình muốn nói đến là chiếc nào, đưa nó lên làm chủ đề và miêu tả trạng thái của nó cho người nghe biết:\n例4\n：\nこの\n椅子\nは\n壊\nれています。\nChiếc ghế này bị hỏng.",
+      "ruby": [
+        {
+          "text": "窓",
+          "readings": [
+            "まど"
+          ]
+        },
+        {
+          "text": "割",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "電気",
+          "readings": [
+            "でんき"
+          ]
+        },
+        {
+          "text": "壊",
+          "readings": [
+            "こわ"
+          ]
+        },
+        {
+          "text": "消",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "昨日",
+          "readings": [
+            "きのう"
+          ]
+        },
+        {
+          "text": "部屋",
+          "readings": [
+            "へや"
+          ]
+        },
+        {
+          "text": "帰",
+          "readings": [
+            "かえ"
+          ]
+        },
+        {
+          "text": "電気",
+          "readings": [
+            "でんき"
+          ]
+        },
+        {
+          "text": "椅子",
+          "readings": [
+            "いす"
+          ]
+        },
+        {
+          "text": "壊",
+          "readings": [
+            "こわ"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box241",
+      "title": "3. Vて　しまいました / しまいます:",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu câu Vてしまいました dùng để nhấn mạnh một hành động hay một sự kiện đã được hoàn tất."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 ハイさんが　持って来た　ワインは　全部　飲んで　しまいました。 Tôi đã uống hết tất cả số rượu mà anh Hải đem tới rồi. 例2：　 漢字の　宿題は　もう　やって　しまいました。 Bài tập chữ Hán thì tôi đã làm hết rồi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Mặc dù mẫu しました đã học cũng có thể diễn tả việc hoàn tất một hành động nào đó, nhưng sử dụng mẫu Vて しまいます / しまいました sẽ giúp nhấn mạnh rằng một hành động nào đó đã thực sự, hoàn toàn kết thúc. Vì vậy, mẫu Vて しまいました / しまいます thường được dùng kèm với các trạng từ nhưもう・全部. (xem VD1 và VD2 ở trên)."
+        },
+        {
+          "type": "text",
+          "text": "- Mẫu Vてしまう dùng để diễn tả việc người nói sẽ hoàn thành một hành động nào đó trong tương lai."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3：　 昼ごはんまでに　レポートを　書いて　しまいます。 Tôi sẽ viết xong bản báo cáo trước bữa trưa.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Mẫu câu V\nてしまいました\ndùng để nhấn mạnh một hành động hay một sự kiện đã được hoàn tất.\n例1\n：\nハイさんが\n持\nって\n来\nた　ワインは\n全部\n飲\nんで　しまいました。\nTôi đã uống hết tất cả số rượu mà anh Hải đem tới rồi.\n例2\n：\n漢字\nの\n宿題\nは　もう　やって　しまいました。\nBài tập chữ Hán thì tôi đã làm hết rồi.\n- Mặc dù mẫu\nしました\nđã học cũng có thể diễn tả việc hoàn tất một hành động nào đó, nhưng sử dụng mẫu V\nて しまいます\n/\nしまいました\nsẽ giúp nhấn mạnh rằng một hành động nào đó đã thực sự, hoàn toàn kết thúc. Vì vậy, mẫu V\nて しまいました\n/\nしまいます\nthường được dùng kèm với các trạng từ như\nもう・\n全部\n. (xem VD1 và VD2 ở trên).\n- Mẫu V\nてしまう\ndùng để diễn tả việc người nói sẽ hoàn thành một hành động nào đó trong tương lai.\n例3\n：\n昼\nごはんまでに　レポートを\n書\nいて　しまいます。\nTôi sẽ viết xong bản báo cáo trước bữa trưa.",
+      "ruby": [
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "全部",
+          "readings": [
+            "ぜんぶ"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "例2：",
+          "readings": []
+        },
+        {
+          "text": "漢字",
+          "readings": [
+            "かんじ"
+          ]
+        },
+        {
+          "text": "宿題",
+          "readings": [
+            "しゅくだい"
+          ]
+        },
+        {
+          "text": "全部",
+          "readings": [
+            "ぜんぶ"
+          ]
+        },
+        {
+          "text": "昼",
+          "readings": [
+            "ひる"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box242",
+      "title": "4. Vてしまいました",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu này dùng để diễn tả cảm giác nuối tiếc của người nói về một việc gì đó xảy ra không thể nào cứu vãn được."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 パスポートを　なくして　しまいました。 Tôi làm mất hộ chiếu mất rồi. 例2：　 パソコンが　故障して　しまいました。 Máy tính bị hỏng mất rồi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Mặc dù việc người nói đánh mất hộ chiếu hay chiếc máy tính bị hỏng có thể diễn tả đơn giản bằng cách sử dụng なくしました hay故障しました, song như vậy sẽ không diễn tả được cảm giác buồn bực hay nuối tiếc, ân hận của người nói trước sự việc đã xảy ra."
+        }
+      ],
+      "text": "Mẫu này dùng để diễn tả\ncảm giác nuối tiếc\ncủa người nói về một việc gì đó xảy ra không thể nào cứu vãn được.\n例1\n：\nパスポートを　なくして　しまいました。\nTôi làm mất hộ chiếu mất rồi.\n例2\n：\nパソコンが\n故障\nして　しまいました。\nMáy tính bị hỏng mất rồi.\n- Mặc dù việc người nói đánh mất hộ chiếu hay chiếc máy tính bị hỏng có thể diễn tả đơn giản bằng cách sử dụng\nなくしました\nhay\n故障\nしました\n, song như vậy sẽ không diễn tả được cảm giác buồn bực hay nuối tiếc, ân hận của người nói trước sự việc đã xảy ra.",
+      "ruby": [
+        {
+          "text": "故障",
+          "readings": [
+            "こしょう"
+          ]
+        },
+        {
+          "text": "故障",
+          "readings": [
+            "こしょう"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box243",
+      "title": "5. ありました",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong các bài trước, các bạn đã được học あります dùng để chỉ sự tồn tại của một vật nào đó. Tuy vậy, ありました còn có thể được sử dụng với nghĩa là người nói đã tìm thấy cái gì đó ( mà ở đây là chiếc cặp) chứ không phải chỉ được sử dụng để chỉ sự tồn tại của một vật nào đó trong quá khứ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 前には　ここに　フォーの　店が　ありました。 Trước kia ở đây có một cửa hàng phở. => ありました　trong ví dụ trên chỉ sự tồn tại của cửa hàng phở trong quá khứ. - Xét tình huống sau. A thấy B đang tìm kiếm gì đó, liền hỏi B như sau: 例2：　 A : 何を　探していますか。 Bạn đang tìm gì thế? B : かばんを　探しています。　あ、ありました。 Tôi đang tìm chiế cặp. A, đây rồi ( tôi thấy rồi).",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trong các bài trước, các bạn đã được học\nあります\ndùng để chỉ sự tồn tại của một vật nào đó. Tuy vậy,\nありました\ncòn có thể được sử dụng với nghĩa là người nói đã tìm thấy cái gì đó ( mà ở đây là chiếc cặp) chứ không phải chỉ được sử dụng để chỉ sự tồn tại của một vật nào đó trong quá khứ.\n例1\n：\n前\nには　ここに　フォーの\n店\nが　ありました。\nTrước kia ở đây có một cửa hàng phở.\n=>\nありました\ntrong ví dụ trên chỉ sự tồn tại của cửa hàng phở trong quá khứ.\n- Xét tình huống sau. A thấy B đang tìm kiếm gì đó, liền hỏi B như sau:\n例2\n：\nA\n:\n何\nを\n探\nしていますか。\nBạn đang tìm gì thế?\nB\n:\nかばんを\n探\nしています。　あ、ありました。\nTôi đang tìm chiế cặp. A, đây rồi ( tôi thấy rồi).",
+      "ruby": [
+        {
+          "text": "前",
+          "readings": [
+            "まえ"
+          ]
+        },
+        {
+          "text": "店",
+          "readings": [
+            "みせ"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "探",
+          "readings": [
+            "さが"
+          ]
+        },
+        {
+          "text": "探",
+          "readings": [
+            "さが"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box244",
+      "title": "6. どこかで / どこかに :",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong bài 13, các bạn đã được học rằng trợ từ へ trong　どこかへ　và をtrong なにかをcó thể được giản lược. Tuy vậy, trợ từで trongどこかで và に trongどこかに thì không được giản lược mà phải giữ nguyên."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 どこかで　財布を　なくして　しまいました。 Tôi đã làm mất tiêu chiếc ví ở đâu đó rồi. 例2：　 どこかに　電話が　ありませんか。 Có cái điện thoại nào ở đâu đây không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trong bài 13, các bạn đã được học rằng trợ từ\nへ\ntrong\nどこかへ\nvà\nを\ntrong\nなにかを\ncó thể được giản lược. Tuy vậy, trợ từ\nで\ntrong\nどこかで\nvà\nに\ntrong\nどこかに\nthì không được giản lược mà phải giữ nguyên.\n例1\n：\nどこかで\n財布\nを　なくして　しまいました。\nTôi đã làm mất tiêu chiếc ví ở đâu đó rồi.\n例2\n：\nどこかに\n電話\nが　ありませんか。\nCó cái điện thoại nào ở đâu đây không?",
+      "ruby": [
+        {
+          "text": "財布",
+          "readings": [
+            "さいふ"
+          ]
+        },
+        {
+          "text": "電話",
+          "readings": [
+            "でんわ"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1．"
+        },
+        {
+          "type": "text",
+          "text": "例：この店（で）はカード（で）買い物できません。"
+        },
+        {
+          "type": "text",
+          "text": "1） このスーパー（　）夜９時（　）あいています。"
+        },
+        {
+          "type": "text",
+          "text": "2） 電車の網棚（　）忘れ物（　）してしまいました。"
+        },
+        {
+          "type": "text",
+          "text": "3） このかばん（　　）はポケット（　）たくさん付いています。"
+        },
+        {
+          "type": "text",
+          "text": "4） 切符をなくしたら、駅員（　）行ってください。"
+        },
+        {
+          "type": "text",
+          "text": "5） どこか（　）ちょっと休みませんか。"
+        },
+        {
+          "type": "text",
+          "text": "6） パンチはどこですか。"
+        },
+        {
+          "type": "text",
+          "text": "…えーと、どこか（　）あると思いますよ。"
+        },
+        {
+          "type": "text",
+          "text": "2．"
+        },
+        {
+          "type": "text",
+          "text": "例：｛ガラス、コップ、お皿｝でビールを飲みます。"
+        },
+        {
+          "type": "text",
+          "text": "１）｛ちゃわん、袋、木の枝｝か折れています。"
+        },
+        {
+          "type": "text",
+          "text": "２）｛ガラス、ちゃわん、シャツ｝が破れてしまいました。"
+        },
+        {
+          "type": "text",
+          "text": "３）｛ボタン、ボケット、財布｝が外れていますよ。"
+        },
+        {
+          "type": "text",
+          "text": "４）コップが｛割れました、折れました、破れました｝。"
+        },
+        {
+          "type": "text",
+          "text": "５）傘が｛割れて、壊れて、故障して｝しまいました。"
+        },
+        {
+          "type": "text",
+          "text": "3．"
+        },
+        {
+          "type": "text",
+          "text": "例：時計が（止まっています）から、時間がわかりません。"
+        },
+        {
+          "type": "text",
+          "text": "１）エアコンが（　　　　）から、窓を開けないでください。"
+        },
+        {
+          "type": "text",
+          "text": "２）道が（　　　　）から、約束の時間に間に合いませんでした。"
+        },
+        {
+          "type": "text",
+          "text": "３）コップが（　　　　）から、洗ってください。"
+        },
+        {
+          "type": "text",
+          "text": "４）けさは電車が（　　　　）から、座れました。"
+        },
+        {
+          "type": "text",
+          "text": "５）隣のうちは電気が（　　　　）から、だれもいないと思います。"
+        },
+        {
+          "type": "text",
+          "text": "６）プイクスが（　　　　）から、修理してもらわなければなりません。"
+        },
+        {
+          "type": "text",
+          "text": "７）寒いですね。…あ、窓が（　　　　）から、閉めましょう。"
+        },
+        {
+          "type": "text",
+          "text": "８）会議室はかぎが（　　　　）から、いつでも入れますよ。"
+        },
+        {
+          "type": "text",
+          "text": "９）あそこに大きい車が（　　　　）んですが、だれが止めたんですか。"
+        },
+        {
+          "type": "text",
+          "text": "１０）この鞄、ずいぶん重いですね。何が（　　　　）んですが。"
+        },
+        {
+          "type": "text",
+          "text": "4．"
+        },
+        {
+          "type": "text",
+          "text": "例：ちょっとお茶でも飲みませんか。"
+        },
+        {
+          "type": "text",
+          "text": "…すみません。この資料をファクスで送ってしまいますから。"
+        },
+        {
+          "type": "text",
+          "text": "1） ミラーさんにもらったケーキは？"
+        },
+        {
+          "type": "text",
+          "text": "…もう全部＿＿＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "2） その本、おもしろいですか。"
+        },
+        {
+          "type": "text",
+          "text": "…ええ。わたしはもう＿＿＿＿＿＿＿＿＿＿から、貸しましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "3） いっしょに帰りませんか。"
+        },
+        {
+          "type": "text",
+          "text": "…すみません。あしたの会議の準備を＿＿＿＿＿＿＿＿から、お先に"
+        },
+        {
+          "type": "text",
+          "text": "どうぞ。"
+        },
+        {
+          "type": "text",
+          "text": "4） レポートはもう書きましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…いいえ、まだです。あしたから忙しくなりますから忙しくなります"
+        },
+        {
+          "type": "text",
+          "text": "から、今晩＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "5） 部長は何時に出かけるんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…もう＿＿＿＿＿＿＿＿＿よ。"
+        },
+        {
+          "type": "text",
+          "text": "5．"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "落とします、捨てます、結婚します、まちがえます、破れます、忘れます、折れます、売れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "例：あの人の名前、この間聞いたんですが、忘れしてしまいました。"
+        },
+        {
+          "type": "text",
+          "text": "1） わたしが結婚したかった人は、ほかの人と＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "2） ここに置いた雑誌がないんですが…。"
+        },
+        {
+          "type": "text",
+          "text": "…あ、すみません。ごみの日に＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "3） 袋が＿＿＿＿＿＿＿＿んですが、変えていただけませんか。"
+        },
+        {
+          "type": "text",
+          "text": "4） すみませんが、細かいお金を２００円貸していただけませんか。どこかで"
+        },
+        {
+          "type": "text",
+          "text": "財布を＿＿＿＿＿＿＿＿＿んです。"
+        },
+        {
+          "type": "text",
+          "text": "5） この靴、デザインはいいんですが、色がちょっと…。黒いのはありま"
+        },
+        {
+          "type": "text",
+          "text": "せんか。…すみません。あったんですが、＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "6） 遅かったですね。どうしたんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…すみません。道を＿＿＿＿＿＿＿＿んです。"
+        }
+      ],
+      "text": "1\n．\n例\n：この\n店\n（で）は\nカ\nー\nド\n（で）\n買\nい\n物\nできません。\n1\n）\nこの\nス\nー\nパ\nー（　）\n夜\n９\n時\n（　）あいています。\n2\n）\n電車\nの\n網棚\n（　）\n忘\nれ\n物\n（　）してしまいました。\n3\n）\nこのかばん（　　）は\nポケット\n（　）たくさん\n付\nいています。\n4\n）\n切符\nをなくしたら、\n駅員\n（　）\n行\nってください。\n5\n）\nどこか（　）ちょっと\n休\nみませんか。\n6\n）\nパンチ\nはどこですか。\n…\nえーと、どこか（　）あると\n思\nいますよ。\n2\n．\n例：｛\nガラス\n、\nコップ\n、お\n皿\n｝で\nビ\nー\nル\nを\n飲\nみます。\n１）｛ちゃわん、\n袋\n、\n木\nの\n枝\n｝か\n折\nれています。\n２）｛ガラス、ちゃわん、シャツ｝が\n破\nれてしまいました。\n３）｛ボタン、ボケット、\n財布\n｝が\n外\nれていますよ。\n４）コップが｛\n割\nれました、\n折\nれました、\n破\nれました｝。\n５）\n傘\nが｛\n割\nれて、\n壊\nれて、\n故障\nして｝しまいました。\n3\n．\n例\n：\n時計\nが（\n止\nまって\nいます\n）から、\n時間\nがわかりません。\n１）\nエアコン\nが（　　　　）から、\n窓\nを\n開\nけないでください。\n２）\n道\nが（　　　　）から、\n約束\nの\n時間\nに\n間\nに\n合\nいませんでした。\n３）\nコップ\nが（　　　　）から、\n洗\nってください。\n４）けさは\n電車\nが（　　　　）から、\n座\nれました。\n５）\n隣\nのうちは\n電気\nが（　　　　）から、だれもいないと\n思\nいます。\n６）\nプイクス\nが（　　　　）から、\n修理\nしてもらわなければなりません。\n７）\n寒\nいですね。\n…\nあ、\n窓\nが（　　　　）から、\n閉\nめましょう。\n８）\n会議室\nはかぎが（　　　　）から、いつでも\n入\nれますよ。\n９）あそこに\n大\nきい\n車\nが（　　　　）んですが、だれが\n止\nめたんですか。\n１０）この\n鞄\n、ずいぶん\n重\nいですね。\n何\nが（　　　　）んですが。\n4\n．\n例：ちょっとお\n茶\nでも\n飲\nみませんか。\n…\nすみません。この\n資料\nを\nファクス\nで\n送\nってしまいます\nから。\n1\n）\nミラーさんにもらったケーキは？\n…\nもう\n全部\n＿＿＿＿＿＿＿＿＿＿。\n2\n）\nその\n本\n、おもしろいですか。\n…\nええ。わたしはもう＿＿＿＿＿＿＿＿＿＿から、\n貸\nしましょうか。\n3\n）\nいっしょに\n帰\nりませんか。\n…\nすみません。あしたの\n会議\nの\n準備\nを＿＿＿＿＿＿＿＿から、お\n先\nに\nどうぞ。\n4\n）\nレポートはもう\n書\nきましたか。\n…\nいいえ、まだです。あしたから\n忙\nしくなりますから\n忙\nしくなります\nから、\n今晩\n＿＿＿＿＿＿＿＿。\n5\n）\n部長\nは\n何時\nに\n出\nかけるんですか。\n…\nもう＿＿＿＿＿＿＿＿＿よ。\n5\n．\n落\nとします、\n捨\nてます、\n結婚\nします、まちがえます、\n破\nれます、\n忘\nれます\n、\n折\nれま\nす、\n売\nれます\n例：あの\n人\nの\n名前\n、この\n間聞\nいたんですが、\n忘\nれしてしまいました\n。\n1\n）\nわたしが\n結婚\nしたかった\n人\nは、ほかの\n人\nと＿＿＿＿＿＿＿＿。\n2\n）\nここに\n置\nいた\n雑誌\nがないんですが\n…\n。\n…\nあ、すみません。ごみの\n日\nに＿＿＿＿＿＿＿＿。\n3\n）\n袋\nが＿＿＿＿＿＿＿＿んですが、\n変\nえていただけませんか。\n4\n）\nすみませんが、\n細\nかいお\n金\nを２００\n円貸\nしていただけませんか。どこかで\n財布\nを＿＿＿＿＿＿＿＿＿んです。\n5\n）\nこの\n靴\n、\nデザイン\nはいいんですが、\n色\nがちょっと\n…\n。\n黒\nいのはありま\nせんか。\n…\nすみません。あったんですが、＿＿＿＿＿＿＿＿。\n6\n）\n遅\nかったですね。どうしたんですか。\n…\nすみません。\n道\nを＿＿＿＿＿＿＿＿んです\n。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "店",
+          "readings": [
+            "みせ"
+          ]
+        },
+        {
+          "text": "カ",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "ド",
+          "readings": [
+            "ど"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "ス",
+          "readings": [
+            "す"
+          ]
+        },
+        {
+          "text": "パ",
+          "readings": [
+            "ぱ"
+          ]
+        },
+        {
+          "text": "夜",
+          "readings": [
+            "よる"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "電車",
+          "readings": [
+            "でんしゃ"
+          ]
+        },
+        {
+          "text": "網棚",
+          "readings": [
+            "あみだな"
+          ]
+        },
+        {
+          "text": "忘",
+          "readings": [
+            "わす"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "ポケット",
+          "readings": [
+            "ぽけっと"
+          ]
+        },
+        {
+          "text": "付",
+          "readings": [
+            "つ"
+          ]
+        },
+        {
+          "text": "切符",
+          "readings": [
+            "きっぷ"
+          ]
+        },
+        {
+          "text": "駅員",
+          "readings": [
+            "えきいん"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "パンチ",
+          "readings": [
+            "ぱんち"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "ガラス",
+          "readings": [
+            "がらす"
+          ]
+        },
+        {
+          "text": "コップ",
+          "readings": [
+            "こっぷ"
+          ]
+        },
+        {
+          "text": "皿",
+          "readings": [
+            "さら"
+          ]
+        },
+        {
+          "text": "ビ",
+          "readings": [
+            "び"
+          ]
+        },
+        {
+          "text": "ル",
+          "readings": [
+            "る"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "袋",
+          "readings": [
+            "ふくろ"
+          ]
+        },
+        {
+          "text": "木",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "枝",
+          "readings": [
+            "えだ"
+          ]
+        },
+        {
+          "text": "折",
+          "readings": [
+            "お"
+          ]
+        },
+        {
+          "text": "破",
+          "readings": [
+            "やぶ"
+          ]
+        },
+        {
+          "text": "財布",
+          "readings": [
+            "さいふ"
+          ]
+        },
+        {
+          "text": "外",
+          "readings": [
+            "はず"
+          ]
+        },
+        {
+          "text": "割",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "折",
+          "readings": [
+            "お"
+          ]
+        },
+        {
+          "text": "破",
+          "readings": [
+            "やぶ"
+          ]
+        },
+        {
+          "text": "傘",
+          "readings": [
+            "かさ"
+          ]
+        },
+        {
+          "text": "割",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "壊",
+          "readings": [
+            "こわ"
+          ]
+        },
+        {
+          "text": "故障",
+          "readings": [
+            "こしょう"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "時計",
+          "readings": [
+            "とけい"
+          ]
+        },
+        {
+          "text": "止",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "エアコン",
+          "readings": [
+            "えあこん"
+          ]
+        },
+        {
+          "text": "窓",
+          "readings": [
+            "まど"
+          ]
+        },
+        {
+          "text": "開",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "道",
+          "readings": [
+            "みち"
+          ]
+        },
+        {
+          "text": "約束",
+          "readings": [
+            "やくそく"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "間",
+          "readings": [
+            "ま"
+          ]
+        },
+        {
+          "text": "合",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "コップ",
+          "readings": [
+            "こっぷ"
+          ]
+        },
+        {
+          "text": "洗",
+          "readings": [
+            "あら"
+          ]
+        },
+        {
+          "text": "電車",
+          "readings": [
+            "でんしゃ"
+          ]
+        },
+        {
+          "text": "座",
+          "readings": [
+            "すわ"
+          ]
+        },
+        {
+          "text": "隣",
+          "readings": [
+            "となり"
+          ]
+        },
+        {
+          "text": "電気",
+          "readings": [
+            "でんき"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "プイクス",
+          "readings": [
+            "ぷいくす"
+          ]
+        },
+        {
+          "text": "修理",
+          "readings": [
+            "しゅうり"
+          ]
+        },
+        {
+          "text": "寒",
+          "readings": [
+            "さむ"
+          ]
+        },
+        {
+          "text": "窓",
+          "readings": [
+            "まど"
+          ]
+        },
+        {
+          "text": "閉",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "会議室",
+          "readings": [
+            "かいぎしつ"
+          ]
+        },
+        {
+          "text": "入",
+          "readings": [
+            "はい"
+          ]
+        },
+        {
+          "text": "大",
+          "readings": [
+            "おお"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "止",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "鞄",
+          "readings": [
+            "かばん"
+          ]
+        },
+        {
+          "text": "重",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "茶",
+          "readings": [
+            "ちゃ"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "資料",
+          "readings": [
+            "しりょう"
+          ]
+        },
+        {
+          "text": "ファクス",
+          "readings": [
+            "ふぁくす"
+          ]
+        },
+        {
+          "text": "送",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "全部",
+          "readings": [
+            "ぜんぶ"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "貸",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "帰",
+          "readings": [
+            "かえ"
+          ]
+        },
+        {
+          "text": "会議",
+          "readings": [
+            "かいぎ"
+          ]
+        },
+        {
+          "text": "準備",
+          "readings": [
+            "じゅんび"
+          ]
+        },
+        {
+          "text": "先",
+          "readings": [
+            "さき"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "忙",
+          "readings": [
+            "いそが"
+          ]
+        },
+        {
+          "text": "忙",
+          "readings": [
+            "いそが"
+          ]
+        },
+        {
+          "text": "今晩",
+          "readings": [
+            "こんばん"
+          ]
+        },
+        {
+          "text": "部長",
+          "readings": [
+            "ぶちょう"
+          ]
+        },
+        {
+          "text": "何時",
+          "readings": [
+            "なんじ"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "で"
+          ]
+        },
+        {
+          "text": "落",
+          "readings": [
+            "お"
+          ]
+        },
+        {
+          "text": "捨",
+          "readings": [
+            "す"
+          ]
+        },
+        {
+          "text": "結婚",
+          "readings": [
+            "けっこん"
+          ]
+        },
+        {
+          "text": "破",
+          "readings": [
+            "やぶ"
+          ]
+        },
+        {
+          "text": "忘",
+          "readings": [
+            "わす"
+          ]
+        },
+        {
+          "text": "折",
+          "readings": [
+            "お"
+          ]
+        },
+        {
+          "text": "売",
+          "readings": [
+            "う"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "ひと"
+          ]
+        },
+        {
+          "text": "名前",
+          "readings": [
+            "なまえ"
+          ]
+        },
+        {
+          "text": "間聞",
+          "readings": [
+            "かんき"
+          ]
+        },
+        {
+          "text": "忘",
+          "readings": [
+            "わす"
+          ]
+        },
+        {
+          "text": "結婚",
+          "readings": [
+            "けっこん"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "ひと"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "ひと"
+          ]
+        },
+        {
+          "text": "置",
+          "readings": [
+            "お"
+          ]
+        },
+        {
+          "text": "雑誌",
+          "readings": [
+            "ざっし"
+          ]
+        },
+        {
+          "text": "日",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "袋",
+          "readings": [
+            "ふくろ"
+          ]
+        },
+        {
+          "text": "変",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "細",
+          "readings": [
+            "こま"
+          ]
+        },
+        {
+          "text": "金",
+          "readings": [
+            "かね"
+          ]
+        },
+        {
+          "text": "円貸",
+          "readings": [
+            "えんか"
+          ]
+        },
+        {
+          "text": "財布",
+          "readings": [
+            "さいふ"
+          ]
+        },
+        {
+          "text": "靴",
+          "readings": [
+            "くつ"
+          ]
+        },
+        {
+          "text": "デザイン",
+          "readings": [
+            "でざいん"
+          ]
+        },
+        {
+          "text": "色",
+          "readings": [
+            "いろ"
+          ]
+        },
+        {
+          "text": "黒",
+          "readings": [
+            "くろ"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おそ"
+          ]
+        },
+        {
+          "text": "道",
+          "readings": [
+            "みち"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

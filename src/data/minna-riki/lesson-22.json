@@ -1,0 +1,944 @@
+{
+  "schemaVersion": 1,
+  "lesson": 22,
+  "title": "Từ vựng ngữ pháp Minna bài 22",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-22",
+  "fetchedAt": "2026-09-27T09:07:20.274347+00:00",
+  "sourceSha256": "20741ca2223680e1afa56669b7ac7a2d7dfc4c3cf11d1a19950c09d677aa97c7",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box120",
+      "title": "1. Từ vựng minna bài 22",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きます「シャツを～」",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "着ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mặc (áo sơ mi,..)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はきます「くつを～」",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mang (giày,…)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かぶります「ぼうしを～」",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đội (nón,…)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かけます「めがねを～」",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đeo (kính,…)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うまれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "生まれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sinh ra",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "コートー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "áo khoác",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "スーツ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "com-lê",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "セーター",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "áo len",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ぼうし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "帽子",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nón, mũ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "めがね",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "眼鏡",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "kính",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "よく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thường",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おめでとうございます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chúc mừng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こちら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cái này (cách nói lịch sử của “これ”)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やちん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "家賃",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tiền nhà",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うーん。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "để tôi xem/ừ/thế nào nhỉ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ダイニングキッチン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bếp kèm phòng ăn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "わしつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phòng kiểu Nhật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おしいれ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "押し入れ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chỗ để chăn gối trong phòng kiểu Nhật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふとん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "布団",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chăn,đệm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "アパート",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhà chung cư",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "パリ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Pa-ri",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ばんりのちょうじょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "万里の長城",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Vạn lý trường thành",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "よかかいはつセンター",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "余暇開発センター",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Trung tâm phát triển hoạt động giải trí cho người dân",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "レジャーはくしょ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "レジャー白書",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sách trắng về sử dụng thời gian rảnh rỗi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ vựng\nKanji\nÝ nghĩa\n1\nきます「シャツを～」\n着ます\nmặc (áo sơ mi,..)\n2\nはきます「くつを～」\nmang (giày,…)\n3\nかぶります「ぼうしを～」\nđội (nón,…)\n4\nかけます「めがねを～」\nđeo (kính,…)\n5\nうまれます\n生まれます\nsinh ra\n6\nコートー\náo khoác\n7\nスーツ\ncom-lê\n8\nセーター\náo len\n9\nぼうし\n帽子\nnón, mũ\n10\nめがね\n眼鏡\nkính\n11\nよく\nthường\n12\nおめでとうございます\nChúc mừng\n13\nこちら\ncái này (cách nói lịch sử của “これ”)\n14\nやちん\n家賃\ntiền nhà\n15\nうーん。\nđể tôi xem/ừ/thế nào nhỉ\n16\nダイニングキッチン\nbếp kèm phòng ăn\n17\nわしつ\nphòng kiểu Nhật\n18\nおしいれ\n押し入れ\nchỗ để chăn gối trong phòng kiểu Nhật\n19\nふとん\n布団\nchăn,đệm\n20\nアパート\nnhà chung cư\n21\nパリ\nPa-ri\n22\nばんりのちょうじょう\n万里の長城\nVạn lý trường thành\n23\nよかかいはつセンター\n余暇開発センター\nTrung tâm phát triển hoạt động giải trí cho người dân\n24\nレジャーはくしょ\nレジャー白書\nsách trắng về sử dụng thời gian rảnh rỗi",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box122",
+      "title": "2. Mệnh đề định ngữ:",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/b0czI0X1ymQ",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Trong bài 2 và bài 8, chúng ta đã học cách dùng danh từ hoặc tính từ để bổ nghĩa cho danh từ:"
+        },
+        {
+          "type": "text",
+          "text": "ハイさんの　うち  :  Nhà của anh Hải"
+        },
+        {
+          "type": "text",
+          "text": "あたらしい　うち  :  Nhà mới"
+        },
+        {
+          "type": "text",
+          "text": "きれいな　うち    :    Nhà đẹp."
+        },
+        {
+          "type": "text",
+          "text": "Ngoài ra, câu văn thể thông thường cũng có thể bổ nghĩa cho danh từ. Khi đó, câu văn dùng để bổ nghĩa cho danh từ được gọi là mệnh đề định ngữ( viết tắt là MĐĐN)."
+        },
+        {
+          "type": "text",
+          "text": "Trong tiếng Nhật, từ hay mệnh đề dùng để bổ nghĩa cho danh từ luôn phải đứng trước danh từ."
+        },
+        {
+          "type": "text",
+          "text": "Khi sử dụng mệnh đề định ngữ để bổ nghĩa cho câu cần lưu ý các điểm sau đây:"
+        },
+        {
+          "type": "text",
+          "text": "a.Mệnh đề định ngữ phải ở thể thông thường và được đặt trực tiếp trước danh từ cần bổ nghĩa."
+        },
+        {
+          "type": "text",
+          "text": "Tuy nhiên, đối với câu tính từ đuôi な và câu danh từ ở thì không quá khứ, khẳng định thì cần lưu ý 2 điểm sau đây:"
+        },
+        {
+          "type": "text",
+          "text": "ü    Trong trường hợp câu văn dùng làm mệnh đề định ngữ là câu tính từ đuôi な thì thay ～だ　bằng ～な trước khi đặt trước danh từ cần bổ nghĩa."
+        },
+        {
+          "type": "text",
+          "text": "ü    Trong trường hợp câu văn dùng làm mệnh đề định ngữ là câu danh từ thì thay ～だ bằng ～の trước khi đặt trước danh từ cần bổ nghĩa."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： おんがくを　きいている 人 (は　ハイさんです） Người đang nghe nhạc ( là anh Hải). 例2： MĐĐN N にほんから　きた ともだち　（から　おみやげを　もらいまし た） (Tôi nhận được quà từ) người bạn đến từ Nhật 例3： MĐĐN N あした　こない 人　（が　いますか） Có ai ngày mai không đến không? 例4： MĐĐN N あの　せが　たかくて、かみが　ながい ひと（は　だれですか） Người cao, tóc dài kia ( là ai? ) 例5： これは）　わたしが　すきな　えいが（です） (Đây là) phim tôi thích? 例5： 10年まえ　とても　しずかだった ハイフォン （は　さいきん　に ぎやかに　なりました） Thành phố Hải phòng từng rất vắng vẻ 10 năm về trước ( gần đây đã trở nên nhộn nhịp )",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "b. Trong một câu có danh từ thì bạn có thể lấy riêng danh từ đó ra và dùng các thành phần còn lại trong câu để tạo thành mệnh đề định ngữ bổ nghĩa cho danh từ đó:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例6： わたしは　せんしゅう　えいがを　みました。 その　えいがは　とても　おもしろかったです。 Tuần trước tôi đã xem phim. Phim đó rất hay.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong 2 câu ở trên đều xuất hiện えいが ==> ta có thể gộp 2 câu đơn đó vào thành 1 câu phức bằng cách dùng mệnh đề định ngữ cho danh từ えいが　như sau:"
+        },
+        {
+          "type": "text",
+          "text": "わたしは　せんしゅう　えいがを　みました ==>　わたしが　せんしゅう　みた　えいが"
+        },
+        {
+          "type": "text",
+          "text": "Tuần trước tôi đã xem phim                                ==>   Bộ phim mà tôi đã xem tuần trước"
+        },
+        {
+          "type": "text",
+          "text": "==>   わたしが　せんしゅう　みた　えいが　は　とても　おもしろかったです。"
+        },
+        {
+          "type": "text",
+          "text": "Bộ phim mà tuần trước tôi xem rất hay."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý:「わたしは　せんしゅう　えいがを　みました」là 1 câu, nhưng 「わたしが　せんしゅう　みた　えいが」"
+        },
+        {
+          "type": "text",
+          "text": "thì chỉ là một danh từ có mệnh đề định ngữ đi kèm, không phải là 1 câu hoàn chỉnh."
+        },
+        {
+          "type": "text",
+          "text": "Tương tự ta có các VD sau đây:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例7： ハイさんは　ぎんこうで　はたらいています。その　ぎんこう ABCぎんこうです。 Anh Hải đang làm việc ở ngân hàng. Ngân hàng đó là ngân hàng ABC. Tạo mệnh đề định ngữ : ハイさんは　ぎんこうで　はたらいていますà　ハイさんが　 はた らいている　ぎんこう Anh Hải đang làm việc ở ngân hàng ==> Ngân hàng mà anh Hải đang làm việc. ==> ハイさんが　はたらいている　ぎんこうは　ABCぎんこうです。 Ngân hàng mà anh Hải đang làm việc là ngân hàng ABC. 例8： わたしは　あした　ともだちに　あいます。その　ともだちは　 日本人です。 Tôi sẽ gặp bạn ngày mai. Người bạn đó là người Nhật. Tạo mệnh đề định ngữ: わたしは　あした　ともだちに　あいます ==>　わたしが　 あした　あうともだち Tôi sẽ gặp bạn ngày mai ==> Người bạn tôi sẽ gặp ngày mai. ==> わたしが　あした　あう　ともだちは　にほんじんです。 Người bạn tôi sẽ gặp ngày mai là người Nhật. Khi các danh từ được gạch dưới trong ví dụ 6,7,8 được bổ nghĩa, thì trong mệnh đề định ngữ không cần phải có các trợ từ （VD:を、で、に）đi kèm với chúng nữa.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "c. Danh từ được bổ nghĩa bằng mệnh đề định ngữ có thể được sử dụng trong câu với các vai trò khác nhau :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例9： これは　ハイさんが　すんでいた　うちです。 Đây là ngôi nhà anh Hải đã từng sống. 例10： ハイさんが　すんでいた　うちは　とても　ふるいです。 Ngôi nhà anh Hải đã từng sống rất cũ. 例11： ハイさんが　すんでいた　うちを　かいました。 Tôi đã mua ngôi nhà mà anh Hải đã từng sống. 例12： わたしは　ハイさんが　すんでいた　うちが　すきです。 Tôi thích ngôi nhà anh Hải đã từng sống. 例13： ハイさんが　すんでいた　うちに　ねこが　いました。 Trong ngôi nhà anh Hải đã từng sống có con mèo. 例14： ハイさんが　すんでいた　うちに　いったことが　ありまか。 Bạn đã đến ngôi nhà anh Hải đã từng sống bao giờ chưa?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "d. Khi một câu văn được dùng làm định ngữ cho danh từ, chủ thể của hành động/tính từ/ danh từ ở mệnh đề định ngữ được biểu thị bằng trợ từ が( chứ không phải は) vì nó không phải là chủ đề của câu chính."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例15： なりたさんは　ケーキを　つくりました。 Chị Narita đã làm bánh. MĐĐN N これは [なりたさんが　つくった]　ケーキです。 Đây là cái bánh chị Narita đã làm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Có thể thấy trong ví dụ trên:"
+        },
+        {
+          "type": "text",
+          "text": "-Ở câu đầu tiên, chị Narita là chủ đề của câuà đứng trước は"
+        },
+        {
+          "type": "text",
+          "text": "- Ở câu thứ 2, chị Narita chỉ còn là chủ thể của hành động làm bánh, là chủ ngữ của mệnh đề định ngữ bổ nghĩa cho danh từ, còn chủ đề của câu là これà dùng が"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例16： MĐĐN N わたしは　[やまださんが　かいた]　えが　すきですす。 Tôi thích tranh anh Yamada vẽ. 例17： MĐĐN N あなたは）[かれが　うまれた] ところを　しっていますか。 Bạn có biết nơi anh ấy đã ra đời không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trong bài 2 và bài 8, chúng ta đã học cách dùng danh từ hoặc tính từ để bổ nghĩa cho danh từ:\nハイさんの　うち\n:  Nhà của anh Hải\nあたらしい　うち\n:  Nhà mới\nきれいな　うち\n:    Nhà đẹp.\nNgoài ra, câu văn thể thông thường cũng có thể bổ nghĩa cho danh từ. Khi đó, câu văn dùng để bổ nghĩa cho danh từ được gọi là\nmệnh đề định ngữ\n( viết tắt là MĐĐN).\nTrong tiếng Nhật, từ hay mệnh đề dùng để bổ nghĩa cho danh từ\nluôn phải đứng trước danh từ.\nKhi sử dụng mệnh đề định ngữ để bổ nghĩa cho câu cần lưu ý các điểm sau đây:\na.\nMệnh đề định ngữ phải\nở thể thông thường\nvà được\nđặt trực tiếp trước\ndanh từ cần bổ nghĩa.\nTuy nhiên, đối với\ncâu tính từ đuôi\nな\nvà\ncâu danh từ\nở thì\nkhông quá khứ, khẳng định\nthì cần lưu ý 2 điểm sau đây:\nü\nTrong trường hợp câu văn dùng làm mệnh đề định ngữ là câu tính từ đuôi\nな\nthì thay\n～\nだ\nbằng\n～\nな\ntrước khi đặt trước danh từ cần bổ nghĩa.\nü\nTrong trường hợp câu văn dùng làm mệnh đề định ngữ là câu danh từ thì thay\n～だ\nbằng\n～の\ntrước khi đặt trước danh từ cần bổ nghĩa.\n例1\n：\nおんがくを\nきいている\n人\n(は　ハイさんです）\nNgười đang nghe nhạc ( là anh Hải).\n例2\n：\nMĐĐN\nN\nにほんから　きた\nともだち\n（から　おみやげを　もらいまし\nた）\n(Tôi nhận được quà từ) người bạn đến từ Nhật\n例3\n：\nMĐĐN\nN\nあした　こない\n人\n（が　いますか）\nCó ai ngày mai không đến không?\n例4\n：\nMĐĐN\nN\nあの\nせが　たかくて、かみが　ながい\nひと\n（は　だれですか）\nNgười cao, tóc dài kia ( là ai? )\n例5\n：\nこれは）\nわたしが　すき\nな\nえいが\n（です）\n(Đây là) phim tôi thích\n?\n例5\n：\n10\n年まえ　とても　しずかだった\nハイフォン\n（は　さいきん　に\nぎやかに　なりました）\nThành phố Hải phòng từng rất vắng vẻ 10 năm về trước\n( gần đây đã trở nên nhộn nhịp )\nb. Trong một câu có danh từ thì bạn có thể lấy riêng danh từ đó ra và dùng các thành phần còn lại trong câu để tạo thành mệnh đề định ngữ bổ nghĩa cho danh từ đó:\n例6\n：\nわたしは　せんしゅう\nえいが\nを　みました。\nその\nえいが\nは\nとても　おもしろかったです。\nTuần trước tôi đã xem phim. Phim đó rất hay.\nTrong 2 câu ở trên đều xuất hiện\nえいが ==>\nta có thể gộp 2 câu đơn đó vào thành 1 câu phức bằng cách dùng mệnh đề định ngữ cho danh từ\nえいが\nnhư sau:\nわたしは　せんしゅう\nえいが\nを　みました\n==>\nわたしが　せんしゅう　みた\nえいが\nTuần trước tôi đã xem phim                                ==>\nBộ phim mà tôi đã xem tuần trước\n==>\nわたしが　せんしゅう　みた\nえいが\nは　とても　おもしろかったです。\nBộ phim\nmà tuần trước tôi xem\nrất hay.\nLưu ý\n:\n「わたしは　せんしゅう\nえいが\nを　みました」\nlà 1 câu, nhưng\n「わたしが　せんしゅう　みた　えいが」\nthì\nchỉ là một danh từ có mệnh đề định ngữ đi kèm\n, không phải là 1 câu hoàn chỉnh.\nTương tự ta có các VD sau đây:\n例7\n：\nハイさんは\nぎんこう\nで　はたらいています。その　ぎんこう\nABC\nぎんこう\nです。\nAnh Hải đang làm việc ở ngân hàng. Ngân hàng đó là ngân hàng\nABC.\nTạo mệnh đề định ngữ :\nハイさんは\nぎんこう\nで　はたらいています\nà\nハイさんが\nはた\nらいている\nぎんこう\nAnh Hải đang làm việc ở ngân hàng\n==>     Ngân hàng mà anh Hải đang làm việc.\n==>\nハイさんが　はたらいている\nぎんこう\nは\nABC\nぎんこうです。\nNgân hàng\nmà anh Hải đang làm việc\nlà ngân hàng ABC.\n例8\n：\nわたしは　あした\nともだち\nに　あいます。その\nともだち\nは\n日本人です。\nTôi sẽ gặp bạn ngày mai. Người bạn đó là người Nhật.\nTạo mệnh đề định ngữ:\nわたしは　あした\nともだち\nに　あいます ==>\nわたしが\nあした　あう\nともだち\nTôi sẽ gặp bạn ngày mai  ==>\nNgười bạn tôi sẽ gặp ngày mai.\n==>\nわたしが　あした　あう\nともだち\nは　にほんじんです。\nNgười bạn\ntôi sẽ gặp ngày mai\nlà người Nhật.\nKhi các danh từ được gạch dưới trong ví dụ 6,7,8 được bổ nghĩa, thì trong mệnh đề định ngữ không cần phải có các trợ từ\n（\nVD:\nを、で、に）\nđi kèm với chúng nữa.\nc. Danh từ được bổ nghĩa bằng mệnh đề định ngữ có thể được sử dụng trong câu với các vai trò khác nhau :\n例9\n：\nこれは\nハイさんが　すんでいた　うち\nです。\nĐây là ngôi nhà anh Hải đã từng sống.\n例10\n：\nハイさんが　すんでいた　うち\nは　とても　ふるいです。\nNgôi nhà anh Hải đã từng sống rất cũ.\n例11\n：\nハイさんが　すんでいた　うち\nを　かいました。\nTôi đã mua ngôi nhà mà anh Hải đã từng sống.\n例12\n：\nわたしは\nハイさんが　すんでいた　うち\nが　すきです。\nTôi thích ngôi nhà anh Hải đã từng sống.\n例13\n：\nハイさんが　すんでいた　うち\nに　ねこが　いました。\nTrong ngôi nhà anh Hải đã từng sống có con mèo.\n例14\n：\nハイさんが　すんでいた　うち\nに　いったことが　ありまか。\nBạn đã đến ngôi nhà anh Hải đã từng sống bao giờ chưa?\nd.\nKhi một câu văn được dùng làm định ngữ cho danh từ, chủ thể của hành động/tính từ/ danh từ ở mệnh đề định ngữ được biểu thị\nbằng trợ từ\nが\n( chứ không phải\nは\n) vì nó không phải là chủ đề của câu chính.\n例15\n：\nなりたさん\nは\nケーキを　つくりました\n。\nChị Narita đã làm bánh.\nMĐĐN                                    N\nこれは\n[\nなりたさん\nが\nつくった\n]\nケーキ\nです。\nĐây là cái bánh chị Narita đã làm\nCó thể thấy trong ví dụ trên:\n-Ở câu đầu tiên, chị Narita là chủ đề của câu\nà\nđứng trước\nは\n- Ở câu thứ 2, chị Narita chỉ còn là chủ thể của hành động làm bánh, là chủ ngữ của mệnh đề định ngữ bổ nghĩa cho danh từ, còn chủ đề của câu là\nこれ\nà\ndùng\nが\n例16\n：\nMĐĐN                                    N\nわたし\nは\n[\nやまださん\nが\nかいた\n]\nえ\nが　すきです\nす。\nTôi thích tranh anh Yamada vẽ.\n例17\n：\nMĐĐN                        N\nあなた\nは\n）\n[\nかれ\nが\nうまれた\n]\nところ\nを　しっていますか\n。\nBạn có biết nơi anh ấy đã ra đời không?",
+      "ruby": [
+        {
+          "text": "おんがくを",
+          "readings": [
+            "MĐĐN"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "N"
+          ]
+        }
+      ],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/b0czI0X1ymQ",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box124",
+      "title": "3. Thể từ điển +　じかん/やくそく/ようじ",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/01PoJLNTwOI",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Khi muốn biểu đạt về thời gian để làm một việc gì đó, bạn có thể đặt động từ ở thể từ điển trước じかん để bổ nghĩa :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： わたしは　あさごはんを　たべる　じかんが　ありません。 Tôi không có thời gian để ăn sáng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Bạn cũng có thể dùng cách tương tự để nói về nội dung cuộc hẹn, việc.. của bạn bằng cách đặt thể từ điển của động từ diễn tả hành động đó trước các từ やくそく、ようじ,..."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例2： わたしは　ともだちと　えいがを　みる　やくそくが　あります。 Tôi có hẹn với bạn đi xem phim. 例3： きょうは　しやくしょへ　いくようじが　あります。 Hôm nay tôi có việc đi đến tòa thị chính.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Khi muốn biểu đạt về thời gian để làm một việc gì đó, bạn có thể đặt động từ ở thể từ điển trước\nじかん\nđể bổ nghĩa :\n例1\n：\nわたしは　あさごはんを　たべる　じかんが　ありません\n。\nTôi không có thời gian để ăn sáng\nBạn cũng có thể dùng cách tương tự để nói về nội dung cuộc hẹn, việc.. của bạn bằng cách đặt thể từ điển của động từ diễn tả hành động đó trước các từ\nやくそく、ようじ\n,...\n例2\n：\nわたしは　ともだちと　えいがを　みる　やくそくが　あります\n。\nTôi có hẹn với bạn đi xem phim\n.\n例3\n：\nきょうは　しやくしょへ　いくようじが　あります\n。\nHôm nay tôi có việc đi đến tòa thị chính\n.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/01PoJLNTwOI",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "よく　寝ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "図書館で　借りました",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お酒を　飲みません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "マリアさんから　来ました",
+                "rowSpan": "1",
+                "colSpan": "2"
+              },
+              {
+                "text": "庭が　あります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "例：よく　寝る　人は　元気です。"
+        },
+        {
+          "type": "text",
+          "text": "１）わたしは　______　うちが　欲しいです。"
+        },
+        {
+          "type": "text",
+          "text": "２）わたしは　______　人が　好きです。"
+        },
+        {
+          "type": "text",
+          "text": "３）______　本を　なくしました。"
+        },
+        {
+          "type": "text",
+          "text": "４）______　手紙は　机の　上に　あります。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例：あの　黒い　シャツを　着て　いる　人は　（だれ）　ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ミラーさんです。"
+        },
+        {
+          "type": "text",
+          "text": "１）ここに　あった　新聞は　（____）　ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  テレビの　上に　あります。"
+        },
+        {
+          "type": "text",
+          "text": "２）マリアさんが　作った　ケーキは　（____）　でしたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  とても　おいしかったです。"
+        },
+        {
+          "type": "text",
+          "text": "３）金閣寺へ　行く　バスは　（____）　ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  あれです。"
+        }
+      ],
+      "text": "1.\nよく　寝ます\n図書館で　借りました\nお酒を　飲みません\nマリアさんから　来ました\n庭が　あります\n例：\nよく　寝る\n人は　元気です。\n１）わたしは\n______\nうちが　欲しいです。\n２）わたしは\n______\n人が　好きです。\n３）\n______\n本を　なくしました。\n４）\n______\n手紙は　机の　上に　あります。\n2.\n例：あの　黒い　シャツを　着て　いる　人は　（\nだれ\n）　ですか。\n...\nミラーさんです。\n１）ここに　あった　新聞は　（\n____\n）　ですか。\n...\nテレビの　上に　あります。\n２）マリアさんが　作った　ケーキは　（\n____\n）　でしたか。\n...\nとても　おいしかったです。\n３）金閣寺へ　行く　バスは　（\n____\n）　ですか。\n...\nあれです。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "lesson": 36,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-36",
+  "solutions": [
+    {
+      "exerciseId": "36-section-6-exercise-1",
+      "question": "1. 健康（　）気を付けていますか。",
+      "context": "１．\n例：バス（で）学校（に）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "健康に気を付ける: chú ý sức khỏe."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-2",
+      "question": "2. 夜１０時（　）過ぎたら、電話をかけないほうがいいです。",
+      "context": "１．\n例：バス（で）学校（に）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ]
+      ],
+      "explanation": "１０時を過ぎる: quá 10 giờ."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-3",
+      "question": "3. 新しい仕事（　）やっと少し慣れました。",
+      "context": "１．\n例：バス（で）学校（に）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "仕事に慣れる: quen với công việc."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-4",
+      "question": "4. 剣道（　）試合（　）出られるように、毎日練習しています。",
+      "context": "１．\n例：バス（で）学校（に）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "剣道の試合に出る: tham gia trận đấu kiếm đạo."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-5",
+      "question": "5. 子供は甘い物が好きですね。ケーキ（　）、チョコレート（　）…",
+      "context": "１．\n例：バス（で）学校（に）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "とか"
+        ],
+        [
+          "とか"
+        ]
+      ],
+      "explanation": "ケーキとか、チョコレートとか: liệt kê các ví dụ, không giới hạn ở hai món này."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-6",
+      "question": "1. 明日早く＿＿＿＿＿＿＿ように、今晩早く寝ます。",
+      "context": "２．\n例１：キーを見ないでワープロが打てるように、練習しています。\n例２：道をまちがえないように、地図を持って行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "起きられる"
+        ]
+      ],
+      "explanation": "起きられるように: để có thể dậy sớm; ように nêu mục tiêu khả năng."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-7",
+      "question": "2. 大切な約束を＿＿＿＿＿＿＿＿ように、メモしておきます。",
+      "context": "２．\n例１：キーを見ないでワープロが打てるように、練習しています。\n例２：道をまちがえないように、地図を持って行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "忘れない"
+        ]
+      ],
+      "explanation": "忘れないように: để không quên hẹn."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-8",
+      "question": "3. お茶を飲みたいとき、いつでも＿＿＿＿＿＿ように、お湯が置いてあります。",
+      "context": "２．\n例１：キーを見ないでワープロが打てるように、練習しています。\n例２：道をまちがえないように、地図を持って行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲める"
+        ]
+      ],
+      "explanation": "飲めるように: để có thể uống bất cứ lúc nào."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-9",
+      "question": "4. 手紙が早く＿＿＿＿＿＿＿ように、速達で出しました。",
+      "context": "２．\n例１：キーを見ないでワープロが打てるように、練習しています。\n例２：道をまちがえないように、地図を持って行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "着く",
+          "届く"
+        ]
+      ],
+      "explanation": "手紙が着くように／届くように: để thư đến sớm."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-10",
+      "question": "5. 寒いですから、風を＿＿＿＿＿＿ように、気を付けてください。",
+      "context": "２．\n例１：キーを見ないでワープロが打てるように、練習しています。\n例２：道をまちがえないように、地図を持って行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "ひかない"
+        ]
+      ],
+      "explanation": "かぜをひかないように: để không bị cảm. Nguồn viết 風, trong cụm này thường viết 風邪 hoặc かぜ."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-11",
+      "question": "1. やっとショパンの曲が＿＿＿＿＿＿なりました。",
+      "context": "３．\n着られます、弾けます、踊れます、住めます、おしゃべりできます、置けません、帰れません、行けません、貯金します、かめません\n例１：タンゴがかなり踊れるようになりました。\n例２：用事ができましたから、今晩は飲みに行けなくなりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "弾けるように"
+        ]
+      ],
+      "explanation": "弾けるようになりました: đã có thể chơi bản nhạc Chopin."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-12",
+      "question": "2. 歯が悪くなると、硬い物が＿＿＿＿＿＿なります。",
+      "context": "３．\n着られます、弾けます、踊れます、住めます、おしゃべりできます、置けません、帰れません、行けません、貯金します、かめません\n例１：タンゴがかなり踊れるようになりました。\n例２：用事ができましたから、今晩は飲みに行けなくなりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "かめなく",
+          "噛めなく"
+        ]
+      ],
+      "explanation": "かめません → かめない → かめなくなります: trở nên không nhai được."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-13",
+      "question": "3. 狭い部屋に引っ越ししましたから、大きい家具が＿＿＿＿＿＿なりました。",
+      "context": "３．\n着られます、弾けます、踊れます、住めます、おしゃべりできます、置けません、帰れません、行けません、貯金します、かめません\n例１：タンゴがかなり踊れるようになりました。\n例２：用事ができましたから、今晩は飲みに行けなくなりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "置けなく"
+        ]
+      ],
+      "explanation": "置けない → 置けなくなりました: không còn đặt được đồ nội thất lớn."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-14",
+      "question": "4. 少しやせましたから、小さいサイズの服が＿＿＿＿＿＿なりました。",
+      "context": "３．\n着られます、弾けます、踊れます、住めます、おしゃべりできます、置けません、帰れません、行けません、貯金します、かめません\n例１：タンゴがかなり踊れるようになりました。\n例２：用事ができましたから、今晩は飲みに行けなくなりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "着られるように"
+        ]
+      ],
+      "explanation": "着られるようになりました: nay mặc vừa quần áo cỡ nhỏ."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-15",
+      "question": "5. 早く友達と日本語で＿＿＿＿＿＿＿＿なりたいです。",
+      "context": "３．\n着られます、弾けます、踊れます、住めます、おしゃべりできます、置けません、帰れません、行けません、貯金します、かめません\n例１：タンゴがかなり踊れるようになりました。\n例２：用事ができましたから、今晩は飲みに行けなくなりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "おしゃべりできるように"
+        ]
+      ],
+      "explanation": "おしゃべりできるようになりたい: muốn có thể trò chuyện với bạn bằng tiếng Nhật."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-16",
+      "question": "6. ７時までに帰るつもりでしたが、＿＿＿＿＿＿＿なってしまいました。",
+      "context": "３．\n着られます、弾けます、踊れます、住めます、おしゃべりできます、置けません、帰れません、行けません、貯金します、かめません\n例１：タンゴがかなり踊れるようになりました。\n例２：用事ができましたから、今晩は飲みに行けなくなりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰れなく"
+        ]
+      ],
+      "explanation": "帰れなくなってしまいました: hóa ra không về được trước 7 giờ."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-17",
+      "question": "7. いつかわたしたちは月に＿＿＿＿＿＿＿＿＿＿なるかもしれません。",
+      "context": "３．\n着られます、弾けます、踊れます、住めます、おしゃべりできます、置けません、帰れません、行けません、貯金します、かめません\n例１：タンゴがかなり踊れるようになりました。\n例２：用事ができましたから、今晩は飲みに行けなくなりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "住めるように"
+        ]
+      ],
+      "explanation": "住めるようになる: có thể sinh sống trên mặt trăng trong tương lai, không phải khẳng định thực tế hiện tại."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-18",
+      "question": "1. パソコンが＿＿＿＿＿＿ようになりましたか。\n…いいえ、まだほとんど使えません。",
+      "context": "４．\n例：自転車に乗れるようになりましたか。…いいえ、まだ乗れません。",
+      "status": "reference",
+      "answers": [
+        [
+          "使える"
+        ]
+      ],
+      "explanation": "使えるようになりましたか: đã dùng được máy tính chưa?"
+    },
+    {
+      "exerciseId": "36-section-6-exercise-19",
+      "question": "2. 漢字が書けるようになりましたか。\n…いいえ、まだあまり＿＿＿＿＿＿＿＿",
+      "context": "４．\n例：自転車に乗れるようになりましたか。…いいえ、まだ乗れません。",
+      "status": "reference",
+      "answers": [
+        [
+          "書けません"
+        ]
+      ],
+      "explanation": "まだあまり書けません: vẫn chưa viết được nhiều."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-20",
+      "question": "3. 日本語で電話が＿＿＿＿＿＿＿＿ようになりましたか。\n…いいえ、まだかけられません。",
+      "context": "４．\n例：自転車に乗れるようになりましたか。…いいえ、まだ乗れません。",
+      "status": "reference",
+      "answers": [
+        [
+          "かけられる"
+        ]
+      ],
+      "explanation": "電話がかけられるようになりましたか: đã gọi điện bằng tiếng Nhật được chưa?"
+    },
+    {
+      "exerciseId": "36-section-6-exercise-21",
+      "question": "4. どんな料理が作れるようになりましたか。\n…まだ簡単な料理しか＿＿＿＿＿＿＿＿＿。",
+      "context": "４．\n例：自転車に乗れるようになりましたか。…いいえ、まだ乗れません。",
+      "status": "reference",
+      "answers": [
+        [
+          "作れません"
+        ]
+      ],
+      "explanation": "しか + phủ định: vẫn chỉ nấu được món đơn giản."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-22",
+      "question": "5. 何メートルぐらい＿＿＿＿＿＿ようになりましたか。\n…まだ５メートルぐらいしか泳げません。",
+      "context": "４．\n例：自転車に乗れるようになりましたか。…いいえ、まだ乗れません。",
+      "status": "reference",
+      "answers": [
+        [
+          "泳げる"
+        ]
+      ],
+      "explanation": "泳ぐ → 泳げる; hỏi đã bơi được bao xa."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-23",
+      "question": "1.｛上手に、必ず、かなり｝シートベルトをして車を＿＿＿＿＿＿ようにしてください。",
+      "context": "５．\n例１：わからないことばがあったら、｛上手に、やっと、すぐ｝辞書で調べるようにしています。\n例２：体の調子が悪いときは、｛あまり、必ず、なかなか｝無理をしないようにしてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "必ず"
+        ],
+        [
+          "運転する"
+        ]
+      ],
+      "explanation": "必ず: nhất định; thắt dây an toàn rồi mới lái xe."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-24",
+      "question": "2. ここでは｛絶対に、必ず、なかなか｝歩きながらたばこを＿＿＿＿＿＿ようにしてください。",
+      "context": "５．\n例１：わからないことばがあったら、｛上手に、やっと、すぐ｝辞書で調べるようにしています。\n例２：体の調子が悪いときは、｛あまり、必ず、なかなか｝無理をしないようにしてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "絶対に"
+        ],
+        [
+          "吸わない"
+        ]
+      ],
+      "explanation": "絶対に～ない: tuyệt đối không; không hút thuốc khi đi bộ ở đây."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-25",
+      "question": "3. 夜は｛できるだけ、かなり、やっと｝早く寝て、朝は早く＿＿＿＿＿＿ようにしています。",
+      "context": "５．\n例１：わからないことばがあったら、｛上手に、やっと、すぐ｝辞書で調べるようにしています。\n例２：体の調子が悪いときは、｛あまり、必ず、なかなか｝無理をしないようにしてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "できるだけ"
+        ],
+        [
+          "起きる"
+        ]
+      ],
+      "explanation": "できるだけ: cố gắng trong khả năng; duy trì thói quen ngủ/dậy sớm."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-26",
+      "question": "4. 毎晩寝るまえに、｛かなり、必ず、やっと｝歯を＿＿＿＿＿＿ようにしています。",
+      "context": "５．\n例１：わからないことばがあったら、｛上手に、やっと、すぐ｝辞書で調べるようにしています。\n例２：体の調子が悪いときは、｛あまり、必ず、なかなか｝無理をしないようにしてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "必ず"
+        ],
+        [
+          "磨く"
+        ]
+      ],
+      "explanation": "毎晩必ず歯を磨くようにしています: luôn cố duy trì đánh răng trước khi ngủ."
+    },
+    {
+      "exerciseId": "36-section-6-exercise-27",
+      "question": "5.｛できるだけ、なかなか、きっと｝夜遅く電話を＿＿＿＿＿＿ようにしてください。",
+      "context": "５．\n例１：わからないことばがあったら、｛上手に、やっと、すぐ｝辞書で調べるようにしています。\n例２：体の調子が悪いときは、｛あまり、必ず、なかなか｝無理をしないようにしてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "できるだけ"
+        ],
+        [
+          "かけない"
+        ]
+      ],
+      "explanation": "できるだけ～ないように: cố tránh gọi điện muộn."
+    }
+  ]
+}

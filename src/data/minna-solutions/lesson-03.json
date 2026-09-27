@@ -1,0 +1,161 @@
+{
+  "lesson": 3,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-3",
+  "solutions": [
+    {
+      "exerciseId": "3-section-8-exercise-1",
+      "question": "１）（ これ、その、ここ ）は　ドイツの　車です。",
+      "context": "1.例：（ わたし　、わたしは　、わたしの ）ミラーです。",
+      "status": "reference",
+      "answers": [
+        [
+          "これ"
+        ]
+      ],
+      "explanation": "これ đứng độc lập trước は. その cần danh từ, còn ここ chỉ địa điểm."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-2",
+      "question": "２）（ それ、その、そこ ）かばんは（ わたし、わたしは、わたしの ）です。",
+      "context": "1.例：（ わたし　、わたしは　、わたしの ）ミラーです。",
+      "status": "reference",
+      "answers": [
+        [
+          "その"
+        ],
+        [
+          "わたしの"
+        ]
+      ],
+      "explanation": "その bổ nghĩa cho かばん; わたしの là “của tôi”."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-3",
+      "question": "３）じむしょは（ あれ、あの、あそこ ）です。",
+      "context": "1.例：（ わたし　、わたしは　、わたしの ）ミラーです。",
+      "status": "reference",
+      "answers": [
+        [
+          "あそこ"
+        ]
+      ],
+      "explanation": "Văn phòng là địa điểm nên dùng あそこ."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-4",
+      "question": "４）すみません。でんわは（ だれ、なん、どこ ）ですか。",
+      "context": "1.例：（ わたし　、わたしは　、わたしの ）ミラーです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どこ"
+        ]
+      ],
+      "explanation": "どこ hỏi vị trí của điện thoại."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-5",
+      "question": "１）すみません。おてあらいは　(_______)ですか。\n...  あちらです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どこ",
+          "どちら"
+        ]
+      ],
+      "explanation": "あちら chỉ nơi chốn; どちら lịch sự hơn どこ."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-6",
+      "question": "２）ミラーさんは　（____）ですか。\n...  かいぎしつです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どこ",
+          "どちら"
+        ]
+      ],
+      "explanation": "Câu trả lời cho biết Miller ở phòng họp, vì vậy hỏi vị trí."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-7",
+      "question": "３）カメラうりばは　（____）ですか。\n...  5かいです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何階",
+          "なんがい",
+          "どこ"
+        ]
+      ],
+      "explanation": "5かい là tầng 5. 何階 hỏi chính xác tầng; どこ cũng hỏi vị trí nhưng rộng hơn."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-8",
+      "question": "４）おくには　（____）ですか。\n...  ドイツです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どちら",
+          "どこ"
+        ]
+      ],
+      "explanation": "お国はどちらですか là cách hỏi lịch sự về nước xuất thân."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-9",
+      "question": "５）かいしゃは　（____）ですか。\n...  パワーでんきです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どちら",
+          "どこ"
+        ]
+      ],
+      "explanation": "Trong hội thoại giới thiệu, 会社はどちらですか hỏi công ty nào, không nhất thiết hỏi địa chỉ."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-10",
+      "question": "６）パワーでんきは　（____）のかいしゃ　ですか。\n...  コンピューターの　かいしゃです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何",
+          "なん"
+        ]
+      ],
+      "explanation": "何の会社 hỏi lĩnh vực của công ty; trả lời コンピューターの会社."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-11",
+      "question": "７）これは　（____）の　ワインですか。\n...  イタリアの　ワインです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どこ"
+        ]
+      ],
+      "explanation": "どこのワイン hỏi xuất xứ rượu; đáp イタリアのワイン."
+    },
+    {
+      "exerciseId": "3-section-8-exercise-12",
+      "question": "８）この　ワインは　（____）ですか。\n...  2,800えんです。",
+      "context": "2. 例：それは　（ なん ）　ですか。      ...  じしょです。",
+      "status": "reference",
+      "answers": [
+        [
+          "いくら"
+        ]
+      ],
+      "explanation": "2,800円 là giá tiền; hỏi いくら."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "lesson": 6,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-6",
+  "solutions": [
+    {
+      "exerciseId": "6-section-10-exercise-1",
+      "question": "１）日曜日　（どこで、何を、何で）　しますか。\n...  テニスを　します。",
+      "context": "1. 例：毎晩　（　a. 何時に、     b. いつ、     c. どこで）　寝ますか。\n...  11時に　寝ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "何を"
+        ]
+      ],
+      "explanation": "テニスをします trả lời câu hỏi làm gì; 何をしますか."
+    },
+    {
+      "exerciseId": "6-section-10-exercise-2",
+      "question": "２）（　どこへ、どこで、いつ　）　その　カメラを　買いましたか。\n...  大阪デパートで　買いました。",
+      "context": "1. 例：毎晩　（　a. 何時に、     b. いつ、     c. どこで）　寝ますか。\n...  11時に　寝ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "どこで"
+        ]
+      ],
+      "explanation": "大阪デパートで cho biết nơi mua hàng; hành động diễn ra tại nơi chốn dùng で."
+    },
+    {
+      "exerciseId": "6-section-10-exercise-3",
+      "question": "３）けさ　（　何を、何で、どこで　）　食べましたか。\n...  何も　食べませんでした。",
+      "context": "1. 例：毎晩　（　a. 何時に、     b. いつ、     c. どこで）　寝ますか。\n...  11時に　寝ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "何を"
+        ]
+      ],
+      "explanation": "Hỏi ăn gì; 何も食べませんでした là không ăn gì."
+    },
+    {
+      "exerciseId": "6-section-10-exercise-4",
+      "question": "４）おととい　（　どこで、だれに、何時に　）　会いましたか。\n...  グプタさんに　会いました。",
+      "context": "1. 例：毎晩　（　a. 何時に、     b. いつ、     c. どこで）　寝ますか。\n...  11時に　寝ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "だれに"
+        ]
+      ],
+      "explanation": "会います đi với người gặp + に."
+    },
+    {
+      "exerciseId": "6-section-10-exercise-5",
+      "question": "１）きのうの　晩　手紙を　（　a.書きます、　b.書きました　）。",
+      "context": "2. 例：おととい　東京へ　（　a.行きました、　b.行きます　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "書きました"
+        ]
+      ],
+      "explanation": "きのうの晩 là tối qua, dùng quá khứ."
+    },
+    {
+      "exerciseId": "6-section-10-exercise-6",
+      "question": "２）毎朝　新聞を　（　a.読みますか、　b.読みましたか　）。\n...  いいえ、読みません。",
+      "context": "2. 例：おととい　東京へ　（　a.行きました、　b.行きます　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "読みますか"
+        ]
+      ],
+      "explanation": "毎朝 chỉ thói quen, câu đáp cũng ở hiện tại."
+    },
+    {
+      "exerciseId": "6-section-10-exercise-7",
+      "question": "３）いっしょに　美術館へ　（　a.行きませんでしたか、　b.行きませんか　）。\n...  ええ、　（　a.行きましょう、　b.行きません　）。",
+      "context": "2. 例：おととい　東京へ　（　a.行きました、　b.行きます　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "行きませんか"
+        ],
+        [
+          "行きましょう"
+        ]
+      ],
+      "explanation": "ませんか dùng mời cùng đi; ましょう dùng đồng ý/rủ cùng làm."
+    },
+    {
+      "exerciseId": "6-section-10-exercise-8",
+      "question": "４）あした　大阪城で　花見を　（　a.しました、　b.します　）。",
+      "context": "2. 例：おととい　東京へ　（　a.行きました、　b.行きます　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "します"
+        ]
+      ],
+      "explanation": "あした là tương lai, dùng します."
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "lesson": 43,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-43",
+  "solutions": [
+    {
+      "exerciseId": "43-section-5-exercise-1",
+      "question": "１）      あの女の子は足を踏まれて、＿＿＿＿＿そうですね。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "痛"
+        ]
+      ],
+      "explanation": "痛い bỏ い + そう: trông có vẻ đau vì bị giẫm chân."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-2",
+      "question": "２）      渡辺さんは＿＿＿＿＿そうです。コーヒー飲みながら新聞を読んでいます。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "暇"
+        ]
+      ],
+      "explanation": "暇そう: trông rảnh; tính từ な không thêm な trước そう."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-3",
+      "question": "３）      この人形はお土産にちょうど＿＿＿＿＿です。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "よさそう"
+        ]
+      ],
+      "explanation": "いい → よさそう, dạng đặc biệt; ô này phải có cả そう vì ngoài ô chỉ có です."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-4",
+      "question": "４）      あしたの試験＿＿＿＿＿＿そうですから、今晩勉強しなければなりません。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "難し"
+        ]
+      ],
+      "explanation": "難しい → 難しそう: có vẻ khó."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-5",
+      "question": "５）      駅の前にできたスーパーは大きくて、買い物に＿＿＿＿＿＿そうですね。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "便利"
+        ]
+      ],
+      "explanation": "便利そう: có vẻ tiện mua sắm."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-6",
+      "question": "６）      このカレーは＿＿＿＿＿そうですが、実はそんなに辛いくないんです。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "辛"
+        ]
+      ],
+      "explanation": "辛い → 辛そう: trông cay; nguồn 辛いくない sai, phải 辛くない."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-7",
+      "question": "７）      この指輪はとてもきれいですが、＿＿＿＿そうですね。値段を聞いてみましょうか。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "高"
+        ]
+      ],
+      "explanation": "高い → 高そう: có vẻ đắt."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-8",
+      "question": "８）      あの二人は先月結婚したんです。とても＿＿＿＿＿＿そうですね。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "幸せ"
+        ]
+      ],
+      "explanation": "幸せそう: trông hạnh phúc, tính từ な."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-9",
+      "question": "９）      鈴木さん、気分が＿＿＿＿＿そうですね。疲れたんですか。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "悪"
+        ]
+      ],
+      "explanation": "気分が悪そう: trông không khỏe."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-10",
+      "question": "１０）                  その荷物は＿＿＿＿＿そうですね。手伝いましょうか。",
+      "context": "1.\n辛いです、幸せです、つまらないです、暇です。高いです、痛いです、便利です、重いです、悪いです、難しいです、まじめです、いいです\n例：この本はつまらなそうですから、買いません。",
+      "status": "reference",
+      "answers": [
+        [
+          "重"
+        ]
+      ],
+      "explanation": "重い → 重そう: có vẻ nặng."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-11",
+      "question": "１）      網棚の荷物が＿＿＿＿＿＿そうですね。危ないですね。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "落ち"
+        ]
+      ],
+      "explanation": "落ちます bỏ ます + そう: hành lý có vẻ sắp rơi."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-12",
+      "question": "２）      約束の時間に＿＿＿＿＿＿そうですから、少し急ぎましょう。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "遅れ"
+        ]
+      ],
+      "explanation": "遅れそう: có vẻ sắp trễ giờ hẹn."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-13",
+      "question": "３）      今年は海外旅行をする人が＿＿＿＿＿そうです。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "減り"
+        ]
+      ],
+      "explanation": "減りそう: có vẻ số người du lịch nước ngoài sẽ giảm; dùng từ trong ngân hàng đề."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-14",
+      "question": "４）      このいすは＿＿＿＿＿そうですから、座らないでください。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "壊れ"
+        ]
+      ],
+      "explanation": "壊れそう: ghế có vẻ sắp hỏng."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-15",
+      "question": "５）      靴のひもが＿＿＿＿＿＿＿そうですから、新しいのを買わなければなりません。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "切れ"
+        ]
+      ],
+      "explanation": "切れそう: dây giày sắp đứt."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-16",
+      "question": "６）      この仕事は簡単ですから、すぐ＿＿＿＿＿＿そうです。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "終わり"
+        ]
+      ],
+      "explanation": "終わりそう: có vẻ sắp xong việc."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-17",
+      "question": "７）      今にも雨が＿＿＿＿＿＿そうですから、テニスはできませんね。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "降り"
+        ]
+      ],
+      "explanation": "今にも雨が降りそう: trời sắp mưa bất cứ lúc nào."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-18",
+      "question": "８）      あ、ボタンが＿＿＿＿＿＿そうですよ。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "とれ",
+          "取れ"
+        ]
+      ],
+      "explanation": "ボタンがとれそう: cúc áo có vẻ sắp tuột."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-19",
+      "question": "９）      おなかがすいていますから、このお弁当、全部＿＿＿＿＿＿＿そうです。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "食べられ"
+        ]
+      ],
+      "explanation": "食べられそう: có vẻ có thể ăn hết; dùng khả năng trước そう."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-20",
+      "question": "１０）                  新しい製品ができましたね。＿＿＿＿＿＿そうですか。",
+      "context": "２．\n減ります、壊れます、とれます、切れます,なくなります、食べられます、います、終わります、落ちます、遅れます、降ります、破れます、売れます\n例：醤油がなくなりそうですから、買っておきましょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "売れ"
+        ]
+      ],
+      "explanation": "売れそう: sản phẩm có vẻ bán chạy."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-21",
+      "question": "１）      そのコートは＿＿＿＿＿＿＿そうですね。。\n…ええ、とても暖かいですよ。フランスのです。",
+      "context": "３．\n例１：そのりんご、赤くて、大きくて、おいしそうですね。\n…ええ、とてもおいしいですよ。田舎の母が送ってくれたんです。\n例２：いい論文が書けそうですか。\n…ええ、書けると思いますよ。いい資料をたくさん集めましたから。",
+      "status": "reference",
+      "answers": [
+        [
+          "暖か"
+        ]
+      ],
+      "explanation": "暖かそう: áo trông ấm; bỏ い của 暖かい."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-22",
+      "question": "２）      駅までどのくらいかかりますか。\n…道が込んでいますから、３０分ぐらい＿＿＿＿＿＿＿そうですね。",
+      "context": "３．\n例１：そのりんご、赤くて、大きくて、おいしそうですね。\n…ええ、とてもおいしいですよ。田舎の母が送ってくれたんです。\n例２：いい論文が書けそうですか。\n…ええ、書けると思いますよ。いい資料をたくさん集めましたから。",
+      "status": "reference",
+      "answers": [
+        [
+          "かかり"
+        ]
+      ],
+      "explanation": "３０分ぐらいかかりそう: có vẻ mất khoảng 30 phút."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-23",
+      "question": "３）      もうすぐ桜が＿＿＿＿＿＿＿＿そうですね。\n…ええ、来週の始めには咲くでしょう。今年が暖かいですから。",
+      "context": "３．\n例１：そのりんご、赤くて、大きくて、おいしそうですね。\n…ええ、とてもおいしいですよ。田舎の母が送ってくれたんです。\n例２：いい論文が書けそうですか。\n…ええ、書けると思いますよ。いい資料をたくさん集めましたから。",
+      "status": "reference",
+      "answers": [
+        [
+          "咲き"
+        ]
+      ],
+      "explanation": "咲きそう: hoa anh đào sắp nở."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-24",
+      "question": "４）      その漫画、＿＿＿＿＿＿＿＿そうですね。\n…ええ、とても面白いですよ。貸しましょうか。",
+      "context": "３．\n例１：そのりんご、赤くて、大きくて、おいしそうですね。\n…ええ、とてもおいしいですよ。田舎の母が送ってくれたんです。\n例２：いい論文が書けそうですか。\n…ええ、書けると思いますよ。いい資料をたくさん集めましたから。",
+      "status": "reference",
+      "answers": [
+        [
+          "面白"
+        ]
+      ],
+      "explanation": "面白そう: truyện trông thú vị."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-25",
+      "question": "５）      雨は＿＿＿＿＿＿＿そうですね。\n…そうですね。もうすぐやむでしょう。空が明るくなりましたから。",
+      "context": "３．\n例１：そのりんご、赤くて、大きくて、おいしそうですね。\n…ええ、とてもおいしいですよ。田舎の母が送ってくれたんです。\n例２：いい論文が書けそうですか。\n…ええ、書けると思いますよ。いい資料をたくさん集めましたから。",
+      "status": "reference",
+      "answers": [
+        [
+          "やみ",
+          "止み"
+        ]
+      ],
+      "explanation": "雨がやみそう: mưa có vẻ sắp tạnh."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-26",
+      "question": "１）      たばこがなくなったので、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例：ちょっと待っていてください。道を聞いてきますから。",
+      "status": "sample",
+      "answers": [
+        [
+          "買ってきます"
+        ]
+      ],
+      "explanation": "Đi mua thuốc lá rồi quay lại: ～てきます trong bài này diễn tả đi làm việc rồi trở về."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-27",
+      "question": "２）      部屋の冷房を消すのを忘れたので、＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例：ちょっと待っていてください。道を聞いてきますから。",
+      "status": "sample",
+      "answers": [
+        [
+          "消してきます"
+        ]
+      ],
+      "explanation": "Quay lại tắt điều hòa rồi trở về."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-28",
+      "question": "３）      かぎを掛けたかどうか、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例：ちょっと待っていてください。道を聞いてきますから。",
+      "status": "sample",
+      "answers": [
+        [
+          "確かめてきます"
+        ]
+      ],
+      "explanation": "Đi kiểm tra đã khóa chưa rồi quay lại."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-29",
+      "question": "４）      旅行にいったら、お土産を＿＿＿＿＿＿＿＿＿＿＿くださいね。",
+      "context": "４．\n例：ちょっと待っていてください。道を聞いてきますから。",
+      "status": "reference",
+      "answers": [
+        [
+          "買ってきて"
+        ]
+      ],
+      "explanation": "お土産を買ってきてください: hãy mua quà mang về."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-30",
+      "question": "５）      ちょっとポストまで行って、この手紙を＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例：ちょっと待っていてください。道を聞いてきますから。",
+      "status": "sample",
+      "answers": [
+        [
+          "出してきます"
+        ]
+      ],
+      "explanation": "Đi bỏ thư vào hòm rồi trở lại."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-31",
+      "question": "６）      ちょっとうちに電話を＿＿＿＿＿＿＿＿＿。きょうは残業しますから。",
+      "context": "４．\n例：ちょっと待っていてください。道を聞いてきますから。",
+      "status": "reference",
+      "answers": [
+        [
+          "かけてきます"
+        ]
+      ],
+      "explanation": "Đi gọi điện về nhà rồi trở lại."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-32",
+      "question": "１）      カレンダーに約束の時間が書いて＿＿＿＿＿＿＿＿",
+      "context": "５．\nいます、あります、おきます、みます、きます、しまいます\n例１：空港へ友達を迎えに行って来ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "あります"
+        ]
+      ],
+      "explanation": "時間が書いてあります: thời gian hẹn đã được ghi, trạng thái kết quả có chủ ý."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-33",
+      "question": "２）      ラッシュでしたから、電車がとても込んで＿＿＿＿＿＿＿",
+      "context": "５．\nいます、あります、おきます、みます、きます、しまいます\n例１：空港へ友達を迎えに行って来ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "いました"
+        ]
+      ],
+      "explanation": "電車が込んでいました: tàu đông vào giờ cao điểm, quá khứ."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-34",
+      "question": "３）      電車に忘れ物をして＿＿＿＿＿＿＿＿＿",
+      "context": "５．\nいます、あります、おきます、みます、きます、しまいます\n例１：空港へ友達を迎えに行って来ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "しまいました"
+        ]
+      ],
+      "explanation": "忘れ物をしてしまいました: lỡ để quên đồ trên tàu."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-35",
+      "question": "４）      会議のまえに、資料を見て＿＿＿＿＿＿＿＿ください。",
+      "context": "５．\nいます、あります、おきます、みます、きます、しまいます\n例１：空港へ友達を迎えに行って来ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "おいて"
+        ]
+      ],
+      "explanation": "資料を見ておいてください: hãy xem tài liệu trước buổi họp."
+    },
+    {
+      "exerciseId": "43-section-5-exercise-36",
+      "question": "５）      すみません。この靴をはいて＿＿＿＿＿＿＿もいいですか。",
+      "context": "５．\nいます、あります、おきます、みます、きます、しまいます\n例１：空港へ友達を迎えに行って来ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "みて"
+        ]
+      ],
+      "explanation": "はいてみてもいいですか: có thể thử giày không?"
+    },
+    {
+      "exerciseId": "43-section-5-exercise-37",
+      "question": "６）      いい天気なので、ちょっと公園を散歩して＿＿＿＿＿＿＿",
+      "context": "５．\nいます、あります、おきます、みます、きます、しまいます\n例１：空港へ友達を迎えに行って来ます。",
+      "status": "reference",
+      "answers": [
+        [
+          "きます"
+        ]
+      ],
+      "explanation": "散歩してきます: đi dạo một chút rồi về."
+    }
+  ]
+}

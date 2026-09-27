@@ -1,0 +1,1797 @@
+{
+  "schemaVersion": 1,
+  "lesson": 39,
+  "title": "Từ vựng ngữ pháp Minna bài 39",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-39",
+  "fetchedAt": "2026-09-27T09:07:56.632632+00:00",
+  "sourceSha256": "a972000e248903dd6019febb1c621768da9e1e162aa03a02441cf2a5222b383c",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box299",
+      "title": "2. Động từ / tính từ / danh từ + て/で,~",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "* Động từKhẳng định : động từ thể て,~Phủ định : Động từ thể ない　なくて,~"
+        },
+        {
+          "type": "text",
+          "text": "*Tính từTính từ đuôi い: Bỏ [い] thêm [くて]Tính từ đuôi な: Bỏ [な] thêm [で]"
+        },
+        {
+          "type": "text",
+          "text": "*Danh từ : Thêm [で]"
+        },
+        {
+          "type": "text",
+          "text": "- Trong mẫu này, mệnh đề trước của câu biểu thị nguyên nhân và mệnh đề sau biểu thị kết quả xảy ra bởi nguyên nhân đó. Không giống như,～から mẫu câu này có nhiều hạn chế trong cách sử dụng."
+        },
+        {
+          "type": "text",
+          "text": "1. Mệnh đề sau của câu không được chứa các từ thể hiện ý chí của người nói à các từ được sử dụng ở mệnh đề sau của câu được giới hạn ở 3 trường hợp sau đây:"
+        },
+        {
+          "type": "text",
+          "text": "- Các động từ và tính từ biểu hiện cảm xúc như : びっくりする、安心する、困る、さびしい、うれしい、残念だ、…."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ニュースを　聞いて、びっくりしました。 Nghe tin đó tôi ngạc nhiên. 例2： 家族に　会えなくて、寂しいです。 Không gặp được gia đình tôi cảm thấy buồn.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Các động từ ở thể khả năng hoặc các động từ diễn tả một trạng thái nào đó ( わかる,..)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： 土曜日は　都合が　悪くて、行けません。 Vì thứ 7 tôi bận rồi nên không đi được. 例4： 話が　複雑で、よくわかりませんでした。 Vì câu chuyện phức tạp nên tôi không hiểu rõ lắm.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Một tình huống trong quá khứ :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例5： 事故が　あって、バスが　遅れて　しまいました。 Xe buýt bị chậm vì có tai nạn. 例6： 授業に　遅れて、先生に　叱られました。 Tôi vào lớp muộn nên bị thầy giáo mắng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2. Khi mệnh đề sau của câu có nội dung thể hiện ý chí của người nói ( mệnh lệnh, mời, yêu cầu,. ý định,..) thì không được sử dụng mẫu này để diễn tả nguyên nhân. Khi đó, ta sẽ dùng mẫu ～から đã học trước đây :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例7： 危なくて、機械に　触らないでください。（X） 危ないですから、機械に　触らないでください。（O） Vì nguy hiểm nên đừng sờ vào máy móc.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "3. Trong mẫu câu này, mệnh đề trước và mệnh đề sau của câu có mối quan hệ trước sau về mặt thời gian. Nghĩa là sự việc ở MĐ trước phải xảy ra trước, rồi mới đến sự việc được đề cập đến ở MĐ sau."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例8：　 明日　会議が　あって、今日　準備しなければ　なりあません。(X） 明日　会議が　ありますから、今日　準備しなければ　なりませ。(O) Vì mai có buổi họp nên hôm nay phải chuẩn bị tài liệu.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong VD8 ở trên, rõ ràng sự việc được đề cập đến ở mệnh đề trước (buổi họp- ngày mai) diễn ra sau sự việc đươc đề cập đến ở mệnh đề sau (chuẩn bị tài liệu- hôm nay) nên không thể sử dụng mẫu này để diễn tả được. Khi đó, ta lại phải sử dụng ~ から như đã học trước đây."
+        }
+      ],
+      "text": "* Động từ\nKhẳng định :\nđộng từ thể\nて\n,~\nPhủ định :\nĐộng từ thể\nない\nなくて\n,~\n*Tính từ\nTính từ đuôi\nい\n:\nBỏ [\nい\n] th\nê\nm [\nくて\n]\nTính từ đuôi\nな\n:\nBỏ [\nな\n] th\nê\nm [\nで\n]\n*Danh từ :\nThêm [\nで\n]\n- Trong mẫu này,\nmệnh đề trước\ncủa câu biểu thị\nnguyên nhân\nvà\nmệnh đề sau\nbiểu thị\nkết quả\nxảy ra bởi nguyên nhân đó. Không giống như,\n～から\nmẫu câu này có nhiều hạn chế trong cách sử dụng.\n1. Mệnh đề sau của câu không được chứa các từ thể hiện ý chí của người nói\nà\ncác từ được sử dụng ở mệnh đề sau của câu được giới hạn ở 3 trường hợp sau đây:\n-\nCác động từ và tính từ biểu hiện cảm xúc\nnhư :\nびっくりする、\n安心\nする、\n困\nる、さびしい、うれしい、\n残念\nだ、\n….\n例1\n：\nニュースを\n聞\nいて、びっくりしました。\nNghe tin đó tôi ngạc nhiên.\n例2\n：\n家族\nに\n会\nえなくて、\n寂\nしいです。\nKhông gặp được gia đình tôi cảm thấy buồn.\n- Các động từ ở thể khả năng hoặc các động từ diễn tả một trạng thái nào đó\n(\nわかる\n,..)\n例3\n：\n土曜日\nは\n都合\nが\n悪\nくて、\n行\nけません。\nVì thứ 7 tôi bận rồi nên không đi được.\n例4\n：\n話\nが\n複雑\nで、よくわかりませんでした。\nVì câu chuyện phức tạp nên tôi không hiểu rõ lắm.\n-\nMột tình huống trong quá khứ\n:\n例5\n：\n事故\nが　あって、バスが\n遅\nれて　しまいました。\nXe buýt bị chậm vì có tai nạn.\n例6\n：\n授業\nに\n遅\nれて、先生に\n叱\nられました。\nTôi vào lớp muộn nên bị thầy giáo mắng.\n2. Khi mệnh đề sau của câu có nội dung thể hiện ý chí của người nói ( mệnh lệnh, mời, yêu cầu,. ý định,..) thì không được sử dụng mẫu này để diễn tả nguyên nhân. Khi đó, ta sẽ dùng mẫu\n～から\nđã học trước đây :\n例7\n：\n危\nなくて、\n機械\nに\n触\nらないでください。（\nX\n）\n危\nないですから、\n機械\nに\n触\nらないでください。（\nO\n）\nVì nguy hiểm nên đừng sờ vào máy móc.\n3. Trong mẫu câu này, mệnh đề trước và mệnh đề sau của câu có\nmối quan hệ trước sau về mặt thời gian\n.\nNghĩa là sự việc ở MĐ trước phải xảy ra trước, rồi mới đến sự việc được đề cập đến ở MĐ sau.\n例8\n：\n明日\n会議\nが　あって、\n今日\n準備\nしなければ　なりあません。\n(X\n）\n明日\n会議\nが　ありますから、\n今日\n準備\nしなければ　なりませ。\n(O)\nVì mai có buổi họp nên hôm nay phải chuẩn bị tài liệu.\nTrong VD8 ở trên, rõ ràng sự việc được đề cập đến ở mệnh đề trước (buổi họp- ngày mai) diễn ra sau sự việc đươc đề cập đến ở mệnh đề sau (chuẩn bị tài liệu- hôm nay) nên không thể sử dụng mẫu này để diễn tả được. Khi đó, ta lại phải sử dụng ~\nから\nnhư đã học trước đây.",
+      "ruby": [
+        {
+          "text": "安心",
+          "readings": [
+            "あんしん"
+          ]
+        },
+        {
+          "text": "困",
+          "readings": [
+            "こま"
+          ]
+        },
+        {
+          "text": "残念",
+          "readings": [
+            "ざんねん"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "家族",
+          "readings": [
+            "かぞく"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "寂",
+          "readings": [
+            "さび"
+          ]
+        },
+        {
+          "text": "土曜日",
+          "readings": [
+            "どようび"
+          ]
+        },
+        {
+          "text": "都合",
+          "readings": [
+            "つごう"
+          ]
+        },
+        {
+          "text": "悪",
+          "readings": [
+            "わる"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はなし"
+          ]
+        },
+        {
+          "text": "複雑",
+          "readings": [
+            "ふくざつ"
+          ]
+        },
+        {
+          "text": "事故",
+          "readings": [
+            "じこ"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "授業",
+          "readings": [
+            "じゅぎょう"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "叱",
+          "readings": [
+            "しか"
+          ]
+        },
+        {
+          "text": "危",
+          "readings": [
+            "あぶ"
+          ]
+        },
+        {
+          "text": "機械",
+          "readings": [
+            "きかい"
+          ]
+        },
+        {
+          "text": "触",
+          "readings": [
+            "さわ"
+          ]
+        },
+        {
+          "text": "危",
+          "readings": [
+            "あぶ"
+          ]
+        },
+        {
+          "text": "機械",
+          "readings": [
+            "きかい"
+          ]
+        },
+        {
+          "text": "触",
+          "readings": [
+            "さわ"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あした"
+          ]
+        },
+        {
+          "text": "会議",
+          "readings": [
+            "かいぎ"
+          ]
+        },
+        {
+          "text": "今日",
+          "readings": [
+            "きょう"
+          ]
+        },
+        {
+          "text": "準備",
+          "readings": [
+            "じゅんび"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あした"
+          ]
+        },
+        {
+          "text": "会議",
+          "readings": [
+            "かいぎ"
+          ]
+        },
+        {
+          "text": "今日",
+          "readings": [
+            "きょう"
+          ]
+        },
+        {
+          "text": "準備",
+          "readings": [
+            "じゅんび"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box300",
+      "title": "3. Danh từ + で",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ で trong mẫu này được sử dụng để chỉ nguyên nhân. Danh từ N được sử dụng ở đây là những danh từ diễn tả một sự vật, sự việc có khả năng gây ra một kết quả gì đó như : các danh từ miêu tả về hiện tượng tự nhiên, miêu tả một sự kiện,.. ：地震 (động đất) 、火事 (hỏa hoạn)、事故  (tai nạn),…. Cũng như mẫu câu 1 ở trên, không được sử dụng mẫu câu này khi mệnh đề sau で thể hiện ý chí của người nói."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： 地震　で　ビル　が　倒れました。 Tòa nhà bị đổ bởi động đất. 例2： 病気　で　会社　を　休みました。 Vì bị ốm nên tôi đã nghỉ làm.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "--> MĐ sau biểu thị một sự thật trong quá khứ, ko thể hiện ý chí của người nói."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3：　 病気で　あした　会社を　休みます。（X） 病気ですから、　あした　会社を　休みます。（O） Vì bị ốm nên mai tôi sẽ nghỉ làm.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong VD3, việc sẽ nghỉ làm thể hiện ý chí của người nóià không được dùng mẫu trên để biểu thị nguyên nhân. Trong những trường hợp này, ta dùng ~から như đã học."
+        }
+      ],
+      "text": "Trợ từ\nで\ntrong mẫu này được sử dụng để\nchỉ nguyên nhân.\nDanh từ N được sử dụng ở đây là những danh từ diễn tả một sự vật, sự việc có khả năng gây ra một kết quả gì đó như : các danh từ miêu tả về hiện tượng tự nhiên, miêu tả một sự kiện,..\n：\n地震\n(động đất)\n、\n火事\n(hỏa hoạn)\n、\n事故\n(tai nạn),…. Cũng như mẫu câu 1 ở trên,\nkhông được sử dụng mẫu câu này khi mệnh đề sau\nで\nthể hiện ý chí của người nói.\n例1\n：\n地震\nで　ビル\nが\n倒\nれました。\nTòa nhà bị đổ bởi động đất.\n例2\n：\n病気\nで\n会社\nを\n休\nみました。\nVì bị ốm nên tôi đã nghỉ làm.\n-->\nMĐ sau biểu thị một sự thật trong quá khứ, ko thể hiện ý chí của người nói.\n例3\n：\n病気\nで　あした\n会社\nを\n休\nみます。（\nX\n）\n病気\nですから、　あした\n会社\nを\n休\nみます。（\nO\n）\nVì bị ốm nên mai tôi sẽ nghỉ làm.\nTrong VD3, việc sẽ nghỉ làm thể hiện ý chí của người nói\nà\nkhông được dùng mẫu trên để biểu thị nguyên nhân. Trong những trường hợp này, ta dùng ~\nから\nnhư đã học.",
+      "ruby": [
+        {
+          "text": "地震",
+          "readings": [
+            "じしん"
+          ]
+        },
+        {
+          "text": "火事",
+          "readings": [
+            "かじ"
+          ]
+        },
+        {
+          "text": "事故",
+          "readings": [
+            "じこ"
+          ]
+        },
+        {
+          "text": "地震",
+          "readings": [
+            "じしん"
+          ]
+        },
+        {
+          "text": "倒",
+          "readings": [
+            "たお"
+          ]
+        },
+        {
+          "text": "病気",
+          "readings": [
+            "びょうき"
+          ]
+        },
+        {
+          "text": "会社",
+          "readings": [
+            "かいしゃ"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "病気",
+          "readings": [
+            "びょうき"
+          ]
+        },
+        {
+          "text": "会社",
+          "readings": [
+            "かいしゃ"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "病気",
+          "readings": [
+            "びょうき"
+          ]
+        },
+        {
+          "text": "会社",
+          "readings": [
+            "かいしゃ"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box337",
+      "title": "4. Thể thông thường + ので,…",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- Cũng giống như ～から mà chúng ta đã học ở bài 9 、～ので cũng được dùng để chỉ nguyên nhân, lý do. Trong khi ～から nhấn mạnh một cách chủ quan nguyên nhân thì ～ので lại trình bày một cách khách quan về mối liên hệ giữa nguyên nhân và kết quả như là một diễn biến tự nhiên."
+        },
+        {
+          "type": "text",
+          "text": "- Vì thế, sử dụng　～ので  giúp làm mềm quan điểm của người nói, khiến người nghe không có cảm giác bị áp đặt.～ので  thường được dùng khi muốn trình bày một cách nhẹ nhàng về lý do khi muốn xin phép hoặc đưa ra lời giải thích."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： Mẫu 1: 日本語が　わからないので、　英語で　話していただけませんか。 Vì tôi không hiểu tiếng Nhật nên bạn có thể nói bằng tiếng Anh được không? Mẫu 2: 日本語が　わからないから、　英語で　話していただけませんか。 Vì tôi không hiểu tiếng Nhật nên bạn có thể nói bằng tiếng Anh được không? Tuy 2 câu trên đều giống nhau về mặt ngữ nghĩa nhưng nếu cảm nhận của người Nhật khi nghe 2 câu này sẽ khác nhau: - Khi dùng ～から để trình bày về lý do cá nhân của mình như ở VD trên tạo cho người nghe cảm giác người nói coi mình là trung tâm, chỉ vì lí do cá nhân của mình ( không hiểu tiếng Nhật) mà làm phiền người khác ( đề nghị nói bằng tiếng Anh) à người nghe cảm giác bị áp đặt và thấy người nói hơi thất lễ. - Dùng ～ので khi trình bày vì lý do, nhất là lý do mang tính chất cá nhân sẽ giúp làm mềm câu nói hơn, giảm bớt ấn tượng của người nghe về việc người nói vì lý do của cá nhân mình mà áp đặt việc gì đó cho người nghe.例2： 用事が　あるから、お先に　失礼します 用事が　あるので、お先に　失礼します。 Vì tôi có việc bận nên xin phép về trước.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Tương tự như ở VD 1, ở 2 câu trong VD2 thì câu dùng ～からtạo cho người nghe cảm giác người nói coi việc mình có việc bận là trên hết, và dùng lý do đó để áp đặt cho người nghe. Còn câu dùng～ので thì sẽ tạo cho người nghe cảm giác người nói khi trình bày lý do thì có ý không muốn đề cập quá nhiều đến việc của cá nhân mình, vì người nói biết rằng vì việc của mình mà làm phiền đến người khác là không tốt."
+        },
+        {
+          "type": "text",
+          "text": "Do đây là cách diễn đạt mềm mỏng nên nó không sử dụng thể mệnh lệnh, thể cấm đoán ở đằng sau câu văn:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 危ないので、　機械に　触るな（X） 危ないから、　機械に　触るな（O） Vì nguy hiểm nên đừng sờ vào máy.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý :"
+        },
+        {
+          "type": "text",
+          "text": "Mệnh đề trước ～ので thường ở thể văn thông thường. Tuy nhiên,khi muốn nói lịch sự hơn, ta có thể dùng thể văn lịch sử ở mệnh đề trước ～ので."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 用事が　あるので、お先に　失礼します。 =　用事が　ありますので、お先に　失礼します。 Vì có việc bận nên tôi xin phép về trước.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Trong văn viết ít khi dùng ～から mà thường dùng ～ので nhiều hơn."
+        },
+        {
+          "type": "text",
+          "text": "- Trong văn nói( hội thoại hàng ngày) ta có thể dùng cả ～から và ので. Có thể dùng ～から trong cả những câu văn ở thể thông thường ( khi nói chuyện với bạn bè,..) hoặc ở thể văn lịch sự ( nói với thầy cô, cấp trên,..). Còn trong hội thoại,～ので chỉ dùng với thể văn lịch sự, khi nói bằng thể thông thường ( VD: khi nói chuyện với bạn bè,.) thì không dùng ～ので."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例5：　 病気なので、明日　学校を　休みます。（O） 病気なので、明日　学校を　休む。（X）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "- Cũng giống như\n～から\nmà chúng ta đã học ở bài 9\n、～ので\ncũng được dùng để chỉ nguyên nhân, lý do. Trong khi\n～から\nnhấn mạnh một cách\nchủ quan\nnguyên nhân thì\n～ので\nlại trình bày một cách\nkhách quan\nvề mối liên hệ giữa nguyên nhân và kết quả như là một diễn biến tự nhiên.\n-\nVì thế, sử dụng\n～ので\ngiúp\nlàm mềm quan điểm của người nói\n, khiến người nghe không có cảm giác bị áp đặt.\n～ので\nthường được dùng khi muốn trình bày một cách nhẹ nhàng về lý do khi muốn\nxin phép\nhoặc\nđưa ra lời giải thích\n.\n例1\n：\nMẫu 1:\n日本語\nが　わからない\nので\n、\n英語\nで\n話\nしていただけませんか。\nVì tôi không hiểu tiếng Nhật nên bạn có thể nói bằng tiếng Anh được không?\nMẫu 2:\n日本語が　わからないから、　英語で　話していただけませんか。\nVì tôi không hiểu tiếng Nhật nên bạn có thể nói bằng tiếng Anh được không?\nTuy 2 câu trên đều giống nhau về mặt ngữ nghĩa nhưng nếu cảm nhận của người Nhật khi nghe 2 câu này sẽ khác nhau:\n- Khi dùng\n～から\nđể trình bày về lý do cá nhân của mình như ở VD trên tạo cho người nghe cảm giác người nói coi mình là trung tâm, chỉ vì lí do cá nhân của mình ( không hiểu tiếng Nhật) mà làm phiền người khác ( đề nghị nói bằng tiếng Anh)\nà\nngười nghe cảm giác bị áp đặt và thấy người nói hơi thất lễ.\n- Dùng\n～ので\nkhi trình bày vì lý do, nhất là lý do mang tính chất cá nhân sẽ giúp làm mềm câu nói hơn, giảm bớt ấn tượng của người nghe về việc người nói vì lý do của cá nhân mình mà áp đặt việc gì đó cho người nghe.\n例2\n：\n用事\nが　あるから、お\n先\nに\n失礼\nします\n用事\nが　あるので、お\n先\nに\n失礼\nします。\nVì tôi có việc bận nên xin phép về trước.\n-\nTương tự như ở VD 1, ở 2 câu trong VD2 thì câu dùng\n～から\ntạo cho người nghe cảm giác người nói coi việc mình có việc bận là trên hết, và dùng lý do đó để áp đặt cho người nghe. Còn câu dùng\n～ので\nthì sẽ tạo cho người nghe cảm giác người nói khi trình bày lý do thì có ý không muốn đề cập quá nhiều đến việc của cá nhân mình, vì người nói biết rằng vì việc của mình mà làm phiền đến người khác là không tốt.\nDo đây là cách diễn đạt mềm mỏng nên nó không sử dụng thể mệnh lệnh, thể cấm đoán ở đằng sau câu văn:\n例1\n：\n危\nないので、\n機械\nに\n触\nるな（\nX\n）\n危\nないから、\n機械\nに\n触\nるな（\nO\n）\nVì nguy hiểm nên đừng sờ vào máy.\nLưu ý\n:\nMệnh đề trước\n～ので\nthường ở thể văn thông thường. Tuy nhiên,khi muốn nói lịch sự hơn, ta có thể dùng thể văn lịch sử ở mệnh đề trước\n～ので.\n例1\n：\n用事\nが　あるので、お\n先\nに\n失礼\nします。\n=\n用事\nが　ありますので、お\n先\nに\n失礼\nします。\nVì có việc bận nên tôi xin phép về trước.\n- Trong\nvăn viết\nít khi dùng\n～から\nmà\nthường dùng\n～ので\nnhiều hơn.\n- Trong\nvăn nói( hội thoại hàng ngày)\nta có thể dùng cả\n～から\nvà\nので\n. Có thể dùng\n～から\ntrong cả những câu văn ở thể thông thường ( khi nói chuyện với bạn bè,..) hoặc ở thể văn lịch sự ( nói với thầy cô, cấp trên,..). Còn trong hội thoại,\n～ので\nchỉ dùng với thể văn lịch sự,\nkhi nói bằng thể thông thường ( VD: khi nói chuyện với bạn bè,.) thì không dùng\n～ので\n.\n例5\n：\n病気\nなので、\n明日\n学校\nを\n休\nみます。（\nO\n）\n病気\nなので、\n明日\n学校\nを\n休\nむ。（\nX\n）",
+      "ruby": [
+        {
+          "text": "日本語",
+          "readings": [
+            "にほんご"
+          ]
+        },
+        {
+          "text": "英語",
+          "readings": [
+            "えいご"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "用事",
+          "readings": [
+            "ようじ"
+          ]
+        },
+        {
+          "text": "先",
+          "readings": [
+            "さき"
+          ]
+        },
+        {
+          "text": "失礼",
+          "readings": [
+            "しつれい"
+          ]
+        },
+        {
+          "text": "用事",
+          "readings": [
+            "ようじ"
+          ]
+        },
+        {
+          "text": "先",
+          "readings": [
+            "さき"
+          ]
+        },
+        {
+          "text": "失礼",
+          "readings": [
+            "しつれい"
+          ]
+        },
+        {
+          "text": "危",
+          "readings": [
+            "あぶ"
+          ]
+        },
+        {
+          "text": "機械",
+          "readings": [
+            "きかい"
+          ]
+        },
+        {
+          "text": "触",
+          "readings": [
+            "さわ"
+          ]
+        },
+        {
+          "text": "危",
+          "readings": [
+            "あぶ"
+          ]
+        },
+        {
+          "text": "機械",
+          "readings": [
+            "きかい"
+          ]
+        },
+        {
+          "text": "触",
+          "readings": [
+            "さわ"
+          ]
+        },
+        {
+          "text": "用事",
+          "readings": [
+            "ようじ"
+          ]
+        },
+        {
+          "text": "先",
+          "readings": [
+            "さき"
+          ]
+        },
+        {
+          "text": "失礼",
+          "readings": [
+            "しつれい"
+          ]
+        },
+        {
+          "text": "用事",
+          "readings": [
+            "ようじ"
+          ]
+        },
+        {
+          "text": "先",
+          "readings": [
+            "さき"
+          ]
+        },
+        {
+          "text": "失礼",
+          "readings": [
+            "しつれい"
+          ]
+        },
+        {
+          "text": "病気",
+          "readings": [
+            "びょうき"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あした"
+          ]
+        },
+        {
+          "text": "学校",
+          "readings": [
+            "がっこう"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "病気",
+          "readings": [
+            "びょうき"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あす"
+          ]
+        },
+        {
+          "text": "学校",
+          "readings": [
+            "がっこう"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box338",
+      "title": "5. [Nの / V (thể từ điển)] + 途中(とちゅう)で",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- 途中で có nghĩa là  “ giữa lúc”, “ trên đường”."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 実は　来る　途中で　事故が　あって、バスが　遅れてしまったんです。 Thật ra là trên đường tới đây thì có vụ tai nạn, nên xe buýt đã bị chậm trễ. 例2：　 マラソンの　途中で　気分が　悪くなりました。 Giữa lúc thi Maraton thì tôi thấy khó chịu trong người.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "-\n途中\nで\ncó nghĩa là\n“ giữa lúc”, “ trên đường”.\n例1\n：\n実\nは\n来\nる\n途中\nで\n事故\nが　あって、バスが\n遅\nれてしまったんです。\nThật ra là trên đường tới đây thì có vụ tai nạn, nên xe buýt đã bị chậm trễ.\n例2\n：\nマラソンの\n途中\nで\n気分\nが\n悪\nくなりました。\nGiữa lúc thi Maraton thì tôi thấy khó chịu trong người.",
+      "ruby": [
+        {
+          "text": "途中",
+          "readings": [
+            "とちゅう"
+          ]
+        },
+        {
+          "text": "実",
+          "readings": [
+            "じつ"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "途中",
+          "readings": [
+            "とちゅう"
+          ]
+        },
+        {
+          "text": "事故",
+          "readings": [
+            "じこ"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "途中",
+          "readings": [
+            "とちゅう"
+          ]
+        },
+        {
+          "text": "気分",
+          "readings": [
+            "きぶん"
+          ]
+        },
+        {
+          "text": "悪",
+          "readings": [
+            "わる"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "text": "例：事故（で）バズ（が）遅れたんです。"
+        },
+        {
+          "type": "text",
+          "text": "1. 胃の病気（　）入院するので、社員旅行（　）参加できません。"
+        },
+        {
+          "type": "text",
+          "text": "2.（　）遅刻して、先生（　）しかられました。"
+        },
+        {
+          "type": "text",
+          "text": "3. 質問（　）答えられなくて、恥ずかしかったです。"
+        },
+        {
+          "type": "text",
+          "text": "4. バスはこの道（　）と通って、駅まで行きます"
+        },
+        {
+          "type": "text",
+          "text": "２．"
+        },
+        {
+          "type": "text",
+          "text": "例１：（地震です…地震で）橋が壊れました。"
+        },
+        {
+          "type": "text",
+          "text": "例２：電話で母の元気な声を（聞きました…聞いて）、安心しました。"
+        },
+        {
+          "type": "text",
+          "text": "１）（台風です…　　　　　　）木が倒れました。"
+        },
+        {
+          "type": "text",
+          "text": "２）日本語が（わかりません…　　　　　　　　）、困っています。"
+        },
+        {
+          "type": "text",
+          "text": "３）バスが（遅れました…　　　　　　　　）、約束の時間に間に合いませんでした。"
+        },
+        {
+          "type": "text",
+          "text": "４）渡辺さんに（会えませんでした…　　　　　　　）、がっかりました。"
+        },
+        {
+          "type": "text",
+          "text": "５）友達が（いません…　　　　　　　）、寂しいです。"
+        },
+        {
+          "type": "text",
+          "text": "６）このコーヒーは（熱いです…　　　　　）、飲めません。"
+        },
+        {
+          "type": "text",
+          "text": "３．"
+        },
+        {
+          "type": "text",
+          "text": "例：その窓から庭は見えますか。"
+        },
+        {
+          "type": "text",
+          "text": "…いいえ、もう外は（暗いです…暗くて）、何も見えません。"
+        },
+        {
+          "type": "text",
+          "text": "1. ８時の電車に乗れましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…いいえ、（込んでいました…　　　　　）。＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "2. ゆうべよく寝られましたか。"
+        },
+        {
+          "type": "text",
+          "text": "…いいえ、隣のテレビの音が（うるさかったです…　　　　）、＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "3. 漢字はすぐ覚えられますか。"
+        },
+        {
+          "type": "text",
+          "text": "…いいえ、形が（複雑です…　　　）、なかなか＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "4. 講義は分かりますか。"
+        },
+        {
+          "type": "text",
+          "text": "…いいえ、話し方が（速いです…　　　　）、＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "４．"
+        },
+        {
+          "type": "text",
+          "text": "例：毎日（練習しました…練習した）ので、日本語が話せるようになりました。"
+        },
+        {
+          "type": "text",
+          "text": "１）友達の結婚式が（あります…　　　　　）ので、早退してもいいですか。"
+        },
+        {
+          "type": "text",
+          "text": "２）漢字が（わかりません… 　　　　　）ので、ひらがなで書いてもいいですか。"
+        },
+        {
+          "type": "text",
+          "text": "３）お金が（ありませんでした…　　　　　）ので、何も買いませんでした。"
+        },
+        {
+          "type": "text",
+          "text": "４）明日お見合いを（します…　　　　　）ので、着物を着ようと思っています。"
+        },
+        {
+          "type": "text",
+          "text": "５）ちょっと（邪魔です…　　　　　）ので、この箱を片付けてもいいですか。"
+        },
+        {
+          "type": "text",
+          "text": "５．"
+        },
+        {
+          "type": "text",
+          "text": "例：うるさくて｛勉強しません、勉強できません｝。"
+        },
+        {
+          "type": "text",
+          "text": "1. 富士山が見えて｛うれしかったです、写真をとりました｝。"
+        },
+        {
+          "type": "text",
+          "text": "2. 日本は物価が高くて｛困ります、買い物をしません｝。"
+        },
+        {
+          "type": "text",
+          "text": "3. 私は字が下手で｛手紙を書きません、恥ずかしいです｝。"
+        },
+        {
+          "type": "text",
+          "text": "4. 遅くなって｛すみません、タクシーに乗ろうと思います｝。"
+        },
+        {
+          "type": "text",
+          "text": "5. 台風で｛寝ませんでした、寝られませんでした｝。"
+        }
+      ],
+      "text": "1.\n例\n：\n事故\n（で）\nバズ\n（が）\n遅\nれたんです。\n1.\n胃\nの\n病気\n（　）\n入院\nするので、\n社員旅行\n（　）\n参加\nできません。\n2.\n（　）\n遅刻\nして、\n先生\n（　）しかられました。\n3.\n質問\n（　）\n答\nえられなくて、\n恥\nずかしかったです。\n4.\nバス\nはこの\n道\n（　）と\n通\nって、\n駅\nまで\n行\nきます\n２．\n例\n１：（\n地震\nです\n…\n地震\nで）\n橋\nが\n壊\nれました。\n例\n２：\n電話\nで\n母\nの\n元気\nな\n声\nを（\n聞\nきました\n…\n聞\nいて）、安心しました。\n１）（\n台風\nです\n…\n）\n木\nが\n倒\nれました。\n２）\n日本語\nが（わかりません\n…\n）、\n困\nっています。\n３）\nバス\nが（\n遅\nれました\n…\n）、\n約束\nの\n時間\nに\n間\nに\n合\nいませんでした。\n４）\n渡辺\nさんに（\n会\nえませんでした\n…\n）、がっかりました。\n５）\n友達\nが（いません\n…\n）、\n寂\nしいです。\n６）この\nコ\nー\nヒ\nーは（\n熱\nいです\n…\n）、\n飲\nめません。\n３．\n例\n：その\n窓\nから\n庭\nは\n見\nえますか。\n…\nいいえ、もう\n外\nは（\n暗\nいです\n…\n暗\nくて）、\n何\nも\n見\nえません\n。\n1.\n８\n時\nの\n電車\nに\n乗\nれましたか。\n…\nいいえ、（\n込\nんでいました\n…\n）。＿＿＿＿＿＿＿＿＿＿\n2.\nゆうべよく\n寝\nられましたか。\n…\nいいえ、\n隣\nの\nテレビ\nの\n音\nが（うるさかったです\n…\n）、＿＿＿＿＿\n3.\n漢字\nはすぐ\n覚\nえられますか。\n…\nいいえ、\n形\nが（\n複雑\nです\n…\n）、なかなか＿＿＿＿＿＿＿\n4.\n講義\nは\n分\nかりますか。\n…\nいいえ、\n話\nし\n方\nが（\n速\nいです\n…\n）、＿＿＿＿＿＿＿＿\n４．\n例\n：\n毎日\n（\n練習\nしました\n…\n練習\nした）ので、\n日本語\nが\n話\nせるようになりました。\n１）\n友達\nの\n結婚式\nが（あります\n…\n）ので、\n早退\nしてもいいですか。\n２）\n漢字\nが（わかりません\n…\n）ので、ひらがなで\n書\nいてもいいですか。\n３）お\n金\nが（ありませんでした\n…\n）ので、\n何\nも\n買\nいませんでした。\n４）\n明日\nお\n見合\nいを（します\n…\n）ので、\n着物\nを\n着\nようと\n思\nっています。\n５）ちょっと（\n邪魔\nです\n…\n）ので、この\n箱\nを\n片付\nけてもいいですか。\n５．\n例：うるさくて｛\n勉強\nしません、\n勉強\nできません\n｝。\n1.\n富士山\nが\n見\nえて｛うれしかったです、\n写真\nをとりました｝。\n2.\n日本\nは\n物価\nが\n高\nくて｛\n困\nります、\n買\nい\n物\nをしません｝。\n3.\n私\nは\n字\nが\n下手\nで｛\n手紙\nを\n書\nきません、\n恥\nずかしいです｝。\n4.\n遅\nくなって｛すみません、\nタクシ\nーに\n乗\nろうと\n思\nいます｝。\n5.\n台風\nで｛\n寝\nませんでした、\n寝\nられませんでした｝。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "事故",
+          "readings": [
+            "じこ"
+          ]
+        },
+        {
+          "text": "バズ",
+          "readings": [
+            "ばず"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "胃",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "病気",
+          "readings": [
+            "びょうき"
+          ]
+        },
+        {
+          "text": "入院",
+          "readings": [
+            "にゅういん"
+          ]
+        },
+        {
+          "text": "社員旅行",
+          "readings": [
+            "しゃいんりょこう"
+          ]
+        },
+        {
+          "text": "参加",
+          "readings": [
+            "さんか"
+          ]
+        },
+        {
+          "text": "遅刻",
+          "readings": [
+            "ちこく"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "質問",
+          "readings": [
+            "しつもん"
+          ]
+        },
+        {
+          "text": "答",
+          "readings": [
+            "こた"
+          ]
+        },
+        {
+          "text": "恥",
+          "readings": [
+            "は"
+          ]
+        },
+        {
+          "text": "バス",
+          "readings": [
+            "ばす"
+          ]
+        },
+        {
+          "text": "道",
+          "readings": [
+            "みち"
+          ]
+        },
+        {
+          "text": "通",
+          "readings": [
+            "とお"
+          ]
+        },
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "地震",
+          "readings": [
+            "じしん"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "地震",
+          "readings": [
+            "じしん"
+          ]
+        },
+        {
+          "text": "橋",
+          "readings": [
+            "はし"
+          ]
+        },
+        {
+          "text": "壊",
+          "readings": [
+            "こわ"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "電話",
+          "readings": [
+            "でんわ"
+          ]
+        },
+        {
+          "text": "母",
+          "readings": [
+            "はは"
+          ]
+        },
+        {
+          "text": "元気",
+          "readings": [
+            "げんき"
+          ]
+        },
+        {
+          "text": "声",
+          "readings": [
+            "こえ"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "台風",
+          "readings": [
+            "たいふう"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "木",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "倒",
+          "readings": [
+            "たお"
+          ]
+        },
+        {
+          "text": "日本語",
+          "readings": [
+            "にほんご"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "困",
+          "readings": [
+            "こま"
+          ]
+        },
+        {
+          "text": "バス",
+          "readings": [
+            "ばす"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "約束",
+          "readings": [
+            "やくそく"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "間",
+          "readings": [
+            "ま"
+          ]
+        },
+        {
+          "text": "合",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "渡辺",
+          "readings": [
+            "わたなべ"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "友達",
+          "readings": [
+            "ともだち"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "寂",
+          "readings": [
+            "さみ"
+          ]
+        },
+        {
+          "text": "コ",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "ヒ",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "熱",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "窓",
+          "readings": [
+            "まど"
+          ]
+        },
+        {
+          "text": "庭",
+          "readings": [
+            "にわ"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "外",
+          "readings": [
+            "そと"
+          ]
+        },
+        {
+          "text": "暗",
+          "readings": [
+            "くら"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "暗",
+          "readings": [
+            "くら"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "電車",
+          "readings": [
+            "でんしゃ"
+          ]
+        },
+        {
+          "text": "乗",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "込",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "寝",
+          "readings": [
+            "ね"
+          ]
+        },
+        {
+          "text": "隣",
+          "readings": [
+            "となり"
+          ]
+        },
+        {
+          "text": "テレビ",
+          "readings": [
+            "てれび"
+          ]
+        },
+        {
+          "text": "音",
+          "readings": [
+            "おと"
+          ]
+        },
+        {
+          "text": "漢字",
+          "readings": [
+            "かんじ"
+          ]
+        },
+        {
+          "text": "覚",
+          "readings": [
+            "おぼ"
+          ]
+        },
+        {
+          "text": "形",
+          "readings": [
+            "かたち"
+          ]
+        },
+        {
+          "text": "複雑",
+          "readings": [
+            "ふくざつ"
+          ]
+        },
+        {
+          "text": "講義",
+          "readings": [
+            "こうぎ"
+          ]
+        },
+        {
+          "text": "分",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "方",
+          "readings": [
+            "かた"
+          ]
+        },
+        {
+          "text": "速",
+          "readings": [
+            "はや"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "毎日",
+          "readings": [
+            "まいにち"
+          ]
+        },
+        {
+          "text": "練習",
+          "readings": [
+            "れんしゅう"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "練習",
+          "readings": [
+            "れんしゅう"
+          ]
+        },
+        {
+          "text": "日本語",
+          "readings": [
+            "にほんご"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "友達",
+          "readings": [
+            "ともだち"
+          ]
+        },
+        {
+          "text": "結婚式",
+          "readings": [
+            "けっこんしき"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "早退",
+          "readings": [
+            "そうたい"
+          ]
+        },
+        {
+          "text": "漢字",
+          "readings": [
+            "かんじ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "金",
+          "readings": [
+            "かね"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あした"
+          ]
+        },
+        {
+          "text": "見合",
+          "readings": [
+            "みあ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "着物",
+          "readings": [
+            "きもの"
+          ]
+        },
+        {
+          "text": "着",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "邪魔",
+          "readings": [
+            "じゃま"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "箱",
+          "readings": [
+            "はこ"
+          ]
+        },
+        {
+          "text": "片付",
+          "readings": [
+            "かたづ"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "富士山",
+          "readings": [
+            "ふじさん"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "写真",
+          "readings": [
+            "しゃしん"
+          ]
+        },
+        {
+          "text": "日本",
+          "readings": [
+            "にほん"
+          ]
+        },
+        {
+          "text": "物価",
+          "readings": [
+            "ぶっか"
+          ]
+        },
+        {
+          "text": "高",
+          "readings": [
+            "たか"
+          ]
+        },
+        {
+          "text": "困",
+          "readings": [
+            "こま"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "字",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "下手",
+          "readings": [
+            "へた"
+          ]
+        },
+        {
+          "text": "手紙",
+          "readings": [
+            "てがみ"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "恥",
+          "readings": [
+            "は"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おそ"
+          ]
+        },
+        {
+          "text": "タクシ",
+          "readings": [
+            "たくし"
+          ]
+        },
+        {
+          "text": "乗",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "台風",
+          "readings": [
+            "たいふう"
+          ]
+        },
+        {
+          "text": "寝",
+          "readings": [
+            "ね"
+          ]
+        },
+        {
+          "text": "寝",
+          "readings": [
+            "ね"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

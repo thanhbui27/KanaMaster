@@ -1,0 +1,313 @@
+{
+  "lesson": 37,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-37",
+  "solutions": [
+    {
+      "exerciseId": "37-section-8-exercise-1",
+      "question": "1. このお寺は江戸時代（に）建てられました。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Trợ từ に đã có sẵn trong đề, ô cuối do bộ tách tạo thêm. Câu đúng: このお寺は江戸時代に建てられました。 Nghĩa: ngôi chùa được xây thời Edo. Không cần điền thêm."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-2",
+      "question": "2. 日本語を英語（　）翻訳します。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "英語に翻訳する: dịch sang tiếng Anh."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-3",
+      "question": "3. 石油はサウジアラビア（　）輸入しています。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "から"
+        ]
+      ],
+      "explanation": "～から輸入する: nhập khẩu từ."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-4",
+      "question": "4. 私は彼女（　）結婚（　）申し込もうと思っています。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "彼女に結婚を申し込む: cầu hôn cô ấy."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-5",
+      "question": "5. 私はタワポンさん（　）結婚式（　）招待するつもりです。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "人を結婚式に招待する: mời ai tới đám cưới."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-6",
+      "question": "6. 私は妹（　）傘（　）なくされました。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "Bị động chịu ảnh hưởng: 私は妹に傘をなくされました, em gái làm mất ô của tôi."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-7",
+      "question": "7. この小説は日本の有名な小説家（　　　）書かれました。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "によって"
+        ]
+      ],
+      "explanation": "Tác giả/tác nhân sáng tạo trong câu bị động dùng によって."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-8",
+      "question": "8. 昔日本では建物や橋を木（　）造っていました。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "木で造る: làm bằng gỗ, vật liệu còn nhận ra được."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-9",
+      "question": "9. ワインは何（　）造られるんですか。",
+      "context": "２．\n例：２階の窓（から）海（が）見えます。",
+      "status": "reference",
+      "answers": [
+        [
+          "から"
+        ]
+      ],
+      "explanation": "ワインは何から造られる: rượu được làm từ nguyên liệu gì; nho được biến đổi trong quá trình sản xuất."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-10",
+      "question": "1. 電話はベルによって＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n開きます、選びます、発明します、設計します、利用します、かきます、壊します\n例：この絵は２００年ぐらいまえに、かかれました。",
+      "status": "reference",
+      "answers": [
+        [
+          "発明されました"
+        ]
+      ],
+      "explanation": "発明する → 発明される, bị động; đây là chuyển câu theo đề về Bell, không phải khảo cứu lịch sử phát minh điện thoại."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-11",
+      "question": "2. ４年に1回オリンピックが＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n開きます、選びます、発明します、設計します、利用します、かきます、壊します\n例：この絵は２００年ぐらいまえに、かかれました。",
+      "status": "reference",
+      "answers": [
+        [
+          "開かれます"
+        ]
+      ],
+      "explanation": "開く → 開かれる: Olympic được tổ chức mỗi bốn năm theo câu bài tập."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-12",
+      "question": "3. 先月新しい首相が＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n開きます、選びます、発明します、設計します、利用します、かきます、壊します\n例：この絵は２００年ぐらいまえに、かかれました。",
+      "status": "reference",
+      "answers": [
+        [
+          "選ばれました"
+        ]
+      ],
+      "explanation": "選ぶ → 選ばれる; 先月 yêu cầu quá khứ."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-13",
+      "question": "4. あの古いビルはもうすぐ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n開きます、選びます、発明します、設計します、利用します、かきます、壊します\n例：この絵は２００年ぐらいまえに、かかれました。",
+      "status": "reference",
+      "answers": [
+        [
+          "壊されます"
+        ]
+      ],
+      "explanation": "壊す → 壊される: tòa nhà sẽ bị phá; もうすぐ chỉ tương lai gần."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-14",
+      "question": "5. 去年できたこの教会は有名な建築家によって＿＿＿＿＿＿＿",
+      "context": "３．\n開きます、選びます、発明します、設計します、利用します、かきます、壊します\n例：この絵は２００年ぐらいまえに、かかれました。",
+      "status": "reference",
+      "answers": [
+        [
+          "設計されました"
+        ]
+      ],
+      "explanation": "設計する → 設計される: nhà thờ được kiến trúc sư thiết kế."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-15",
+      "question": "1. 渡辺さんはわたしをデートに誘いました。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例１：先生はテレサちゃんを褒めました。\n…テレサちゃんは先生に褒められました。\n例2：子供はわたしのパソコンを壊しました。\n…わたしは子供にパソコンを壊されました。",
+      "status": "reference",
+      "answers": [
+        [
+          "わたしは渡辺さんにデートに誘われました"
+        ]
+      ],
+      "explanation": "Người được mời làm chủ đề; 誘う → 誘われる."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-16",
+      "question": "2. 警官は泥棒を連れて行きました。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例１：先生はテレサちゃんを褒めました。\n…テレサちゃんは先生に褒められました。\n例2：子供はわたしのパソコンを壊しました。\n…わたしは子供にパソコンを壊されました。",
+      "status": "reference",
+      "answers": [
+        [
+          "泥棒は警官に連れて行かれました"
+        ]
+      ],
+      "explanation": "Kẻ trộm bị cảnh sát dẫn đi; 行く → 行かれる."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-17",
+      "question": "3. カリナさんはわたしに大学院に試験について聞きました。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例１：先生はテレサちゃんを褒めました。\n…テレサちゃんは先生に褒められました。\n例2：子供はわたしのパソコンを壊しました。\n…わたしは子供にパソコンを壊されました。",
+      "status": "reference",
+      "answers": [
+        [
+          "わたしはカリナさんに大学院の試験について聞かれました"
+        ]
+      ],
+      "explanation": "聞く → 聞かれる. Nguồn 大学院に試験 cần sửa thành 大学院の試験."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-18",
+      "question": "4. 課長は山田さんに資料のコピーを頼みました。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例１：先生はテレサちゃんを褒めました。\n…テレサちゃんは先生に褒められました。\n例2：子供はわたしのパソコンを壊しました。\n…わたしは子供にパソコンを壊されました。",
+      "status": "reference",
+      "answers": [
+        [
+          "山田さんは課長に資料のコピーを頼まれました"
+        ]
+      ],
+      "explanation": "頼む → 頼まれる; Yamada được trưởng phòng nhờ sao tài liệu."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-19",
+      "question": "5. 子供はわたしの新しいスーツを汚しました。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例１：先生はテレサちゃんを褒めました。\n…テレサちゃんは先生に褒められました。\n例2：子供はわたしのパソコンを壊しました。\n…わたしは子供にパソコンを壊されました。",
+      "status": "reference",
+      "answers": [
+        [
+          "わたしは子供に新しいスーツを汚されました"
+        ]
+      ],
+      "explanation": "Bị động thiệt hại: tôi bị đứa trẻ làm bẩn bộ đồ mới."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-20",
+      "question": "6. 犬は私の足をかみました。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "４．\n例１：先生はテレサちゃんを褒めました。\n…テレサちゃんは先生に褒められました。\n例2：子供はわたしのパソコンを壊しました。\n…わたしは子供にパソコンを壊されました。",
+      "status": "reference",
+      "answers": [
+        [
+          "私は犬に足をかまれました",
+          "わたしは犬に足をかまれました"
+        ]
+      ],
+      "explanation": "犬に足をかまれる: bị chó cắn chân; giữ bộ phận cơ thể với を."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-21",
+      "question": "1. 電車の中で足を｛踏まれました、踏んでもらいました｝。",
+      "context": "５．\n例：子供のとき、父によく｛しかられました、しかってもらいました｝",
+      "status": "reference",
+      "answers": [
+        [
+          "踏まれました"
+        ]
+      ],
+      "explanation": "Bị giẫm chân gây phiền, dùng bị động; không dùng ～てもらう biểu thị nhận giúp đỡ."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-22",
+      "question": "2. 山田さんに車で駅まで｛送られました、送ってもらいました｝。",
+      "context": "５．\n例：子供のとき、父によく｛しかられました、しかってもらいました｝",
+      "status": "reference",
+      "answers": [
+        [
+          "送ってもらいました"
+        ]
+      ],
+      "explanation": "Nhận sự giúp đỡ được đưa đến ga, dùng ～てもらいました."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-23",
+      "question": "3. 鈴木さんにカメラを｛貸されました、貸してもらいました｝",
+      "context": "５．\n例：子供のとき、父によく｛しかられました、しかってもらいました｝",
+      "status": "reference",
+      "answers": [
+        [
+          "貸してもらいました"
+        ]
+      ],
+      "explanation": "Được cho mượn máy ảnh, dùng ～てもらいました."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-24",
+      "question": "4. 泥棒にお金を｛取られました、取ってもらいました｝。",
+      "context": "５．\n例：子供のとき、父によく｛しかられました、しかってもらいました｝",
+      "status": "reference",
+      "answers": [
+        [
+          "取られました"
+        ]
+      ],
+      "explanation": "Bị trộm lấy tiền, dùng bị động."
+    },
+    {
+      "exerciseId": "37-section-8-exercise-25",
+      "question": "5. 早く医者に｛診られた、診てもらった｝ほうがいいですよ。",
+      "context": "５．\n例：子供のとき、父によく｛しかられました、しかってもらいました｝",
+      "status": "reference",
+      "answers": [
+        [
+          "診てもらった"
+        ]
+      ],
+      "explanation": "医者に診てもらう: được bác sĩ khám; khuyên nên đi khám sớm."
+    }
+  ]
+}

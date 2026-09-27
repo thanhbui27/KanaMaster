@@ -1,0 +1,1385 @@
+{
+  "schemaVersion": 1,
+  "lesson": 10,
+  "title": "Từ vựng ngữ pháp Minna bài 10",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-10",
+  "fetchedAt": "2026-09-27T09:07:09.451538+00:00",
+  "sourceSha256": "ed798dc9115e9908d568019dfa09a60a4d5ccfc60e1178c34282edc026c0a91d",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box100",
+      "title": "1. Từ vựng minna bài 10",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có, ở (tồn tại, dùng cho người và động vật)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có (tồn tại, dùng cho đồ vật)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いろいろ[な]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhiều, đa dạng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おとこのひと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "男の人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "người đàn ông",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じょうず[な]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "上手[な]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giỏi, khéo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おんなのひと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "女の人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "người đàn bà",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おとこのこ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "男の子",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cậu con trai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おんなのこ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "女の子",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cô con gái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いぬ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "犬",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chó",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ねこ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "猫",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mèo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "き",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "木",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cây, gỗ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もの",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "物",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vật, đồ vật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "フィルム",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phim",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "でんち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "電池",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Pin",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はこ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "箱",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hộp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "スイッチ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "công tắc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "れいぞうこ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "冷蔵庫",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tủ lạnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "テーブル",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bàn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ベッド",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giường",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たな",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "棚",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giá sách",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ドア",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cửa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まど",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "窓",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cửa sổ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ポスト",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hộp thư, hòm thư",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ビル",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "toà nhà",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こうえん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "公園",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "công viên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きっさてん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "喫茶店",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quán giải khát, quán cà-phê",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほんや",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "本屋",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hiệu sách",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～や",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～屋",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hiệu ~, cửa hàng ~",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "のりば",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "乗り場",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bến xe, điểm lên xuống xe",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "けん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "県",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tỉnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うえ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "上",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "した",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "下",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dưới",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まえ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "前",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うしろ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "後ろ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sau",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みぎ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "右",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phải",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひだり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "左",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "中",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trong, giữa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "外",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngoài",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "となり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "隣",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bên cạnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちかく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "近く",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gần",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あいだ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "間",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giữa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～や～[など]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "~ và ~, [v.v.]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いちばん～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "~ nhất (いちばん うえ：vị trí cao nhất)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―だんめ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―段目",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giá thứ -, tầng thứ – (「だん」 được dùng cho giá sách v.v.)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すみません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Xin lỗi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "チリソース",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tương ớt (chili sauce)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nÝ nghĩa\n1\nいます\ncó, ở (tồn tại, dùng cho người và động vật)\n2\nあります\ncó (tồn tại, dùng cho đồ vật)\n3\nいろいろ[な]\nnhiều, đa dạng\n4\nおとこのひと\n男の人\nngười đàn ông\n5\nじょうず[な]\n上手[な]\ngiỏi, khéo\n6\nおんなのひと\n女の人\nngười đàn bà\n7\nおとこのこ\n男の子\ncậu con trai\n8\nおんなのこ\n女の子\ncô con gái\n9\nいぬ\n犬\nchó\n10\nねこ\n猫\nmèo\n11\nき\n木\ncây, gỗ\n12\nもの\n物\nvật, đồ vật\n13\nフィルム\nphim\n14\nでんち\n電池\nPin\n15\nはこ\n箱\nhộp\n16\nスイッチ\ncông tắc\n17\nれいぞうこ\n冷蔵庫\ntủ lạnh\n18\nテーブル\nbàn\n19\nベッド\ngiường\n20\nたな\n棚\ngiá sách\n21\nドア\ncửa\n22\nまど\n窓\ncửa sổ\n23\nポスト\nhộp thư, hòm thư\n24\nビル\ntoà nhà\n25\nこうえん\n公園\ncông viên\n26\nきっさてん\n喫茶店\nquán giải khát, quán cà-phê\n27\nほんや\n本屋\nhiệu sách\n28\n～や\n～屋\nhiệu ~, cửa hàng ~\n29\nのりば\n乗り場\nbến xe, điểm lên xuống xe\n30\nけん\n県\ntỉnh\n31\nうえ\n上\ntrên\n32\nした\n下\ndưới\n33\nまえ\n前\ntrước\n34\nうしろ\n後ろ\nsau\n35\nみぎ\n右\nphải\n36\nひだり\n左\ntrái\n37\nなか\n中\ntrong, giữa\n38\nそと\n外\nngoài\n39\nとなり\n隣\nbên cạnh\n40\nちかく\n近く\ngần\n41\nあいだ\n間\ngiữa\n42\n～や～[など]\n~ và ~, [v.v.]\n43\nいちばん～\n~ nhất (いちばん うえ：vị trí cao nhất)\n44\n―だんめ\n―段目\ngiá thứ -, tầng thứ – (「だん」 được dùng cho giá sách v.v.)\n45\nすみません\nXin lỗi\n46\nチリソース\ntương ớt (chili sauce)",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box101",
+      "title": "2. N　が　あります/います",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/-GrLleo23MM",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Các động từあります/います ở trên được dùng chỉ sự tồn tại hay hiện hữu của sự vật hay của con người. Khi đó, những danh từ chỉ sự vật hay con người đó trở thành chủ thể của câu và được biểu thị bằng trợ từ が."
+        },
+        {
+          "type": "text",
+          "text": "あります được dùng để chỉ sự hiện hữu của một sự vật, đồ vật vô tri hoặc tự nó không thể chuyển động được. Đồ vật và cây cối, địa điểm thuộc nhóm này."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： コンピューターが　あります。 Có máy vi tính. 例2： さくらが　あります。 Có cây hoa anh đào 例3： こうえんが　あります。 Có công viên.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "います được dùng để chỉ sự hiện hữu của những sự vật sống và tự nó có thể chuyển động được. Con người và động vật thuộc nhóm này."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4： おとこの　ひとが　います。 Có người đàn ông. 例5： いぬが　います。 Có con chó",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Các động từ\nあります\n/\nいます\nở trên được dùng chỉ sự tồn tại hay hiện hữu của sự vật hay của con người. Khi đó, những danh từ chỉ sự vật hay con người đó trở thành\nchủ thể\ncủa câu và được biểu thị bằng trợ từ\nが\n.\nあります\nđược dùng để chỉ sự hiện hữu của một sự vật, đồ vật vô tri hoặc tự nó không thể chuyển động được. Đồ vật và cây cối, địa điểm thuộc nhóm này.\n例\n1\n：\nコンピューターが　あります\n。\nCó máy vi tính.\n例\n2\n：\nさくらが　あります\n。\nCó cây hoa anh đào\n例\n3\n：\nこうえんが　あります\n。\nCó công viên.\nいます\nđược dùng để chỉ sự hiện hữu của những sự vật sống và tự nó có thể chuyển động được. Con người và động vật thuộc nhóm này.\n例4\n：\nおとこの　ひとが　います\n。\nCó người đàn ông.\n例\n5\n：\nいぬが　います\n。\nCó con chó",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/-GrLleo23MM",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box102",
+      "title": "3. N1 ( địa điểm)　に　N2　が　あります/います",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/H0Ud8teuVpg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Địa điểm nơi N2 hiện hữu được biểu thị bằng trợ từ に. Cần phân biệt với trợ từ で dùng để chỉ địa điểm nơi xảy ra hành động."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： わたしの　へやに　つくえが　あります。 Trong phòng tôi có 1 cái bàn. 例2： じむしょに　かなむらせんせいが　います。 Ở trong văn phòng có cô Kanamura",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Bạn cũng có thể hỏi ai hoặc cái gì đang hiện hữu ở một địa điểm nào đo bằng cách sử dụng mẫu này. Khi đó bạn sẽ thay N2 bằng từ để hỏi nếu muốn hỏi cho một sự vật hoặc một con vật và dùng từ để hỏiれ nếu muốn hỏi cho người."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： A：ちかに　なにが　ありますか。 Có cái gì ở dưới tầng hầm? B：レストランが　あります。 Có các nhà hàng ( quán ăn). 例4： A：うけつけに　だれが　いますか。 Ai đang ở quầy lễ tân? B：ロンさんが　います。 Anh Long.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Địa điểm nơi N2 hiện hữu được biểu thị bằng trợ từ\nに\n. Cần phân biệt với trợ từ\nで\ndùng để chỉ địa điểm nơi xảy ra hành động.\n例\n1\n：\nわたしの　へやに　つくえが　あります\n。\nTrong phòng tôi có 1 cái bàn.\n例\n2\n：\nじむしょに　かなむらせんせいが　います\n。\nỞ trong văn phòng có cô Kanamura\nBạn cũng có thể hỏi ai hoặc cái gì đang hiện hữu ở một địa điểm nào đo bằng cách sử dụng mẫu này. Khi đó bạn sẽ thay N2 bằng từ để hỏi\nnếu muốn hỏi cho một\nsự vật\nhoặc một\ncon vật\nvà dùng từ để hỏi\nれ\nnếu muốn hỏi cho\nngười\n.\n例3\n：\nA\n：\nちかに　なにが　ありますか\n。\nCó cái gì ở dưới tầng hầm?\nB\n：\nレストランが　あります\n。\nCó các nhà hàng ( quán ăn)\n.\n例\n4\n：\nA\n：\nうけつけに　だれが　いますか\n。\nAi đang ở quầy lễ tân?\nB\n：\nロンさんが　います\n。\nAnh Long.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/H0Ud8teuVpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box103",
+      "title": "4．N1　は　N2 (địa điểm )　に　あります/います",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong mẫu này, người nói đưa N1 ( sự vật, con người) lên làm chủ đề của câu và nói về nơi nó hiện hữu. Khi đó, chủ đề của câu thường phải là sự vật hay con người nào mà cả người nói và người nghe đều biết hoặc đã từng được nói đến. Trợ từ đi kèm với N1 không phải là が-dùng đẻ biểu thị chủ thể nữa mà là trợ từ は- dùng để biểu thị chủ đề."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A：ホアン・キエムこに　何がいますか。 Hồ Hoàn Kiếm có gì? B：かめが　います。 Có rùa. A：そうですか！！ Thế à. ( Ngạc nhiên) 例2： A đang đi tìm anh Long: A：ロンさんは　どこですか。 Cô Kanamura ở đâu? B：じむしょに　いますよ。 Ở văn phòng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý: ですđôi lúc có thể được sử dụng để thay thế cho một động từ vị ngữ khi vị ngữ đó đã rất rõ ràng. Bạn có thể sử dụng mẫu 「N1はN2(place)です 」thay cho mẫu「 N1は　N2(place)に　あります/います 」để nói về việc một vật gì đó/ hoặc một ai đó đang ở đâu như đã học trong bài 3.v"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： A：とうきょうディズニーランドは　どこにありますか。 Tokyo Disneyland ở đâu? B1：ちばけんにあります。 Ở tỉnh Chiba. B2：ちばけんです。 Tỉnh Chiba.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trong mẫu này, người nói đưa N1 ( sự vật, con người) lên làm\nchủ đề\ncủa câu và nói về nơi nó hiện hữu. Khi đó, chủ đề của câu thường phải là sự vật hay con người nào mà\ncả người nói và người nghe đều biết hoặc đã từng được nói đến.\nTrợ từ đi kèm với N1\nkhông phải là\nが\n-dùng đẻ biểu thị chủ thể nữa\nmà là trợ từ\nは\n- dùng để biểu thị chủ đề.\n例1\n：\nA\n：\nホアン・キエムこに　何がいますか\n。\nHồ Hoàn Kiếm có gì\n?\nB\n：\nかめが　います\n。\nCó rùa\n.\nA\n：\nそうですか！！\nThế à. (\nNgạc nhiên\n)\n例\n2\n：\nA đang đi tìm anh Long:\nA\n：\nロンさんは　どこですか\n。\nCô Kanamura ở đâu\n?\nB\n：\nじむしょに　いますよ\n。\nỞ văn phòng.\nLưu ý\n:\nです\nđôi lúc có thể được sử dụng để thay thế cho một động từ vị ngữ khi vị ngữ đó đã rất rõ ràng. Bạn có thể sử dụng mẫu\n「\nN1\nは\nN2(place)\nです\n」\nthay cho mẫu\n「\nN1\nは\nN2(place)\nに　あります\n/\nいます\n」\nđể nói về việc một vật gì đó/ hoặc một ai đó đang ở đâu như đã học trong bài 3.v\n例3\n：\nA：\nとうきょうディズニーランドは　どこにありますか\n。\nTokyo Disneyland ở đâu\n?\nB1\n：\nちばけんにあります\n。\nỞ tỉnh Chiba\n.\nB2\n：\nちばけんです\n。\nTỉnh Chiba\n.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box104",
+      "title": "5．N1 ( đồ vật/ con người/ địa điểm)　の　N2( vị trí)　=　N",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "うえ、した、まえ、うしろ、みぎ、ひだり、なか、そと、となり、ちかく và  あいだ là những danh từ biểu thị vị trí. Khi đó N trở thành một danh từ chỉ vị trí mới được biểu thị dựa trên vị trí gốc là vị trí của N1 và sử dụng như các danh từ chỉ vị trí thông thương khác mà ta đã học."
+        },
+        {
+          "type": "text",
+          "text": "Ở đây cần lưu ý về vị trí của N1 và N2 trong câu bị ngược so với tiếng Việt."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： つくえの　うえに　しゃしんが　あります。 Có tấm ảnh ở trên bàn. 例2： ゆうびんきょくは　ぎんこうの　となりに　あります。 Bưu điện ở cạnh ngân hàng. 例3： えきの　ちかくで　キエムさんに　あいました。 Tôi gặp anh Kiên ở gần ga.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "うえ、した、まえ、うしろ、みぎ、ひだり、なか、そと、となり、ちかく\nvà\nあいだ\nlà những danh từ biểu thị vị trí. Khi đó N trở thành một danh từ chỉ vị trí mới được biểu thị dựa trên vị trí gốc là vị trí của N1 và sử dụng như các danh từ chỉ vị trí thông thương khác mà ta đã học.\nỞ đây cần lưu ý về vị trí của N1 và N2 trong câu bị ngược so với tiếng Việt.\n例1\n：\nつくえの　うえに　しゃしんが　あります\n。\nCó tấm ảnh ở trên bàn.\n例\n2\n：\nゆうびんきょくは　ぎんこうの　となりに　あります\n。\nBưu điện ở cạnh ngân hàng.\n例\n3\n：\nえきの　ちかくで　キエムさんに　あいました\n。\nTôi gặp anh Kiên ở gần ga\n.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box105",
+      "title": "6．N1　や　N2",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ とđược sử dụng khi ta liệt kê tất cả các sự vật,con người,..trong khi đó trợ từ や mà ta học trong bài này được sử dụng để liệt kê vài vật tượng trưng trong số các sự vật hiện hữu. Đôi lúc người ta cho thêm など　vào sau danh từ cuối cùng trong số các sự vật được nêu ra để nêu rõ rằng còn có nhiều sự vật, con người khác nữa cũng nằm trong nhóm đó."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： つくえの　うえに　ほんと　ペンが　あります。 Có sách và bút ở trên bàn. つくえの　うえに　ほんや　ペンが　あります。 Có sách, bút v.v.. ở trên bàn. ( tức là ngoài sách và bút ra còn nhiều vật khác nữa trên bàn). 例2： はこの　なかに　てがみや　しゃしんが　あります。 Có bức thư và tấm ảnh v.v... ở trong hộp. はこの　なかに　てがみや　しゃしんなどが　あります。 Có bức thứ, tấm ảnh và mấy thứ nữa ở trong hộp.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trợ từ\nと\nđược sử dụng khi ta liệt kê tất cả các sự vật,con người,..trong khi đó trợ từ\nや\nmà ta học trong bài này được sử dụng để liệt kê vài vật tượng trưng trong số các sự vật hiện hữu. Đôi lúc người ta cho thêm\nなど\nvào sau danh từ cuối cùng trong số các sự vật được nêu ra để nêu rõ rằng còn có nhiều sự vật, con người khác nữa cũng nằm trong nhóm đó.\n例1\n：\nつくえの　うえに　ほんと　ペンが　あります\n。\nCó sách và bút ở trên bàn.\nつくえの　うえに　ほんや　ペンが　あります\n。\nCó sách, bút v.v.. ở trên bàn.\n( tức là ngoài sách và bút ra còn nhiều vật khác nữa trên bàn)\n.\n例\n2\n：\nはこの　なかに　てがみや　しゃしんが　あります\n。\nCó bức thư và tấm ảnh v.v... ở trong hộp.\nはこの　なかに　てがみや　しゃしんなどが　あります\n。\nCó bức thứ, tấm ảnh và mấy thứ nữa ở trong hộp\n.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box106",
+      "title": "7.　「Từ hoặc cụm từ 」ですか。",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ か trong mẫu trên có chức năng dùng để xác nhận. Người nói đặt ですか vào sau từ hoặc  cụm từ mà họ muốn xác nhận để xác nhận lại chúng."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A：すみません。ヴィン・コム　タワーは　どこですか。 Xin lỗi. Tháp Vincom ở đâu? B：ウィン・コム　タワーですか。あのビルです。 Tháp Vincom à.? Ở tòa nhà kia.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trợ từ\nか\ntrong mẫu trên có chức năng dùng để\nxác nhận\n. Người nói đặt\nですか\nvào sau từ hoặc\ncụm từ mà họ muốn xác nhận để xác nhận lại chúng.\n例1\n：\nA\n：\nすみません。ヴィン・コム　タワーは　どこですか\n。\nXin lỗi. Tháp Vincom ở đâu\n?\nB\n：\nウィン・コム　タワーですか。あのビルです\n。\nTháp Vincom à.? Ở tòa nhà kia\n.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-8",
+      "sourceId": "content_box107",
+      "title": "8.　N　は　ありませんか。",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Cách diễn đạt 「Nは　ありませんか。」ta sẽ gặp trong hội thoại của bài này. Bằng cách sử dụng dạng phủ định ありませんか thay cho động từ あります, bạn có thể hỏi một cách lịch sự về sự tồn tại, hiện hữu của N và thể hiện cho người nghe biết một cách gián tiếp rằng bạn đã chuẩn bị tinh thần để nhận câu trả lời phủ định của họ."
+        }
+      ],
+      "text": "Cách diễn đạt\n「\nN\nは　ありませんか。」\nta sẽ gặp trong hội thoại của bài này. Bằng cách sử dụng dạng phủ định\nありませんか\nthay cho động từ\nあります\n, bạn có thể hỏi một cách lịch sự về sự tồn tại, hiện hữu của N và thể hiện cho người nghe biết một cách gián tiếp rằng bạn đã chuẩn bị tinh thần để nhận câu trả lời phủ định của họ.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-9",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. 例：受付に　ミラーさんが　（　います　　）。"
+        },
+        {
+          "type": "text",
+          "text": "１）ワイン売り場は　地下に　（____）。"
+        },
+        {
+          "type": "text",
+          "text": "２）犬は　どこに　（____）か。"
+        },
+        {
+          "type": "text",
+          "text": "３）あそこに　小さい　男の　子が　（____）。"
+        },
+        {
+          "type": "text",
+          "text": "４）冷蔵庫の　中に　何も　（____）。"
+        },
+        {
+          "type": "text",
+          "text": "５）事務所に　だれも（____）。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例：いす　（　の　）　下（　に　）　猫　（　が　）　います。"
+        },
+        {
+          "type": "text",
+          "text": "１）消しゴムは　机の　上（____）　あります。"
+        },
+        {
+          "type": "text",
+          "text": "２）タクシー乗り場（の）　近く（____）　　ポストが　あります。"
+        },
+        {
+          "type": "text",
+          "text": "３）花屋（は）　スーパー（と）　銀行（____）　間に　あります。"
+        },
+        {
+          "type": "text",
+          "text": "４）公園（____）だれ（____）いません。"
+        },
+        {
+          "type": "text",
+          "text": "５）事務所に　ファクス（____）パソコンなど（____）　あります。"
+        }
+      ],
+      "text": "1.\n例：受付に　ミラーさんが　（　います　　）。\n１）ワイン売り場は　地下に　（\n____\n）。\n２）犬は　どこに　（\n____\n）か。\n３）あそこに　小さい　男の　子が　（\n____\n）。\n４）冷蔵庫の　中に　何も　（\n____\n）。\n５）事務所に　だれも（\n____\n）。\n2.\n例：いす　（　の　）　下（　に　）　猫　（　が　）　います。\n１）消しゴムは　机の　上（\n____\n）　あります。\n２）タクシー乗り場（の）　近く（\n____\n）　　ポストが　あります。\n３）花屋（は）　スーパー（と）　銀行（\n____\n）　間に　あります。\n４）公園（\n____\n）だれ（\n____\n）いません。\n５）事務所に　ファクス（\n____\n）パソコンなど（\n____\n）　あります。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

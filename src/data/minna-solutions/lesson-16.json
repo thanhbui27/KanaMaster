@@ -1,0 +1,207 @@
+{
+  "lesson": 16,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-16",
+  "solutions": [
+    {
+      "exerciseId": "16-section-9-exercise-1",
+      "question": "１）デパートへ　（___）、買い物して、それから　映画を　見ます。",
+      "context": "1.\n閉めます　下ろします　乗ります　浴びます　行きます　乗り換えます\n例：窓を　（閉めて）　、電気を　消して、寝ました。",
+      "status": "reference",
+      "answers": [
+        [
+          "行って"
+        ]
+      ],
+      "explanation": "行きます → 行って, nối các hành động theo trình tự."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-2",
+      "question": "２）銀行で　お金を　（___）から、買い物に　行きます。",
+      "context": "1.\n閉めます　下ろします　乗ります　浴びます　行きます　乗り換えます\n例：窓を　（閉めて）　、電気を　消して、寝ました。",
+      "status": "reference",
+      "answers": [
+        [
+          "下ろして"
+        ]
+      ],
+      "explanation": "お金を下ろしてから: sau khi rút tiền."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-3",
+      "question": "３）甲子園から　電車に（___）　、梅田で　地下鉄に（___）　日本橋で　降ります。",
+      "context": "1.\n閉めます　下ろします　乗ります　浴びます　行きます　乗り換えます\n例：窓を　（閉めて）　、電気を　消して、寝ました。",
+      "status": "reference",
+      "answers": [
+        [
+          "乗って"
+        ],
+        [
+          "乗り換えて"
+        ]
+      ],
+      "explanation": "乗って là lên tàu; 乗り換えて là chuyển sang tuyến khác."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-4",
+      "question": "４）シャワーを（___）　から、プールに　入って　ください。",
+      "context": "1.\n閉めます　下ろします　乗ります　浴びます　行きます　乗り換えます\n例：窓を　（閉めて）　、電気を　消して、寝ました。",
+      "status": "reference",
+      "answers": [
+        [
+          "浴びて"
+        ]
+      ],
+      "explanation": "浴びます → 浴びて; tắm tráng xong rồi vào bể."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-5",
+      "question": "１）カリナさんは　富士大学の　（___）、美術を　勉強して　います。",
+      "context": "2.\nいいです　多いです　軽いです　にぎやかです　学生です\n例：奈良は　緑が　（多くて）　、きれいな　町です。",
+      "status": "reference",
+      "answers": [
+        [
+          "学生で"
+        ]
+      ],
+      "explanation": "Nối danh từ với mệnh đề sau bằng で: là sinh viên và đang học mỹ thuật."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-6",
+      "question": "２）佐藤さんは　頭が　（___）、すてきな　人です。",
+      "context": "2.\nいいです　多いです　軽いです　にぎやかです　学生です\n例：奈良は　緑が　（多くて）　、きれいな　町です。",
+      "status": "reference",
+      "answers": [
+        [
+          "よくて"
+        ]
+      ],
+      "explanation": "いい → よくて là dạng nối đặc biệt."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-7",
+      "question": "３）新しい　パソコンは　（___）、便利です。",
+      "context": "2.\nいいです　多いです　軽いです　にぎやかです　学生です\n例：奈良は　緑が　（多くて）　、きれいな　町です。",
+      "status": "reference",
+      "answers": [
+        [
+          "軽くて"
+        ]
+      ],
+      "explanation": "軽い → 軽くて: nhẹ và tiện lợi."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-8",
+      "question": "４）東京は　（___）、おもしろい　町です。",
+      "context": "2.\nいいです　多いです　軽いです　にぎやかです　学生です\n例：奈良は　緑が　（多くて）　、きれいな　町です。",
+      "status": "reference",
+      "answers": [
+        [
+          "にぎやかで"
+        ]
+      ],
+      "explanation": "な-tính từ dùng で để nối: nhộn nhịp và thú vị."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-9",
+      "question": "１）国へ　帰ってから、大学　（___）入って、経済の　研究を　します。",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "大学に入ります: vào đại học."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-10",
+      "question": "２）大阪駅から　JR（___）乗って、京都駅（___）降ります。",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "で"
+        ]
+      ],
+      "explanation": "JRに乗る: lên tàu; 京都駅で降りる: xuống ở ga Kyoto."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-11",
+      "question": "３）京都で　古い　お寺　（___）<ruby見学(しました。</ruby見学",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Đề còn thẻ HTML lỗi “<ruby見学…”. Câu dự kiến 京都で古いお寺を見学しました, dùng を cho đối tượng tham quan. Cần sửa câu nguồn trước khi chấm."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-12",
+      "question": "４）日本は　山　（___）多いです。",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "日本は山が多い: Nhật có nhiều núi; 山 là chủ ngữ của 多い."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-13",
+      "question": "５）北海道は　きれいで、食べ物　（___）おいしいです。",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "食べ物がおいしい: đồ ăn ngon."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-14",
+      "question": "６）ここ（___）お金（___）入れてください。",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "ここに chỉ chỗ đưa tiền vào; お金を là đối tượng."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-15",
+      "question": "７）ジョギングを　して、シャワー　（___）浴びて、学校へ　行きます。",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ]
+      ],
+      "explanation": "シャワーを浴びます dùng を."
+    },
+    {
+      "exerciseId": "16-section-9-exercise-16",
+      "question": "８）大学　（___）出てから、父の　会社　（___）　働きます。",
+      "context": "3. 例：ミラーさんは　背　（　が　）　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "で"
+        ]
+      ],
+      "explanation": "大学を出る nghĩa là tốt nghiệp đại học; 会社で働く nghĩa là làm việc ở công ty."
+    }
+  ]
+}

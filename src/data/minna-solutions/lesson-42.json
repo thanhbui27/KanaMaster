@@ -1,0 +1,399 @@
+{
+  "lesson": 42,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-42",
+  "solutions": [
+    {
+      "exerciseId": "42-section-6-exercise-1",
+      "question": "1． 戦争（　）死んだ人のために、この曲（　）作りました。",
+      "context": "1．\n例：これはプレせんと（に）ちょうどいいですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "戦争で死んだ: chết vì chiến tranh; 曲を作る: sáng tác bài nhạc."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-2",
+      "question": "2． ボランティアの会議（　）出席するために、休み（　）取りました。",
+      "context": "1．\n例：これはプレせんと（に）ちょうどいいですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "会議に出席する: dự họp; 休みを取る: xin nghỉ."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-3",
+      "question": "3． このバックはポケット（　）たくさんあって、仕事（　）便利です。",
+      "context": "1．\n例：これはプレせんと（に）ちょうどいいですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "ポケットがたくさんある: có nhiều ngăn; 仕事に便利: tiện cho công việc."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-4",
+      "question": "4． 日本（　）アジア（　）関係を知るために、資料（　）集めてます。",
+      "context": "1．\n例：これはプレせんと（に）ちょうどいいですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "と"
+        ],
+        [
+          "の"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "日本とアジアの関係: quan hệ Nhật Bản và châu Á; 資料を集める: thu thập tài liệu."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-5",
+      "question": "5． A:うちから会社まで車でどのぐらいかかりますか。\nB：道が混んでいなくても、１時間半（　）かかります。\nA：１時間半（　）かかるんですか。大変ですね。",
+      "context": "1．\n例：これはプレせんと（に）ちょうどいいですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "は"
+        ],
+        [
+          "も"
+        ]
+      ],
+      "explanation": "Ít nhất cũng mất 1,5 giờ: １時間半はかかる; bất ngờ vì nhiều: １時間半もかかる."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-6",
+      "question": "1． 栓めきは＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n熱　混ぜます\n電車の時間　沸かします\nお湯　計算します\n材料　測ります\n瓶のふた　整理します\n資料　調べます\nふろしき　開けます\n例：やかんはお湯を沸かすのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "瓶のふたを開けるのに使います"
+        ]
+      ],
+      "explanation": "栓抜き dùng mở nắp chai. Nguồn 栓めき bị lỗi; động từ + のに dùng chỉ công dụng."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-7",
+      "question": "2． ミキサーは＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n熱　混ぜます\n電車の時間　沸かします\nお湯　計算します\n材料　測ります\n瓶のふた　整理します\n資料　調べます\nふろしき　開けます\n例：やかんはお湯を沸かすのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "材料を混ぜるのに使います"
+        ]
+      ],
+      "explanation": "Máy xay dùng trộn nguyên liệu, theo ngân hàng từ của đề."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-8",
+      "question": "3． 体温計は＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n熱　混ぜます\n電車の時間　沸かします\nお湯　計算します\n材料　測ります\n瓶のふた　整理します\n資料　調べます\nふろしき　開けます\n例：やかんはお湯を沸かすのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "熱を測るのに使います"
+        ]
+      ],
+      "explanation": "Nhiệt kế dùng đo thân nhiệt: 熱を測る."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-9",
+      "question": "4． ファイルは＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n熱　混ぜます\n電車の時間　沸かします\nお湯　計算します\n材料　測ります\n瓶のふた　整理します\n資料　調べます\nふろしき　開けます\n例：やかんはお湯を沸かすのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "資料を整理するのに使います"
+        ]
+      ],
+      "explanation": "Bìa hồ sơ dùng sắp xếp tài liệu."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-10",
+      "question": "5． 時刻表は＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n熱　混ぜます\n電車の時間　沸かします\nお湯　計算します\n材料　測ります\n瓶のふた　整理します\n資料　調べます\nふろしき　開けます\n例：やかんはお湯を沸かすのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "電車の時間を調べるのに使います"
+        ]
+      ],
+      "explanation": "Thời gian biểu dùng tra giờ tàu."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-11",
+      "question": "1． この公園は広くて、気が多いですね。（散歩・いいです）\n…ええ、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例１：新しいマンションはどうですか。（買い物・不便です）\n…とても静かでいいんですが、ちょっと買い物に不便です。\n例２：これはなんですか。（計算します・使います）\n…そろばんです。計算するのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "散歩にいいです"
+        ]
+      ],
+      "explanation": "Danh từ + にいい: tốt cho việc đi dạo; nguồn 気が多い cần sửa 木が多い (nhiều cây)."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-12",
+      "question": "2． 電子辞書はどうですか。（漢字の読み方を調べます・役にたちます）\n…便利ですよ。特に＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例１：新しいマンションはどうですか。（買い物・不便です）\n…とても静かでいいんですが、ちょっと買い物に不便です。\n例２：これはなんですか。（計算します・使います）\n…そろばんです。計算するのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "漢字の読み方を調べるのに役に立ちます"
+        ]
+      ],
+      "explanation": "Động từ + のに役に立つ: hữu ích để tra cách đọc kanji."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-13",
+      "question": "3． 弟さんのけがはどうですか。（治ります・２ヶ月かかりました）\n…おかげさまでやっと良くなりました。＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例１：新しいマンションはどうですか。（買い物・不便です）\n…とても静かでいいんですが、ちょっと買い物に不便です。\n例２：これはなんですか。（計算します・使います）\n…そろばんです。計算するのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "治るのに２か月かかりました",
+          "治るのに2か月かかりました",
+          "治るのに２ヶ月かかりました"
+        ]
+      ],
+      "explanation": "治るのに～かかる: mất hai tháng để lành."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-14",
+      "question": "4． この傘はずいぶん軽いですね。（旅行・便利です）\n…ええ、小さくて、軽いですから、＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "3．\n例１：新しいマンションはどうですか。（買い物・不便です）\n…とても静かでいいんですが、ちょっと買い物に不便です。\n例２：これはなんですか。（計算します・使います）\n…そろばんです。計算するのに使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "旅行に便利です"
+        ]
+      ],
+      "explanation": "Danh từ + に便利: tiện cho du lịch."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-15",
+      "question": "1． 友達の結婚式に（出席します・　　　　　）ために、休みを取りました。",
+      "context": "４．\n例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。\n例２：（子ども・子どもの）ために、犬を飼いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "出席する"
+        ]
+      ],
+      "explanation": "Thể từ điển + ために: để tham dự đám cưới."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-16",
+      "question": "2． 日本語を（勉強している人・　　　　　）ために、易しい日本語で話そう\nと思っています。",
+      "context": "４．\n例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。\n例２：（子ども・子どもの）ために、犬を飼いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "勉強している人の"
+        ]
+      ],
+      "explanation": "Vì những người đang học, danh từ 人 + のために."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-17",
+      "question": "3． １２時に飛行機に（乗ります・　　　　　）ために、８時にウチを出なけ\nればなりません。",
+      "context": "４．\n例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。\n例２：（子ども・子どもの）ために、犬を飼いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "乗る"
+        ]
+      ],
+      "explanation": "乗るために: để lên chuyến bay lúc 12 giờ."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-18",
+      "question": "4． （健康・　　　　　）ために、毎日ジョギングをしています。",
+      "context": "４．\n例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。\n例２：（子ども・子どもの）ために、犬を飼いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "健康の"
+        ]
+      ],
+      "explanation": "Danh từ + のために: vì sức khỏe."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-19",
+      "question": "5． （困っている人・　　　　　　）ために、法律を勉強して、弁護士になろ\nうと思っています。",
+      "context": "４．\n例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。\n例２：（子ども・子どもの）ために、犬を飼いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "困っている人の"
+        ]
+      ],
+      "explanation": "Vì những người đang gặp khó khăn: 人のために."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-20",
+      "question": "6． （何・　　　　 ）ために、歴史を勉強するんですか。",
+      "context": "４．\n例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。\n例２：（子ども・子どもの）ために、犬を飼いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "何の"
+        ]
+      ],
+      "explanation": "何のために: vì mục đích gì?"
+    },
+    {
+      "exerciseId": "42-section-6-exercise-21",
+      "question": "7． 静かなところで子どもを（育てます・　　　　　　）ために、引っ越しし\nました。",
+      "context": "４．\n例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。\n例２：（子ども・子どもの）ために、犬を飼いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "育てる"
+        ]
+      ],
+      "explanation": "育てるために: để nuôi con ở nơi yên tĩnh."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-22",
+      "question": "1． 日本へ来た目的はなんですか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、来ました。",
+      "context": "５．\n例：どうして人が大勢並んでいるんですか。\n…コンサートのチケットを買うために、並んでいるんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "日本語を勉強する"
+        ]
+      ],
+      "explanation": "Ví dụ: đến Nhật để học tiếng Nhật; thể từ điển + ために."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-23",
+      "question": "2． どうして日本語を勉強していますか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、一生懸命勉強しています。",
+      "context": "５．\n例：どうして人が大勢並んでいるんですか。\n…コンサートのチケットを買うために、並んでいるんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "日本の会社で働く"
+        ]
+      ],
+      "explanation": "Ví dụ: học để làm ở công ty Nhật. Có thể thay mục tiêu theo bản thân."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-24",
+      "question": "3． なぜ貯金しているんですか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、貯金しなければなりません。",
+      "context": "５．\n例：どうして人が大勢並んでいるんですか。\n…コンサートのチケットを買うために、並んでいるんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "家を買う"
+        ]
+      ],
+      "explanation": "Ví dụ: tiết kiệm để mua nhà."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-25",
+      "question": "4． どうしてコンピューターを買ったんですか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、買ったんです。",
+      "context": "５．\n例：どうして人が大勢並んでいるんですか。\n…コンサートのチケットを買うために、並んでいるんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "仕事に使う"
+        ]
+      ],
+      "explanation": "Ví dụ: mua máy tính để dùng cho công việc."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-26",
+      "question": "1． 魯文を描く「ように、ために」、資料を集めています。",
+      "context": "６．\n例：書留を出す「ように、ために」、郵便局へ行きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ために"
+        ]
+      ],
+      "explanation": "Hành động có chủ ý viết bài luận dùng ために. Nguồn 魯文を描く cần sửa thành 論文を書く."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-27",
+      "question": "2． 電車に傘を忘れない「ように、ために」、気をつけてください。",
+      "context": "６．\n例：書留を出す「ように、ために」、郵便局へ行きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ように"
+        ]
+      ],
+      "explanation": "忘れないように: cố không quên; mục tiêu phủ định dùng ように."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-28",
+      "question": "3． 絵を勉強する「ように、ために」、フランスへ行こうと思っています。",
+      "context": "６．\n例：書留を出す「ように、ために」、郵便局へ行きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ために"
+        ]
+      ],
+      "explanation": "絵を勉強するために: sang Pháp để học hội họa, mục đích chủ ý."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-29",
+      "question": "4． マランソ大会に出る「ように、ために」、毎日練習しています。",
+      "context": "６．\n例：書留を出す「ように、ために」、郵便局へ行きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ために"
+        ]
+      ],
+      "explanation": "大会に出るために: luyện tập để tham gia cuộc thi; nguồn マランソ là lỗi của マラソン."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-30",
+      "question": "5． 約束の時間に遅れない「ように、ために」、急いで行きました。",
+      "context": "６．\n例：書留を出す「ように、ために」、郵便局へ行きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ように"
+        ]
+      ],
+      "explanation": "遅れないように: để không đến muộn."
+    },
+    {
+      "exerciseId": "42-section-6-exercise-31",
+      "question": "6． 病気が早く治る「ように、ために」、薬を飲んでいます。",
+      "context": "６．\n例：書留を出す「ように、ために」、郵便局へ行きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ように"
+        ]
+      ],
+      "explanation": "病気が治るように: mong bệnh khỏi; 治る là quá trình không trực tiếp điều khiển được."
+    }
+  ]
+}

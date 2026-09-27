@@ -1,0 +1,188 @@
+{
+  "lesson": 20,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-20",
+  "solutions": [
+    {
+      "exerciseId": "20-section-6-exercise-1",
+      "question": "１）きのう　家族に　電話を　かけましたか。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "かけた",
+          "きのう家族に電話をかけた"
+        ]
+      ],
+      "explanation": "かけましたか chuyển sang câu hỏi thân mật かけた？, thường bỏ か."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-2",
+      "question": "２）わたしは　大阪に　住んで　います。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "住んでいる",
+          "わたしは大阪に住んでいる"
+        ]
+      ],
+      "explanation": "ています → ている. Giữ ý nghĩa đang cư trú."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-3",
+      "question": "３）もう　帰っても　いいですか。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "帰ってもいい",
+          "もう帰ってもいい"
+        ]
+      ],
+      "explanation": "帰ってもいいですか → 帰ってもいい？."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-4",
+      "question": "４）東京へ　遊びに　行きます。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "行く",
+          "東京へ遊びに行く"
+        ]
+      ],
+      "explanation": "行きます → 行く, thể thông thường hiện tại/tương lai."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-5",
+      "question": "５）ビザを　もらわなければ　なりません。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "もらわなければならない",
+          "ビザをもらわなければならない"
+        ]
+      ],
+      "explanation": "なりません → ならない; giữ nguyên nghĩa phải có visa."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-6",
+      "question": "６）ここで　たばこを　吸っては　いけません。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "吸ってはいけない",
+          "ここでたばこを吸ってはいけない"
+        ]
+      ],
+      "explanation": "いけません → いけない, cấm hút thuốc."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-7",
+      "question": "７）漢字を　読む　ことが　できません。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "できない",
+          "漢字を読むことができない"
+        ]
+      ],
+      "explanation": "できません → できない."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-8",
+      "question": "８）刺身を　食べた　ことが　ありません。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "ない",
+          "刺身を食べたことがない"
+        ]
+      ],
+      "explanation": "ありません → ない trong cấu trúc kinh nghiệm."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-9",
+      "question": "９）時間と　お金が　欲しいです。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "欲しい",
+          "時間とお金が欲しい"
+        ]
+      ],
+      "explanation": "Với い-tính từ ở thể thường, bỏ です."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-10",
+      "question": "10）ここは　きれいな　海でした。（____）",
+      "context": "2. 例：図書館で　本を　借ります。（借りる）",
+      "status": "reference",
+      "answers": [
+        [
+          "きれいな海だった",
+          "ここはきれいな海だった"
+        ]
+      ],
+      "explanation": "Danh từ + でした → だった. Giữ な của きれいな海."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-11",
+      "question": "１）あの　人は　結婚して　いる？（____）\n...  ううん、独身だ。（____）",
+      "context": "3. 例：あれは　何？（何ですか）",
+      "status": "reference",
+      "answers": [
+        [
+          "結婚していますか",
+          "あの人は結婚していますか"
+        ],
+        [
+          "いいえ、独身です"
+        ]
+      ],
+      "explanation": "Chuyển hỏi đáp thân mật sang lịch sự: いる？→いますか, ううん→いいえ, だ→です."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-12",
+      "question": "２）きのう　パーティーに　行った？（____）\n...  ううん、行かなかった。（____）\n頭が　痛かったから。（____）",
+      "context": "3. 例：あれは　何？（何ですか）",
+      "status": "reference",
+      "answers": [
+        [
+          "行きましたか",
+          "きのうパーティーに行きましたか"
+        ],
+        [
+          "いいえ、行きませんでした"
+        ],
+        [
+          "頭が痛かったですから"
+        ]
+      ],
+      "explanation": "Dùng quá khứ lịch sự, phủ định quá khứ ませんでした và thêm です sau 痛かった."
+    },
+    {
+      "exerciseId": "20-section-6-exercise-13",
+      "question": "３）ミラーさん、いつも　元気ね。（____）\n...  うん、若いから。（____）",
+      "context": "3. 例：あれは　何？（何ですか）",
+      "status": "reference",
+      "answers": [
+        [
+          "いつも元気ですね",
+          "ミラーさん、いつも元気ですね"
+        ],
+        [
+          "はい、若いですから"
+        ]
+      ],
+      "explanation": "な-tính từ dùng ですね; うん→はい và 若いですから ở lịch sự."
+    }
+  ]
+}

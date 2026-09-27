@@ -1,0 +1,91 @@
+{
+  "lesson": 22,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-22",
+  "solutions": [
+    {
+      "exerciseId": "22-section-4-exercise-1",
+      "question": "１）わたしは　______　うちが　欲しいです。",
+      "context": "1.\nよく　寝ます　図書館で　借りました　お酒を　飲みません\nマリアさんから　来ました　庭が　あります\n例：よく　寝る　人は　元気です。",
+      "status": "reference",
+      "answers": [
+        [
+          "庭がある"
+        ]
+      ],
+      "explanation": "Mệnh đề bổ nghĩa ở thể thường: căn nhà có vườn."
+    },
+    {
+      "exerciseId": "22-section-4-exercise-2",
+      "question": "２）わたしは　______　人が　好きです。",
+      "context": "1.\nよく　寝ます　図書館で　借りました　お酒を　飲みません\nマリアさんから　来ました　庭が　あります\n例：よく　寝る　人は　元気です。",
+      "status": "reference",
+      "answers": [
+        [
+          "お酒を飲まない"
+        ]
+      ],
+      "explanation": "Người không uống rượu; phủ định thường 飲まない đứng trước 人."
+    },
+    {
+      "exerciseId": "22-section-4-exercise-3",
+      "question": "３）______　本を　なくしました。",
+      "context": "1.\nよく　寝ます　図書館で　借りました　お酒を　飲みません\nマリアさんから　来ました　庭が　あります\n例：よく　寝る　人は　元気です。",
+      "status": "reference",
+      "answers": [
+        [
+          "図書館で借りた"
+        ]
+      ],
+      "explanation": "Quyển sách đã mượn ở thư viện; 借りました → 借りた."
+    },
+    {
+      "exerciseId": "22-section-4-exercise-4",
+      "question": "４）______　手紙は　机の　上に　あります。",
+      "context": "1.\nよく　寝ます　図書館で　借りました　お酒を　飲みません\nマリアさんから　来ました　庭が　あります\n例：よく　寝る　人は　元気です。",
+      "status": "reference",
+      "answers": [
+        [
+          "マリアさんから来た"
+        ]
+      ],
+      "explanation": "Bức thư từ Maria gửi đến; 来ました → 来た trước 手紙."
+    },
+    {
+      "exerciseId": "22-section-4-exercise-5",
+      "question": "１）ここに　あった　新聞は　（____）　ですか。\n...  テレビの　上に　あります。",
+      "context": "2. 例：あの　黒い　シャツを　着て　いる　人は　（だれ）　ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どこ"
+        ]
+      ],
+      "explanation": "Hỏi vị trí của tờ báo; đáp trên tivi."
+    },
+    {
+      "exerciseId": "22-section-4-exercise-6",
+      "question": "２）マリアさんが　作った　ケーキは　（____）　でしたか。\n...  とても　おいしかったです。",
+      "context": "2. 例：あの　黒い　シャツを　着て　いる　人は　（だれ）　ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どう"
+        ]
+      ],
+      "explanation": "どうでしたか hỏi cảm nhận về chiếc bánh."
+    },
+    {
+      "exerciseId": "22-section-4-exercise-7",
+      "question": "３）金閣寺へ　行く　バスは　（____）　ですか。\n...  あれです。",
+      "context": "2. 例：あの　黒い　シャツを　着て　いる　人は　（だれ）　ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どれ"
+        ]
+      ],
+      "explanation": "Chọn chiếc xe buýt nào trong số các xe đang thấy; đáp あれ."
+    }
+  ]
+}

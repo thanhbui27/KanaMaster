@@ -1,0 +1,299 @@
+{
+  "lesson": 33,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-33",
+  "solutions": [
+    {
+      "exerciseId": "33-section-8-exercise-1",
+      "question": "1) この字（　）何（　）読みますか。",
+      "context": "２．\n例：手（に）やけど（を）していまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "は",
+          "を"
+        ],
+        [
+          "と"
+        ]
+      ],
+      "explanation": "この字は何と読みますか: chữ này đọc thế nào? 何と dùng と đánh dấu nội dung đọc; この字を何と読みますか cũng dùng được."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-2",
+      "question": "2) あそこ（　）「止まれ」（　）書いてあります。",
+      "context": "２．\n例：手（に）やけど（を）していまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "と"
+        ]
+      ],
+      "explanation": "あそこに chỉ nơi; 「止まれ」と書いてあります trích nội dung được viết."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-3",
+      "question": "3) スキー（　）行ったら、けが（ 　）注意してください。",
+      "context": "２．\n例：手（に）やけど（を）していまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "スキーに行く: đi trượt tuyết; けがに注意する: chú ý tránh chấn thương."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-4",
+      "question": "4) 山田さん（　）今、席（　）外しています。",
+      "context": "２．\n例：手（に）やけど（を）していまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "は"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "山田さんは席を外しています: anh Yamada hiện rời chỗ."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-5",
+      "question": "5) レポートは１週間以内（　）出してください。",
+      "context": "２．\n例：手（に）やけど（を）していまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "１週間以内に: trong vòng một tuần."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-6",
+      "question": "1) 自分のことは自分で（する…　　　　）",
+      "context": "３．\n私が子供のとく、父はよく\n例１：規則を（守る…守れ）\n例２：電車の中で（騒がない…騒ぐな）",
+      "status": "reference",
+      "answers": [
+        [
+          "しろ",
+          "せよ"
+        ]
+      ],
+      "explanation": "Mệnh lệnh của する là しろ; せよ trang trọng hơn cũng đúng."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-7",
+      "question": "2) すぐ（あきらめない…　　　　　　　）",
+      "context": "３．\n私が子供のとく、父はよく\n例１：規則を（守る…守れ）\n例２：電車の中で（騒がない…騒ぐな）",
+      "status": "reference",
+      "answers": [
+        [
+          "あきらめるな"
+        ]
+      ],
+      "explanation": "Cấm đoán: thể từ điển + な, không phải あきらめないな."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-8",
+      "question": "3) たくさん本を（読む…　　　　　　　）",
+      "context": "３．\n私が子供のとく、父はよく\n例１：規則を（守る…守れ）\n例２：電車の中で（騒がない…騒ぐな）",
+      "status": "reference",
+      "answers": [
+        [
+          "読め"
+        ]
+      ],
+      "explanation": "読む → 読め, thể mệnh lệnh nhóm I."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-9",
+      "question": "4) 約束の時間に（遅れない…　　　　　）と言いました。",
+      "context": "３．\n私が子供のとく、父はよく\n例１：規則を（守る…守れ）\n例２：電車の中で（騒がない…騒ぐな）",
+      "status": "reference",
+      "answers": [
+        [
+          "遅れるな"
+        ]
+      ],
+      "explanation": "遅れるな: đừng đến muộn."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-10",
+      "question": "1)「本日休業」は＿＿＿＿＿＿＿＿＿＿＿という意味です。",
+      "context": "４．\n例：「無料」はお金を払わなくてもいいという意味です。",
+      "status": "sample",
+      "answers": [
+        [
+          "今日は休みだ"
+        ]
+      ],
+      "explanation": "本日休業 nghĩa là hôm nay nghỉ kinh doanh; danh từ thể thường + という意味です."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-11",
+      "question": "2)「禁煙」は＿＿＿＿＿＿＿＿＿＿＿＿＿という意味です。",
+      "context": "４．\n例：「無料」はお金を払わなくてもいいという意味です。",
+      "status": "sample",
+      "answers": [
+        [
+          "たばこを吸ってはいけない"
+        ]
+      ],
+      "explanation": "禁煙: không được hút thuốc."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-12",
+      "question": "3)「使用中」は＿＿＿＿＿＿＿＿＿＿＿＿という意味です。",
+      "context": "４．\n例：「無料」はお金を払わなくてもいいという意味です。",
+      "status": "sample",
+      "answers": [
+        [
+          "今使っている"
+        ]
+      ],
+      "explanation": "使用中: đang được sử dụng."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-13",
+      "question": "4)「立入禁止」は＿＿＿＿＿＿＿＿＿＿＿という意味です。",
+      "context": "４．\n例：「無料」はお金を払わなくてもいいという意味です。",
+      "status": "sample",
+      "answers": [
+        [
+          "入ってはいけない"
+        ]
+      ],
+      "explanation": "立入禁止: không được vào."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-14",
+      "question": "1) 渡辺さんはまだコピーしているんですか。（もうすぐ終わります）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿と言っていました。",
+      "context": "５．\n例：林さんはどこへ行ったんですか。（食事に行きます）\n…食事に行くと言っていました。",
+      "status": "reference",
+      "answers": [
+        [
+          "もうすぐ終わる"
+        ]
+      ],
+      "explanation": "Lời thuật lại dùng thể thường trước と言っていました."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-15",
+      "question": "2) ミラーさんは渡辺さんの結婚式に出席するんですか。（出席できません）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿と言っていました。",
+      "context": "５．\n例：林さんはどこへ行ったんですか。（食事に行きます）\n…食事に行くと言っていました。",
+      "status": "reference",
+      "answers": [
+        [
+          "出席できない"
+        ]
+      ],
+      "explanation": "出席できません → 出席できない."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-16",
+      "question": "3) 松本さんは体の調子が悪いんですか。（あまりよくないです）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿と言っていました。",
+      "context": "５．\n例：林さんはどこへ行ったんですか。（食事に行きます）\n…食事に行くと言っていました。",
+      "status": "reference",
+      "answers": [
+        [
+          "あまりよくない"
+        ]
+      ],
+      "explanation": "よくないです → よくない, giữ あまり đi với phủ định."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-17",
+      "question": "4) 電気屋はいつエアコンの修理ができると言いましたか。（修理は無理です）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿と言っていました。",
+      "context": "５．\n例：林さんはどこへ行ったんですか。（食事に行きます）\n…食事に行くと言っていました。",
+      "status": "reference",
+      "answers": [
+        [
+          "修理は無理だ"
+        ]
+      ],
+      "explanation": "無理です → 無理だ, danh từ/tính từ な phải giữ だ trước と."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-18",
+      "question": "5) 山田さんは何か行っていましたか。（今度の休みに釣りに行きましょう）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿と言っていました。",
+      "context": "５．\n例：林さんはどこへ行ったんですか。（食事に行きます）\n…食事に行くと言っていました。",
+      "status": "reference",
+      "answers": [
+        [
+          "今度の休みに釣りに行こう"
+        ]
+      ],
+      "explanation": "Lời rủ 行きましょう → 行こう. Nguồn 行っていました ở câu hỏi có vẻ nhầm 言っていました."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-19",
+      "question": "１）（１５分ぐらい遅れます→林さん）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿と伝えていただけませんか。",
+      "context": "６．\n例：（出張の準備はもうできました→課長）\n…課長に出張の準備はもうできましたと伝えていただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "林さんに１５分ぐらい遅れます",
+          "林さんに15分ぐらい遅れます"
+        ]
+      ],
+      "explanation": "Nhờ chuyển lời: người nhận + に + nội dung + と伝えていただけませんか; theo ví dụ giữ thể lịch sự trong lời nhắn."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-20",
+      "question": "２）（５時までに会社に戻れません→ミラーさん）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿と伝えていただけませんか。",
+      "context": "６．\n例：（出張の準備はもうできました→課長）\n…課長に出張の準備はもうできましたと伝えていただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "ミラーさんに５時までに会社に戻れません",
+          "ミラーさんに5時までに会社に戻れません"
+        ]
+      ],
+      "explanation": "Nhắn cho Miller rằng không thể về công ty trước 5 giờ."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-21",
+      "question": "３）（次のミーティングは来週の木曜日です→山田さん）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿と伝えていただけませんか。",
+      "context": "６．\n例：（出張の準備はもうできました→課長）\n…課長に出張の準備はもうできましたと伝えていただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "山田さんに次のミーティングは来週の木曜日です"
+        ]
+      ],
+      "explanation": "Giữ đúng người nhận 山田さん và thời gian thứ Năm tuần sau."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-22",
+      "question": "４）（みんな元気です→サントスさん）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿と伝えていただけませんか。",
+      "context": "６．\n例：（出張の準備はもうできました→課長）\n…課長に出張の準備はもうできましたと伝えていただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "サントスさんにみんな元気です"
+        ]
+      ],
+      "explanation": "Nhắn Santos rằng mọi người đều khỏe."
+    },
+    {
+      "exerciseId": "33-section-8-exercise-23",
+      "question": "５）（お土産のお菓子はとてもおいしかったです→カリナさん）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿と伝えていただけませんか。",
+      "context": "６．\n例：（出張の準備はもうできました→課長）\n…課長に出張の準備はもうできましたと伝えていただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "カリナさんにお土産のお菓子はとてもおいしかったです"
+        ]
+      ],
+      "explanation": "Nhắn Karina bánh quà biếu rất ngon; giữ quá khứ おいしかった."
+    }
+  ]
+}

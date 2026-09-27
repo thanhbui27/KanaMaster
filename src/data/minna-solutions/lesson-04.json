@@ -1,0 +1,261 @@
+{
+  "lesson": 4,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-4",
+  "solutions": [
+    {
+      "exerciseId": "4-section-9-exercise-1",
+      "question": "１）今（___）ですか。\n...  5時です。",
+      "context": "1. 例：あの　人は　（ だれ ）ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何時",
+          "なんじ"
+        ]
+      ],
+      "explanation": "5時 là giờ; hỏi 今何時ですか."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-2",
+      "question": "２）佐藤さんの　電話番号は（____）ですか。\n...  020の　333の　4367です。",
+      "context": "1. 例：あの　人は　（ だれ ）ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何番",
+          "なんばん"
+        ]
+      ],
+      "explanation": "Hỏi số điện thoại dùng 電話番号は何番ですか."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-3",
+      "question": "３）きょうは（____）ですか。\n...  火曜日です。",
+      "context": "1. 例：あの　人は　（ だれ ）ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何曜日",
+          "なんようび"
+        ]
+      ],
+      "explanation": "火曜日 là thứ Ba, nên hỏi thứ trong tuần."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-4",
+      "question": "４）テレーザちゃんは（____）ですか。\n...  9歳です。",
+      "context": "1. 例：あの　人は　（ だれ ）ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何歳",
+          "なんさい",
+          "おいくつ"
+        ]
+      ],
+      "explanation": "Hỏi tuổi; おいくつ lịch sự hơn 何歳."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-5",
+      "question": "５）きのう（____）まで　働きましたか。\n...  9時まで　働きました。",
+      "context": "1. 例：あの　人は　（ だれ ）ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何時",
+          "なんじ"
+        ]
+      ],
+      "explanation": "何時まで hỏi làm việc đến mấy giờ."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-6",
+      "question": "１）  毎朝（___）6時（___）起きます。",
+      "context": "2.\n例1：  これは　スイス（ の ）時計です。\n例2：  電話は　どこ（ X ）ですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "X",
+          "×"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "毎朝 không cần trợ từ thời điểm; giờ cụ thể 6時 đi với に. Nhập X hoặc × cho ô không dùng trợ từ."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-7",
+      "question": "２）  美術館は　何時（___）　何時（___）ですか。",
+      "context": "2.\n例1：  これは　スイス（ の ）時計です。\n例2：  電話は　どこ（ X ）ですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "から"
+        ],
+        [
+          "まで"
+        ]
+      ],
+      "explanation": "何時から何時まで: từ mấy giờ đến mấy giờ."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-8",
+      "question": "３）  今　何時（___）ですか。",
+      "context": "2.\n例1：  これは　スイス（ の ）時計です。\n例2：  電話は　どこ（ X ）ですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "X",
+          "×"
+        ]
+      ],
+      "explanation": "今何時ですか không có trợ từ giữa 何時 và です. Nhập X/×."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-9",
+      "question": "４）  木曜日（___）　午後　病院は　休みです。",
+      "context": "2.\n例1：  これは　スイス（ の ）時計です。\n例2：  電話は　どこ（ X ）ですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ]
+      ],
+      "explanation": "木曜日の午後: chiều thứ Năm; の nối hai danh từ thời gian."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-10",
+      "question": "５）  大学は　何時（___）　終わりますか。",
+      "context": "2.\n例1：  これは　スイス（ の ）時計です。\n例2：  電話は　どこ（ X ）ですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Thời điểm kết thúc cụ thể được đánh dấu bằng に."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-11",
+      "question": "６）  銀行の　休みは　土曜日（___）　日曜日です。",
+      "context": "2.\n例1：  これは　スイス（ の ）時計です。\n例2：  電話は　どこ（ X ）ですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "と"
+        ]
+      ],
+      "explanation": "と liệt kê đầy đủ hai ngày nghỉ: thứ Bảy và Chủ nhật."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-12",
+      "question": "１）きのう　10時に（　a. 寝ます、b. 寝ました　）。",
+      "context": "3. 例： 毎日　9時から　5時まで（ a. 働きます　、b. 働きました ）。",
+      "status": "reference",
+      "answers": [
+        [
+          "寝ました"
+        ]
+      ],
+      "explanation": "きのう là hôm qua, dùng quá khứ lịch sự ました."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-13",
+      "question": "２）毎日　昼　12時から　1時まで（　a. 休みます、b. 休みました　）。",
+      "context": "3. 例： 毎日　9時から　5時まで（ a. 働きます　、b. 働きました ）。",
+      "status": "reference",
+      "answers": [
+        [
+          "休みます"
+        ]
+      ],
+      "explanation": "毎日 diễn tả thói quen, dùng hiện tại ます."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-14",
+      "question": "３）おとといの　晩　9時から　11時まで（　a. 勉強します、b. 勉強しました　）。",
+      "context": "3. 例： 毎日　9時から　5時まで（ a. 働きます　、b. 働きました ）。",
+      "status": "reference",
+      "answers": [
+        [
+          "勉強しました"
+        ]
+      ],
+      "explanation": "おととい là hôm kia, dùng quá khứ."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-15",
+      "question": "４）毎朝　何時に（　a. 起きます、b. 起きました　）か。",
+      "context": "3. 例： 毎日　9時から　5時まで（ a. 働きます　、b. 働きました ）。",
+      "status": "reference",
+      "answers": [
+        [
+          "起きます"
+        ]
+      ],
+      "explanation": "毎朝 nói thói quen hằng sáng, dùng 起きますか."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-16",
+      "question": "５）あさっては　日曜日です。（　a. 働きません、b. 働きませんでした　）。",
+      "context": "3. 例： 毎日　9時から　5時まで（ a. 働きます　、b. 働きました ）。",
+      "status": "reference",
+      "answers": [
+        [
+          "働きません"
+        ]
+      ],
+      "explanation": "あさって là ngày kia; phủ định hiện tại/tương lai là ません."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-17",
+      "question": "１）おととい　休みましたか。\n...  はい、（_______）。",
+      "context": "4. 例：今晩　勉強しますか。\n...  はい、（べんきょうします）。",
+      "status": "reference",
+      "answers": [
+        [
+          "休みました"
+        ]
+      ],
+      "explanation": "おととい là quá khứ và はい xác nhận đã nghỉ."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-18",
+      "question": "２）日曜日　働きますか。\n...  いいえ、（_______）。",
+      "context": "4. 例：今晩　勉強しますか。\n...  はい、（べんきょうします）。",
+      "status": "reference",
+      "answers": [
+        [
+          "働きません"
+        ]
+      ],
+      "explanation": "いいえ phủ định hoạt động thường lệ/tương lai: không làm việc Chủ nhật."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-19",
+      "question": "３）きのう　勉強しましたか。\n...  いいえ、（_______）。",
+      "context": "4. 例：今晩　勉強しますか。\n...  はい、（べんきょうします）。",
+      "status": "reference",
+      "answers": [
+        [
+          "勉強しませんでした"
+        ]
+      ],
+      "explanation": "Phủ định quá khứ của 勉強します là 勉強しませんでした."
+    },
+    {
+      "exerciseId": "4-section-9-exercise-20",
+      "question": "４）大学は　3時に　終わりますか。\n...  はい、（_______）。",
+      "context": "4. 例：今晩　勉強しますか。\n...  はい、（べんきょうします）。",
+      "status": "reference",
+      "answers": [
+        [
+          "終わります"
+        ]
+      ],
+      "explanation": "はい xác nhận giờ kết thúc, dùng thể hiện tại."
+    }
+  ]
+}

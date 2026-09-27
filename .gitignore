@@ -14,3 +14,5 @@
 .DS_Store
 Thumbs.db
 *.tsbuildinfo
+/.cache/
+__pycache__/

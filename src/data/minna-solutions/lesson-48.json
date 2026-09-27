@@ -1,0 +1,251 @@
+{
+  "lesson": 48,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-48",
+  "solutions": [
+    {
+      "exerciseId": "48-section-5-exercise-1",
+      "question": "１）部長は鈴木さん（　）アメリカ（　）（出張しました…　　　　　　　　　）",
+      "context": "２．\n例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）\n例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "に",
+          "へ"
+        ],
+        [
+          "出張させました"
+        ]
+      ],
+      "explanation": "部長は鈴木さんをアメリカに出張させました: trưởng phòng cử Suzuki đi công tác. 出張する → 出張させる."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-2",
+      "question": "２）わたしは毎日息子（　）皿（　）（洗います…　　　　　　　　　）",
+      "context": "２．\n例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）\n例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ],
+        [
+          "洗わせます"
+        ]
+      ],
+      "explanation": "息子に皿を洗わせる: bắt/cho con rửa bát; động từ có tân ngữ を nên người thực hiện dùng に."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-3",
+      "question": "３）子供のとき、父はわたし（　）剣道（　）（習いました…　　　　　　　　）",
+      "context": "２．\n例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）\n例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ],
+        [
+          "習わせました"
+        ]
+      ],
+      "explanation": "父はわたしに剣道を習わせました: cha cho/bắt tôi học kiếm đạo."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-4",
+      "question": "４）わたしは電車の中では子供（　）（立ちます…　　　　　　　　　）います。",
+      "context": "２．\n例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）\n例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "立たせて"
+        ]
+      ],
+      "explanation": "子供を立たせています: cho con đứng; tự động từ 立つ → 立たせる."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-5",
+      "question": "５）医者は父（　）たばこ（　）（やめました…　　　　　　　　　）",
+      "context": "２．\n例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）\n例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ],
+        [
+          "やめさせました"
+        ]
+      ],
+      "explanation": "父にたばこをやめさせました: bác sĩ khiến cha bỏ thuốc."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-6",
+      "question": "６）わたしはこども（　）犬（　）世話を（します…　　　　　　　）います。",
+      "context": "２．\n例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）\n例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "の"
+        ],
+        [
+          "させて"
+        ]
+      ],
+      "explanation": "子供に犬の世話をさせています: cho con chăm chó; する → させる."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-7",
+      "question": "７）父はわたしたち（　）仕事（　）（手伝います…　　　　　　　　　）",
+      "context": "２．\n例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）\n例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ],
+        [
+          "手伝わせます"
+        ]
+      ],
+      "explanation": "わたしたちに仕事を手伝わせます: cha cho chúng tôi phụ việc."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-8",
+      "question": "1) わたしは日本へ留学しました。\n…父は＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：娘は塾に通っています。…わたしは娘を塾に通わせています。",
+      "status": "reference",
+      "answers": [
+        [
+          "わたしを日本へ留学させました"
+        ]
+      ],
+      "explanation": "留学する → 留学させる; cha cho tôi du học Nhật."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-9",
+      "question": "2) 子供は好きな仕事をやります。\n…わたしは＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：娘は塾に通っています。…わたしは娘を塾に通わせています。",
+      "status": "reference",
+      "answers": [
+        [
+          "子供に好きな仕事をやらせます"
+        ]
+      ],
+      "explanation": "子供に仕事をやらせる: để con làm việc mình thích."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-10",
+      "question": "３）生徒は毎日日記を書いています。\n…先生は＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：娘は塾に通っています。…わたしは娘を塾に通わせています。",
+      "status": "reference",
+      "answers": [
+        [
+          "生徒に毎日日記を書かせています"
+        ]
+      ],
+      "explanation": "書く → 書かせる; duy trì việc cho học sinh viết nhật ký mỗi ngày."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-11",
+      "question": "４）息子は毎朝自分の部屋を掃除します。\n…わたしは＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：娘は塾に通っています。…わたしは娘を塾に通わせています。",
+      "status": "reference",
+      "answers": [
+        [
+          "息子に毎朝自分の部屋を掃除させます"
+        ]
+      ],
+      "explanation": "掃除する → 掃除させる: cho con tự dọn phòng."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-12",
+      "question": "５）授業のとき、学生は絶対に英語を使いません。\n…先生は＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：娘は塾に通っています。…わたしは娘を塾に通わせています。",
+      "status": "reference",
+      "answers": [
+        [
+          "授業のとき、学生に絶対に英語を使わせません"
+        ]
+      ],
+      "explanation": "使う → 使わせる → 使わせません: giáo viên không cho sinh viên dùng tiếng Anh trong giờ."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-13",
+      "question": "１）すぐ答えられないので、少し（考えます…　　　　　　　）いただけませんか。",
+      "context": "４．\n例：ちょっとこのワープロを（使います…使わせて）いただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "考えさせて"
+        ]
+      ],
+      "explanation": "～させていただけませんか: xin phép được suy nghĩ một chút."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-14",
+      "question": "２）申し込んでいなかったんですが、わたしもパーティーに（参加しす…　　　　　　　）いただけませんか。",
+      "context": "４．\n例：ちょっとこのワープロを（使います…使わせて）いただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "参加させて"
+        ]
+      ],
+      "explanation": "参加する → 参加させて: xin được tham dự; nguồn 参加しす là lỗi của 参加します."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-15",
+      "question": "３）少し熱があるので、早く（帰ります…　　　　　　　）いただけませんか。",
+      "context": "４．\n例：ちょっとこのワープロを（使います…使わせて）いただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰らせて"
+        ]
+      ],
+      "explanation": "帰る → 帰らせて: xin phép về sớm."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-16",
+      "question": "４）再入国ビザをもらいに2時間ほど入館へ（行きます…　　　　　　　　　）いただけませんか。",
+      "context": "４．\n例：ちょっとこのワープロを（使います…使わせて）いただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "行かせて"
+        ]
+      ],
+      "explanation": "行く → 行かせて: xin phép đi. Câu về thủ tục nhập cư là nội dung nguồn, không dùng làm hướng dẫn pháp lý hiện hành; 入館 có vẻ lỗi của 入管."
+    },
+    {
+      "exerciseId": "48-section-5-exercise-17",
+      "question": "５．経済の資料を探しているんですが、最近のデータを（コピーします…　　　　　　　）いただけませんか。",
+      "context": "４．\n例：ちょっとこのワープロを（使います…使わせて）いただけませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "コピーさせて"
+        ]
+      ],
+      "explanation": "コピーする → コピーさせて: xin được sao chép dữ liệu."
+    }
+  ]
+}

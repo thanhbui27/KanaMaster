@@ -1,0 +1,1573 @@
+{
+  "schemaVersion": 1,
+  "lesson": 5,
+  "title": "Từ vựng ngữ pháp Minna bài 5",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-5",
+  "fetchedAt": "2026-09-27T09:07:08.468699+00:00",
+  "sourceSha256": "d0af2b38122ad7331627b49d59bab6ce1e551bc7a7824eba14e39ae23983b73c",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box49",
+      "title": "TỪ VỰNG MINNA BÀI 5",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ばんせん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―番線",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sân ga số –",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "行きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "来ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đến",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かえります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "帰ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "về",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "がっこう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "学校",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trường học",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "スーパー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "siêu thị",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "駅",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ga, nhà ga",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひこうき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "飛行機",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "máy bay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふね",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "船",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thuyền, tàu thủy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "でんしゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "電車",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tàu điện",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちかてつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "地下鉄",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tàu điện ngầm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しんかんせん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "新幹線",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tàu Shinkansen (tàu điện siêu tốc của Nhật)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "バス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xe Buýt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "タクシー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tắc-xi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じてんしゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "自転車",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xe đạp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あるいて",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "歩いて",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đi bộ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ともだち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "友達",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bạn, bạn bè",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かれ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "彼",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "anh ấy, bạn trai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かのじょ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "彼女",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chị ấy, bạn gái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かぞく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "家族",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gia đình",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せんしゅう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "先週",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tuần trước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こんしゅう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今週",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tuần này",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "らいしゅう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "来週",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tuần sau",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せんげつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "先月",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tháng trước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こんげつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今月",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tháng này",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "らいげつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "来月",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tháng sau",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きょねん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "去年",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "năm ngoái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ことし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "năm nay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "らいねん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "来年",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "năm sau",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―がつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―月",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tháng –",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんがつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何月",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tháng mấy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ついたち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "１日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふつか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "２日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 2, 2 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みっか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "３日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 3, 3 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "よっか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "４日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 4, 4 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いつか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "５日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 5, 5 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "むいか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "６日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 6, 6 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なのか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "７日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 7, 7 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ようか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "８日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 8, 8 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ここのか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "９日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 9, 9 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とおか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "１０日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mồng 10, 10 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じゅうよっか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "１４日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày 14, 14 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はつか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "２０日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày 20, 20 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にじゅうよっか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "２４日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày 24, 24 ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―にち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày -, – ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんにち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bao giờ, khi nào",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たんじょうび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "誕生日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sinh nhật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふつう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "普通",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tàu thường (dừng cả ở các ga lẻ)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きゅうこう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "急行",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tàu tốc hành",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "52",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とっきゅう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "特急",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tàu tốc hành đặc biệt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "53",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つぎの",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "次の",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tiếp theo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "54",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どういたしまして",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Không có chi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nÝ nghĩa\n1\nばんせん\n―番線\nsân ga số –\n2\nいきます\n行きます\nđi\n3\nきます\n来ます\nđến\n4\nかえります\n帰ります\nvề\n5\nがっこう\n学校\ntrường học\n6\nスーパー\nsiêu thị\n7\nえき\n駅\nga, nhà ga\n8\nひこうき\n飛行機\nmáy bay\n9\nふね\n船\nthuyền, tàu thủy\n10\nでんしゃ\n電車\ntàu điện\n11\nちかてつ\n地下鉄\ntàu điện ngầm\n12\nしんかんせん\n新幹線\ntàu Shinkansen (tàu điện siêu tốc của Nhật)\n13\nバス\nxe Buýt\n14\nタクシー\ntắc-xi\n15\nじてんしゃ\n自転車\nxe đạp\n16\nあるいて\n歩いて\nđi bộ\n17\nひと\n人\nngười\n18\nともだち\n友達\nbạn, bạn bè\n19\nかれ\n彼\nanh ấy, bạn trai\n20\nかのじょ\n彼女\nchị ấy, bạn gái\n21\nかぞく\n家族\ngia đình\n22\nせんしゅう\n先週\ntuần trước\n23\nこんしゅう\n今週\ntuần này\n24\nらいしゅう\n来週\ntuần sau\n25\nせんげつ\n先月\ntháng trước\n26\nこんげつ\n今月\ntháng này\n27\nらいげつ\n来月\ntháng sau\n28\nきょねん\n去年\nnăm ngoái\n29\nことし\nnăm nay\n30\nらいねん\n来年\nnăm sau\n31\n―がつ\n―月\ntháng –\n32\nなんがつ\n何月\ntháng mấy\n33\nついたち\n１日\nngày mồng 1\n34\nふつか\n２日\nngày mồng 2, 2 ngày\n35\nみっか\n３日\nngày mồng 3, 3 ngày\n36\nよっか\n４日\nngày mồng 4, 4 ngày\n37\nいつか\n５日\nngày mồng 5, 5 ngày\n38\nむいか\n６日\nngày mồng 6, 6 ngày\n39\nなのか\n７日\nngày mồng 7, 7 ngày\n40\nようか\n８日\nngày mồng 8, 8 ngày\n41\nここのか\n９日\nngày mồng 9, 9 ngày\n42\nとおか\n１０日\nngày mồng 10, 10 ngày\n43\nじゅうよっか\n１４日\nngày 14, 14 ngày\n44\nはつか\n２０日\nngày 20, 20 ngày\n45\nにじゅうよっか\n２４日\nngày 24, 24 ngày\n46\n―にち\n―日\nngày -, – ngày\n47\nなんにち\n何日\nngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày\n48\nいつ\nbao giờ, khi nào\n49\nたんじょうび\n誕生日\nsinh nhật\n50\nふつう\n普通\ntàu thường (dừng cả ở các ga lẻ)\n51\nきゅうこう\n急行\ntàu tốc hành\n52\nとっきゅう\n特急\ntàu tốc hành đặc biệt\n53\nつぎの\n次の\ntiếp theo\n54\nどういたしまして\nKhông có chi",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box55",
+      "title": "2. N ( địa điểm) へ　いきます/　きます/ かえります",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/GlXdUOtJcBM",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Khi động từ biểu thị sự di chuyển đến một nơi nào đó, như động từ いきます、きます、かえります,v.v.. thì người ta thêm vào sau danh từ chỉ địa điểm trợ từ へ để biểu thị phương hướng di chuyển."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý:   Trong trường hợp này, trợ từ へ  được đọc là  “ e”"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1 :　　　 ホーチミンしへ　いきます。 Tôi sẽ đi thành phố Hồ Chí Minh. 例2 : やまださんは　ハノイへ　きました。 Anh Yamada đã đến Hà Nội. 例3 : ６じに　うちへ　かえります。 Tôi về nhà lúc 6 giờ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Khi động từ biểu thị sự di chuyển đến một nơi nào đó, như động từ\nいきます、きます、かえります\n,v.v.. thì người ta thêm vào sau danh từ chỉ địa điểm\ntrợ từ\nへ\nđể biểu thị phương hướng di chuyển.\nLưu ý:\nTrong trường hợp này, trợ từ\nへ\nđược đọc là  “ e”\n例\n1\n:\nホーチミンし\nへ\nいきます。\nTôi sẽ đi thành phố Hồ Chí Minh.\n例\n2 :\nやまださんは　ハノイ\nへ\nきました。\nAnh Yamada đã đến Hà Nội.\n例\n3\n:\n６じに　うち\nへ\nかえります。\nTôi về nhà lúc 6 giờ.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/GlXdUOtJcBM",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box56",
+      "title": "4. ( Từ để hỏi ) + [ trợ từ ]+ [ も ]+ [ phủ định ]",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/3yvliR8cZGY",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Khi trợ từもđứng ngay sau từ để hỏi（VD:なん、だれ、どこ、..） trong câu phủ định thì tất cả những gì trong phạm trù bị từ để hỏi nêu ra đều bị phủ nhận."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1 :　　　 きのう　どこ[へ]も　いきませんでした。 Hôm qua tôi không đi đâu cả. 例2 : なにも　たべません。 Tôi không ăn gì cả. (Tham khảo bài 6)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Khi trợ từ\nも\nđứng ngay sau từ để hỏi\n（\nVD:\nなん、だれ、どこ、\n..\n）\ntrong câu phủ định thì tất cả những gì trong phạm trù bị từ để hỏi nêu ra đều bị phủ nhận.\n例\n1\n:\nきのう　どこ\n[\nへ\n]\nも　いきませんでした\n。\nH\nôm qua tôi không đi đâu cả\n.\n例\n2 :\nなにも　たべません\n。\nTôi không ăn gì cả. (Tham khảo bài 6)",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/3yvliR8cZGY",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box57",
+      "title": "4. N (phương tiện giao thông )　で いきます/きます/かえります",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ で được dùng để chỉ phương tiện hay cách thức. Khi động từ biểu thị sự di chuyển（例：いきます、きます、かえります,…）được sử dụng với trợ từ で thì で chỉ phương tiện di chuyển di chuyển. Danh từ đứng trướcで là một danh từ chỉ phương tiện di chuyển"
+        },
+        {
+          "type": "text",
+          "text": "（例：バス、でんしゃ、しんかんせん,..）"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１：　 バスで　だいがくへ　きます。 Tôi đi học bằng xe bus. 例２：　 じてんしゃで　スーパーへ　いきます。 Tôi đi xe đạp đến siêu thị. 例３　:　 でんしゃで　ハイフォンへ　かえります。 Tôi đi tàu về Hải Phòng ( Tôi về Hải Phòng bằng tàu)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong trường hợp muốn diễn tả việc đi bộ đến/tới đâu đó thì chúng ta sử dụng cụm từあるいて(xuất phát từ động từ gốc　あるきます biến thể thành). Trong trường hợp này ta không sử dụng trợ từ で."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例４ : えきから　あるいて　かえりました。 Tôi đi bộ từ ga về.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trợ từ\nで\nđược dùng để chỉ phương tiện hay cách thức. Khi động từ biểu thị sự di chuyển\n（例：いきます、きます、かえります\n,…\n）\nđược sử dụng với trợ từ\nで\nthì\nで\nchỉ phương tiện di chuyển di chuyển. Danh từ đứng trước\nで\nlà một danh từ chỉ phương tiện di chuyển\n（例：バス、\nでんしゃ、しんかんせん\n,..\n）\n例１：\nバスで　だいがく\nへ\nきます。\nTôi đi học bằng xe bus.\n例２：\nじてんしゃで　スーパー\nへ\nいきます。\nTôi đi xe đạp đến siêu thị.\n例３\n:\nでんしゃで　ハイフォン\nへ\nかえります。\nTôi đi tàu về Hải Phòng ( Tôi về Hải Phòng bằng tàu)\nTrong trường hợp muốn diễn tả việc đi bộ đến/tới đâu đó thì chúng ta sử dụng cụm từ\nあるいて\n(xuất phát từ động từ gốc\nあるきます\nbiến thể thành). Trong trường hợp này ta\nkhông sử dụng trợ từ\nで\n.\n例４\n:\nえきから　あるいて　かえりました。\nTôi đi bộ từ ga về\n.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box58",
+      "title": "5. N (người/ con vật) と　V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Khi bạn ( hoặc người khác) làm việc gì đó cùng với người khác ( hoặc với một con vật) thì ta thêm trợ từ と vào sau danh từ chỉ người ( con vật) đó để chỉ mối liên hệ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1 : かぞくと　ベトナムへ　きました。 Tôi đã tới Việt Nam cùng cả nhà ( cùng với gia đình).",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Khi muốn diễn tả việc mình làm gì đó một mình thì ta sử dụng cụm từ ひとりで. Trong trường hợp này, ta không sử dụng trợ từ と."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例2 : ひとりで　とうきょうへ　いきます。 Tôi đi một mình tới Tokyo.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Khi bạn ( hoặc người khác) làm việc gì đó cùng với người khác ( hoặc với một con vật) thì ta thêm\ntrợ từ\nと\nvào sau danh từ chỉ người ( con vật) đó để chỉ mối liên hệ.\n例1\n:\nかぞく\nと\nベトナムへ　きました。\nTôi đã tới Việt Nam cùng cả nhà ( cùng với gia đình)\n.\nKhi muốn diễn tả việc mình làm gì đó một mình thì ta sử dụng cụm từ\nひとりで\n. Trong trường hợp này, ta\nkhông sử dụng trợ từ\nと\n.\n例2\n:\nひとりで　とうきょうへ　いきます\n。\nTôi đi một mình tới Tokyo.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box59",
+      "title": "6. いつ",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Để hỏi về thời gian ,người ta thường sử dụng từ để hỏi なんnhưなんじ、なんようび、なんがつなんにち. Ngoài những từ này, người ta còn dùng từ để hỏi いつ ( khi nào, bao giờ) để hỏi về thời điểm đã/ sẽ xảy ra một việc gì đó. Từ để hỏi いつ không bao giờ đi cùng với trợ từ に."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１: A:　いつ　ハノイへ　きましたか。 (không nói :　いつに　ハノイへ　きましたか)　　（X） Bạn tới Hà Nội khi nào? B:　９月３日に　きました。 Tôi tới hôm 3/9 例２: A:いつ　ちゅうごくへ　いきますか。　 Bao giờ bạn đi Trung Quốc.　 B:　らいしゅう　いきます。 Tuần sau tôi đi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Để hỏi về thời gian ,người ta thường sử dụng từ để hỏi\nなん\nnhư\nなん\nじ\n、なん\nようび\n、なん\nがつ\nなん\nにち\n. Ngoài những từ này, người ta còn dùng từ để hỏi\nいつ\n( khi nào, bao giờ) để hỏi về thời điểm đã/ sẽ xảy ra một việc gì đó.\nTừ để hỏi\nいつ\nkhông bao giờ đi cùng với trợ từ\nに\n.\n例１\n:\nA:\nいつ　ハノイへ　きましたか。\n(không nói :\nいつに　ハノイへ　きましたか\n)\n（\nX\n）\nBạn tới Hà Nội khi nào?\nB:\n９月３日に　きました。\nTôi tới hôm 3/9\n例２\n:\nA:\nいつ　ちゅうごくへ　いきますか。\nBao giờ bạn đi Trung Quốc.\nB:\nらいしゅう　いきます。\nTuần sau tôi đi.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box60",
+      "title": "7. Sよ",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ cuối câu  “よ” được đặt ở cuối câu để diễn tả về một việc mà người nghe chưa biết hoặc để biểu lộ ý kiến của mình. Phát âm mạnh chữ よsẽ gieo cho người nghe có ấn tượng như là bị ép buộc, vì vậy nên phát âm một cách nhẹ nhàng."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１：　 A:　このでんしゃは　こうしえんへ　いきますか。 Chuyến tàu này đến Koshien phải không? B:　いいえ、いきません。つぎの　ふつうですよ。 Không phải. Chuyến tàu thường tiếp theo cơ. ( ý 1) 例２ ：　 むりな　ダイエットは　からだに　よくないですよ。 Ăn kiêng không điều độ không tốt cho cơ thể đâu ( ý 2) ( tham khảo bài 19)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trợ từ cuối câu  “\nよ\n” được đặt ở cuối câu để diễn tả về một việc mà người nghe chưa biết hoặc để biểu lộ ý kiến của mình. Phát âm mạnh chữ\nよ\nsẽ gieo cho người nghe có ấn tượng như là bị ép buộc, vì vậy nên phát âm một cách nhẹ nhàng.\n例１：\nA:\nこのでんしゃは　こうしえんへ　いきますか。\nChuyến tàu này đến Koshien phải không?\nB:\nいいえ、いきません。つぎの　ふつうですよ。\nKhông phải. Chuyến tàu thường tiếp theo cơ. ( ý 1)\n例２\n：\nむりな　ダイエットは　からだに　よくないですよ。\nĂn kiêng không điều độ không tốt cho cơ thể đâu ( ý 2)  ( tham khảo bài 19)",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-8",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. 例：これは　（　　だれ　　）　の　ノートですか。"
+        },
+        {
+          "type": "text",
+          "text": "...   カリナさんの　ノートです。"
+        },
+        {
+          "type": "text",
+          "text": "１） （____）　日本へ　来ましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...   8月17日に　来ました。"
+        },
+        {
+          "type": "text",
+          "text": "２） （____）　と　日本へ　来ましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...   家族と　来ました。"
+        },
+        {
+          "type": "text",
+          "text": "３） あした（____）　へ　行きますか。"
+        },
+        {
+          "type": "text",
+          "text": "...   どこも　行きません。"
+        },
+        {
+          "type": "text",
+          "text": "４） すみません。京都まで（____）　ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...   390円です。"
+        },
+        {
+          "type": "text",
+          "text": "５） （____）で　京都へ　行きますか。"
+        },
+        {
+          "type": "text",
+          "text": "...   電車で　行きます。"
+        },
+        {
+          "type": "text",
+          "text": "６） （____）に　うちへ　帰りますか。"
+        },
+        {
+          "type": "text",
+          "text": "...   7時に　帰ります。"
+        },
+        {
+          "type": "text",
+          "text": "７） 誕生日は（____）（____）　ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...   9月1日です。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例：これ　（　は　）　本です。"
+        },
+        {
+          "type": "text",
+          "text": "１） わたしは　ミラーです。"
+        },
+        {
+          "type": "text",
+          "text": "ことし　（____）４月　（____）　アメリカ　（____）　来ました。"
+        },
+        {
+          "type": "text",
+          "text": "２） 毎日　電車　（____）会社　（____）　行きます。"
+        },
+        {
+          "type": "text",
+          "text": "３） きのう　9時半　（____）うち　（____）　帰りました。"
+        },
+        {
+          "type": "text",
+          "text": "４） けさ　わたしは　松本さん　（____）ここ　（____）　来ました。"
+        },
+        {
+          "type": "text",
+          "text": "５） おととい　どこ　（____）行きませんでした。"
+        }
+      ],
+      "text": "1.\n例：これは　（　　だれ　　）　の　ノートですか。\n...\nカリナさんの　ノートです。\n１）\n（\n____\n）　日本へ　来ましたか。\n...   8\n月\n17\n日に　来ました。\n２）\n（\n____\n）　と　日本へ　来ましたか。\n...\n家族と　来ました。\n３）\nあした（\n____\n）　へ　行きますか。\n...\nどこも　行きません。\n４）\nすみません。京都まで（\n____\n）　ですか。\n...   390\n円です。\n５）\n（\n____\n）で　京都へ　行きますか。\n...\n電車で　行きます。\n６）\n（\n____\n）に　うちへ　帰りますか。\n...   7\n時に　帰ります。\n７）\n誕生日は（\n____\n）（\n____\n）　ですか。\n...   9\n月\n1\n日です。\n2.\n例：これ　（　は　）　本です。\n１）\nわたしは　ミラーです。\nことし　（\n____\n）４月　（\n____\n）　アメリカ　（\n____\n）　来ました。\n２）\n毎日　電車　（\n____\n）会社　（\n____\n）　行きます。\n３）\nきのう\n9\n時半　（\n____\n）うち　（\n____\n）　帰りました。\n４）\nけさ　わたしは　松本さん　（\n____\n）ここ　（\n____\n）　来ました。\n５）\nおととい　どこ　（\n____\n）行きませんでした。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

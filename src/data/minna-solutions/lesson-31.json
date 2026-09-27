@@ -1,0 +1,256 @@
+{
+  "lesson": 31,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-31",
+  "solutions": [
+    {
+      "exerciseId": "31-section-8-exercise-1",
+      "question": "1． 時間がありませから、急ぎましょう。→＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例：疲れましたから、ちょっと休憩しましょう。→疲れたから、ちょっと休憩しょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "時間がないから、急ごう"
+        ]
+      ],
+      "explanation": "Chuyển sang thể thường và ý chí: ありません → ない, 急ぎましょう → 急ごう. Nguồn ありませ thiếu ん."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-2",
+      "question": "2． おいしいワインをもらいましたから、いっしょに飲みましょう。\n→＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例：疲れましたから、ちょっと休憩しましょう。→疲れたから、ちょっと休憩しょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "おいしいワインをもらったから、いっしょに飲もう"
+        ]
+      ],
+      "explanation": "もらいました → もらった; 飲みましょう → 飲もう."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-3",
+      "question": "3． カリナさんがまだ来てませんから、もう少し待ちましょう。\n→＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例：疲れましたから、ちょっと休憩しましょう。→疲れたから、ちょっと休憩しょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "カリナさんがまだ来ていないから、もう少し待とう",
+          "カリナさんがまだ来てないから、もう少し待とう"
+        ]
+      ],
+      "explanation": "来ていません → 来ていない; 待ちましょう → 待とう."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-4",
+      "question": "4． 暑いですから、エアコンをつけておきましょう。\n→＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例：疲れましたから、ちょっと休憩しましょう。→疲れたから、ちょっと休憩しょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "暑いから、エアコンをつけておこう"
+        ]
+      ],
+      "explanation": "暑いです → 暑い; つけておきましょう → つけておこう."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-5",
+      "question": "5． 今暇ですから、手伝いましょうか。\n→＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例：疲れましたから、ちょっと休憩しましょう。→疲れたから、ちょっと休憩しょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "今暇だから、手伝おうか"
+        ]
+      ],
+      "explanation": "暇です → 暇だ; 手伝いましょうか → 手伝おうか."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-6",
+      "question": "6． あの喫茶店に入りませんか。\n→＿＿＿＿＿＿＿＿＿＿＿\n…ええ、そうしましょう。\n→うん、＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "1．\n例：疲れましたから、ちょっと休憩しましょう。→疲れたから、ちょっと休憩しょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "あの喫茶店に入らない",
+          "あの喫茶店に入らないか"
+        ],
+        [
+          "そうしよう"
+        ]
+      ],
+      "explanation": "Lời mời thân mật dùng 入らない？; đồng ý bằng そうしよう."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-7",
+      "question": "1． 会社をやめて、もう一度大学で＿＿＿＿＿＿と思っています。",
+      "context": "2．\n例：連休は近くの温泉に行こうと思っています。",
+      "status": "sample",
+      "answers": [
+        [
+          "勉強しよう"
+        ]
+      ],
+      "explanation": "勉強する → 勉強しようと思っています: đang có ý định học lại đại học."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-8",
+      "question": "2． この週末は子どもを動物園へ＿＿＿＿＿＿と思っています。",
+      "context": "2．\n例：連休は近くの温泉に行こうと思っています。",
+      "status": "sample",
+      "answers": [
+        [
+          "連れて行こう"
+        ]
+      ],
+      "explanation": "子どもを動物園へ連れて行こう: định đưa con đến vườn thú."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-9",
+      "question": "3． 庭があるうちに引っ越ししましたから、犬を＿＿＿＿＿＿と思っています。",
+      "context": "2．\n例：連休は近くの温泉に行こうと思っています。",
+      "status": "sample",
+      "answers": [
+        [
+          "飼おう"
+        ]
+      ],
+      "explanation": "犬を飼う → 飼おう: định nuôi chó."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-10",
+      "question": "4． ミラーさんにおいしいケーキの作り方を教えてもらいましたから、自分で＿＿＿＿＿＿と思っています。",
+      "context": "2．\n例：連休は近くの温泉に行こうと思っています。",
+      "status": "sample",
+      "answers": [
+        [
+          "作ってみよう",
+          "作ろう"
+        ]
+      ],
+      "explanation": "作ってみようと思っています: định thử tự làm bánh; 作ろう cũng đúng ngữ pháp."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-11",
+      "question": "5． この間見に行ったマンションを＿＿＿＿＿＿と思っています。駅から近いし家賃も安いですから。",
+      "context": "2．\n例：連休は近くの温泉に行こうと思っています。",
+      "status": "sample",
+      "answers": [
+        [
+          "借りよう"
+        ]
+      ],
+      "explanation": "借りる → 借りよう: định thuê căn hộ vì gần ga và rẻ."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-12",
+      "question": "1． これからも今の研究を続けますか。\n…ええ、将来もずっと＿＿＿＿＿＿つもりです。",
+      "context": "3．\n例：結婚したら、両親といっしょうに住みますか。…いいえ、別々に住むつもりです。",
+      "status": "reference",
+      "answers": [
+        [
+          "続ける"
+        ]
+      ],
+      "explanation": "Động từ từ điển + つもりです diễn tả dự định."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-13",
+      "question": "2． 来年大学院の試験を受けますか。…いいえ、＿＿＿＿＿＿つもりです。",
+      "context": "3．\n例：結婚したら、両親といっしょうに住みますか。…いいえ、別々に住むつもりです。",
+      "status": "reference",
+      "answers": [
+        [
+          "受けない"
+        ]
+      ],
+      "explanation": "Phủ định thường + つもり: không định thi cao học."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-14",
+      "question": "3． 大阪まで新幹線で行きますか。…いいえ、車で＿＿＿＿＿つもりです。",
+      "context": "3．\n例：結婚したら、両親といっしょうに住みますか。…いいえ、別々に住むつもりです。",
+      "status": "reference",
+      "answers": [
+        [
+          "行く"
+        ]
+      ],
+      "explanation": "車で行くつもり: dự định đi bằng ô tô."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-15",
+      "question": "4． 夏休みにアルバイトをしますか。\n…いいえ、アルバイトは＿＿＿＿＿＿つもりです。試験勉強をしなければならないんです。",
+      "context": "3．\n例：結婚したら、両親といっしょうに住みますか。…いいえ、別々に住むつもりです。",
+      "status": "reference",
+      "answers": [
+        [
+          "しない"
+        ]
+      ],
+      "explanation": "アルバイトはしないつもり: không định làm thêm để ôn thi."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-16",
+      "question": "1． 今晩花火は何時に始まりますか。（７時に始まります）\n…（　　　）予定です。",
+      "context": "4．\n例１：転勤はいつですか。（来年の３月です）…（来年の３月の）予定です。\n例２：飛行機は何時に着きますか。（４時２５分に着きます）\n…（４時２５分に着く）予定です。",
+      "status": "reference",
+      "answers": [
+        [
+          "７時に始まる",
+          "7時に始まる"
+        ]
+      ],
+      "explanation": "Động từ thể từ điển + 予定です: dự kiến bắt đầu lúc 7 giờ."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-17",
+      "question": "2． 結婚式は何時までですか。（２時までです）…（　　     ）予定です。",
+      "context": "4．\n例１：転勤はいつですか。（来年の３月です）…（来年の３月の）予定です。\n例２：飛行機は何時に着きますか。（４時２５分に着きます）\n…（４時２５分に着く）予定です。",
+      "status": "reference",
+      "answers": [
+        [
+          "２時までの",
+          "2時までの"
+        ]
+      ],
+      "explanation": "Danh từ/cụm thời gian + の予定です."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-18",
+      "question": "3． 課長の午後の予定が分かりますか。（支店へ行きます）\n…（　　　）予定です。",
+      "context": "4．\n例１：転勤はいつですか。（来年の３月です）…（来年の３月の）予定です。\n例２：飛行機は何時に着きますか。（４時２５分に着きます）\n…（４時２５分に着く）予定です。",
+      "status": "reference",
+      "answers": [
+        [
+          "支店へ行く"
+        ]
+      ],
+      "explanation": "行きます → 行く予定です."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-19",
+      "question": "4． 本社の会議にはだれが出席しますか。（部長が出席します）\n…（　　　）予定です。",
+      "context": "4．\n例１：転勤はいつですか。（来年の３月です）…（来年の３月の）予定です。\n例２：飛行機は何時に着きますか。（４時２５分に着きます）\n…（４時２５分に着く）予定です。",
+      "status": "reference",
+      "answers": [
+        [
+          "部長が出席する"
+        ]
+      ],
+      "explanation": "出席します → 出席する予定です; giữ chủ ngữ 部長."
+    },
+    {
+      "exerciseId": "31-section-8-exercise-20",
+      "question": "5． スキー旅行に参加する人は何人ぐらいですか。（５０人ぐらいです）\n…（　　　）予定です。",
+      "context": "4．\n例１：転勤はいつですか。（来年の３月です）…（来年の３月の）予定です。\n例２：飛行機は何時に着きますか。（４時２５分に着きます）\n…（４時２５分に着く）予定です。",
+      "status": "reference",
+      "answers": [
+        [
+          "５０人ぐらいの",
+          "50人ぐらいの"
+        ]
+      ],
+      "explanation": "Số người + の予定です: dự kiến khoảng 50 người."
+    }
+  ]
+}

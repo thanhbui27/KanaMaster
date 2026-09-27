@@ -1,0 +1,427 @@
+{
+  "lesson": 41,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-41",
+  "solutions": [
+    {
+      "exerciseId": "41-section-6-exercise-1",
+      "question": "1． この花瓶は結婚（　）お祝い（　）中村さん（　）くださいした。",
+      "context": "1．\n例：私は中村課長（に）京都（を）案内していただきました。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "に"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "結婚のお祝いに: làm quà mừng cưới; 中村さんがくださった: Nakamura cho tôi. Nguồn くださいした cần sửa thành くださいました."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-2",
+      "question": "2． 私は日本の小説（　）興味（　）あります。",
+      "context": "1．\n例：私は中村課長（に）京都（を）案内していただきました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "～に興味がある: quan tâm đến tiểu thuyết Nhật."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-3",
+      "question": "3． セーター（　）サイズ（　）まちがえたので、店の人（　）取り替えても\nらいました。",
+      "context": "1．\n例：私は中村課長（に）京都（を）案内していただきました。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "を"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "セーターのサイズを間違えた; 店の人に取り替えてもらう: nhờ nhân viên đổi giúp."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-4",
+      "question": "4． 私は妹（　）絵本（　）読んでやりました。",
+      "context": "1．\n例：私は中村課長（に）京都（を）案内していただきました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "妹に絵本を読んでやる: đọc truyện tranh cho em gái; やる dùng với người dưới/thú nuôi theo bài, あげる nhẹ nhàng hơn trong giao tiếp."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-5",
+      "question": "5． 田中さんは私（　）鞄（　）持ってくださいました。",
+      "context": "1．\n例：私は中村課長（に）京都（を）案内していただきました。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "私のかばんを持ってくださる: mang giúp túi của tôi; 私にかばんを持つ không diễn đạt đúng ý này."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-6",
+      "question": "6． 小川さんは私（　）デイズニーランド（　）連れて行ってくださいました。",
+      "context": "1．\n例：私は中村課長（に）京都（を）案内していただきました。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "explanation": "私をディズニーランドに連れて行く: đưa tôi đến Disneyland."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-7",
+      "question": "1． きれいな手袋ですね。外国のですか。\n…ええ、祖父に＿＿＿＿＿＿お年玉で買ったんです。",
+      "context": "2．\nあげます、もらいます、くれます、やります、いただきます、くださいます\n例：可愛い犬でしょう？でも、毎日水とえさをやるのは大変んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "もらった"
+        ]
+      ],
+      "explanation": "祖父にもらったお年玉: tiền mừng tuổi nhận từ ông trong gia đình; dùng もらった theo quan hệ trong đề."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-8",
+      "question": "2． ワットさんが来月イギリスへ帰ります。\n…そうですかお土産に何を＿＿＿＿＿＿らいいでしょうか。",
+      "context": "2．\nあげます、もらいます、くれます、やります、いただきます、くださいます\n例：可愛い犬でしょう？でも、毎日水とえさをやるのは大変んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "あげた"
+        ]
+      ],
+      "explanation": "何をあげたらいい: nên tặng gì? ら đã có sẵn ngoài ô."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-9",
+      "question": "3． これは高校の先生が＿＿＿＿＿＿日本語の辞書で、とても便利です。",
+      "context": "2．\nあげます、もらいます、くれます、やります、いただきます、くださいます\n例：可愛い犬でしょう？でも、毎日水とえさをやるのは大変んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "くださった"
+        ]
+      ],
+      "explanation": "高校の先生がくださった: thầy/cô đã cho, dùng kính ngữ của くれた."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-10",
+      "question": "4． 田舎へ行ったとき、村の方に古い地図を＿＿＿＿＿＿ことがあります。",
+      "context": "2．\nあげます、もらいます、くれます、やります、いただきます、くださいます\n例：可愛い犬でしょう？でも、毎日水とえさをやるのは大変んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "いただいた"
+        ]
+      ],
+      "explanation": "村の方にいただいたことがあります: đã từng nhận từ người dân làng, khiêm nhường ngữ."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-11",
+      "question": "5． 私の誕生日に、息子は自弁で作った紙飛行機を＿＿＿＿＿",
+      "context": "2．\nあげます、もらいます、くれます、やります、いただきます、くださいます\n例：可愛い犬でしょう？でも、毎日水とえさをやるのは大変んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "くれました"
+        ]
+      ],
+      "explanation": "息子は…くれました: con trai tặng cho tôi; nguồn 自弁 có vẻ là lỗi của 自分."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-12",
+      "question": "1． 先週クラスの皆さんに私の国の言葉を少し教えて＿＿＿＿＿＿＿",
+      "context": "３．\nくださいます、いただきます、やります、あげます、もらいます、くれます\n例：中村さんは私を相撲を見に連れて行ってくださいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "あげました"
+        ]
+      ],
+      "explanation": "私が皆さんに教えてあげました: tôi dạy cho mọi người."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-13",
+      "question": "2． 昨日課長に車で送って＿＿＿＿＿＿＿ので、助かりました。",
+      "context": "３．\nくださいます、いただきます、やります、あげます、もらいます、くれます\n例：中村さんは私を相撲を見に連れて行ってくださいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "いただいた"
+        ]
+      ],
+      "explanation": "課長に送っていただいたので: được trưởng phòng đưa về, khiêm nhường ở người nhận."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-14",
+      "question": "3． 昨日友達がわたしにタイ料理を作って＿＿＿＿＿＿＿＿",
+      "context": "３．\nくださいます、いただきます、やります、あげます、もらいます、くれます\n例：中村さんは私を相撲を見に連れて行ってくださいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "くれました"
+        ]
+      ],
+      "explanation": "友達が私に作ってくれました: bạn nấu cho tôi."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-15",
+      "question": "4． 部長に食事に招待して＿＿＿＿＿＿＿＿嬉しかったです。",
+      "context": "３．\nくださいます、いただきます、やります、あげます、もらいます、くれます\n例：中村さんは私を相撲を見に連れて行ってくださいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "いただいて"
+        ]
+      ],
+      "explanation": "部長に招待していただいて嬉しかった: vui vì được trưởng phòng mời, nối bằng て."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-16",
+      "question": "5． 今晩妹の宿題を手伝って＿＿＿＿＿＿＿＿なければなりません。",
+      "context": "３．\nくださいます、いただきます、やります、あげます、もらいます、くれます\n例：中村さんは私を相撲を見に連れて行ってくださいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "やら",
+          "あげ"
+        ]
+      ],
+      "explanation": "手伝ってやらなければ／あげなければ: phải giúp em làm bài; ô cần bỏ ない vì なければ đã có sẵn."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-17",
+      "question": "6． 私が引っ越ししたとき、友達に荷物を運んで＿＿＿＿＿＿＿＿",
+      "context": "３．\nくださいます、いただきます、やります、あげます、もらいます、くれます\n例：中村さんは私を相撲を見に連れて行ってくださいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "もらいました"
+        ]
+      ],
+      "explanation": "友達に運んでもらいました: tôi được bạn giúp chuyển hành lý."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-18",
+      "question": "7． ホームステイの家族の皆さんが町のいろいろな情報をおしえて\n＿＿＿＿＿＿＿＿",
+      "context": "３．\nくださいます、いただきます、やります、あげます、もらいます、くれます\n例：中村さんは私を相撲を見に連れて行ってくださいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "くださいました"
+        ]
+      ],
+      "explanation": "家族の皆さんが教えてくださいました: gia đình homestay cung cấp thông tin cho tôi, dùng kính ngữ."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-19",
+      "question": "1． だれに日本語の文房を教えてもらいましたか。\n…大学の先生に＿＿＿＿＿＿＿＿＿＿＿。",
+      "context": "４．\n例：だれがこの資料を貸してくれたんですか。…松本部長が貸してくださったんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "教えていただきました"
+        ]
+      ],
+      "explanation": "大学の先生に教えていただきました: được giảng viên dạy. Nguồn 文房 có lẽ lỗi của 文法, không ảnh hưởng cách chia động từ."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-20",
+      "question": "2． クリスマスにお子さんに何か買ってあげますか。\n…おもちゃを＿＿＿＿＿＿＿＿＿＿＿＿。",
+      "context": "４．\n例：だれがこの資料を貸してくれたんですか。…松本部長が貸してくださったんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "買ってやります",
+          "買ってあげます"
+        ]
+      ],
+      "explanation": "Mua đồ chơi cho con: 買ってやります theo mẫu bài; 買ってあげます cũng tự nhiên."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-21",
+      "question": "3． 道がわからなければ、地図を書きますよ。\n…もう、松本部長が＿＿＿＿＿＿＿＿から、大丈夫です。",
+      "context": "４．\n例：だれがこの資料を貸してくれたんですか。…松本部長が貸してくださったんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "書いてくださいました"
+        ]
+      ],
+      "explanation": "松本部長が書いてくださいました: trưởng phòng đã vẽ bản đồ cho tôi."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-22",
+      "question": "4． 弟さんが日本へきたら、どこを案内してあげますか。\n…京都を＿＿＿＿＿＿＿＿＿つもりです。",
+      "context": "４．\n例：だれがこの資料を貸してくれたんですか。…松本部長が貸してくださったんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "案内してやる",
+          "案内してあげる"
+        ]
+      ],
+      "explanation": "Trước つもり dùng thể từ điển: 案内してやる／あげる."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-23",
+      "question": "5． 昨日だれが作文を直してくれましたか。\n…おれが＿＿＿＿＿＿＿＿＿＿。",
+      "context": "４．\n例：だれがこの資料を貸してくれたんですか。…松本部長が貸してくださったんです。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Câu đáp nguồn ghi おれが (tôi, cách nói suồng sã), trái với câu hỏi ai sửa bài cho bạn và mẫu cho/nhận. Nếu nguồn định viết 姉が: 姉が直してくれました; nếu thật sự là おれが thì cần ngữ cảnh khác. Không đoán người thực hiện để chấm."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-24",
+      "question": "6． その自転車、自分で修理したんですか。\n…いいえ、兄に＿＿＿＿＿＿＿んです。",
+      "context": "４．\n例：だれがこの資料を貸してくれたんですか。…松本部長が貸してくださったんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "修理してもらった"
+        ]
+      ],
+      "explanation": "兄に修理してもらったんです: nhờ anh trai sửa; thể thường trước んです."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-25",
+      "question": "7． いい辞書ですね。自分で選んだんですか。\n…いいえ、日本語の先生に＿＿＿＿＿＿＿＿んです。",
+      "context": "４．\n例：だれがこの資料を貸してくれたんですか。…松本部長が貸してくださったんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "選んでいただいた"
+        ]
+      ],
+      "explanation": "先生に選んでいただいたんです: được giáo viên chọn giúp."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-26",
+      "question": "1． ここは禁煙なので、たばこはあちらで＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "５．\n翻訳します、見ます、吸います、伝えます、おします、取り替えます\n例：すみません。中国語の手紙が読めないですが、翻訳してくださいませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "吸ってくださいませんか"
+        ]
+      ],
+      "explanation": "Nhờ lịch sự bằng ～てくださいませんか: xin hút thuốc ở chỗ kia."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-27",
+      "question": "2． ミラーさん、回覧です。見たら、ここにはんこを＿＿＿＿＿＿＿",
+      "context": "５．\n翻訳します、見ます、吸います、伝えます、おします、取り替えます\n例：すみません。中国語の手紙が読めないですが、翻訳してくださいませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "押してくださいませんか"
+        ]
+      ],
+      "explanation": "はんこを押してくださいませんか: nhờ đóng dấu xác nhận."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-28",
+      "question": "3． エアコンの調子がおかしいんです。ちょっと＿＿＿＿＿＿＿＿＿",
+      "context": "５．\n翻訳します、見ます、吸います、伝えます、おします、取り替えます\n例：すみません。中国語の手紙が読めないですが、翻訳してくださいませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "見てくださいませんか"
+        ]
+      ],
+      "explanation": "見てくださいませんか: nhờ xem điều hòa giúp."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-29",
+      "question": "4． すみませんが、渡辺さんに会議は３時からだと＿＿＿＿＿＿＿＿",
+      "context": "５．\n翻訳します、見ます、吸います、伝えます、おします、取り替えます\n例：すみません。中国語の手紙が読めないですが、翻訳してくださいませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "伝えてくださいませんか"
+        ]
+      ],
+      "explanation": "Nhờ chuyển lời cho Watanabe rằng họp từ 3 giờ."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-30",
+      "question": "1． 先日課長に貸して「くださった、いただいた」本はとても役に立ちました。",
+      "context": "６．\n例：そのお弁当、どこで買ったんですか\n…小川さんの奥さんが作って「くださった、いただいた」んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "いただいた"
+        ]
+      ],
+      "explanation": "課長に貸していただいた: tôi nhận việc cho mượn từ trưởng phòng; に đánh dấu người giúp."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-31",
+      "question": "2． おもちゃと絵本を買ったんですね。\n…ええ、国の弟に送って「くれよう、やろう」と思っているんです。",
+      "context": "６．\n例：そのお弁当、どこで買ったんですか\n…小川さんの奥さんが作って「くださった、いただいた」んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "やろう"
+        ]
+      ],
+      "explanation": "弟に送ってやろう: định gửi cho em trai; くれよう sai hướng cho/nhận."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-32",
+      "question": "3． 空港まで部長が迎えにきて「やりました、くださいました」。",
+      "context": "６．\n例：そのお弁当、どこで買ったんですか\n…小川さんの奥さんが作って「くださった、いただいた」んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "くださいました"
+        ]
+      ],
+      "explanation": "部長が迎えに来てくださいました: trưởng phòng đến đón tôi."
+    },
+    {
+      "exerciseId": "41-section-6-exercise-33",
+      "question": "4． この写真はだれが撮ったんですか。・イーさんが撮って「あげた、くれた」\nんです。",
+      "context": "６．\n例：そのお弁当、どこで買ったんですか\n…小川さんの奥さんが作って「くださった、いただいた」んです。",
+      "status": "reference",
+      "answers": [
+        [
+          "くれた"
+        ]
+      ],
+      "explanation": "イーさんが撮ってくれた: Lee chụp giúp tôi, phù hợp góc nhìn người nhận."
+    }
+  ]
+}

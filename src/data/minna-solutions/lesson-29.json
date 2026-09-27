@@ -1,0 +1,399 @@
+{
+  "lesson": 29,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-29",
+  "solutions": [
+    {
+      "exerciseId": "29-section-7-exercise-1",
+      "question": "1） このスーパー（　）夜９時（　）あいています。",
+      "context": "1．\n例：この店（で）はカード（で）買い物できません。",
+      "status": "reference",
+      "answers": [
+        [
+          "は"
+        ],
+        [
+          "まで"
+        ]
+      ],
+      "explanation": "Nêu siêu thị làm chủ đề; 夜９時まで: mở cửa đến 9 giờ tối."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-2",
+      "question": "2） 電車の網棚（　）忘れ物（　）してしまいました。",
+      "context": "1．\n例：この店（で）はカード（で）買い物できません。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "網棚に忘れ物をする: để quên đồ trên giá hành lý."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-3",
+      "question": "3） このかばん（　　）はポケット（　）たくさん付いています。",
+      "context": "1．\n例：この店（で）はカード（で）買い物できません。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "かばんにはポケットが付いています: túi có gắn các ngăn."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-4",
+      "question": "4） 切符をなくしたら、駅員（　）行ってください。",
+      "context": "1．\n例：この店（で）はカード（で）買い物できません。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Nguồn ghi 駅員（ ）行ってください, không khớp nghĩa báo mất vé. Nếu sửa 行って thành 言って: 切符をなくしたら、駅員に言ってください。 (Mất vé thì báo nhân viên ga). Không chấm câu khi động từ nguồn chưa đúng."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-5",
+      "question": "5） どこか（　）ちょっと休みませんか。",
+      "context": "1．\n例：この店（で）はカード（で）買い物できません。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "どこかで休む: nghỉ ở đâu đó."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-6",
+      "question": "6） パンチはどこですか。\n…えーと、どこか（　）あると思いますよ。",
+      "context": "1．\n例：この店（で）はカード（で）買い物できません。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "どこかにある: tồn tại ở đâu đó."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-7",
+      "question": "１）｛ちゃわん、袋、木の枝｝か折れています。",
+      "context": "2．\n例：｛ガラス、コップ、お皿｝でビールを飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "木の枝"
+        ]
+      ],
+      "explanation": "木の枝が折れている: cành cây bị gãy. Nguồn viết か, đúng ngữ cảnh phải là が."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-8",
+      "question": "２）｛ガラス、ちゃわん、シャツ｝が破れてしまいました。",
+      "context": "2．\n例：｛ガラス、コップ、お皿｝でビールを飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "シャツ"
+        ]
+      ],
+      "explanation": "Áo bị rách: シャツが破れる."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-9",
+      "question": "３）｛ボタン、ボケット、財布｝が外れていますよ。",
+      "context": "2．\n例：｛ガラス、コップ、お皿｝でビールを飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "ボタン"
+        ]
+      ],
+      "explanation": "ボタンが外れる: cúc áo tuột ra."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-10",
+      "question": "４）コップが｛割れました、折れました、破れました｝。",
+      "context": "2．\n例：｛ガラス、コップ、お皿｝でビールを飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "割れました"
+        ]
+      ],
+      "explanation": "Cốc vỡ dùng 割れる."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-11",
+      "question": "５）傘が｛割れて、壊れて、故障して｝しまいました。",
+      "context": "2．\n例：｛ガラス、コップ、お皿｝でビールを飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "壊れて"
+        ]
+      ],
+      "explanation": "Ô bị hỏng dùng 壊れる, thể て là 壊れて."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-12",
+      "question": "１）エアコンが（　　　　）から、窓を開けないでください。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "ついています"
+        ]
+      ],
+      "explanation": "Điều hòa đang bật là trạng thái ～ています; câu sau yêu cầu không mở cửa sổ."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-13",
+      "question": "２）道が（　　　　）から、約束の時間に間に合いませんでした。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "込んでいました",
+          "混んでいました"
+        ]
+      ],
+      "explanation": "Vì đường đã đông nên đến muộn, dùng quá khứ trạng thái."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-14",
+      "question": "３）コップが（　　　　）から、洗ってください。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "汚れています"
+        ]
+      ],
+      "explanation": "Cốc đang bẩn nên cần rửa."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-15",
+      "question": "４）けさは電車が（　　　　）から、座れました。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "すいていました",
+          "空いていました"
+        ]
+      ],
+      "explanation": "Tàu đã vắng nên ngồi được; dùng quá khứ ～ていました."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-16",
+      "question": "５）隣のうちは電気が（　　　　）から、だれもいないと思います。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "消えています"
+        ]
+      ],
+      "explanation": "Đèn đang tắt, suy đoán người hàng xóm không ở nhà."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-17",
+      "question": "６）プイクスが（　　　　）から、修理してもらわなければなりません。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "sample",
+      "answers": [
+        [
+          "壊れています",
+          "故障しています"
+        ]
+      ],
+      "explanation": "Thiết bị đang hỏng nên cần sửa. Danh từ プイクス trong nguồn bị lỗi, có thể là ファクス; không khẳng định tên thiết bị."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-18",
+      "question": "７）寒いですね。…あ、窓が（　　　　）から、閉めましょう。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "開いています"
+        ]
+      ],
+      "explanation": "Cửa sổ đang mở nên nhờ đóng lại."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-19",
+      "question": "８）会議室はかぎが（　　　　）から、いつでも入れますよ。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "かかっていません"
+        ]
+      ],
+      "explanation": "かぎがかかっていません: cửa không khóa nên có thể vào bất cứ lúc nào."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-20",
+      "question": "９）あそこに大きい車が（　　　　）んですが、だれが止めたんですか。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "止まっている"
+        ]
+      ],
+      "explanation": "車が止まっているんです: xe đang đỗ; trước んです dùng thể thường."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-21",
+      "question": "１０）この鞄、ずいぶん重いですね。何が（　　　　）んですが。",
+      "context": "3．\n例：時計が（止まっています）から、時間がわかりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "入っている"
+        ]
+      ],
+      "explanation": "何が入っているんですか: bên trong có gì? Nguồn kết câu んですが có vẻ lỗi của んですか."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-22",
+      "question": "1） ミラーさんにもらったケーキは？\n…もう全部＿＿＿＿＿＿＿＿＿＿。",
+      "context": "4．\n例：ちょっとお茶でも飲みませんか。\n…すみません。この資料をファクスで送ってしまいますから。",
+      "status": "reference",
+      "answers": [
+        [
+          "食べてしまいました"
+        ]
+      ],
+      "explanation": "Đã ăn hết bánh; ～てしまう diễn tả hoàn tất."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-23",
+      "question": "2） その本、おもしろいですか。\n…ええ。わたしはもう＿＿＿＿＿＿＿＿＿＿から、貸しましょうか。",
+      "context": "4．\n例：ちょっとお茶でも飲みませんか。\n…すみません。この資料をファクスで送ってしまいますから。",
+      "status": "reference",
+      "answers": [
+        [
+          "読んでしまいました"
+        ]
+      ],
+      "explanation": "Đã đọc xong sách nên cho mượn."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-24",
+      "question": "3） いっしょに帰りませんか。\n…すみません。あしたの会議の準備を＿＿＿＿＿＿＿＿から、お先に\nどうぞ。",
+      "context": "4．\n例：ちょっとお茶でも飲みませんか。\n…すみません。この資料をファクスで送ってしまいますから。",
+      "status": "reference",
+      "answers": [
+        [
+          "してしまいます"
+        ]
+      ],
+      "explanation": "準備をしてしまいます: làm nốt việc chuẩn bị rồi mới về."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-25",
+      "question": "4） レポートはもう書きましたか。\n…いいえ、まだです。あしたから忙しくなりますから忙しくなります\nから、今晩＿＿＿＿＿＿＿＿。",
+      "context": "4．\n例：ちょっとお茶でも飲みませんか。\n…すみません。この資料をファクスで送ってしまいますから。",
+      "status": "reference",
+      "answers": [
+        [
+          "書いてしまいます"
+        ]
+      ],
+      "explanation": "今晩書いてしまいます: sẽ viết xong tối nay. Nguồn lặp từ 忙しく."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-26",
+      "question": "5） 部長は何時に出かけるんですか。\n…もう＿＿＿＿＿＿＿＿＿よ。",
+      "context": "4．\n例：ちょっとお茶でも飲みませんか。\n…すみません。この資料をファクスで送ってしまいますから。",
+      "status": "reference",
+      "answers": [
+        [
+          "出かけてしまいました"
+        ]
+      ],
+      "explanation": "Trưởng phòng đã ra ngoài mất rồi; hoàn tất kèm cảm giác lỡ việc."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-27",
+      "question": "1） わたしが結婚したかった人は、ほかの人と＿＿＿＿＿＿＿＿。",
+      "context": "5．\n落とします、捨てます、結婚します、まちがえます、破れます、忘れます、折れます、売れます\n例：あの人の名前、この間聞いたんですが、忘れしてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "結婚してしまいました"
+        ]
+      ],
+      "explanation": "Người định kết hôn cùng đã cưới người khác, ～てしまった diễn tả tiếc nuối."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-28",
+      "question": "2） ここに置いた雑誌がないんですが…。\n…あ、すみません。ごみの日に＿＿＿＿＿＿＿＿。",
+      "context": "5．\n落とします、捨てます、結婚します、まちがえます、破れます、忘れます、折れます、売れます\n例：あの人の名前、この間聞いたんですが、忘れしてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "捨ててしまいました"
+        ]
+      ],
+      "explanation": "Đã lỡ vứt tạp chí vào ngày thu gom rác."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-29",
+      "question": "3） 袋が＿＿＿＿＿＿＿＿んですが、変えていただけませんか。",
+      "context": "5．\n落とします、捨てます、結婚します、まちがえます、破れます、忘れます、折れます、売れます\n例：あの人の名前、この間聞いたんですが、忘れしてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "破れてしまった"
+        ]
+      ],
+      "explanation": "Túi đã rách; trước んですが dùng thể thường quá khứ."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-30",
+      "question": "4） すみませんが、細かいお金を２００円貸していただけませんか。どこかで\n財布を＿＿＿＿＿＿＿＿＿んです。",
+      "context": "5．\n落とします、捨てます、結婚します、まちがえます、破れます、忘れます、折れます、売れます\n例：あの人の名前、この間聞いたんですが、忘れしてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "落としてしまった"
+        ]
+      ],
+      "explanation": "Lỡ đánh rơi ví; 落としてしまったんです nêu lý do."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-31",
+      "question": "5） この靴、デザインはいいんですが、色がちょっと…。黒いのはありま\nせんか。…すみません。あったんですが、＿＿＿＿＿＿＿＿。",
+      "context": "5．\n落とします、捨てます、結婚します、まちがえます、破れます、忘れます、折れます、売れます\n例：あの人の名前、この間聞いたんですが、忘れしてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "売れてしまいました"
+        ]
+      ],
+      "explanation": "Giày đã bán mất rồi; 売れる là tự động từ."
+    },
+    {
+      "exerciseId": "29-section-7-exercise-32",
+      "question": "6） 遅かったですね。どうしたんですか。\n…すみません。道を＿＿＿＿＿＿＿＿んです。",
+      "context": "5．\n落とします、捨てます、結婚します、まちがえます、破れます、忘れます、折れます、売れます\n例：あの人の名前、この間聞いたんですが、忘れしてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "間違えてしまった"
+        ]
+      ],
+      "explanation": "道を間違えてしまったんです: lỡ đi nhầm đường nên muộn."
+    }
+  ]
+}

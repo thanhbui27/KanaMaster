@@ -1,0 +1,151 @@
+{
+  "lesson": 21,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-21",
+  "solutions": [
+    {
+      "exerciseId": "21-section-9-exercise-1",
+      "question": "１）あの　レストランの　料理は　どうですか。\n...  あまり　（____）と　思います。",
+      "context": "1.\nおいしいです　帰ります　来ます　上手です　役に　立ちます\n例：彼女は　来ますか。\n...  いいえ、きょうは　（来ない）と　思います。",
+      "status": "reference",
+      "answers": [
+        [
+          "おいしくない"
+        ]
+      ],
+      "explanation": "あまり đi với phủ định; trước と思う dùng thể thường."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-2",
+      "question": "２）鈴木さんは　英語が　できますか。\n...  ええ、　（____）と　思います。アメリカに　3年　いましたから。",
+      "context": "1.\nおいしいです　帰ります　来ます　上手です　役に　立ちます\n例：彼女は　来ますか。\n...  いいえ、きょうは　（来ない）と　思います。",
+      "status": "reference",
+      "answers": [
+        [
+          "上手だ"
+        ]
+      ],
+      "explanation": "な-tính từ phải có だ trước と思います: 上手だと思います."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-3",
+      "question": "３）その　辞書は　いいですか。\n...  ええ、とても　（____）と　思います。",
+      "context": "1.\nおいしいです　帰ります　来ます　上手です　役に　立ちます\n例：彼女は　来ますか。\n...  いいえ、きょうは　（来ない）と　思います。",
+      "status": "reference",
+      "answers": [
+        [
+          "役に立つ"
+        ]
+      ],
+      "explanation": "役に立ちます → 役に立つ: có ích."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-4",
+      "question": "４）田中さんは　いますか。\n...  かばんが　ありませんから、もう　うちへ　（____）と　思います。",
+      "context": "1.\nおいしいです　帰ります　来ます　上手です　役に　立ちます\n例：彼女は　来ますか。\n...  いいえ、きょうは　（来ない）と　思います。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰った"
+        ]
+      ],
+      "explanation": "Suy đoán người đó đã về: 帰ったと思います."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-5",
+      "question": "１）\nA ：桜の　季節ですね。どこか　お花見に　行きますか。\nB：ええ、日曜日　家族と　吉野山へ　行きます。\n→ Bさんは (______) と　言いました。",
+      "context": "2. 例：\nA ：あした　暇ですか。\nB：あしたは　会社へ　行かなければ　なりません。\n→ Bさんは　あしたは　(会社へ　行かなければ　ならない) と　言いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "日曜日家族と吉野山へ行く"
+        ]
+      ],
+      "explanation": "Lời nói gián tiếp dùng thể thường 行く trước と言いました."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-6",
+      "question": "２）\nA ：この　本、おもしろいですよ。\nB：そうですか。じゃ、貸して　ください。\n→ Aさんは　この　本は　(______)と　言いました。",
+      "context": "2. 例：\nA ：あした　暇ですか。\nB：あしたは　会社へ　行かなければ　なりません。\n→ Bさんは　あしたは　(会社へ　行かなければ　ならない) と　言いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "おもしろい"
+        ]
+      ],
+      "explanation": "い-tính từ bỏ です trước と言いました."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-7",
+      "question": "３）\nA ：パーティーは　にぎやかでしたか。\nB：ええ、とても　にぎやかでした。\n→ Bさんは　パーティーは　(______)と　言いました。",
+      "context": "2. 例：\nA ：あした　暇ですか。\nB：あしたは　会社へ　行かなければ　なりません。\n→ Bさんは　あしたは　(会社へ　行かなければ　ならない) と　言いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "とてもにぎやかだった"
+        ]
+      ],
+      "explanation": "にぎやかでした → にぎやかだった; giữ quá khứ."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-8",
+      "question": "４）\nA ：すみません。日曜日の　試合を　見に　行く　ことが　できません。\nB：そうですか。残念です。\n→ Aさんは　(______)と　言いました。",
+      "context": "2. 例：\nA ：あした　暇ですか。\nB：あしたは　会社へ　行かなければ　なりません。\n→ Bさんは　あしたは　(会社へ　行かなければ　ならない) と　言いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "日曜日の試合を見に行くことができない"
+        ]
+      ],
+      "explanation": "できません → できない trong lời thuật lại."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-9",
+      "question": "１）来月　京都で　有名な　お祭りが　（____）でしょう？",
+      "context": "3.\nあります　暑いです　すきました　試験です　疲れました\n例：おなかが　（すいた）　でしょう？何か　食べませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "ある"
+        ]
+      ],
+      "explanation": "あります → ある trước でしょう."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-10",
+      "question": "２）（____）でしょう？　少し　休みましょう。",
+      "context": "3.\nあります　暑いです　すきました　試験です　疲れました\n例：おなかが　（すいた）　でしょう？何か　食べませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "疲れた"
+        ]
+      ],
+      "explanation": "疲れました → 疲れた; đoán người nghe đã mệt nên đề nghị nghỉ."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-11",
+      "question": "３）（____）でしょう？　エアコンを　つけましょうか。",
+      "context": "3.\nあります　暑いです　すきました　試験です　疲れました\n例：おなかが　（すいた）　でしょう？何か　食べませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "暑い"
+        ]
+      ],
+      "explanation": "い-tính từ giữ nguyên trước でしょう; bật điều hòa vì nóng."
+    },
+    {
+      "exerciseId": "21-section-9-exercise-12",
+      "question": "４）あしたは（____）でしょう？　早く　帰りましょう。",
+      "context": "3.\nあります　暑いです　すきました　試験です　疲れました\n例：おなかが　（すいた）　でしょう？何か　食べませんか。",
+      "status": "reference",
+      "answers": [
+        [
+          "試験"
+        ]
+      ],
+      "explanation": "Danh từ đứng trực tiếp trước でしょう, không thêm だ."
+    }
+  ]
+}

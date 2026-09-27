@@ -1,0 +1,804 @@
+{
+  "schemaVersion": 1,
+  "lesson": 24,
+  "title": "Từ vựng ngữ pháp Minna bài 24",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-24",
+  "fetchedAt": "2026-09-27T09:07:21.374790+00:00",
+  "sourceSha256": "4942f330dbdca940d07d23534caf0c5f3476527e94e76217619fd10cfa974218",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box166",
+      "title": "1. Từ vựng minna bài 24",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cho ,tặng(tôi)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つれていきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "連れて行きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dẫn đi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つれてきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "連れて来ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dẫn đến",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おくります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "送ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đưa đi ,đưa đến,tiễn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しょうかいします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "紹介します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giới thiệu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あんないします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "案内します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hướng dẫn,chỉ đường",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せつめいします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "説明します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giải thích ,trình bày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いれます(コーヒーを）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "pha(cà phê)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おじいさん / おじいちゃん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ông nội,ông ngoại,ông",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おばあさん /　おばあちゃん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bà nội,bà ngoại,bà",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じゅんび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "準備",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chuẩn bị",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "意味",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おかし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お菓子",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bánh kẹo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ぜんぶ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "全部",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "toàn bộ,tất cả",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ vựng\nKanji\nÝ nghĩa\n1\nくれます\ncho ,tặng(tôi)\n2\nつれていきます\n連れて行きます\ndẫn đi\n3\nつれてきます\n連れて来ます\ndẫn đến\n4\nおくります\n送ります\nđưa đi ,đưa đến,tiễn\n5\nしょうかいします\n紹介します\ngiới thiệu\n6\nあんないします\n案内します\nhướng dẫn,chỉ đường\n7\nせつめいします\n説明します\ngiải thích ,trình bày\n8\nいれます(コーヒーを）\npha(cà phê)\n9\nおじいさん / おじいちゃん\nông nội,ông ngoại,ông\n10\nおばあさん /　おばあちゃん\nbà nội,bà ngoại,bà\n11\nじゅんび\n準備\nchuẩn bị\n12\nいみ\n意味\ný nghĩa\n13\nおかし\nお菓子\nbánh kẹo\n14\nぜんぶ\n全部\ntoàn bộ,tất cả",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box167",
+      "title": "2. くれます",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/hTT97UkulGg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Trong bài 7, các bạn đã được học động từ あげます với nghĩa là cho, tặng và もらいます với nghĩa là nhận. Ta có sơ đồ sau :"
+        },
+        {
+          "type": "text",
+          "text": "ü    もらいます：Đứng từ vị trí của người nhận:"
+        },
+        {
+          "type": "text",
+          "text": "ü    あげます：Đứng từ điểm nhìn của người cho :"
+        },
+        {
+          "type": "text",
+          "text": "例1："
+        },
+        {
+          "type": "text",
+          "text": "わたしは　さとうさんに　はなを　あげました。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi tặng hoa chị Satou."
+        },
+        {
+          "type": "text",
+          "text": "さとうさんは　やまださんに　はなを　あげました。"
+        },
+        {
+          "type": "text",
+          "text": "Chị Satou tặng hoa cho chị Yamada."
+        },
+        {
+          "type": "text",
+          "text": "Tuy nhiên, trong trường hợp này, nếu người nhận lại là わたし( tức là chính người nói là người nhận) thì không dùng động từ あげます nữa mà dùng động từ くれます."
+        },
+        {
+          "type": "text",
+          "text": "例2："
+        },
+        {
+          "type": "text",
+          "text": "さとうさんは　(わたしに)　はなを　くれました。"
+        },
+        {
+          "type": "text",
+          "text": "Chị Satou tặng hoa cho tôi."
+        },
+        {
+          "type": "text",
+          "text": "さとうさんは　わたしに　はなを　あげまし"
+        },
+        {
+          "type": "text",
+          "text": "="
+        },
+        {
+          "type": "text",
+          "text": "=>"
+        },
+        {
+          "type": "text",
+          "text": "không dùng"
+        },
+        {
+          "type": "text",
+          "text": "Trong trường hợp này, vì người nhận ở đây đương nhiên là わたし rồi nên người ta thường lược bỏ phần わたしに đi khi nói."
+        }
+      ],
+      "text": "Trong bài 7, các bạn đã được học động từ\nあげます\nvới nghĩa là cho, tặng và\nもらいます\nvới nghĩa là nhận. Ta có sơ đồ sau :\nü\nもらいます：\nĐứng từ vị trí của người nhận:\nü\nあげます：\nĐứng từ điểm nhìn của người cho :\n例1\n：\nわたしは　さとうさんに　はなを　あげました。\nTôi tặng hoa chị Satou.\nさとうさんは　やまださんに　はなを　あげました。\nChị Satou tặng hoa cho chị Yamada.\nTuy nhiên, trong trường hợp này, nếu người nhận lại là\nわたし\n( tức là chính người nói là người nhận) thì không dùng động từ\nあげます\nnữa mà dùng động từ\nくれます\n.\n例2\n：\nさとうさんは\n(\nわたしに\n)\nはなを\nくれました。\nChị Satou tặng hoa cho tôi.\nさとうさんは　わたしに　はなを　あげまし\n=\n=>\nkhông dùng\nTrong trường hợp này, vì người nhận ở đây đương nhiên là\nわたし\nrồi nên người ta thường lược bỏ phần\nわたしに\nđi khi nói.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/hTT97UkulGg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box168",
+      "title": "3. Thể て + あげます, もらいます, くれます",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/PRjdTmxpDjM",
+          "alt": ""
+        },
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/TPMqarKiAXc",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "あげます、もらいます và くれます cũng được sử dụng để biểu đạt việc cho hoặc nhận các hành động giống như với các đồ vật bình thường. Chúng chỉ sự việc ai làm một hành động gì đó cho ai nhằm xác định rõ chiều hướng của hành động đó cũng như để biểu lộ một hảo ý hay một sự cảm ơn. Trong trường hợp này, hành động được đề cập đến được biểu thị bằng động từ ở thể て."
+        },
+        {
+          "type": "text",
+          "text": "1)   Thể て＋あげます："
+        },
+        {
+          "type": "text",
+          "text": "ü    Đứng từ điểm nhìn của người cho hành động ."
+        },
+        {
+          "type": "text",
+          "text": "ü    Người nhận hành động không phải là わたし"
+        },
+        {
+          "type": "text",
+          "text": "Thể て＋あげます dùng để diễn tả việc một người nào đó làm việc gì đó cho người khác với một hảo ý."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： やまださんは　ハイさんに　にほんごを　おしえて　あげました Anh Yamada đã dạy tiếng Nhật cho anh Hải やまだんさは　わたしに　日本ごを　おしえてあげました ==> không dùng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "やまださん　là người cho vàハイさんlà người nhận hành động おしえますnên tương tự như trong câu sử dụng あげます với việc cho nhận đồ vật, người nhận hành động vẫn được biểu thị bằng trợ từ に, còn động từ おしえます được chuyển sang thể て và kết hợp với あげますđể thể hiện chiều hướng của hành động( Hướng từ やまださん vào ハイさん)."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý: Khi người nhận hành động là わたし thì không dùng mẫu này( tương tự như với trường hợp nhận được đồ vật)"
+        },
+        {
+          "type": "text",
+          "text": "Trong trường hợp người nói là người thực hiện hành động và người nghe là người nhận hành động đó thì cách diễn đạt này sẽ tạo cho người nghe ấn tượng rằng người nói đang tỏ vẻ bề trên. Vì vậy, trong trường hợp đó, người nói nên tránh việc sử dụng cách nói này với những người mà mình không biết rõ hoặc đối với người lớn, cấp trên của mình. Bạn có thể sử dụng cách nói này khi nói với những người thân ( gia đình, bạn bè thân thiết). Khi bạn muốn đề nghị được giúp đỡ một ai đó mà không mấy thân thiết với mình thì nên sử dụng mẫu “ Thể ます＋ましょうか”"
+        },
+        {
+          "type": "text",
+          "text": "(Xem lại mẫu 6 bài 14)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例２： タクシーを　よびましょうか。 Tôi gọi taxi nhé. 例３： てつだいましょうか。 Tôi giúp bạn nhé.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2.Thể て＋もらいます："
+        },
+        {
+          "type": "text",
+          "text": "Đứng từ điểm nhìn của người nhận hành động để nói."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例４：　 ハイさんは　やまださんに　としょかんの　でんわばんごうを　おしえてもらいました。 Anh Hải được anh Yamada cho số điện thoại của thư viện.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Cách diễn đạt này biểu đạt sự cảm ơn của người đã nhận được sự giúp đỡ."
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ trên, やまださん là người cho( người thực hiện) và ハイさん là người nhận hành động おしえます nên tương tự như trong câu sử dụng もらいますvới việc cho nhận đồ vật, người cho hành động vẫn được biểu thị bằng trợ từ に, còn động từ おしえます được chuyển sang thể て và kết hợp với もらいますđể thể hiện chiều hướng của hành động ( hướng từ やまださん vàoハイさん)."
+        },
+        {
+          "type": "text",
+          "text": "a)   Thể て＋くれます："
+        },
+        {
+          "type": "text",
+          "text": "-Đứng từ điểm nhìn của người cho hành động"
+        },
+        {
+          "type": "text",
+          "text": "-Người nhận hành động là わたし"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例５：　 ははは　（わたしに）　セーターを　おくって　くれました。 Mẹ gửi áo len cho tôi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ trên, はは　là người cho( thực hiện) và わたしlà người nhận hành động おくります, nên tương tự như trong câu dùng với くれますvới việc cho nhận đồ vật, bộ phận biểu thị người nhận hành động （わたしに）thường được lược giản đi và động từ おくります được chuyển sang thể て kết hợp với くれます để thể hiện chiều hướng của hành động ( hướng từ はは vào　　わたし)."
+        },
+        {
+          "type": "text",
+          "text": "3.N ( người) がV："
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１：　 A:　すてきな　ネクタイですね。 Cà vạt đẹp nhỉ. B:　ええ、さとうさんが　くれました。 Vâng, anh Sato đã tặng tôi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong mẫu này, bạn sẽ đưa ra một chủ đề. Đáp lại câu đó của bạn, thì người nghe sẽ đưa ra một thông tin liên quan đến chủ đề mà họ nghĩ bạn chưa biết. Chủ ngữ của câu mà người nói dùng để đưa ra thông tin mới đó được biểu thị bằng trợ từ が."
+        },
+        {
+          "type": "text",
+          "text": "Xét ví dụ ở trên: A sẽ đưa ra chủ đề là chiếc cà vạt của A ( khen nó đẹp). Đáp lại câu đó của A, B đưa thông tin liên quan đến chiếc cà vạt đó mà B nghĩ là A chưa biết ( đó là chiếc cà vạt đó B được anh Satou cho). Khi đó, chủ ngữ của câu mà B nói ( câu dùng để đưa ra thông tin mới) là anh Satou và nó được biểu thị bằng trợ từ が."
+        },
+        {
+          "type": "text",
+          "text": "4. Từ để hỏi がV　:"
+        },
+        {
+          "type": "text",
+          "text": "Bạn đã được học trong các bài trước rằng khi đặt câu hỏi cho chủ ngữ của câu, thì từ để hỏi đó sẽ được biểu thị bằng trợ từ が trong câuあります・います và câu tính từ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１：　きょうしつに　だれが　いますか。 例２：　１年で　いつが　いちばん　さむいですか。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Câu động từ cũng tương tự như vậy :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "A:　だれが　てつだいに　きますか。 Ai sẽ đến giúp B:　ハイさんが　きます。 Anh Hải sẽ đến",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "あげます、もらいます\nvà\nくれます\ncũng được sử dụng để biểu đạt việc cho hoặc nhận\ncác hành động\ngiống như với các đồ vật bình thường. Chúng chỉ sự việc ai làm một hành động gì đó cho ai nhằm xác định rõ chiều hướng của hành động đó cũng như để biểu lộ một hảo ý hay một sự cảm ơn. Trong trường hợp này, hành động được đề cập đến được biểu thị bằng động từ\nở thể\nて\n.\n1)\nThể\nて＋あげます：\nü\nĐứng từ điểm nhìn của\nngười cho hành động\n.\nü\nNgười nhận hành động\nkhông phải là\nわたし\nThể\nて＋あげます\ndùng để diễn tả việc một người nào đó làm việc gì đó cho người khác với một hảo ý.\n例\n1\n：\nやまださんは　ハイさんに　にほんごを\nおしえて\nあげました\nAnh Yamada đã dạy tiếng Nhật cho anh Hải\nやまだんさは　わたしに　日本ごを　おしえてあげました\n==>\nkhông dùng\nやまださん\nlà người cho và\nハイさん\nlà ng\nười nhận\nhành động\nおしえます\nnên tương tự như trong câu sử dụng\nあげます\nvới việc cho nhận đồ vật,\nngười nhận hành động\nvẫn được biểu thị bằng trợ từ\nに\n,\ncòn\nđộng từ\nおしえます\nđược chuyển sang thể\nて\nvà kết hợp với\nあげます\nđể thể hiện chiều hướng của hành động( Hướng từ\nやまださん\nvào\nハイさん\n).\nLưu ý: Khi người nhận hành động là\nわたし\nthì không dùng mẫu này( tương tự như với trường hợp nhận được đồ vật)\nTrong trường hợp người nói là người thực hiện hành động và người nghe là người nhận hành động đó thì cách diễn đạt này sẽ tạo cho người nghe ấn tượng rằng người nói đang tỏ vẻ bề trên. Vì vậy, trong trường hợp đó, người nói nên tránh việc sử dụng cách nói này với những người mà mình không biết rõ hoặc đối với người lớn, cấp trên của mình. Bạn có thể sử dụng cách nói này khi nói với những người thân ( gia đình, bạn bè thân thiết). Khi bạn muốn đề nghị được giúp đỡ một ai đó mà không mấy thân thiết với mình thì nên sử dụng mẫu “ Thể\nます＋ましょうか\n”\n(Xem lại mẫu 6 bài 14)\n例２：\nタクシー\nを　よびましょうか。\nTôi gọi taxi nhé.\n例３：\nてつだいましょうか。\nTôi giúp bạn nhé.\n2.\nThể\nて＋もらいます：\nĐứng từ điểm nhìn của\nngười nhận hành động\nđể nói.\n例４：\nハイさん\nは　やまださんに　としょかんの　でんわばんごうを　おしえてもらいました。\nAnh Hải được anh Yamada cho số điện thoại của thư viện.\nCách diễn đạt này biểu đạt sự cảm ơn của người đã nhận được sự giúp đỡ.\nTrong ví dụ trên,\nやまださん\nlà người cho( người thực hiện) và\nハイさん\nlà người nhận hành động\nおしえます\nnên tương tự như trong câu sử dụng\nもらいます\nvới việc cho nhận đồ vật,\nngười cho hành động\nvẫn được biểu thị bằng trợ từ\nに\n, còn động từ\nおしえます\nđược chuyển sang thể\nて\nvà kết hợp với\nもらいます\nđể thể hiện chiều hướng của hành động ( hướng từ\nやまださん\nvào\nハイさん\n).\na)\nThể\nて＋くれます：\n-Đứng từ điểm nhìn của người cho hành động\n-Người nhận hành động là\nわたし\n例５：\nははは　（わたしに）　セーターを　おくって　くれました。\nMẹ gửi áo len cho tôi\nTrong ví dụ trên,\nはは\nlà người cho( thực hiện) và\nわたし\nlà người nhận hành động\nおくります\n, nên tương tự như trong câu dùng với\nくれます\nvới việc cho nhận đồ vật, bộ phận biểu thị người nhận hành động\n（わたしに）\nthường được lược giản đi và động từ\nおくります\nđược chuyển sang thể\nて\nkết hợp với\nくれます\nđể thể hiện chiều hướng của hành động ( hướng từ\nはは\nvào\nわたし\n).\n3.\nN ( người)\nが\nV\n：\n例１：\nA:\nすてきな　ネクタイですね。\nCà vạt đẹp nhỉ.\nB:\nええ、さとうさんが　くれました。\nVâng, anh Sato đã tặng tôi.\nTrong mẫu này, bạn sẽ đưa ra một chủ đề. Đáp lại câu đó của bạn, thì người nghe sẽ đưa ra một thông tin liên quan đến chủ đề mà họ nghĩ bạn chưa biết. Chủ ngữ của câu mà người nói dùng để đưa ra thông tin mới đó được biểu thị bằng trợ từ\nが\n.\nXét ví dụ ở trên: A sẽ đưa ra chủ đề là chiếc cà vạt của A ( khen nó đẹp). Đáp lại câu đó của A, B đưa thông tin liên quan đến chiếc cà vạt đó mà B nghĩ là A chưa biết ( đó là chiếc cà vạt đó B được anh Satou cho). Khi đó, chủ ngữ của câu mà B nói ( câu dùng để đưa ra thông tin mới) là anh Satou và nó được biểu thị bằng trợ từ\nが\n.\n4.\nTừ để hỏi\nが\nV\n:\nBạn đã được học trong các bài trước rằng khi đặt câu hỏi cho chủ ngữ của câu, thì từ để hỏi đó sẽ được biểu thị bằng trợ từ\nが\ntrong câu\nあります・います\nvà câu tính từ.\n例１：　きょうしつに　だれが　いますか。\n例２：　１年で　いつが　いちばん　さむいですか。\nCâu động từ cũng tương tự như vậy\n:\nA:\nだれが　てつだいに　きますか。\nAi sẽ đến giúp\nB:\nハイさんが　きます。\nAnh Hải sẽ đế\nn",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/PRjdTmxpDjM",
+          "alt": ""
+        },
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/TPMqarKiAXc",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. 例：太郎ちゃんは　テレーザちゃんに　花を　（a.あげました　b.くれました）。"
+        },
+        {
+          "type": "text",
+          "text": "１）ワットさんは　わたしに　英語の　辞書を　（a.あげました　b.くれました）。"
+        },
+        {
+          "type": "text",
+          "text": "２）わたしは　カリナさんに　大学を　案内して　（a.くれました　b.もらいました）。"
+        },
+        {
+          "type": "text",
+          "text": "３）休みの　日　夫は　よく　料理を　作って　（a.あげます　b.くれます）。"
+        },
+        {
+          "type": "text",
+          "text": "４）駅で　友達に　細かい　お金を　貸して　（a.もらいました　b.くれました）。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例："
+        },
+        {
+          "type": "text",
+          "text": "ミラー：すみません。塩を　取って　ください。"
+        },
+        {
+          "type": "text",
+          "text": "わたし：はい。どうぞ。"
+        },
+        {
+          "type": "text",
+          "text": "→わたしは　ミラーさんに　塩を　取って　あげました。"
+        },
+        {
+          "type": "text",
+          "text": "Đáp án:（〇）"
+        },
+        {
+          "type": "text",
+          "text": "１）"
+        },
+        {
+          "type": "text",
+          "text": "グプタ：あ、細かい　お金が　ない。"
+        },
+        {
+          "type": "text",
+          "text": "わたし：あ、ありますよ。　いくらですか。"
+        },
+        {
+          "type": "text",
+          "text": "グプタ：すみません。じゃ、100円　お願いします。"
+        },
+        {
+          "type": "text",
+          "text": "→わたしは　グプタさんに　金を　貸して　あげました。"
+        },
+        {
+          "type": "text",
+          "text": "（____）"
+        },
+        {
+          "type": "text",
+          "text": "２）"
+        },
+        {
+          "type": "text",
+          "text": "男の人：重いでしょう？持ちましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "わたし：ありがとう　ございます。"
+        },
+        {
+          "type": "text",
+          "text": "→男の　人は　わたしの　荷物を　持って　くれました。"
+        },
+        {
+          "type": "text",
+          "text": "（____）"
+        },
+        {
+          "type": "text",
+          "text": "３）"
+        },
+        {
+          "type": "text",
+          "text": "（エレベーターで）"
+        },
+        {
+          "type": "text",
+          "text": "ミラー：すみません。６階に　お願いします。"
+        },
+        {
+          "type": "text",
+          "text": "わたし：はい。"
+        },
+        {
+          "type": "text",
+          "text": "→わたしは　ミラーさんに　エレベーターの　ボタンを　押して　もらいました。"
+        },
+        {
+          "type": "text",
+          "text": "（____）"
+        },
+        {
+          "type": "text",
+          "text": "3. 例：わたしは　ミラーさん　（ 　に　）　チョコレートを　あげました。"
+        },
+        {
+          "type": "text",
+          "text": "１）父は　誕生日に　時計　（____）くれました。"
+        },
+        {
+          "type": "text",
+          "text": "２）おいしいワインですね。"
+        },
+        {
+          "type": "text",
+          "text": "……ええ。サントスさん　（____）くれました。"
+        },
+        {
+          "type": "text",
+          "text": "３）わたしは　山田さん　（____）駅まで　送って　もらいました。"
+        },
+        {
+          "type": "text",
+          "text": "４）わたしは　彼　（____）旅行の　本を　送って　あげました。"
+        }
+      ],
+      "text": "1.\n例：太郎ちゃんは　テレーザちゃんに　花を　（\na.\nあげました\nb.\nくれました）。\n１）ワットさんは　わたしに　英語の　辞書を　（\na.\nあげました\nb.\nくれました）。\n２）わたしは　カリナさんに　大学を　案内して　（\na.\nくれました\nb.\nもらいました）。\n３）休みの　日　夫は　よく　料理を　作って　（\na.\nあげます\nb.\nくれます）。\n４）駅で　友達に　細かい　お金を　貸して　（\na.\nもらいました\nb.\nくれました）。\n2.\n例：\nミラー：すみません。塩を　取って　ください。\nわたし：はい。どうぞ。\n→\nわたしは　ミラーさんに　塩を　取って　あげました。\nĐáp án:\n（〇）\n１）\nグプタ：\nあ、細かい　お金が　ない。\nわたし：\nあ、ありますよ。　いくらですか。\nグプタ：\nすみません。じゃ、\n100\n円　お願いします。\n→\nわたしは　グプタさんに　金を　貸して　あげました。\n（\n____\n）\n２）\n男の人：\n重いでしょう？持ちましょうか。\nわたし：\nありがとう　ございます。\n→\n男の　人は　わたしの　荷物を　持って　くれました。\n（\n____\n）\n３）\n（エレベーターで）\nミラー：\nすみません。６階に　お願いします。\nわたし：\nはい。\n→\nわたしは　ミラーさんに　エレベーターの　ボタンを　押して　もらいました。\n（\n____\n）\n3.\n例：わたしは　ミラーさん　（\nに\n）　チョコレートを　あげました。\n１）父は　誕生日に　時計　（\n____\n）くれました。\n２）おいしいワインですね。\n……\nええ。サントスさん　（\n____\n）くれました。\n３）わたしは　山田さん　（\n____\n）駅まで　送って　もらいました。\n４）わたしは　彼　（\n____\n）旅行の　本を　送って　あげました。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

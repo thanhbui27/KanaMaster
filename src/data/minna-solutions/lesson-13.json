@@ -1,0 +1,196 @@
+{
+  "lesson": 13,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-13",
+  "solutions": [
+    {
+      "exerciseId": "13-section-8-exercise-1",
+      "question": "１）用事が　ありますから、5時に　うちへ（___）です。",
+      "context": "1.\n帰ります　行きます　飲みます　食べます　寝ます　します\n例：もう　１２時ですから、昼ごはん　（　食べたい　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰りたい"
+        ]
+      ],
+      "explanation": "Về nhà: 帰ります → 帰りたい; sau ô đã có です."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-2",
+      "question": "２）あしたは　休みですから、昼まで（___）です。",
+      "context": "1.\n帰ります　行きます　飲みます　食べます　寝ます　します\n例：もう　１２時ですから、昼ごはん　（　食べたい　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "寝たい"
+        ]
+      ],
+      "explanation": "Muốn ngủ đến trưa: 寝ます → 寝たい."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-3",
+      "question": "３）のどが　かわきましたから、何か（___）です。",
+      "context": "1.\n帰ります　行きます　飲みます　食べます　寝ます　します\n例：もう　１２時ですから、昼ごはん　（　食べたい　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲みたい"
+        ]
+      ],
+      "explanation": "Khát nên muốn uống gì đó: 何か飲みたいです."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-4",
+      "question": "４）疲れましたから、何も（___）です。",
+      "context": "1.\n帰ります　行きます　飲みます　食べます　寝ます　します\n例：もう　１２時ですから、昼ごはん　（　食べたい　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "したくない"
+        ]
+      ],
+      "explanation": "Mệt nên không muốn làm gì: 何もしたくないです."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-5",
+      "question": "５）暑いですから、どこも（___）です。",
+      "context": "1.\n帰ります　行きます　飲みます　食べます　寝ます　します\n例：もう　１２時ですから、昼ごはん　（　食べたい　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "行きたくない"
+        ]
+      ],
+      "explanation": "Phủ định mong muốn của 行きます là 行きたくない; どこも: không đâu cả."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-6",
+      "question": "１）図書館へ　本を　（___）/rp>り）に　行きます。",
+      "context": "2.\n買い物します　借ります　泳ぎます　飲みます　旅行します　買います\n例：喫茶店へ　コーヒーを　（　飲み　）　に　行きます。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Đề có mảnh HTML “/rp>り）” sau ô trống. Câu đúng dự kiến là 図書館へ本を借りに行きます (đi thư viện mượn sách), nhưng không chấm ô hiện tại vì sẽ lặp hoặc thiếu phần chữ. Cần sửa bản đề trước."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-7",
+      "question": "２）郵便局へ　切手を　（___）に　行きました。",
+      "context": "2.\n買い物します　借ります　泳ぎます　飲みます　旅行します　買います\n例：喫茶店へ　コーヒーを　（　飲み　）　に　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "買い"
+        ]
+      ],
+      "explanation": "Mục đích di chuyển: thân ます + に行きます; 買います → 買い."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-8",
+      "question": "３）デパートへ　（___）に　行きたいです。",
+      "context": "2.\n買い物します　借ります　泳ぎます　飲みます　旅行します　買います\n例：喫茶店へ　コーヒーを　（　飲み　）　に　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "買い物"
+        ]
+      ],
+      "explanation": "買い物に行きたいです: muốn đi mua sắm. Danh từ hoạt động đi với に."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-9",
+      "question": "４）暑いですから、プールへ　（___）に　行きましょう。",
+      "context": "2.\n買い物します　借ります　泳ぎます　飲みます　旅行します　買います\n例：喫茶店へ　コーヒーを　（　飲み　）　に　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "泳ぎ"
+        ]
+      ],
+      "explanation": "泳ぎます → 泳ぎに行く: đi bơi."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-10",
+      "question": "５）日本に　1年　いますから、いろいろな所へ　（___）に　行きたいです。",
+      "context": "2.\n買い物します　借ります　泳ぎます　飲みます　旅行します　買います\n例：喫茶店へ　コーヒーを　（　飲み　）　に　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "旅行"
+        ]
+      ],
+      "explanation": "旅行に行きたいです: muốn đi du lịch đến nhiều nơi."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-11",
+      "question": "１）わたしは　大きい　うち　（____）欲しいです。",
+      "context": "3. 例：昼ごはん　（　を　）　食べます。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "Đối tượng mong muốn với 欲しい dùng が."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-12",
+      "question": "２）きょうは　雨ですから、どこ（____）行きたくないです。",
+      "context": "3. 例：昼ごはん　（　を　）　食べます。",
+      "status": "reference",
+      "answers": [
+        [
+          "も",
+          "へも",
+          "にも"
+        ]
+      ],
+      "explanation": "どこも行きたくない: không muốn đi đâu."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-13",
+      "question": "３）京都の　大学　（____）美術　（____）勉強します。",
+      "context": "3. 例：昼ごはん　（　を　）　食べます。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "Trường đại học là nơi học (で); mỹ thuật là đối tượng học (を)."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-14",
+      "question": "４）日本　（____）経済の　勉強　（____）来ました。",
+      "context": "3. 例：昼ごはん　（　を　）　食べます。",
+      "status": "reference",
+      "answers": [
+        [
+          "へ",
+          "に"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "日本へ/に chỉ đích đến; 経済の勉強に chỉ mục đích."
+    },
+    {
+      "exerciseId": "13-section-8-exercise-15",
+      "question": "５）おなかが　すきましたから、レストラン（____）食事（____）行きます。",
+      "context": "3. 例：昼ごはん　（　を　）　食べます。",
+      "status": "reference",
+      "answers": [
+        [
+          "へ",
+          "に"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Đi đến nhà hàng để dùng bữa: レストランへ食事に行きます."
+    }
+  ]
+}

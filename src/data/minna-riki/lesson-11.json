@@ -1,0 +1,1152 @@
+{
+  "schemaVersion": 1,
+  "lesson": 11,
+  "title": "Từ vựng ngữ pháp Minna bài 11",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-11",
+  "fetchedAt": "2026-09-27T09:07:10.180420+00:00",
+  "sourceSha256": "fc54ab2a880528d1b9639caf6a6a86405f2a97ca3f2bd2a92eabf8cef0f5ae9e",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box109",
+      "title": "1. Từ vựng Minna bài 11",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có (động vật)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かかります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mất, tốn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やすみます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "休みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghỉ ngơi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひとつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "1 cái (đồ vật)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふたつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "2 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みっつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "3 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "よっつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "4 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いつつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "5 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "むっつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "6 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ななつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "7 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やっつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "8 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ここのつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "9 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とお",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "10 cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いくつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bao nhiêu cái",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひとり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "一人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "1 người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふたり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "二人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "2 người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～にん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～だい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～cái, chiếc (máy móc)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～まい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～tờ, (những vật mỏng như áo, giấy…)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～かい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～lần, tầng lầu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "りんご",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quả táo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みかん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quýt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "サンドイッチ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sandwich",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "カレー(ライス)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(cơm) cà ri",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "アイスクリーム",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "kem",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きって",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "切手",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tem",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はがき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "葉書",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bưu thiếp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふうとう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "封筒",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phong bì",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そくたつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "速達",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chuyển phát nhanh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かきとめ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "書留",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gửi bảo đảm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nÝ nghĩa\n1\nいます\ncó (động vật)\n2\nかかります\nmất, tốn\n3\nやすみます\n休みます\nnghỉ ngơi\n4\nひとつ\n1 cái (đồ vật)\n5\nふたつ\n2 cái\n6\nみっつ\n3 cái\n7\nよっつ\n4 cái\n8\nいつつ\n5 cái\n9\nむっつ\n6 cái\n10\nななつ\n7 cái\n11\nやっつ\n8 cái\n12\nここのつ\n9 cái\n13\nとお\n10 cái\n14\nいくつ\nbao nhiêu cái\n15\nひとり\n一人\n1 người\n16\nふたり\n二人\n2 người\n17\n～にん\n～人\n～người\n18\n～だい\n～cái, chiếc (máy móc)\n19\n～まい\n～tờ, (những vật mỏng như áo, giấy…)\n20\n～かい\n～lần, tầng lầu\n21\nりんご\nquả táo\n22\nみかん\nquýt\n23\nサンドイッチ\nsandwich\n24\nカレー(ライス)\n(cơm) cà ri\n25\nアイスクリーム\nkem\n26\nきって\n切手\ntem\n27\nはがき\n葉書\nbưu thiếp\n28\nふうとう\n封筒\nphong bì\n29\nそくたつ\n速達\nchuyển phát nhanh\n30\nかきとめ\n書留\ngửi bảo đảm",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box113",
+      "title": "2. Cách đếm:",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/INwtPog-dZY",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "ひとつ、ふたつ、…とお.  Những từ này được sử dụng để đếm các đồ vật với số lượng từ 1 đến 10. Những đồ vật có số lượng lớn hơn hoặc bằng 11 thì sẽ được đếm bằng các số đếm thông thường"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "a,Đơn vị đếm:"
+        },
+        {
+          "type": "text",
+          "text": "Khi đếm một số loại đồ vật hoặc biểu thị số lượng các đồ vật, người, người ta thêm các đơn vị đếm vào sau số từ. Các đơn vị đếm sẽ khác nhau tùy theo đồ vật."
+        },
+        {
+          "type": "text",
+          "text": "～人 :  Đơn vị đếm người ( từ 3 người trở lên). 1 người là ひとり, 2 người là ふたり, 3 người trở lên thì dùng đơn vị ~ にんnhư đã nói ở trên.  Riêng 4 người viết là 4人 nhưng đọc là : よにん（không phải là よんにん）."
+        },
+        {
+          "type": "text",
+          "text": "～台 :  Đếm những vật như máy móc, xe cộ ( VD: máy vi tính, xe máy,..)."
+        },
+        {
+          "type": "text",
+          "text": "～枚 :  Đếm những vật mỏng và dẹt như giấy, đĩa, áo sơmi, đĩa CD,..."
+        },
+        {
+          "type": "text",
+          "text": "～回 :  Đếm số lần."
+        },
+        {
+          "type": "text",
+          "text": "～分（～ふん・ぶん・ぷん）:  Đếm số phút. Cách đọc khác nhau tùy theo số đếm đứng ở trước. Cách biến âm giống cách nói giờ đã học ở bài trước."
+        },
+        {
+          "type": "text",
+          "text": "～時間 :  Tiếng."
+        },
+        {
+          "type": "text",
+          "text": "～日 :  Ngày"
+        },
+        {
+          "type": "text",
+          "text": "==> Hướng dẫn học số đếm tiếng Nhật, đơn giản dễ hiểu. Giáo viên Trang ss trực tiếp giảng dạy"
+        },
+        {
+          "type": "text",
+          "text": "Số ngày được đi kèm với đơn vị đếm là にち. Tuy vậy, khi đếm số ngày từ 2 đến 10 thì ta không dùng cách nào mà sử dụng chính những từ chỉ các ngày từ mùng 2 đến mùng 10 trong tháng để đếm. ( VD:  2 ngày là ふつか, 3 ngày là みっか,.., 10 ngày làとおか, 1 ngày là いちにち không phải là ついたち, 15 ngày là じゅうごにち)."
+        },
+        {
+          "type": "text",
+          "text": "～週間 :  Tuần"
+        },
+        {
+          "type": "text",
+          "text": "～か月 :  Tháng ( Đặc biệt : 1 tháng là いっかげつ)"
+        },
+        {
+          "type": "text",
+          "text": "～年 :  Năm."
+        },
+        {
+          "type": "text",
+          "text": "(Tham khảo thêm phụ lục phía sau và phụ lục đã phát ở bài 4 để biết thêm chi tiết )"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "b,Cách sử dụng :"
+        },
+        {
+          "type": "text",
+          "text": "Các số từ ( số đếm đi cùng với các đơn vị đếm) thường được đặt trước động từ mà nó bổ nghĩa. Tuy nhiên, với các số từ chỉ thời gian thì có một chút ngoại lệ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： りんごを　よっつ　かいました。 Tôi đã mua 4 quả táo. 例2： がいこくじんの　がくせいが　ふたり　います。 Có 2 sinh viên người nước ngoài. 例3： くにで　２かげつ　にほんごを　べんきょうしました。 (Hoặc là くにで　にほんごを　２かげつ　べんきょうしました。) Tôi đã học tiếng Nhật 2 tháng ở trong nước.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "c,Từ để hỏi :"
+        },
+        {
+          "type": "text",
+          "text": "- いくつ được dùng để hỏi số lượng của những vật được đếm bằng ひとつ、ふたつ、..."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4： A：みかんを　いくつ　かいましたか。 Bạn đã mua mấy quả quít? B：８つ　かいました。 Tôi mua 8 quả.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- なん　được dùng để cùng với một từ chỉ đơn vị đếm để hỏi xem vật đó có bao nhiêu ( hoặc hỏi xem có bao nhiêu người):"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例5： A：この　かいしゃに　がいこくじんが　なんにん　いますか。 Công ty này có bao nhiêu người nước ngoài? B：ごにん　います。 Có 5 người. 例6： A：まいばん　なんじかん　にほんごを　べんきょうしますか。 Mỗi tối bạn học mấy tiếng tiếng Nhật? B：２じかん　べんきょうします。 Tôi học 2 tiếng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- どのぐらい　 được sử dụng để hỏi về độ dài của thời gian. Khi trả lời cho câu hỏi có từ để hỏi này, bạn có thể sử dụng các loại đơn vị đếm thời gian khác nhau."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例7： A：どのぐらい　にほんごを　べんきょうしましたか。 Bạn học tiếng Nhật được bao lâu rồi? B：３ねん　べんきょうしました。 Tôi học được 3 năm rồi. 例8： A：ハノイから　ハイフォンまで　どのぐらい　かかりますか。 Từ Hà Nội đến Hải Phòng mất bao lâu? B：きしゃで　２じかんはん　かかります。 Đi bằng tàu hỏa mất 2 tiếng rưỡi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- ぐらい　được thêm vào sau các số từ và có nghĩa là “ khoảng”."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例9： がっこうに　せんせいが　３０にんぐらい　います。 Trong trường có khoảng 30 giáo viên. 例10： A：ほうかだいがくから　ここまでバスで　どのぐらいかかりますか。 Từ trường Đại học Luật tới đây mất khoảng bao lâu? B：１５ふんぐらい　かかります。 Khoảng 15 phút.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "ひとつ、ふたつ、\n…\nとお\n.\nNh\nững từ này được sử dụng để đếm các đồ vật với số lượng từ 1 đến 10. Những đồ vật có số lượng lớn hơn hoặc bằng 11 thì sẽ được đếm bằng các số đếm thông thường\na,Đơn vị đếm:\nKhi đếm một số loại đồ vật hoặc biểu thị số lượng các đồ vật, người, người ta thêm các đơn vị đếm vào sau số từ. Các đơn vị đếm sẽ khác nhau tùy theo đồ vật.\n～\n人\n:\nĐơn vị đếm người ( từ 3 người trở lên). 1 người là\nひとり\n, 2 người là\nふたり\n, 3 người trở lên thì dùng đơn vị ~\nにん\nnhư đã nói ở trên.  Riêng 4 người viết là 4\n人\nnhưng đọc là :\nよにん\n（\nkhông phải là\nよんにん）\n.\n～\n台\n:\nĐếm những vật như máy móc, xe cộ ( VD: máy vi tính, xe máy,..).\n～\n枚\n:\nĐếm những vật mỏng và dẹt như giấy, đĩa, áo sơmi, đĩa CD,...\n～\n回\n:\nĐếm số lần.\n～分（～ふん・ぶん・ぷん\n）\n:\nĐếm số phút. Cách đọc khác nhau tùy theo số đếm đứng ở trước. Cách biến âm giống cách nói giờ đã học ở bài trước.\n～\n時間\n:\nTiếng.\n～\n日\n:\nNgày\n==> Hướng dẫn học\nsố đếm tiếng Nhật\n, đơn giản dễ hiểu. Giáo viên Trang ss trực tiếp giảng dạy\nSố ngày được đi kèm với đơn vị đếm là\nにち\n. Tuy vậy, khi đếm số ngày từ\n2 đến 10\nthì ta không dùng cách nào mà sử dụng chính những từ chỉ các ngày từ\nmùng 2 đến mùng 10\ntrong tháng để đếm. ( VD:  2 ngày là\nふつか\n, 3 ngày là\nみっか\n,.., 10 ngày là\nとおか\n, 1 ngày là\nいちにち\nkhông phải là\nついたち\n,\n15 ngày là\nじゅうごにち\n).\n～\n週間\n:\nTuần\n～\nか\n月\n:\nTháng ( Đặc biệt : 1 tháng là\nいっかげつ\n)\n～\n年\n:\nNăm.\n(Tham khảo thêm phụ lục phía sau và phụ lục đã phát ở bài 4 để biết thêm chi tiết )\nb,\nCách sử dụng :\nCác số từ ( số đếm đi cùng với các đơn vị đếm) thường được đặt trước động từ mà nó bổ nghĩa. Tuy nhiên, với các\nsố từ chỉ thời gian\nthì có một chút\nngoại lệ\n.\n例1\n：\nりんごを\nよっつ\nかいました\n。\nTôi đã mua 4 quả táo.\n例\n2\n：\nがいこくじんの　がくせいが\nふたり\nいます\n。\nCó 2 sinh viên người nước ngoài.\n例\n3\n：\nくにで\n２かげつ\nにほんごを　べんきょうしました\n。\n(Hoặc là\nくにで　にほんごを\n２かげつ\nべんきょうしました\n。)\nTôi đã học tiếng Nhật 2 tháng ở trong nước\n.\nc,Từ để hỏi :\n-\nいくつ\nđược dùng để hỏi số lượng của những vật được đếm bằng\nひとつ、ふたつ、\n...\n例4\n：\nA\n：\nみかんを　いくつ　かいましたか\n。\nBạn đã mua mấy quả quít\n?\nB\n：\n８つ　かいました\n。\nTôi mua 8 quả\n.\n-\nなん\nđược dùng để cùng với một từ chỉ đơn vị đếm để hỏi xem vật đó có bao nhiêu ( hoặc hỏi xem có\nbao nhiêu người):\n例5\n：\nA\n：\nこの　かいしゃに　がいこくじんが　なんにん　いますか\n。\nCông ty này có bao nhiêu người nước ngoài\n?\nB\n：\nごにん　います\n。\nCó 5 người\n.\n例6\n：\nA\n：\nまいばん　なんじかん　にほんごを　べんきょうしますか\n。\nMỗi tối bạn học mấy tiếng tiếng Nhật\n?\nB\n：\n２じかん　べんきょうします\n。\nTôi học 2 tiếng\n.\n- どのぐらい\nđược sử dụng để hỏi về độ dài của thời gian. Khi trả lời cho câu hỏi có từ để hỏi này, bạn có thể sử dụng các loại đơn vị đếm thời gian khác nhau.\n例7\n：\nA\n：\nどのぐらい　にほんごを　べんきょうしましたか\n。\nBạn học tiếng Nhật được bao lâu rồi\n?\nB\n：\n３ねん　べんきょうしました\n。\nTôi học được 3 năm rồi\n.\n例8\n：\nA\n：\nハノイから　ハイフォンまで　どのぐらい　かかりますか\n。\nTừ Hà Nội đến Hải Phòng mất bao lâu\n?\nB\n：\nきしゃで　２じかんはん　かかります\n。\nĐi bằng tàu hỏa mất 2 tiếng rưỡi\n.\n-\nぐらい\nđược thêm vào sau các số từ và có nghĩa là “ khoảng”.\n例9\n：\nがっこうに　せんせいが　３０にんぐらい　います\n。\nTrong trường có khoảng 30 giáo viên.\n例10\n：\nA\n：ほうかだいがくから　ここまでバスで　どのぐらいかかり\nますか\n。\nTừ trường Đại học Luật tới đây mất khoảng bao lâu\n?\nB\n：\n１５ふんぐらい　かかります\n。\nKhoảng 15 phút\n.",
+      "ruby": [
+        {
+          "text": "人",
+          "readings": [
+            "にん"
+          ]
+        },
+        {
+          "text": "台",
+          "readings": [
+            "だい"
+          ]
+        },
+        {
+          "text": "枚",
+          "readings": [
+            "まい"
+          ]
+        },
+        {
+          "text": "回",
+          "readings": [
+            "かい"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "日",
+          "readings": [
+            "にち"
+          ]
+        },
+        {
+          "text": "週間",
+          "readings": [
+            "しゅうかん"
+          ]
+        },
+        {
+          "text": "月",
+          "readings": [
+            "げつ"
+          ]
+        },
+        {
+          "text": "年",
+          "readings": [
+            "ねん"
+          ]
+        }
+      ],
+      "links": [
+        {
+          "text": "số đếm tiếng Nhật",
+          "url": "https://riki.edu.vn/so-dem-trong-tieng-nhat/"
+        }
+      ],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/INwtPog-dZY",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box117",
+      "title": "3. Số từ ( khoảng thời gian)　に　～かい　V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/WZJB40CUljo",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Mẫu này dùng để nói bạn thường làm việc gì với tần suất bao nhiêu ?"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： １かげつに　２かい　えいがを　みます。 Tôi xem phim 1 tháng 2 lần.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Mẫu này dùng để nói bạn thường làm việc gì với tần suất bao nhiêu ?\n例\n1\n：\n１かげつに　２かい　えいがを　みます\n。\nTôi xem phim 1 tháng 2 lần.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/WZJB40CUljo",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box119",
+      "title": "4. Số từ　だけ / N　だけ",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "だけ có nghĩa là “ Chỉ”. Nó được đặt sau số từ hoặc danh từ để biểu thị rằng vật đó, thứ đó chỉ có từng đó mà thôi."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例2： Riki Nihongo センターに　がいこくじんが　ひとりだけ　います。 Trung tâm Riki nihongo chỉ có 1 người nước ngoài (thôi). 例3： やすみは　にちようびだけです。 Tôi chỉ được nghỉ mỗi ngày Chủ Nhật ( thôi)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "だけ\ncó nghĩa là “ Chỉ”. Nó được đặt sau số từ hoặc danh từ để biểu thị rằng vật đó, thứ đó chỉ có từng đó mà thôi.\n例2\n：\nRiki Nihongo センターに　がいこくじんが　ひとりだけ　います\n。\nTrung tâm Riki nihongo chỉ có 1 người nước ngoài (thôi).\n例\n3\n：\nやすみは　にちようびだけです\n。\nTôi chỉ được nghỉ mỗi ngày Chủ Nhật ( thôi)",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Các bạn làm #Comment đáp án Riki sẽ chữa và trả lời lại nha"
+        },
+        {
+          "type": "text",
+          "text": "1. 例：みかんが（　8　→　　やっつ　　　）　あります。"
+        },
+        {
+          "type": "text",
+          "text": "１）子どもが（　2　→　　　____　　）　います。"
+        },
+        {
+          "type": "text",
+          "text": "２）車が（　4　→　　　____　　）　あります。"
+        },
+        {
+          "type": "text",
+          "text": "３）切手を（　10　→　　　____　　）　買いました。"
+        },
+        {
+          "type": "text",
+          "text": "４）りんごを（　5　→　　　____　　）　ください。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例：子どもが　（　　何人　　）　いますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  3人　います。"
+        },
+        {
+          "type": "text",
+          "text": "１）いすが　（______）　ありますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  3つ　あります。"
+        },
+        {
+          "type": "text",
+          "text": "２）毎日　（______）　働きますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  8時間　働きます。"
+        },
+        {
+          "type": "text",
+          "text": "３）切符を　（______）　買いますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  2枚　買います。"
+        },
+        {
+          "type": "text",
+          "text": "４）寮に　自転車が　（______）　ありますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  5台　あります。"
+        },
+        {
+          "type": "text",
+          "text": "3. 例：電車で　（　で　）　1時間（　X　）かかります。"
+        },
+        {
+          "type": "text",
+          "text": "１）1週間　（____）　3回（____）彼女に　電話を　かけます。"
+        },
+        {
+          "type": "text",
+          "text": "２）この　荷物は　アメリカまで　船便（____）　いくらですか。"
+        },
+        {
+          "type": "text",
+          "text": "３）日本（____）　2年（____）います。"
+        },
+        {
+          "type": "text",
+          "text": "４）りんご（____）　5つ（X）ください。"
+        },
+        {
+          "type": "text",
+          "text": "...  はい。600円です。"
+        },
+        {
+          "type": "text",
+          "text": "4."
+        },
+        {
+          "type": "text",
+          "text": "１）田中さんは　ご主人と　子どもが　２人　います。田中さんの　家族は　全部で　何人ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ______。"
+        },
+        {
+          "type": "text",
+          "text": "２）りんごを　15　もらいました。4つ　食べました。隣の　うちの　人に　6つ　あげました。今　りんごが　いくつ　ありますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ______。"
+        },
+        {
+          "type": "text",
+          "text": "３）80円の　切手を　5枚と、50円の　切手を　5枚　買います。全部で　いくらですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ______。"
+        },
+        {
+          "type": "text",
+          "text": "４）わたしは　中国語を　3か月　習いました。1か月に　8回　習いました。1回は　2時間です。全部で　何時間　習いましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ______。"
+        }
+      ],
+      "text": "Các bạn làm #Comment đáp án Riki sẽ chữa và trả lời lại nha\n1.\n例：みかんが（\n8\n→\nやっつ　　　）　あります。\n１）子どもが（\n2\n→\n____\n）　います。\n２）車が（\n4\n→\n____\n）　あります。\n３）切手を（\n10\n→\n____\n）　買いました。\n４）りんごを（\n5\n→\n____\n）　ください。\n2.\n例：子どもが　（　　何人　　）　いますか。\n...  3\n人　います。\n１）いすが　（\n______\n）　ありますか。\n...  3\nつ　あります。\n２）毎日　（\n______\n）　働きますか。\n...  8\n時間　働きます。\n３）切符を　（\n______\n）　買いますか。\n...  2\n枚　買います。\n４）寮に　自転車が　（\n______\n）　ありますか。\n...  5\n台　あります。\n3.\n例：電車で　（　で　）\n1\n時間（\nX\n）かかります。\n１）\n1\n週間　（\n____\n）\n3\n回（\n____\n）彼女に　電話を　かけます。\n２）この　荷物は　アメリカまで　船便（\n____\n）　いくらですか。\n３）日本（\n____\n）\n2\n年（\n____\n）います。\n４）りんご（\n____\n）\n5\nつ（\nX\n）ください。\n...\nはい。\n600\n円です。\n4.\n１）田中さんは　ご主人と　子どもが　２人　います。田中さんの　家族は　全部で　何人ですか。\n...  ______\n。\n２）りんごを\n15\nもらいました。\n4\nつ　食べました。隣の　うちの　人に\n6\nつ　あげました。今　りんごが　いくつ　ありますか。\n...  ______\n。\n３）\n80\n円の　切手を\n5\n枚と、\n50\n円の　切手を\n5\n枚　買います。全部で　いくらですか。\n...  ______\n。\n４）わたしは　中国語を\n3\nか月　習いました。\n1\nか月に\n8\n回　習いました。\n1\n回は\n2\n時間です。全部で　何時間　習いましたか。\n...  ______\n。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

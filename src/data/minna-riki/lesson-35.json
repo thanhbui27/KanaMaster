@@ -1,0 +1,2931 @@
+{
+  "schemaVersion": 1,
+  "lesson": 35,
+  "title": "Từ vựng ngữ pháp Minna bài 35",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-35",
+  "fetchedAt": "2026-09-27T09:07:49.843085+00:00",
+  "sourceSha256": "da49768bb415529e5b1459860fd0e1c8d585a2da4b2bfafc959fded67525c68f",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box275",
+      "title": "1. Từ vựng Minna bài 35",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "咲きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nở (hoa)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かわります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "変わります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thay đổi, đổi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こまります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "困ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "rắc rối, khó xử, có vấn đề",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つけます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "付けます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vẽ , đánh dấu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひろいます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "拾います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhặt lên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かかります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có điện thoại",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "らく（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "楽（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thoải mái, nhàn hạ, dễ dàng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ただしい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "正しい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đúng, chính xác",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "めずらしい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "珍しい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hiếm có",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かた",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "方",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vị, người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "むこう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "向こう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bên kia, bên đấy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しま",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "島",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đảo, hòn đảo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "むら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "村",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "làng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みなと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "港",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cảng, bến cảng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きんじょ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "近所",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hàng xóm, khu vực lân cận",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おくじょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "屋上",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mái nhà, nóc nhà",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かいがい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "海外",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nước ngoài, hải ngoại",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やまのぼり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "山登り",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "leo núi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ハイキング",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đi bộ trên núi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きかい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "機会",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cơ hội",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きょか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "許可",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sự cho phép",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まる",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "丸",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tròn, vòng tròn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そうさ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "操作",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thao tác",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほうほう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "方法",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phương pháp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せつび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "設備",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thiết bị",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "カ－テン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cái rèm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひも",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sợi dây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふた",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cái nắp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "は",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "葉",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cái lá",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きょく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "曲",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bài hát, bản nhạc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たのしみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "楽しみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "niềm vui, điều vui",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もっと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hơn , nữa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はじめに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "初めに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đầu tiên , trước hết",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "これでおわります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "これで終わります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đến đây là hết, chúng ta dừng ở đây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "それなら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nếu thế thì, vậy thì",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やこうバス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "夜行バス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xe buýt chạy đêm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "りょこうしゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "旅行社",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "công ty du lịch",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くわしい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "詳しい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cụ thể, chi tiết",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "スキーじょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "スキー場",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bãi trượt tuyết",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しゅ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "朱",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đỏ, màu đỏ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まじわります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "交わります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giao lưu, quan hệ với",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ことわざ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tục ngữ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なかよくします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "仲よくします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quan hệ tốt với, chơi thân với",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひつよう（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "必要（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cần thiết",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nNghĩa\n1\nさきます\n咲きます\nnở (hoa)\n2\nかわります\n変わります\nthay đổi, đổi\n3\nこまります\n困ります\nrắc rối, khó xử, có vấn đề\n4\nつけます\n付けます\nvẽ , đánh dấu\n5\nひろいます\n拾います\nnhặt lên\n6\nかかります\ncó điện thoại\n7\nらく（な）\n楽（な）\nthoải mái, nhàn hạ, dễ dàng\n8\nただしい\n正しい\nđúng, chính xác\n9\nめずらしい\n珍しい\nhiếm có\n10\nかた\n方\nvị, người\n11\nむこう\n向こう\nbên kia, bên đấy\n12\nしま\n島\nđảo, hòn đảo\n13\nむら\n村\nlàng\n14\nみなと\n港\ncảng, bến cảng\n15\nきんじょ\n近所\nhàng xóm, khu vực lân cận\n16\nおくじょう\n屋上\nmái nhà, nóc nhà\n17\nかいがい\n海外\nnước ngoài, hải ngoại\n18\nやまのぼり\n山登り\nleo núi\n19\nハイキング\nđi bộ trên núi\n20\nきかい\n機会\ncơ hội\n21\nきょか\n許可\nsự cho phép\n22\nまる\n丸\ntròn, vòng tròn\n23\nそうさ\n操作\nthao tác\n24\nほうほう\n方法\nphương pháp\n25\nせつび\n設備\nthiết bị\n26\nカ－テン\ncái rèm\n27\nひも\nsợi dây\n28\nふた\ncái nắp\n29\nは\n葉\ncái lá\n30\nきょく\n曲\nbài hát, bản nhạc\n31\nたのしみ\n楽しみ\nniềm vui, điều vui\n32\nもっと\nhơn , nữa\n33\nはじめに\n初めに\nđầu tiên , trước hết\n34\nこれでおわります\nこれで終わります\nđến đây là hết, chúng ta dừng ở đây\n35\nそれなら\nnếu thế thì, vậy thì\n36\nやこうバス\n夜行バス\nxe buýt chạy đêm\n37\nりょこうしゃ\n旅行社\ncông ty du lịch\n38\nくわしい\n詳しい\ncụ thể, chi tiết\n39\nスキーじょう\nスキー場\nbãi trượt tuyết\n40\nしゅ\n朱\nđỏ, màu đỏ\n41\nまじわります\n交わります\ngiao lưu, quan hệ với\n42\nことわざ\ntục ngữ\n43\nなかよくします\n仲よくします\nquan hệ tốt với, chơi thân với\n44\nひつよう（な）\n必要（な）\ncần thiết",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box276",
+      "title": "2. Thể điều kiện （～ば）",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "*) Cách chuyển động từ sang thể điều kiện như sau :"
+        },
+        {
+          "type": "text",
+          "text": "1. Động từ :"
+        },
+        {
+          "type": "text",
+          "text": "- Nhóm I :  Chuyển âm cuối của phần thể ます sang âm tương ứng ở hàng え sau đó thêm ば."
+        },
+        {
+          "type": "text",
+          "text": "きき　　ます　　→　きけ　　ば"
+        },
+        {
+          "type": "text",
+          "text": "ふり　　ます　　→　ふれ　　ば"
+        },
+        {
+          "type": "text",
+          "text": "いそぎ　ます　　→　いそげ　ば"
+        },
+        {
+          "type": "text",
+          "text": "おもい　ます　　→　おもえ　ば"
+        },
+        {
+          "type": "text",
+          "text": "のみ　　ます　　→　のめ　　ば"
+        },
+        {
+          "type": "text",
+          "text": "まち　　ます　　→　まて　　ば"
+        },
+        {
+          "type": "text",
+          "text": "よび　　ます　　→　よべ　　ば"
+        },
+        {
+          "type": "text",
+          "text": "だし　　ます　　→　だせ　　ば"
+        },
+        {
+          "type": "text",
+          "text": "- Nhóm II:  Thêm れば　vào cuối phần thể ます."
+        },
+        {
+          "type": "text",
+          "text": "でかけ　ます　　→　でかけれ　ば"
+        },
+        {
+          "type": "text",
+          "text": "み　　 ます　　 →　  みれ　　    ば"
+        },
+        {
+          "type": "text",
+          "text": "でき　　ます　　→　できれ　    ば"
+        },
+        {
+          "type": "text",
+          "text": "- Nhóm III :"
+        },
+        {
+          "type": "text",
+          "text": "きます　　    →　くれ　　　　    ば"
+        },
+        {
+          "type": "text",
+          "text": "します　　　  →　すれ　　          ば"
+        },
+        {
+          "type": "text",
+          "text": "もってきます　→　もってくれ　ば"
+        },
+        {
+          "type": "text",
+          "text": "洗濯します　  →　洗濯すれ　      ば"
+        },
+        {
+          "type": "text",
+          "text": "2. Tính từ :"
+        },
+        {
+          "type": "text",
+          "text": "- Đuôi い: Đổi đuôi い của tính từ đuôi い thànhければ"
+        },
+        {
+          "type": "text",
+          "text": "たか　　い　→　たか　　ければ"
+        },
+        {
+          "type": "text",
+          "text": "ただし　い　→　ただし　ければ"
+        },
+        {
+          "type": "text",
+          "text": "- Đuôi な: Đổi đuôi な của tính từ đuôi な thành　なら"
+        },
+        {
+          "type": "text",
+          "text": "きれい　な　→　きれい　なら"
+        },
+        {
+          "type": "text",
+          "text": "まじめ　な　→　まじめ　なら"
+        },
+        {
+          "type": "text",
+          "text": "3. Danh từ : Thêm　なら vào phía sau danh từ ："
+        },
+        {
+          "type": "text",
+          "text": "あめ　　　　→　あめ　　　なら"
+        },
+        {
+          "type": "text",
+          "text": "むりょう　　→　むりょう　なら"
+        },
+        {
+          "type": "text",
+          "text": "Động từ dạng Vたい、Vない: Biến đổi giống như tính từ đuôi い"
+        },
+        {
+          "type": "text",
+          "text": "ききたい　　→　ききた　ければ"
+        },
+        {
+          "type": "text",
+          "text": "たべた　い　→　たべた　ければ"
+        },
+        {
+          "type": "text",
+          "text": "ない　　　　→　な　　　ければ"
+        },
+        {
+          "type": "text",
+          "text": "つかない　　→　つかな　ければ"
+        }
+      ],
+      "text": "*) Cách chuyển động từ sang thể điều kiện như sau :\n1. Động từ :\n- Nhóm I\n:\nChuyển âm cuối của phần thể\nます\nsang âm tương ứng ở\nhàng\nえ\nsau đó\nthêm\nば.\nきき　　ます\n→\nきけ\nば\nふり　　ます\n→\nふれ\nば\nいそぎ　ます\n→\nいそげ\nば\nおもい　ます\n→\nおもえ\nば\nのみ　　ます\n→\nのめ\nば\nまち　　ます\n→\nまて\nば\nよび　　ます\n→\nよべ\nば\nだし　　ます\n→\nだせ\nば\n- Nhóm II:\nThêm\nれば\nvào cuối phần thể\nます.\nでかけ　ます\n→\nでかけれ\nば\nみ\nます\n→\nみれ\nば\nでき　　ます\n→\nできれ\nば\n- Nhóm III\n:\nきます\n→\nくれ\nば\nします\n→\nすれ\nば\nもってきます\n→\nもってくれ\nば\n洗濯\nします\n→\n洗濯\nすれ\nば\n2. Tính từ :\n- Đuôi\nい\n:\nĐổi đuôi\nい\ncủa tính từ đuôi\nい\nthành\nければ\nたか　　い\n→\nたか\nければ\nただし　い\n→\nただし\nければ\n- Đuôi\nな\n: Đổi đuôi\nな\ncủa tính từ đuôi\nな\nthành\nなら\nきれい　な\n→\nきれい\nなら\nまじめ　な\n→\nまじめ\nなら\n3. Danh từ\n: Thêm\nなら\nvào phía sau danh từ\n：\nあめ\n→\nあめ\nなら\nむりょう\n→\nむりょう\nなら\nĐộng từ dạng V\nたい、\nV\nない\n: Biến đổi giống như tính từ đuôi\nい\nききたい\n→\nききた\nければ\nたべた　い\n→\nたべた\nければ\nない\n→\nな\nければ\nつかない\n→\nつかな\nければ",
+      "ruby": [
+        {
+          "text": "洗濯",
+          "readings": [
+            "せんたく"
+          ]
+        },
+        {
+          "text": "洗濯",
+          "readings": [
+            "せんたく"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box277",
+      "title": "3. A 　ば　B",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- Bằng cách sử dụng thể điều kiện, mệnh đề trước của câu（A）biểu thị điều kiện cần thiết để một sự kiện hoặc một sự việc nào đó xảy ra (mệnh đề phụ)."
+        },
+        {
+          "type": "text",
+          "text": "1. Biểu thị điều kiện cần thiết để một sự việc nào đó xảy ra (A là điều kiện của B):"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 朝に　なれば、太陽が　昇ります。 Nếu trời sáng thì mặt trời sẽ lên. 例2： 彼が　行けば、私も　行きます。 Nếu anh ấy đi thì tôi cũng đi. 例3： いい天気なら、向こうに　島が　見えます。 Nếu thời tiết tốt thì có thể nhìn thấy đảo ở phía đằng kia. 例4： よく　読めば、わかります。 Nếu đọc kĩ thì sẽ hiểu.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2. Biểu đạt ý kiến của người nói trước một tình huống nào đó hoặc trước điều mà người khác nói( khi đó chủ thể của mệnh đề A và B phải khác nhau."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例5：　 他に　意見が　なければ、これで　終わりましょう。 Nếu không có ý kiến gì khác thì chúng ta kết thúc ở đây nào. 例6：　 この　CD、よかったですよ。もし、聞きたければ、　貸して　あげますよ。 Đĩa CD này hay đấy. Nếu bạn thích nghe thì tôi sẽ cho mượn.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) Lưu ý : Mệnh đề chính sau ば (B) không được thể hiện ý chí của người nói trừ 2 trường hợp sau :"
+        },
+        {
+          "type": "text",
+          "text": "- Chủ thể của mệnh đề chính (B) và mệnh đề phụ (A) khác nhau( ví dụ 6,7). Hoặc"
+        },
+        {
+          "type": "text",
+          "text": "- Mệnh đề trước ば (A) là mệnh đề chỉ trạng thái ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例7： ハイさんに　会えば、この　本を　渡して下さい。（X） ハイさんに　会ったら、この　本を　渡して下さい。（O） Nếu gặp anh Hải, hãy đưa cho anh ấy quyển sách này. Trong 2 ví dụ trên, chủ thể của MĐ A và B đều là người nghe --> không dùng câu thể hiện ý chí của người nói đằng sau ~ ば　được. 例8：　 彼女が　来れば、すぐ　出かけましょう。（O） Nếu cô ấy đến thì đi ra ngoài luôn nhé. 彼女が　来たら、すぐ　出かけましょう。（O） Nếu cô ấy đến thì đi ra ngoài luôn nhé. Trong 2 ví dụ trên, chủ thể của MĐ A và MĐ B khác nhau nên có thể dùng câu thể hiện ý chí của người nói ở đằng sau ~ ば. 例9：　 部屋が　暑ければ、窓を　開けて下さい。（O） Nếu phòng nóng thì hãy mở cửa sổ ra. 部屋が　暑かったら、窓を　開けてください。（O） Nếu phòng nóng thì hãy mở cửa sổ ra. Trong 2 ví dụ trên, MĐ A ( trước ～ば ) là mệnh đề chỉ trạng thái --> mệnh đề sau B có thể thể hiện ý chí của người nói.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) Phân biệt ～と、～たら、～ば："
+        },
+        {
+          "type": "text",
+          "text": "- Cũng giống như 「～たら、～」và「～と、～」, giữa 2 mệnh đề của 「～ば、～」cũng có mối quan hệ trước sau về mặt thời gian. Sự việc ở mệnh đề phụ (A) phải xảy ra trước rồi sự việc ở mệnh đề chính (B) mới xảy ra:"
+        },
+        {
+          "type": "text",
+          "text": "北海道に　行ったら、飛行機で　行く。（X)"
+        },
+        {
+          "type": "text",
+          "text": "北海道に　行くと、飛行機で　行く。（X)"
+        },
+        {
+          "type": "text",
+          "text": "北海道に　行けば、飛行機で　行く。（X)"
+        },
+        {
+          "type": "text",
+          "text": "- ～たらthường chỉ dùng trong văn nói, không dùng trong văn viết  còn ～と và　～ば dùng trong cả văn nói lẫn văn viết."
+        },
+        {
+          "type": "text",
+          "text": "- Mệnh đề chính trong「～たら、～」có thể thể hiện ý chí của người nói"
+        },
+        {
+          "type": "text",
+          "text": "- Mệnh đề chính trong「～と、～」tuyệt đối không được thể hiện ý chí của người nói."
+        },
+        {
+          "type": "text",
+          "text": "- Mệnh đề chính trong「～ば、～」có thể thể hiện ý chí của người nói trong điều kiện nhất định."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例10：　 暑かったら、エアコンを　つけてください。（O) Nếu nóng thì hãy bật điều hòa lên. 暑いと、エアコンを　つけてください。　　（X） 暑ければ、エアコンを　つけてください。　（O) Nếu nóng thì hãy bật điều hòa lên. 例11： ハイさんに　会えば　この　本を　渡して下さい。（X) (Vì chủ thể của 2 MĐ đều là một) ハイさんに　会うと、この　本を　渡して下さい。（X) (Vì MĐ sau ~と ko thể hiện ý chí) ハイさんに　会ったら、この　本を　渡して下さい。（O） Nếu gặp anh Hải thì hãy đưa cho anh ấy quyển sách này.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- 「～たら、～」và 「～ば、～」 dùng được với cả điều kiện giả định và điều kiện thông thường còn「～と、～」 chỉ dùng được với điều kiện thông thường："
+        },
+        {
+          "type": "text",
+          "text": "100万円が　あれば、家を　建てる。（O)"
+        },
+        {
+          "type": "text",
+          "text": "100万円が　あったら、家を　建てる。（O)"
+        },
+        {
+          "type": "text",
+          "text": "100万円が　あると、家を　建てる。（X）"
+        }
+      ],
+      "text": "- Bằng cách sử dụng thể điều kiện, mệnh đề trước của câu\n（\nA\n）\nbiểu thị điều kiện cần thiết để một sự kiện hoặc một sự việc nào đó xảy ra (mệnh đề phụ).\n1. Biểu thị điều kiện cần thiết để một sự việc nào đó xảy ra (A là điều kiện của B):\n例1\n：\n朝\nに　なれば、\n太陽\nが\n昇\nります。\nNếu trời sáng thì mặt trời sẽ lên.\n例2\n：\n彼\nが\n行\nけば、\n私\nも\n行\nきます。\nNếu anh ấy đi thì tôi cũng đi.\n例3\n：\nいい\n天気\nなら、\n向\nこうに\n島\nが\n見\nえます。\nNếu thời tiết tốt thì có thể nhìn thấy đảo ở phía đằng kia.\n例4\n：\nよく\n読\nめば、わかります。\nNếu đọc kĩ thì sẽ hiểu.\n2. Biểu đạt ý kiến của người nói trước một tình huống nào đó hoặc trước điều mà người khác nói( khi đó chủ thể của mệnh đề A và B phải khác nhau.\n例5\n：\n他\nに\n意見\nが　なければ、これで\n終\nわりましょう。\nNếu không có ý kiến gì khác thì chúng ta kết thúc ở đây nào.\n例6\n：\nこの\nCD\n、よかったですよ。もし、\n聞\nきたければ、\n貸\nして　あげますよ。\nĐĩa CD này hay đấy. Nếu bạn thích nghe thì tôi sẽ cho mượn.\n*) Lưu ý\n:\nMệnh đề chính sau\nば\n(B) không được thể hiện ý chí của người nói trừ 2 trường hợp sau :\n- Chủ thể của mệnh đề chính (B) và mệnh đề phụ (A) khác nhau( ví dụ 6,7). Hoặc\n- Mệnh đề trước\nば\n(A) là mệnh đề chỉ trạng thái .\n例7\n：\nハイさんに\n会\nえば、この\n本\nを\n渡\nして下さい。（\nX\n）\nハイさんに\n会\nったら、この\n本\nを\n渡\nして下さい。（\nO\n）\nNếu gặp anh Hải, hãy đưa cho anh ấy quyển sách này.\nTrong 2 ví dụ trên, chủ thể của MĐ A và B đều là người nghe\n--> không dùng câu thể hiện ý chí của người nói đằng sau  ~\nば\nđược.\n例8\n：\n彼女\nが\n来\nれば、すぐ\n出\nかけましょう。（\nO\n）\nNếu cô ấy đến thì đi ra ngoài luôn nhé.\n彼女\nが\n来\nたら、すぐ\n出\nかけましょう。（\nO\n）\nNếu cô ấy đến thì đi ra ngoài luôn nhé.\nTrong 2 ví dụ trên, chủ thể của MĐ A và MĐ B khác nhau nên có thể dùng câu thể hiện ý chí của người nói ở đằng sau ~\nば\n.\n例9\n：\n部屋\nが\n暑\nければ、\n窓\nを\n開\nけて下さい。（\nO\n）\nNếu phòng nóng thì hãy mở cửa sổ ra.\n部屋\nが\n暑\nかったら、\n窓\nを\n開\nけてください。（\nO\n）\nNếu phòng nóng thì hãy mở cửa sổ ra.\nTrong 2 ví dụ trên, MĐ A ( trước\n～ば\n) là mệnh đề chỉ trạng thái -->\nmệnh đề sau B có thể thể hiện ý chí của người nói.\n*)\nPhân biệt\n～と、～たら、～ば\n：\n- Cũng giống như\n「～たら、～」\nvà\n「～と、～」\n, giữa 2 mệnh đề của\n「～ば、～」\ncũng có\nmối quan hệ trước sau về mặt thời gian\n. Sự việc ở mệnh đề phụ (A) phải xảy ra trước rồi sự việc ở mệnh đề chính (B) mới xảy ra:\n北海道\nに\n行\nったら、\n飛行機\nで\n行\nく。（\nX)\n北海道\nに\n行\nくと、\n飛行機\nで\n行\nく。（\nX)\n北海道\nに\n行\nけば、\n飛行機\nで\n行\nく。（\nX)\n-\n～たら\nthường chỉ dùng trong văn nói\n, không dùng trong văn viết\ncòn\n～と\nvà\n～ば\ndùng trong cả văn nói lẫn văn viết.\n- Mệnh đề chính trong\n「～たら、～」\ncó thể\nthể hiện ý chí của người nói\n- Mệnh đề chính trong\n「～と、～」\ntuyệt đối không\nđược thể hiện ý chí của người nói.\n- Mệnh đề chính trong\n「～ば、～」\ncó thể\nthể hiện ý chí của người nói\ntrong điều kiện nhất định.\n例10\n：\n暑\nかったら、エアコンを　つけてください。（\nO)\nNếu nóng thì hãy bật điều hòa lên.\n暑\nいと、エアコンを　つけてください。　　（\nX\n）\n暑\nければ、エアコンを　つけてください。　（\nO)\nNếu nóng thì hãy bật điều hòa lên.\n例11\n：\nハイさんに\n会\nえば　この\n本\nを\n渡\nして\n下\nさい。（\nX) (Vì chủ thể của 2 MĐ đều là một)\nハイさんに\n会\nうと、この\n本\nを\n渡\nして\n下\nさい。（\nX) (Vì MĐ sau ~\nと\nko thể hiện ý chí)\nハイさんに\n会\nったら、この\n本\nを\n渡\nして\n下\nさい。（\nO\n）\nNếu gặp anh Hải thì hãy đưa cho anh ấy quyển sách này.\n-\n「～たら、～」\nvà\n「～ば、～」\ndùng được với cả điều kiện giả định và điều kiện thông thường còn\n「～と、～」\nchỉ dùng được với điều kiện thông thường\n：\n100\n万円\nが　あれば、\n家\nを\n建\nてる。（\nO)\n100\n万円が　あったら、\n家\nを\n建\nてる。（\nO)\n100\n万円が　あると、\n家\nを\n建\nてる。（\nX\n）",
+      "ruby": [
+        {
+          "text": "朝",
+          "readings": [
+            "あさ"
+          ]
+        },
+        {
+          "text": "太陽",
+          "readings": [
+            "たいよう"
+          ]
+        },
+        {
+          "text": "昇",
+          "readings": [
+            "のぼ"
+          ]
+        },
+        {
+          "text": "彼",
+          "readings": [
+            "かれ"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "天気",
+          "readings": [
+            "てんき"
+          ]
+        },
+        {
+          "text": "向",
+          "readings": [
+            "む"
+          ]
+        },
+        {
+          "text": "島",
+          "readings": [
+            "しま"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "読",
+          "readings": [
+            "よ"
+          ]
+        },
+        {
+          "text": "他",
+          "readings": [
+            "ほか"
+          ]
+        },
+        {
+          "text": "意見",
+          "readings": [
+            "いけん"
+          ]
+        },
+        {
+          "text": "終",
+          "readings": [
+            "お"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "貸",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "渡",
+          "readings": [
+            "わた"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "渡",
+          "readings": [
+            "わた"
+          ]
+        },
+        {
+          "text": "彼女",
+          "readings": [
+            "かのじょ"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "く"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "で"
+          ]
+        },
+        {
+          "text": "彼女",
+          "readings": [
+            "かのじょ"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "で"
+          ]
+        },
+        {
+          "text": "部屋",
+          "readings": [
+            "へや"
+          ]
+        },
+        {
+          "text": "暑",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "窓",
+          "readings": [
+            "まど"
+          ]
+        },
+        {
+          "text": "開",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "部屋",
+          "readings": [
+            "へや"
+          ]
+        },
+        {
+          "text": "暑",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "窓",
+          "readings": [
+            "まど"
+          ]
+        },
+        {
+          "text": "開",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "北海道",
+          "readings": [
+            "ほっかいどう"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "飛行機",
+          "readings": [
+            "ひこうき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "北海道",
+          "readings": [
+            "ほっかいどう"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "飛行機",
+          "readings": [
+            "ひこうき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "北海道",
+          "readings": [
+            "ほっかいどう"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "飛行機",
+          "readings": [
+            "ひこうき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "暑",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "暑",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "暑",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "渡",
+          "readings": [
+            "わた"
+          ]
+        },
+        {
+          "text": "下",
+          "readings": [
+            "くだ"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "渡",
+          "readings": [
+            "わた"
+          ]
+        },
+        {
+          "text": "下",
+          "readings": [
+            "くだ"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "渡",
+          "readings": [
+            "わた"
+          ]
+        },
+        {
+          "text": "下",
+          "readings": [
+            "くだ"
+          ]
+        },
+        {
+          "text": "万円",
+          "readings": [
+            "まんえん"
+          ]
+        },
+        {
+          "text": "家",
+          "readings": [
+            "いえ"
+          ]
+        },
+        {
+          "text": "建",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "家",
+          "readings": [
+            "いえ"
+          ]
+        },
+        {
+          "text": "建",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "家",
+          "readings": [
+            "いえ"
+          ]
+        },
+        {
+          "text": "建",
+          "readings": [
+            "た"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box278",
+      "title": "4. N なら、～：",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- Nなら được sử dụng khi người nói tiếp nhận một chủ đề được đưa ra bởi một người khác và đưa ra một số thông tin liên quan đến chủ đề đó. Mẫu này được sử dụng trong văn cảnh khi muốn đưa ra lời khuyên cho người khác liên quan đến chủ đề họ vừa đưa ra:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 A：温泉に　行きたいんですが、どこか　いい　所　ありませんか。 Tôi muốn đi suối nước nóng, có chỗ nào hay không? B：温泉なら、白馬が　いいですよ。 Suối nước nóng thì Hakuba được đấy.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "- N\nなら\nđược sử dụng khi người nói tiếp nhận một chủ đề được đưa ra bởi một người khác và đưa ra một số thông tin liên quan đến chủ đề đó. Mẫu này được sử dụng trong văn cảnh khi muốn đưa ra lời khuyên cho người khác liên quan đến chủ đề họ vừa đưa ra:\n例1\n：\nA\n：\n温泉\nに\n行\nきたいんですが、どこか　いい\n所\nありませんか。\nTôi muốn đi suối nước nóng, có chỗ nào hay không?\nB\n：\n温泉\nなら、\n白馬\nが　いいですよ。\nSuối nước nóng thì Hakuba được đấy.",
+      "ruby": [
+        {
+          "text": "温泉",
+          "readings": [
+            "おんせん"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "所",
+          "readings": [
+            "ところ"
+          ]
+        },
+        {
+          "text": "温泉",
+          "readings": [
+            "おんせん"
+          ]
+        },
+        {
+          "text": "白馬",
+          "readings": [
+            "はくば"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box279",
+      "title": "5. Từ để hỏi + thể điều kiện + いいですか`",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- Mẫu này được dùng khi người nói muốn hỏi xin lời khuyên hoặc chỉ thị của người nghe về cách tốt nhất để thực hiện một việc gì đó. Cách sử dụng của mẫu này giống với  ～たら　いいですか  mà các bạn đã học trong bài 26. Vì vậy, bạn có thể dùng 2 cách nói này để thay thế cho nhau như trong 2 ví dụ dưới đây:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： 本を　借りたいんですが、どうすれば　いいですか。 Tôi muốn mượn sách thì phải làm thế nào? 例2： 本を　借りたいんですが、どうしたら　いいですか。 Tôi muốn mược sách thì phải làm thế nào? 例3： 頭が　痛いんですが、どの　薬を　飲めばいいですか。 Tôi bị đau đầu thì nên uống thuốc gì?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "- Mẫu này được dùng khi người nói muốn hỏi xin lời khuyên hoặc chỉ thị của người nghe về cách tốt nhất để thực hiện một việc gì đó. Cách sử dụng của mẫu này giống với\n～たら　いいですか\nmà các bạn đã học trong bài 26. Vì vậy, bạn có thể dùng 2 cách nói này để thay thế cho nhau như trong 2 ví dụ dưới đây:\n例1\n：\n本\nを\n借\nりたいんですが、どうすれば　いいですか。\nTôi muốn mượn sách thì phải làm thế nào?\n例2\n：\n本\nを\n借\nりたいんですが、どうしたら　いいですか。\nTôi muốn mược sách thì phải làm thế nào?\n例3\n：\n頭\nが\n痛\nいんですが、どの\n薬\nを\n飲\nめばいいですか。\nTôi bị đau đầu thì nên uống thuốc gì?",
+      "ruby": [
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "借",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "借",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "頭",
+          "readings": [
+            "あたま"
+          ]
+        },
+        {
+          "text": "痛",
+          "readings": [
+            "いた"
+          ]
+        },
+        {
+          "text": "薬",
+          "readings": [
+            "くすり"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box280",
+      "title": "6. (Tính từ đuôi い / な thể điều kiện) + (động từ nguyên dạng, tính từ đuôi い, tính từ đuôi な) + ほど",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- Cùng một động từ/ tính từ được sử dụng 2 lần : trướcば/なら và ほど trong cùng một câu nhằm biểu thị việc mức độ được diễn tả ở mệnh đề sau của câu tăng lên/giảm đi theo sự thay đổi của mức độ được diễn tả ở mệnh đề trước của câu."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 ビートルズの　音楽は　聞けば　聞くほど　好きに　なります。 Nhạc của Beatles càng nghe càng thích. 例2：　 パソコンは　操作が　簡単なら　簡単なほど　いいです。 Máy tính thì thao tác càng đơn giản càng tốt.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "- Cùng một động từ/ tính từ được sử dụng 2 lần : trước\nば\n/\nなら\nvà\nほど\ntrong cùng một câu nhằm biểu thị việc mức độ được diễn tả ở mệnh đề sau của câu tăng lên/giảm đi theo sự thay đổi của mức độ được diễn tả ở mệnh đề trước của câu.\n例1\n：\nビートルズの\n音楽\nは\n聞\nけば\n聞\nくほど\n好\nきに　なります。\nNhạc của Beatles càng nghe càng thích.\n例2\n：\nパソコンは\n操作\nが\n簡単\nなら\n簡単\nなほど　いいです。\nMáy tính thì thao tác càng đơn giản càng tốt.",
+      "ruby": [
+        {
+          "text": "音楽",
+          "readings": [
+            "おんがく"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "好",
+          "readings": [
+            "す"
+          ]
+        },
+        {
+          "text": "操作",
+          "readings": [
+            "そうさ"
+          ]
+        },
+        {
+          "text": "簡単",
+          "readings": [
+            "かんたん"
+          ]
+        },
+        {
+          "text": "簡単",
+          "readings": [
+            "かんたん"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "１．"
+        },
+        {
+          "type": "text",
+          "text": "例：電話（が）かからないんですが、どうすればいいですか。"
+        },
+        {
+          "type": "text",
+          "text": "1) 道（　）財布（　）拾いました。"
+        },
+        {
+          "type": "text",
+          "text": "2) 予定（　）変わったら、知らせてください。"
+        },
+        {
+          "type": "text",
+          "text": "3) 正しい答え（　）丸を付けてください。"
+        },
+        {
+          "type": "text",
+          "text": "4) もう一度ほかの方法（　）やりましょう。"
+        },
+        {
+          "type": "text",
+          "text": "5) 向こう（　）見える建物（　）何ですか。"
+        },
+        {
+          "type": "text",
+          "text": "6) 庭（　）珍しい花（　）咲いていますね。"
+        },
+        {
+          "type": "text",
+          "text": "２．"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "例１：速達で出せば、明日着くと思います。"
+        },
+        {
+          "type": "text",
+          "text": "例２：簡単な料理なら、作れます。"
+        },
+        {
+          "type": "text",
+          "text": "1) いろいろな外国語が＿＿＿＿＿＿＿海外旅行は楽しいでしょう。"
+        },
+        {
+          "type": "text",
+          "text": "2) 許可を＿＿＿＿＿＿＿＿、ここには入れません。"
+        },
+        {
+          "type": "text",
+          "text": "3) いい品物で、＿＿＿＿＿＿＿たくさん売れると思います。"
+        },
+        {
+          "type": "text",
+          "text": "4) ＿＿＿＿＿＿＿、デーパトはそんなに込んでいないと思いますよ。"
+        },
+        {
+          "type": "text",
+          "text": "5) 操作が＿＿＿＿＿＿＿、長い時間車を運転しても、疲れないでしょう。"
+        },
+        {
+          "type": "text",
+          "text": "6) この雑誌、＿＿＿＿＿＿＿、捨てますよ。"
+        },
+        {
+          "type": "text",
+          "text": "7) このカーテンはどうやって閉めるんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…そのひもを＿＿＿＿＿＿、閉まりますよ。"
+        },
+        {
+          "type": "text",
+          "text": "３．"
+        },
+        {
+          "type": "text",
+          "text": "例：パスポートをなくしました・どうしますか"
+        },
+        {
+          "type": "text",
+          "text": "…パスポートをなくしたんですが、どうすればいいですか。"
+        },
+        {
+          "type": "text",
+          "text": "1) 新しいパソコンの使い方が分かりません・だれに聞きますか"
+        },
+        {
+          "type": "text",
+          "text": "…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "2) 大学院の試験を受けたいです・いつまでに申し込みますか。"
+        },
+        {
+          "type": "text",
+          "text": "…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "3) お葬式に行きます・どんな服を着て行きますか"
+        },
+        {
+          "type": "text",
+          "text": "…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。"
+        },
+        {
+          "type": "text",
+          "text": "４．"
+        },
+        {
+          "type": "text",
+          "text": "例１：A:体の調子がよくないですから、たばこをやめます。"
+        },
+        {
+          "type": "text",
+          "text": "Ｂ：たばこをやめれば、よくなるかもしれませんよ。"
+        },
+        {
+          "type": "text",
+          "text": "例２：A:ワインを買いたいんですが、どこで買ったらいいですか。"
+        },
+        {
+          "type": "text",
+          "text": "Ｂ：ワインなら、ユニューヤ・ストアがいいと思いますよ。"
+        },
+        {
+          "type": "text",
+          "text": "1) A:間に合わないかもしれませんから、タクシーで行きます。"
+        },
+        {
+          "type": "text",
+          "text": "B：タクシーで＿＿＿＿＿＿＿、間に合うでしょう。"
+        },
+        {
+          "type": "text",
+          "text": "2) A:こんなに雨が降っていますから、明日の山登りは無理ですよ。"
+        },
+        {
+          "type": "text",
+          "text": "B：山登りが＿＿＿＿＿＿＿、ゆっくり温泉に入りましょう。"
+        },
+        {
+          "type": "text",
+          "text": "3) A:　京都へ旅行に行くんですが、いいホテルを知っていますか。"
+        },
+        {
+          "type": "text",
+          "text": "Ｂ：そうですね。京都の＿＿＿＿＿＿＿、さくらホテルがいいと思いますよ。"
+        },
+        {
+          "type": "text",
+          "text": "A:駅から近くて、設備が＿＿＿＿＿＿＿、高いでしょう？"
+        },
+        {
+          "type": "text",
+          "text": "５．"
+        },
+        {
+          "type": "text",
+          "text": "例１：外国語の勉強は若ければ若いほどいいです。"
+        },
+        {
+          "type": "text",
+          "text": "例２：生活が便利になればなるほど電気を使います。"
+        },
+        {
+          "type": "text",
+          "text": "1) 給料やボーナスは＿＿＿＿＿＿＿＿＿＿ほどいいです。"
+        },
+        {
+          "type": "text",
+          "text": "2) マンションの家賃は駅から＿＿＿＿＿＿＿＿ほど高くなります。"
+        },
+        {
+          "type": "text",
+          "text": "3) パソコンは操作が＿＿＿＿＿＿＿＿ほどいいです。"
+        },
+        {
+          "type": "text",
+          "text": "4) ピアノやテニスは＿＿＿＿＿＿＿＿ほど上手になります。"
+        },
+        {
+          "type": "text",
+          "text": "5) 年を＿＿＿＿＿＿＿＿＿ほど歯や目が悪くなります。"
+        }
+      ],
+      "text": "１．\n例\n：\n電話\n（が）かからないんですが、どうすればいいですか。\n1)\n道\n（　）\n財布\n（　）\n拾\nいました。\n2)\n予定\n（　）\n変\nわったら、\n知\nらせてください。\n3)\n正\nしい\n答\nえ（　）\n丸\nを\n付\nけてください。\n4)\nもう\n一度\nほかの\n方法\n（　）やりましょう。\n5)\n向\nこう（　）\n見\nえる\n建物\n（　）\n何\nですか。\n6)\n庭\n（　）\n珍\nしい\n花\n（　）\n咲\nいていますね。\n２．\n普通\nの\n日\nです、\n楽\nです、\n安\nいです、\n簡単\nな\n料理\nです\n、\n困\nります、\n出\nします\n、\n引\nきます、\n話\nせます、もらいません、\n要\nりません\n例\n１：\n速達\nで\n出\nせば\n、\n明日着\nくと\n思\nいます。\n例\n２：\n簡単\nな\n料理\nなら\n、\n作\nれます。\n1)\nいろいろな\n外国語\nが＿＿＿＿＿＿＿\n海外旅行\nは\n楽\nしいでしょう。\n2)\n許可\nを＿＿＿＿＿＿＿＿、ここには\n入\nれません。\n3)\nいい\n品物\nで、＿＿＿＿＿＿＿たくさん\n売\nれると\n思\nいます。\n4)\n＿＿＿＿＿＿＿、デーパトはそんなに\n込\nんでいないと\n思\nいますよ。\n5)\n操作\nが＿＿＿＿＿＿＿、\n長\nい\n時間車\nを\n運転\nしても、\n疲\nれないでしょう。\n6)\nこの\n雑誌\n、＿＿＿＿＿＿＿、\n捨\nてますよ。\n7)\nこのカーテンはどうやって\n閉\nめるんですか。\n…\nそのひもを＿＿＿＿＿＿、\n閉\nまりますよ。\n３．\n例\n：パスポートをなくしました・どうしますか\n…\nパスポートをなくしたんですが、どうすればいいですか\n。\n1)\n新\nしい\nパソコン\nの\n使\nい\n方\nが\n分\nかりません・だれに\n聞\nきますか\n…\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。\n2)\n大学院\nの\n試験\nを\n受\nけたいです・いつまでに申し\n込\nみますか。\n…\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。\n3)\nお\n葬式\nに\n行\nきます・どんな\n服\nを\n着\nて\n行\nきますか\n…\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。\n４．\n例\n１：\nA:\n体の\n調子\nがよくないですから、たばこを\nやめます\n。\nＢ：たばこを\nやめれば\n、よくなるかもしれませんよ。\n例\n２：\nA:\nワイン\nを\n買\nいたいんですが、どこで\n買\nったらいいですか。\nＢ：\nワインなら\n、ユニューヤ・ストアがいいと\n思\nいますよ。\n1) A:\n間\nに\n合\nわないかもしれませんから、タクシーで\n行\nきます。\nB\n：タクシーで＿＿＿＿＿＿＿、\n間\nに\n合\nうでしょう。\n2) A:\nこんなに\n雨\nが\n降\nっていますから、\n明日\nの\n山登\nりは\n無理\nですよ。\nB\n：\n山登\nりが＿＿＿＿＿＿＿、ゆっくり\n温泉\nに\n入\nりましょう。\n3) A:\n京都\nへ\n旅行\nに\n行\nくんですが、いい\nホテル\nを\n知\nっていますか。\nＢ：そうですね。\n京都\nの＿＿＿＿＿＿＿、さくらホテルがいいと\n思\nいますよ。\nA:\n駅\nから\n近\nくて、\n設備\nが＿＿＿＿＿＿＿、\n高\nいでしょう？\n５．\n例\n１：\n外国語\nの\n勉強\nは\n若\nければ\n若\nいほどいいです。\n例\n２：\n生活\nが\n便利\nに\nなればなる\nほど\n電気\nを\n使\nいます。\n1)\n給料\nやボーナスは＿＿＿＿＿＿＿＿＿＿ほどいいです。\n2)\nマンションの\n家賃\nは\n駅\nから＿＿＿＿＿＿＿＿ほど\n高\nくなります。\n3)\nパソコンは操作が＿＿＿＿＿＿＿＿ほどいいです。\n4)\nピアノやテニスは＿＿＿＿＿＿＿＿ほど\n上手\nになります。\n5)\n年\nを＿＿＿＿＿＿＿＿＿ほど\n歯\nや\n目\nが\n悪\nくなります。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "電話",
+          "readings": [
+            "でんわ"
+          ]
+        },
+        {
+          "text": "道",
+          "readings": [
+            "みち"
+          ]
+        },
+        {
+          "text": "財布",
+          "readings": [
+            "さいふ"
+          ]
+        },
+        {
+          "text": "拾",
+          "readings": [
+            "ひろ"
+          ]
+        },
+        {
+          "text": "予定",
+          "readings": [
+            "よてい"
+          ]
+        },
+        {
+          "text": "変",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "正",
+          "readings": [
+            "ただ"
+          ]
+        },
+        {
+          "text": "答",
+          "readings": [
+            "こた"
+          ]
+        },
+        {
+          "text": "丸",
+          "readings": [
+            "まる"
+          ]
+        },
+        {
+          "text": "付",
+          "readings": [
+            "つ"
+          ]
+        },
+        {
+          "text": "一度",
+          "readings": [
+            "いちど"
+          ]
+        },
+        {
+          "text": "方法",
+          "readings": [
+            "ほうほう"
+          ]
+        },
+        {
+          "text": "向",
+          "readings": [
+            "む"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "建物",
+          "readings": [
+            "たてもの"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "庭",
+          "readings": [
+            "にわ"
+          ]
+        },
+        {
+          "text": "珍",
+          "readings": [
+            "めずら"
+          ]
+        },
+        {
+          "text": "花",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "咲",
+          "readings": [
+            "さ"
+          ]
+        },
+        {
+          "text": "普通",
+          "readings": [
+            "ふつう"
+          ]
+        },
+        {
+          "text": "日",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "楽",
+          "readings": [
+            "らく"
+          ]
+        },
+        {
+          "text": "安",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "簡単",
+          "readings": [
+            "かんたん"
+          ]
+        },
+        {
+          "text": "料理",
+          "readings": [
+            "りょうり"
+          ]
+        },
+        {
+          "text": "困",
+          "readings": [
+            "こま"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "だ"
+          ]
+        },
+        {
+          "text": "引",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "要",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "速達",
+          "readings": [
+            "そくたつ"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "だ"
+          ]
+        },
+        {
+          "text": "明日着",
+          "readings": [
+            "あしたつ"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "簡単",
+          "readings": [
+            "かんたん"
+          ]
+        },
+        {
+          "text": "料理",
+          "readings": [
+            "りょうり"
+          ]
+        },
+        {
+          "text": "作",
+          "readings": [
+            "つく"
+          ]
+        },
+        {
+          "text": "外国語",
+          "readings": [
+            "がいこくご"
+          ]
+        },
+        {
+          "text": "海外旅行",
+          "readings": [
+            "かいがいりょこう"
+          ]
+        },
+        {
+          "text": "楽",
+          "readings": [
+            "たの"
+          ]
+        },
+        {
+          "text": "許可",
+          "readings": [
+            "きょか"
+          ]
+        },
+        {
+          "text": "入",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "品物",
+          "readings": [
+            "しなもの"
+          ]
+        },
+        {
+          "text": "売",
+          "readings": [
+            "う"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "込",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "操作",
+          "readings": [
+            "そうさ"
+          ]
+        },
+        {
+          "text": "長",
+          "readings": [
+            "なが"
+          ]
+        },
+        {
+          "text": "時間車",
+          "readings": [
+            "じかんくるま"
+          ]
+        },
+        {
+          "text": "運転",
+          "readings": [
+            "うんてん"
+          ]
+        },
+        {
+          "text": "疲",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "雑誌",
+          "readings": [
+            "ざっし"
+          ]
+        },
+        {
+          "text": "捨",
+          "readings": [
+            "す"
+          ]
+        },
+        {
+          "text": "閉",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "閉",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "新",
+          "readings": [
+            "あたら"
+          ]
+        },
+        {
+          "text": "パソコン",
+          "readings": [
+            "ぱそこん"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "方",
+          "readings": [
+            "かた"
+          ]
+        },
+        {
+          "text": "分",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "聞",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "大学院",
+          "readings": [
+            "だいがくいん"
+          ]
+        },
+        {
+          "text": "試験",
+          "readings": [
+            "しけん"
+          ]
+        },
+        {
+          "text": "受",
+          "readings": [
+            "う"
+          ]
+        },
+        {
+          "text": "込",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "葬式",
+          "readings": [
+            "そうしき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "服",
+          "readings": [
+            "ふく"
+          ]
+        },
+        {
+          "text": "着",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "調子",
+          "readings": [
+            "ちょうし"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "間",
+          "readings": [
+            "ま"
+          ]
+        },
+        {
+          "text": "合",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "間",
+          "readings": [
+            "ま"
+          ]
+        },
+        {
+          "text": "合",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "雨",
+          "readings": [
+            "あめ"
+          ]
+        },
+        {
+          "text": "降",
+          "readings": [
+            "ふ"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あした"
+          ]
+        },
+        {
+          "text": "山登",
+          "readings": [
+            "やまのぼ"
+          ]
+        },
+        {
+          "text": "無理",
+          "readings": [
+            "むり"
+          ]
+        },
+        {
+          "text": "山登",
+          "readings": [
+            "やまのぼ"
+          ]
+        },
+        {
+          "text": "温泉",
+          "readings": [
+            "おんせん"
+          ]
+        },
+        {
+          "text": "入",
+          "readings": [
+            "はい"
+          ]
+        },
+        {
+          "text": "京都",
+          "readings": [
+            "きょうと"
+          ]
+        },
+        {
+          "text": "旅行",
+          "readings": [
+            "りょこう"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "ホテル",
+          "readings": [
+            "ほてる"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "京都",
+          "readings": [
+            "きょうと"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "近",
+          "readings": [
+            "ちか"
+          ]
+        },
+        {
+          "text": "設備",
+          "readings": [
+            "せつび"
+          ]
+        },
+        {
+          "text": "高",
+          "readings": [
+            "たか"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "外国語",
+          "readings": [
+            "がいこくご"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "若",
+          "readings": [
+            "わか"
+          ]
+        },
+        {
+          "text": "若",
+          "readings": [
+            "わか"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "生活",
+          "readings": [
+            "せいかつ"
+          ]
+        },
+        {
+          "text": "便利",
+          "readings": [
+            "べんり"
+          ]
+        },
+        {
+          "text": "電気",
+          "readings": [
+            "でんき"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "給料",
+          "readings": [
+            "きゅうりょう"
+          ]
+        },
+        {
+          "text": "家賃",
+          "readings": [
+            "やちん"
+          ]
+        },
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "高",
+          "readings": [
+            "たか"
+          ]
+        },
+        {
+          "text": "上手",
+          "readings": [
+            "じょうず"
+          ]
+        },
+        {
+          "text": "年",
+          "readings": [
+            "とし"
+          ]
+        },
+        {
+          "text": "歯",
+          "readings": [
+            "は"
+          ]
+        },
+        {
+          "text": "目",
+          "readings": [
+            "め"
+          ]
+        },
+        {
+          "text": "悪",
+          "readings": [
+            "わる"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

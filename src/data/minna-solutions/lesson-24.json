@@ -1,0 +1,142 @@
+{
+  "lesson": 24,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-24",
+  "solutions": [
+    {
+      "exerciseId": "24-section-4-exercise-1",
+      "question": "１）ワットさんは　わたしに　英語の　辞書を　（a.あげました　b.くれました）。",
+      "context": "1. 例：太郎ちゃんは　テレーザちゃんに　花を　（a.あげました　b.くれました）。",
+      "status": "reference",
+      "answers": [
+        [
+          "くれました"
+        ]
+      ],
+      "explanation": "Watt cho tôi, hướng trao về phía người nói nên dùng くれました."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-2",
+      "question": "２）わたしは　カリナさんに　大学を　案内して　（a.くれました　b.もらいました）。",
+      "context": "1. 例：太郎ちゃんは　テレーザちゃんに　花を　（a.あげました　b.くれました）。",
+      "status": "reference",
+      "answers": [
+        [
+          "もらいました"
+        ]
+      ],
+      "explanation": "Tôi nhận sự giúp đỡ từ Karina: 案内してもらいました."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-3",
+      "question": "３）休みの　日　夫は　よく　料理を　作って　（a.あげます　b.くれます）。",
+      "context": "1. 例：太郎ちゃんは　テレーザちゃんに　花を　（a.あげました　b.くれました）。",
+      "status": "reference",
+      "answers": [
+        [
+          "くれます"
+        ]
+      ],
+      "explanation": "Chồng nấu giúp tôi, người cho sự giúp đỡ là chủ ngữ: 作ってくれます."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-4",
+      "question": "４）駅で　友達に　細かい　お金を　貸して　（a.もらいました　b.くれました）。",
+      "context": "1. 例：太郎ちゃんは　テレーザちゃんに　花を　（a.あげました　b.くれました）。",
+      "status": "reference",
+      "answers": [
+        [
+          "もらいました"
+        ]
+      ],
+      "explanation": "Chủ ngữ lược là tôi; nhận sự giúp đỡ từ bạn nên 貸してもらいました."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-5",
+      "question": "１）\nグプタ：あ、細かい　お金が　ない。\nわたし：あ、ありますよ。　いくらですか。\nグプタ：すみません。じゃ、100円　お願いします。\n→わたしは　グプタさんに　金を　貸して　あげました。\n（____）",
+      "context": "2. 例：\nミラー：すみません。塩を　取って　ください。\nわたし：はい。どうぞ。\n→わたしは　ミラーさんに　塩を　取って　あげました。\nĐáp án:（〇）",
+      "status": "reference",
+      "answers": [
+        [
+          "〇",
+          "○"
+        ]
+      ],
+      "explanation": "Tôi đưa tiền cho Gupta mượn; 貸してあげました khớp hội thoại."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-6",
+      "question": "２）\n男の人：重いでしょう？持ちましょうか。\nわたし：ありがとう　ございます。\n→男の　人は　わたしの　荷物を　持って　くれました。\n（____）",
+      "context": "2. 例：\nミラー：すみません。塩を　取って　ください。\nわたし：はい。どうぞ。\n→わたしは　ミラーさんに　塩を　取って　あげました。\nĐáp án:（〇）",
+      "status": "reference",
+      "answers": [
+        [
+          "〇",
+          "○"
+        ]
+      ],
+      "explanation": "Người đàn ông xách hành lý giúp tôi; 持ってくれました khớp hội thoại."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-7",
+      "question": "３）\n（エレベーターで）\nミラー：すみません。６階に　お願いします。\nわたし：はい。\n→わたしは　ミラーさんに　エレベーターの　ボタンを　押して　もらいました。\n（____）",
+      "context": "2. 例：\nミラー：すみません。塩を　取って　ください。\nわたし：はい。どうぞ。\n→わたしは　ミラーさんに　塩を　取って　あげました。\nĐáp án:（〇）",
+      "status": "reference",
+      "answers": [
+        [
+          "×",
+          "X"
+        ]
+      ],
+      "explanation": "Người bấm nút là tôi giúp Miller, nên câu đúng là わたしはミラーさんにボタンを押してあげました. もらいました đảo vai người giúp."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-8",
+      "question": "１）父は　誕生日に　時計　（____）くれました。",
+      "context": "3. 例：わたしは　ミラーさん　（ 　に　）　チョコレートを　あげました。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ]
+      ],
+      "explanation": "時計 là đồ vật được cho, dùng を."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-9",
+      "question": "２）おいしいワインですね。\n……ええ。サントスさん　（____）くれました。",
+      "context": "3. 例：わたしは　ミラーさん　（ 　に　）　チョコレートを　あげました。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "Santos là người cho, đánh dấu chủ ngữ bằng が."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-10",
+      "question": "３）わたしは　山田さん　（____）駅まで　送って　もらいました。",
+      "context": "3. 例：わたしは　ミラーさん　（ 　に　）　チョコレートを　あげました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Người giúp tôi được đánh dấu bằng に trước 送ってもらいました."
+    },
+    {
+      "exerciseId": "24-section-4-exercise-11",
+      "question": "４）わたしは　彼　（____）旅行の　本を　送って　あげました。",
+      "context": "3. 例：わたしは　ミラーさん　（ 　に　）　チョコレートを　あげました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Người nhận việc gửi giúp là 彼に."
+    }
+  ]
+}

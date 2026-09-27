@@ -1,0 +1,178 @@
+{
+  "lesson": 5,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-5",
+  "solutions": [
+    {
+      "exerciseId": "5-section-8-exercise-1",
+      "question": "１） （____）　日本へ　来ましたか。\n...   8月17日に　来ました。",
+      "context": "1. 例：これは　（　　だれ　　）　の　ノートですか。\n...   カリナさんの　ノートです。",
+      "status": "reference",
+      "answers": [
+        [
+          "いつ"
+        ]
+      ],
+      "explanation": "Câu trả lời là ngày đến Nhật; いつ hỏi khi nào."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-2",
+      "question": "２） （____）　と　日本へ　来ましたか。\n...   家族と　来ました。",
+      "context": "1. 例：これは　（　　だれ　　）　の　ノートですか。\n...   カリナさんの　ノートです。",
+      "status": "reference",
+      "answers": [
+        [
+          "だれ"
+        ]
+      ],
+      "explanation": "だれと hỏi đi cùng ai; trả lời 家族と."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-3",
+      "question": "３） あした（____）　へ　行きますか。\n...   どこも　行きません。",
+      "context": "1. 例：これは　（　　だれ　　）　の　ノートですか。\n...   カリナさんの　ノートです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どこ"
+        ]
+      ],
+      "explanation": "どこへ hỏi điểm đến; phủ định toàn bộ dùng どこも行きません."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-4",
+      "question": "４） すみません。京都まで（____）　ですか。\n...   390円です。",
+      "context": "1. 例：これは　（　　だれ　　）　の　ノートですか。\n...   カリナさんの　ノートです。",
+      "status": "reference",
+      "answers": [
+        [
+          "いくら"
+        ]
+      ],
+      "explanation": "Hỏi giá vé đến Kyoto."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-5",
+      "question": "５） （____）で　京都へ　行きますか。\n...   電車で　行きます。",
+      "context": "1. 例：これは　（　　だれ　　）　の　ノートですか。\n...   カリナさんの　ノートです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何",
+          "なん"
+        ]
+      ],
+      "explanation": "何で hỏi phương tiện; 電車で là bằng tàu điện."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-6",
+      "question": "６） （____）に　うちへ　帰りますか。\n...   7時に　帰ります。",
+      "context": "1. 例：これは　（　　だれ　　）　の　ノートですか。\n...   カリナさんの　ノートです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何時",
+          "なんじ"
+        ]
+      ],
+      "explanation": "Câu trả lời 7時に cho biết giờ về; hỏi 何時に."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-7",
+      "question": "７） 誕生日は（____）（____）　ですか。\n...   9月1日です。",
+      "context": "1. 例：これは　（　　だれ　　）　の　ノートですか。\n...   カリナさんの　ノートです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何月",
+          "なんがつ"
+        ],
+        [
+          "何日",
+          "なんにち"
+        ]
+      ],
+      "explanation": "Hai ô liên tiếp tạo thành 何月何日, hỏi ngày tháng sinh nhật."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-8",
+      "question": "１） わたしは　ミラーです。\nことし　（____）４月　（____）　アメリカ　（____）　来ました。",
+      "context": "2. 例：これ　（　は　）　本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "に"
+        ],
+        [
+          "から"
+        ]
+      ],
+      "explanation": "ことしの4月に là vào tháng Tư năm nay; アメリカから là từ Mỹ."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-9",
+      "question": "２） 毎日　電車　（____）会社　（____）　行きます。",
+      "context": "2. 例：これ　（　は　）　本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "へ",
+          "に"
+        ]
+      ],
+      "explanation": "で chỉ phương tiện; へ/に chỉ đích đến."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-10",
+      "question": "３） きのう　9時半　（____）うち　（____）　帰りました。",
+      "context": "2. 例：これ　（　は　）　本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "へ",
+          "に"
+        ]
+      ],
+      "explanation": "9時半に là thời điểm; うちへ/に là đích đến."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-11",
+      "question": "４） けさ　わたしは　松本さん　（____）ここ　（____）　来ました。",
+      "context": "2. 例：これ　（　は　）　本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "と"
+        ],
+        [
+          "へ",
+          "に"
+        ]
+      ],
+      "explanation": "と chỉ người đồng hành; ここへ/に chỉ nơi đến."
+    },
+    {
+      "exerciseId": "5-section-8-exercise-12",
+      "question": "５） おととい　どこ　（____）行きませんでした。",
+      "context": "2. 例：これ　（　は　）　本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "も",
+          "へも",
+          "にも"
+        ]
+      ],
+      "explanation": "どこも行きませんでした: đã không đi đâu. Có thể giữ trợ từ đích đến trong どこへも/どこにも."
+    }
+  ]
+}

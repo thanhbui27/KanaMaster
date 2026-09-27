@@ -1,0 +1,128 @@
+{
+  "lesson": 17,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-17",
+  "solutions": [
+    {
+      "exerciseId": "17-section-8-exercise-1",
+      "question": "１）危ないですから、そちらへ　（____）　ください。",
+      "context": "2.\n開けます　行きます　心配します　吸います　なくします　入ります\n例：ここは　禁煙ですから、たばこを　（吸わないで）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "行かないで"
+        ]
+      ],
+      "explanation": "Yêu cầu đừng đi về phía nguy hiểm: thể ない + でください."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-2",
+      "question": "２）この　資料は　大切ですから、　（____）　ください。",
+      "context": "2.\n開けます　行きます　心配します　吸います　なくします　入ります\n例：ここは　禁煙ですから、たばこを　（吸わないで）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "なくさないで"
+        ]
+      ],
+      "explanation": "なくします → なくさないで: đừng làm mất tài liệu."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-3",
+      "question": "３）寒いですから、窓を　（____）　ください。",
+      "context": "2.\n開けます　行きます　心配します　吸います　なくします　入ります\n例：ここは　禁煙ですから、たばこを　（吸わないで）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "開けないで"
+        ]
+      ],
+      "explanation": "Vì lạnh nên đừng mở cửa sổ."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-4",
+      "question": "４）熱が　ありますから、おふろに　（____）　ください。",
+      "context": "2.\n開けます　行きます　心配します　吸います　なくします　入ります\n例：ここは　禁煙ですから、たばこを　（吸わないで）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "入らないで"
+        ]
+      ],
+      "explanation": "入ります → 入らないで; đừng vào bồn tắm khi đang sốt theo tình huống của đề."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-5",
+      "question": "５）寮の生活は　楽しいですから、　（____）　ください。",
+      "context": "2.\n開けます　行きます　心配します　吸います　なくします　入ります\n例：ここは　禁煙ですから、たばこを　（吸わないで）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "心配しないで"
+        ]
+      ],
+      "explanation": "心配します → 心配しないで: đừng lo."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-6",
+      "question": "１）肉や　魚は　冷蔵庫に（　入れます　→ ______）。",
+      "context": "3.\n例1：会社を　休みますから、電話を（　かけます → かけなければ　なりません）。\n例2：土曜日は　休みですから、会社へ（　行きます → 行かなくても　いいです）。",
+      "status": "reference",
+      "answers": [
+        [
+          "入れなければなりません"
+        ]
+      ],
+      "explanation": "Thực phẩm cần được cho vào tủ lạnh: nghĩa vụ dùng ない bỏ い + ければなりません."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-7",
+      "question": "２）あしたは　病院へ（　来ます　→ ______）。あさって　来て　ください。",
+      "context": "3.\n例1：会社を　休みますから、電話を（　かけます → かけなければ　なりません）。\n例2：土曜日は　休みですから、会社へ（　行きます → 行かなくても　いいです）。",
+      "status": "reference",
+      "answers": [
+        [
+          "来なくてもいいです",
+          "こなくてもいいです"
+        ]
+      ],
+      "explanation": "Không cần đến vào ngày mai; đề yêu cầu đến ngày kia."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-8",
+      "question": "３）日本の　うちで　靴を（　脱ぎます　→ ______）。",
+      "context": "3.\n例1：会社を　休みますから、電話を（　かけます → かけなければ　なりません）。\n例2：土曜日は　休みですから、会社へ（　行きます → 行かなくても　いいです）。",
+      "status": "reference",
+      "answers": [
+        [
+          "脱がなければなりません"
+        ]
+      ],
+      "explanation": "Vào nhà Nhật phải cởi giày; 脱ぐ → 脱がない."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-9",
+      "question": "４）本を（　返します　→ ______）から、これから　図書館へ　行きます。",
+      "context": "3.\n例1：会社を　休みますから、電話を（　かけます → かけなければ　なりません）。\n例2：土曜日は　休みですから、会社へ（　行きます → 行かなくても　いいです）。",
+      "status": "reference",
+      "answers": [
+        [
+          "返さなければなりません"
+        ]
+      ],
+      "explanation": "Phải trả sách nên sẽ đi thư viện."
+    },
+    {
+      "exerciseId": "17-section-8-exercise-10",
+      "question": "５）レポートは　きょう（　出します　→ ______）。来週の　月曜日までに　出して　ください。",
+      "context": "3.\n例1：会社を　休みますから、電話を（　かけます → かけなければ　なりません）。\n例2：土曜日は　休みですから、会社へ（　行きます → 行かなくても　いいです）。",
+      "status": "reference",
+      "answers": [
+        [
+          "出さなくてもいいです"
+        ]
+      ],
+      "explanation": "Không cần nộp hôm nay; hạn là thứ Hai tuần sau."
+    }
+  ]
+}

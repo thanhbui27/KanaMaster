@@ -1,0 +1,302 @@
+{
+  "lesson": 46,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-46",
+  "solutions": [
+    {
+      "exerciseId": "46-section-5-exercise-1",
+      "question": "１）      ニュースはもう始まっていますか。\n…いいえ、ちょうどいまから｛始まる、始まっている、始まった｝ところです。",
+      "context": "1.\n例：課長はもう帰りましたか。\n…たった今｛帰る、帰っている、帰った｝ところです。",
+      "status": "reference",
+      "answers": [
+        [
+          "始まる"
+        ]
+      ],
+      "explanation": "いまから + từ điển + ところ: sắp bắt đầu."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-2",
+      "question": "２）      もう昼ご飯を食べましたか。\n…いいえ、これから｛食べる、食べている、食べた｝ところです。よかったら、一緒に食べませんか。",
+      "context": "1.\n例：課長はもう帰りましたか。\n…たった今｛帰る、帰っている、帰った｝ところです。",
+      "status": "reference",
+      "answers": [
+        [
+          "食べる"
+        ]
+      ],
+      "explanation": "これから食べるところ: đang chuẩn bị ăn, chưa ăn."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-3",
+      "question": "３）      ちょっとテープレコーダーを貸していただけませんか。\n…すみません。今｛使う、使っている、使った｝ところなんです。ちょっと待ってください。",
+      "context": "1.\n例：課長はもう帰りましたか。\n…たった今｛帰る、帰っている、帰った｝ところです。",
+      "status": "reference",
+      "answers": [
+        [
+          "使っている"
+        ]
+      ],
+      "explanation": "今使っているところ: đang dùng ngay lúc này."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-4",
+      "question": "４）      もしもし、今どこにいるんですか。\n…空港です。たった今日本に｛着く、着いている、着いた｝ところです。",
+      "context": "1.\n例：課長はもう帰りましたか。\n…たった今｛帰る、帰っている、帰った｝ところです。",
+      "status": "reference",
+      "answers": [
+        [
+          "着いた"
+        ]
+      ],
+      "explanation": "たった今着いたところ: vừa mới đến xong."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-5",
+      "question": "１）      さっき食事を＿＿＿＿＿＿＿ばかりなので、今おなかがいっぱいです。",
+      "context": "２．\n例：日本へ来たばかりですから、まだ日本語が下手です。",
+      "status": "reference",
+      "answers": [
+        [
+          "した"
+        ]
+      ],
+      "explanation": "食事をしたばかり: vừa ăn xong; thể た + ばかり."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-6",
+      "question": "２）      先月日本語の勉強を＿＿＿＿＿＿＿ばかりですから、まだあまり話せません。",
+      "context": "２．\n例：日本へ来たばかりですから、まだ日本語が下手です。",
+      "status": "reference",
+      "answers": [
+        [
+          "始めた"
+        ]
+      ],
+      "explanation": "先月始めたばかり: mới bắt đầu tháng trước; ばかり thể hiện cảm nhận mới, không bắt buộc vừa tức thì."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-7",
+      "question": "３）      先週給料を＿＿＿＿＿＿＿＿ばかりなのに、もうなくなってしまいました。",
+      "context": "２．\n例：日本へ来たばかりですから、まだ日本語が下手です。",
+      "status": "reference",
+      "answers": [
+        [
+          "もらった"
+        ]
+      ],
+      "explanation": "給料をもらったばかり: vừa nhận lương."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-8",
+      "question": "４）      たった今、うちへ＿＿＿＿＿＿＿ばかりなのに、また出かけなければなりません。",
+      "context": "２．\n例：日本へ来たばかりですから、まだ日本語が下手です。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰った"
+        ]
+      ],
+      "explanation": "うちへ帰ったばかり: vừa về nhà."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-9",
+      "question": "５）      さっき部屋を＿＿＿＿＿＿＿ばかりなのに、もう汚れてしまいました。",
+      "context": "２．\n例：日本へ来たばかりですから、まだ日本語が下手です。",
+      "status": "reference",
+      "answers": [
+        [
+          "掃除した"
+        ]
+      ],
+      "explanation": "掃除したばかり: vừa dọn phòng xong."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-10",
+      "question": "１）彼は料理の勉強をしていましたから、料理が（上手です…　　　　　　）はずです。",
+      "context": "３．\n例：彼はきのう旅行に行きましたから、今うちに（いません…いない）はずです。",
+      "status": "reference",
+      "answers": [
+        [
+          "上手な"
+        ]
+      ],
+      "explanation": "Tính từ な + はず: 上手なはずです."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-11",
+      "question": "２）３時にうちを出れば、４時半には（着きます…　　　　　　）はずです。",
+      "context": "３．\n例：彼はきのう旅行に行きましたから、今うちに（いません…いない）はずです。",
+      "status": "reference",
+      "answers": [
+        [
+          "着く"
+        ]
+      ],
+      "explanation": "Động từ từ điển + はず: dự kiến chắc sẽ đến."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-12",
+      "question": "３）けさ高橋さんには連絡しましたから、会議の時間を（知っています…　　　　　）はずです。",
+      "context": "３．\n例：彼はきのう旅行に行きましたから、今うちに（いません…いない）はずです。",
+      "status": "reference",
+      "answers": [
+        [
+          "知っている"
+        ]
+      ],
+      "explanation": "知っているはず: chắc đã biết vì được báo sáng nay."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-13",
+      "question": "４）シュミットさんの息子さんはことし（１２歳です…　　　　　）はずです。",
+      "context": "３．\n例：彼はきのう旅行に行きましたから、今うちに（いません…いない）はずです。",
+      "status": "reference",
+      "answers": [
+        [
+          "１２歳の",
+          "12歳の"
+        ]
+      ],
+      "explanation": "Danh từ + のはず: chắc năm nay 12 tuổi."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-14",
+      "question": "５）彼は先週（退院しました…　　　　　　　）はずです。",
+      "context": "３．\n例：彼はきのう旅行に行きましたから、今うちに（いません…いない）はずです。",
+      "status": "reference",
+      "answers": [
+        [
+          "退院した"
+        ]
+      ],
+      "explanation": "Quá khứ thể thường + はず: chắc đã xuất viện tuần trước."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-15",
+      "question": "１）      課長の所へもう書類を持って行きましたか。\n…いいえ、これから＿＿＿＿＿＿＿＿ところです。",
+      "context": "４．\n例：彼は会社員ですか。…いいえ、学生のはずですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "持って行く"
+        ]
+      ],
+      "explanation": "これから持って行くところ: sắp mang tài liệu đi."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-16",
+      "question": "２）      台所のお皿はきれいですか。\n…ええ、さっき＿＿＿＿＿＿ばかりですから、＿＿＿＿＿はずです。",
+      "context": "４．\n例：彼は会社員ですか。…いいえ、学生のはずですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "洗った"
+        ],
+        [
+          "きれいな"
+        ]
+      ],
+      "explanation": "Vừa rửa: 洗ったばかり; chắc sạch: きれいなはず."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-17",
+      "question": "３）      このワープロ、使ってもいいですか。\n…すみません。これから＿＿＿＿＿＿＿＿ところなんです。",
+      "context": "４．\n例：彼は会社員ですか。…いいえ、学生のはずですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "使う"
+        ]
+      ],
+      "explanation": "これから使うところ: đang định dùng ngay sau đây."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-18",
+      "question": "４）      カリナさんは今部屋にいますか。\n…いいえ、＿＿＿＿＿＿＿はずですよ。出かけると言っていましたからです。",
+      "context": "４．\n例：彼は会社員ですか。…いいえ、学生のはずですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "いない"
+        ]
+      ],
+      "explanation": "出かけると言っていた nên suy ra いないはず (chắc không ở phòng). Nguồn kết からです hơi thừa so với lời thoại."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-19",
+      "question": "５）      もう朝ごはんを食べましたか。\n…いいえ、まだです。実はさっき＿＿＿＿＿＿＿＿＿ばかりなんです。\nこれから顔を＿＿＿＿＿＿＿ところです。",
+      "context": "４．\n例：彼は会社員ですか。…いいえ、学生のはずですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "起きた"
+        ],
+        [
+          "洗う"
+        ]
+      ],
+      "explanation": "Vừa dậy: 起きたばかり; sắp rửa mặt: 顔を洗うところ."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-20",
+      "question": "１）鈴木さんはタイに5年も住んでいましたから、タイ語が上手な（　　　　）です。",
+      "context": "５．\nばかり、ところ、はず\n例：きのう覚えた（ばかり）なのに、もう忘れてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "はず"
+        ]
+      ],
+      "explanation": "Có căn cứ sống ở Thái 5 năm nên suy ra chắc giỏi tiếng Thái."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-21",
+      "question": "２）この赤ちゃんは先月生まれた（　　　　）ですから、まだミルクしか飲めません。",
+      "context": "５．\nばかり、ところ、はず\n例：きのう覚えた（ばかり）なのに、もう忘れてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ばかり"
+        ]
+      ],
+      "explanation": "先月生まれたばかり: mới sinh tháng trước."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-22",
+      "question": "３）今部屋の掃除をしている（　　　　）ですから、ちょっと待ってください。",
+      "context": "５．\nばかり、ところ、はず\n例：きのう覚えた（ばかり）なのに、もう忘れてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ところ"
+        ]
+      ],
+      "explanation": "今掃除をしているところ: đang dọn ngay lúc này."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-23",
+      "question": "４）グプタさんは肉を食べない（　　　　）です。",
+      "context": "５．\nばかり、ところ、はず\n例：きのう覚えた（ばかり）なのに、もう忘れてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "はず"
+        ]
+      ],
+      "explanation": "食べないはず: theo điều biết được thì Gupta không ăn thịt; ばかり/ところ không phù hợp cấu trúc ở đây."
+    },
+    {
+      "exerciseId": "46-section-5-exercise-24",
+      "question": "５）この時計は1週間まえに、買った（　　　　）なのに、もう壊れてしまいました。",
+      "context": "５．\nばかり、ところ、はず\n例：きのう覚えた（ばかり）なのに、もう忘れてしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ばかり"
+        ]
+      ],
+      "explanation": "買ったばかりなのに: mới mua mà đã hỏng."
+    }
+  ]
+}

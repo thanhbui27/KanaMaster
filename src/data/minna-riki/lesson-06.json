@@ -1,0 +1,1734 @@
+{
+  "schemaVersion": 1,
+  "lesson": 6,
+  "title": "Từ vựng ngữ pháp Minna bài 6",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-6",
+  "fetchedAt": "2026-09-27T09:07:08.615587+00:00",
+  "sourceSha256": "f1784fe2305493773a700afc4a03576fd1b3e3cba4833aa24f6b671397d47a78",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box61",
+      "title": "1. Từ vựng minna bài 6",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たべます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "食べます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ăn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "のみます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "飲みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "uống",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すいます [たばこを～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "吸います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hút [thuốc lá]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "見ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xem, nhìn, trông",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ききます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "聞きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghe",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "よみます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "読みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đọc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "書きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "viết, vẽ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かいます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "買います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mua",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とります [しゃしんを～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "撮ります [写真を～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chụp [ảnh]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "làm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あいます [ともだちに～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "会います [友達に～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gặp [bạn]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ごはん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cơm, bữa ăn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あさごはん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "朝ごはん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cơm sáng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひるごはん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "昼ごはん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cơm trưa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ばんごはん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "晩ごはん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cơm tối",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "パン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bánh mì",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たまご",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "卵",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trứng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "肉",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thịt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さかな",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "魚",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cá",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やさい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "野菜",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "rau",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くだもの",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "果物",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hoa quả, trái cây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みず",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "水",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おちゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お茶",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trà (nói chung)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こうちゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "紅茶",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trà đen",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ぎゅうにゅう (ミルク)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "牛乳",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sữa bò",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ジュース",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nước hoa quả",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ビール",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bia",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[お]さけ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[お]酒",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "rượu, rượu sake",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ビデオ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "video, băng video, đầu video",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えいが",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "映画",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phim, điện ảnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ＣＤ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đĩa CD",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "てがみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "手紙",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thư",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "レポート",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "báo cáo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しゃしん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "写真",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ảnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みせ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "店",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cửa hàng, tiệm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "レストラン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhà hàng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にわ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "庭",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vườn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しゅくだい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "宿題",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bài tập về nhà (～をします: làm bài tập)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "テニス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quần vợt (～をします: đánh quần vợt)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "サッカー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bóng đá (～をします: chơi bóng đá)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[お]はなみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[お]花見",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "việc ngắm hoa anh đào (～をします: ngắm hoa anh đào)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cái gì, gì",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いっしょに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cùng, cùng nhau",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちょっと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "một chút",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いつも",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "luôn luôn, lúc nào cũng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ときどき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "時々",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thỉnh thoảng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "それから",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sau đó, tiếp theo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ええ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vâng, được (cách nói thân mật của 「はい」)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いいですね。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Được đấy nhỉ./ hay quá.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "わかりました。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tôi hiểu rồi/ vâng ạ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんですか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何ですか。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Có gì đấy ạ?/ cái gì vậy?/ vâng có tôi. (câu trả lời khi ai đó gọi tên mình)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "52",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じゃ、また[あした]。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Hẹn gặp lại [ngày mai].",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "53",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "メキシコ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Mexico",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nNghĩa\n1\nたべます\n食べます\năn\n2\nのみます\n飲みます\nuống\n3\nすいます [たばこを～]\n吸います\nhút [thuốc lá]\n4\nみます\n見ます\nxem, nhìn, trông\n5\nききます\n聞きます\nnghe\n6\nよみます\n読みます\nđọc\n7\nかきます\n書きます\nviết, vẽ\n8\nかいます\n買います\nmua\n9\nとります [しゃしんを～]\n撮ります [写真を～]\nchụp [ảnh]\n10\nします\nlàm\n11\nあいます [ともだちに～]\n会います [友達に～]\ngặp [bạn]\n12\nごはん\ncơm, bữa ăn\n13\nあさごはん\n朝ごはん\ncơm sáng\n14\nひるごはん\n昼ごはん\ncơm trưa\n15\nばんごはん\n晩ごはん\ncơm tối\n16\nパン\nbánh mì\n17\nたまご\n卵\ntrứng\n18\nにく\n肉\nthịt\n19\nさかな\n魚\ncá\n20\nやさい\n野菜\nrau\n21\nくだもの\n果物\nhoa quả, trái cây\n22\nみず\n水\nnước\n23\nおちゃ\nお茶\ntrà (nói chung)\n24\nこうちゃ\n紅茶\ntrà đen\n25\nぎゅうにゅう (ミルク)\n牛乳\nsữa bò\n26\nジュース\nnước hoa quả\n27\nビール\nbia\n28\n[お]さけ\n[お]酒\nrượu, rượu sake\n29\nビデオ\nvideo, băng video, đầu video\n30\nえいが\n映画\nphim, điện ảnh\n31\nＣＤ\nđĩa CD\n32\nてがみ\n手紙\nthư\n33\nレポート\nbáo cáo\n34\nしゃしん\n写真\nảnh\n35\nみせ\n店\ncửa hàng, tiệm\n36\nレストラン\nnhà hàng\n37\nにわ\n庭\nvườn\n38\nしゅくだい\n宿題\nbài tập về nhà (～をします: làm bài tập)\n39\nテニス\nquần vợt (～をします: đánh quần vợt)\n40\nサッカー\nbóng đá (～をします: chơi bóng đá)\n41\n[お]はなみ\n[お]花見\nviệc ngắm hoa anh đào (～をします: ngắm hoa anh đào)\n42\nなに\n何\ncái gì, gì\n43\nいっしょに\ncùng, cùng nhau\n44\nちょっと\nmột chút\n45\nいつも\nluôn luôn, lúc nào cũng\n46\nときどき\n時々\nthỉnh thoảng\n47\nそれから\nsau đó, tiếp theo\n48\nええ\nvâng, được (cách nói thân mật của 「はい」)\n49\nいいですね。\nĐược đấy nhỉ./ hay quá.\n50\nわかりました。\nTôi hiểu rồi/ vâng ạ.\n51\nなんですか\n何ですか。\nCó gì đấy ạ?/ cái gì vậy?/ vâng có tôi. (câu trả lời khi ai đó gọi tên mình)\n52\nじゃ、また[あした]。\nHẹn gặp lại [ngày mai].\n53\nメキシコ\nMexico",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box62",
+      "title": "2. N　を　V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/iDte1NsEcpk",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Trợ từ  を được dùng để chỉ đối tượng trực tiếp của động từ. Động từ trong mẫu này là những động từ mà những tác động của nó gây ảnh hưởng lên một khách thể khác ( VD: làm mất đi, làm biến dạng, ...) .をcó cách phát âm giống với お nhưng nó chỉ được sử dụng khi viết trợ từ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１ : わたしは　ジュースを　のみます。 Tôi uống nước ngọt 例２ : ごはんを　たべました。 Tôi đã ăn cơm 例３ : やまださんは　テレビをみます。 Anh Yamada xem TV.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*)Lưu ý: Khác với tiếng Việt, thứ tự câu văn tiếng Nhật là chủ từ ( chủ thể của động từ)- đối tượng của động từ- động từ. Trợ từ を đứng trước động từ và sau đối tượng của động từ."
+        }
+      ],
+      "text": "Trợ từ\nを\nđược dùng để chỉ đối tượng trực tiếp của động từ. Động từ trong mẫu này là những động từ mà những tác động của nó gây ảnh hưởng lên một khách thể khác ( VD: làm mất đi, làm biến dạng, ...) .\nを\ncó cách phát âm giống với\nお\nnhưng nó chỉ được sử dụng khi viết trợ từ.\n例１\n:\nわたしは　ジュースを　のみます。\nTôi uống nước ngọt\n例２\n:\nごはんを　たべました。\nTôi đã ăn cơm\n例３\n:\nやまださんは　テレビをみます。\nAnh Yamada xem TV.\n*)Lưu ý\n:\nKhác với tiếng Việt, thứ tự câu văn tiếng Nhật là c\nhủ từ ( chủ thể của động từ)- đối tượng của động từ- động từ\n. Trợ từ\nを\nđứng trước động từ và sau đối tượng của động từ.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/iDte1NsEcpk",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box63",
+      "title": "4. Nをします",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Có rất nhiều danh từ được dùng để chỉ đối tượng của động từ します。しますdùng để chỉ việc một thực hiện một hành động được miêu tả bởi danh từ N.Hãy xem một vài ví dụ dưới đây:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "Chơi một môn thể thao hay một trò chơi nào đó",
+                "rowSpan": "1",
+                "colSpan": "3"
+              }
+            ],
+            [
+              {
+                "text": "サッカーを",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chơi bóng đá",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "テニスを",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chơi tennis",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "ゲームを",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chơi games",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "Tổ chức, tiến hành một hội nghị, buổi tiệc nào đó",
+                "rowSpan": "1",
+                "colSpan": "3"
+              }
+            ],
+            [
+              {
+                "text": "パーティーを",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tổ chức tiệc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "かいぎを",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Họp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "Làm một cái gì đó",
+                "rowSpan": "1",
+                "colSpan": "3"
+              }
+            ],
+            [
+              {
+                "text": "しゅくだいを",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Làm bài tập",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "しごとを",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Làm việc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Có rất nhiều danh từ được dùng để chỉ đối tượng của động từ\nします。します\ndùng để chỉ việc một thực hiện một hành động được miêu tả bởi danh từ N.Hãy xem một vài ví dụ dưới đây:\nChơi một môn thể thao hay một trò chơi nào đó\nサッカーを\nします\nChơi bóng đá\nテニスを\nします\nChơi tennis\nゲームを\nします\nChơi games\nTổ chức, tiến hành một hội nghị, buổi tiệc nào đó\nパーティーを\nします\nTổ chức tiệc\nかいぎを\nします\nHọp\nLàm một cái gì đó\nしゅくだいを\nします\nLàm bài tập\nしごとを\nします\nLàm việc",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box64",
+      "title": "4. なにを　しますか",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/xe1aqNDHlVg",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Mẫu câu trên dùng để hỏi ai đó làm gì?"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１ : A:　げつようび　なにを　しますか。 Bạn làm gì vào thứ 2 B:　ホーチミンしへ　いきます。 Tôi đi thành phố Hồ Chí Minh 例２ : A:　きのう　なにをしましたか。 Bạn làm gì hôm qua? B:　サッカーをしました。 Tôi chơi đá bóng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*)Lưu ý: Bạn cũng có thể đặt trợ từ は vào sau trạng từ chỉ thời gian để đưa nó lên làm chủ đề của câu."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例３ :　 A:　げつようびは　なにを　しますか。 Thứ 2 bạn sẽ làm gì. B:　きょうとへ　いきます。 Tôi sẽ đi Kyoto",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Mẫu câu trên dùng để hỏi ai đó làm gì?\n例１\n:\nA:\nげつようび　なにを　しますか。\nBạn làm gì vào thứ 2\nB:\nホーチミンしへ　いきます。\nTôi đi thành phố Hồ Chí Minh\n例２\n:\nA:\nきのう　なにをしましたか。\nBạn làm gì hôm qua?\nB:\nサッカーをしました。\nTôi chơi đá bóng\n*)Lưu ý\n:\nBạn cũng có thể đặt trợ từ\nは\nvào sau trạng từ chỉ thời gian để đưa nó lên làm chủ đề của câu.\n例３\n:\nA:\nげつようびは　なにを　しますか。\nThứ 2 bạn sẽ làm gì.\nB:\nきょうとへ　いきます。\nTôi sẽ đi Kyoto",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/xe1aqNDHlVg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box65",
+      "title": "5. なん và なに",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Cả 2 từ trên đều có nghĩa là “ Cái gì” ( viết chung một chữ Hán) .Dùng なん  hay なに  là căn cứ vào từ đứng đằng sau nó."
+        },
+        {
+          "type": "text",
+          "text": "なん được sử dụng trong các trường hợp sau"
+        },
+        {
+          "type": "text",
+          "text": "-   Khi nó đứng trước một từ bắt đầu bằng các chữ cái thuộc các hàng た、だ、な　trong bảng chữ cái."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： それは　なんですか。 例2： なんの　ほんですか。 例3： なんと　いいますすか。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Khi đứng sau nó là các tiếp vĩ ngữ chỉ cách đếm　：なんさい、なんばん、なんようび、なんじ、..."
+        },
+        {
+          "type": "text",
+          "text": "Các trường hợp còn lại thì dùng なに"
+        }
+      ],
+      "text": "Cả 2 từ trên đều có nghĩa là “ Cái gì” ( viết chung một chữ Hán) .Dùng\nなん\nhay\nなに\nlà căn cứ vào\ntừ đứng đằng sau nó.\nなん\nđược sử dụng trong các trường hợp sau\n-\nKhi nó đứng trước một từ bắt đầu bằng các chữ cái thuộc các hàng\nた、だ、な\ntrong bảng chữ cái.\n例\n1\n：\nそれは　なん\nで\nすか\n。\n例\n2\n：\nなん\nの\nほんですか\n。\n例\n3\n：\nなん\nと\nいいますすか\n。\n-\nKhi đứng sau nó là các\ntiếp vĩ ngữ chỉ cách đếm\n：なん\nさい\n、なん\nばん\n、なん\nようび\n、なん\nじ\n、\n...\nCác trường hợp còn lại thì dùng\nなに",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box66",
+      "title": "6. N（ địa điểm ）で　V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong bài trước chúng ta đã học trợ từ へ đi sau danh từ chỉ địa điểm và kết hợp với các động từ chỉ sự di chuyển （いきます、きます、かえります）để chỉ phương hướng, đích đến của di chuyển đó."
+        },
+        {
+          "type": "text",
+          "text": "Trong bài này, chúng ta sẽ học thêm một trợ từ nữa cùng được đặt sau danh từ chỉ địa điểm nhưng lại mang ý nghĩa khác."
+        },
+        {
+          "type": "text",
+          "text": "Trợ từ で đứng sau danh từ chỉ địa điểm và trước động từ (không phải động từ chỉ sự di chuyển) để biểu thị nơi diễn ra hành động, sự việc đó."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１ : えきで　しんぶんを　かいます。 Tôi mua báo ở ga. 例２ :きょうしつで　にほんごを　べんきょうします。 Tôi học tiếng Nhật trong phòng học.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trong bài trước chúng ta đã học trợ từ\nへ\nđi sau danh từ chỉ địa điểm và kết hợp với các động từ chỉ sự di chuyển\n（いきます、きます、かえります）\nđể chỉ phương hướng, đích đến của di chuyển đó.\nTrong bài này, chúng ta sẽ học thêm một trợ từ nữa cùng được đặt sau danh từ chỉ địa điểm nhưng lại mang ý nghĩa khác.\nTrợ từ\nで\nđứng sau danh từ chỉ địa điểm và trước động từ (không phải động từ chỉ sự di chuyển) để biểu thị nơi diễn ra hành động, sự việc đó.\n例１\n:\nえき\nで\nしんぶんを　かいます。\nTôi mua báo ở ga.\n例２\n:\nきょうしつ\nで\nにほんごを　べんきょうします。\nTôi học tiếng Nhật trong phòng học.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box67",
+      "title": "7. Vませんか",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Tuy có か ở cuối câu nhưng đây không phải là một câu hỏi mà nó được sử dụng khi bạn muốn rủ ( mời) ai đó làm việc gì đó."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１ : A: いっしょに　チャン・ティエンプラザ　へ　いきませんか。 Chúng ta cùng đi tới Trang Tien Plaza đi. B: ええ、いいですね。 Ừ, hay đấy.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "."
+        }
+      ],
+      "text": "Tuy có\nか\nở cuối câu nhưng đây không phải là một câu hỏi mà nó được sử dụng khi bạn muốn rủ ( mời) ai đó làm việc gì đó.\n例１\n:\nA:\nいっしょに　チャン・ティエンプラザ　へ　いきませんか\n。\nChúng ta cùng đi tới Trang Tien Plaza đi\n.\nB:\nええ、いいですね\n。\nỪ, hay đấy.\n.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-8",
+      "sourceId": "content_box68",
+      "title": "8. Vましょう",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu này dùng khi người nói muốn tích cực rủ người nghe làm chung một việc gì. Nó cũng được sử dụng khi tích cực đáp ứng lời mời, sự rủ rê đó."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例１ : ちょっと　やすみましょう。 Chúng ta nghỉ một chút đi. 例２ : A: いっしょに　ひるごはんを　たべませんか。 Cùng ăn trưa nhé. B: ええ、たべましょう。 Ừ, ăn nào.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý:  Sử dụng mẫu ませんか để mời thì tế nhị với người được mời hơn là sử dụng mẫuましょう"
+        }
+      ],
+      "text": "Mẫu này dùng khi người nói muốn tích cực rủ người nghe làm chung một việc gì. Nó cũng được sử dụng khi tích cực đáp ứng lời mời, sự rủ rê đó.\n例１\n:\nちょっと　やすみましょう\n。\nChúng ta nghỉ một chút đi\n.\n例２\n:\nA:\nいっしょに　ひるごはんを　たべませんか\n。\nCùng ăn trưa nhé\n.\nB:\nええ、たべましょう\n。\nỪ, ăn nào\n.\nLưu ý:\nSử d\nụng mẫu\nませんか\nđể mời thì tế nhị với người được mời hơn là sử dụng mẫu\nましょう",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-9",
+      "sourceId": "content_box69",
+      "title": "9. お～",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Như đã học trong bài 3, tiếp đầu ngữ お được đặt trước một từ nào đó có liên quan tới người nghe hoặc người thứ 3 để thể hiện sự tôn trọng ( VD :　おくに). Ngoài ra, nó còn được đặt trước rất nhiều từ khác nữa khi người nói muốn nói một cách lịch sự ( VD : [ お] さけ、[お]はなみ,..)"
+        },
+        {
+          "type": "text",
+          "text": "Có rất nhiều từ thường được đi kèm với お nhưng không phải thể hiện sự tôn trọng hoặc lịch sự mà đơn thuần chỉ là thói quen của người Nhật  ( VD: おちゃ、おかね,..)"
+        }
+      ],
+      "text": "Như đã học trong bài 3, tiếp đầu ngữ\nお\nđược đặt trước một từ nào đó có liên quan tới người nghe hoặc người thứ 3 để thể hiện sự tôn trọng ( VD :\nおくに\n). Ngoài ra, nó còn được đặt trước rất nhiều từ khác nữa khi người nói muốn nói một cách lịch sự ( VD : [\nお\n]\nさけ、\n[\nお\n]\nはなみ\n,..)\nCó rất nhiều từ thường được đi kèm với\nお\nnhưng không phải thể hiện sự tôn trọng hoặc lịch sự mà đơn thuần chỉ là thói quen của người Nhật  ( VD:\nおちゃ、おかね\n,..)",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-10",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Các bạn comment đáp án, các sensei tại Riki sẽ vào chữa chi tiết nha"
+        },
+        {
+          "type": "text",
+          "text": "1. 例：毎晩　（　a. 何時に、     b. いつ、     c. どこで）　寝ますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  11時に　寝ます。"
+        },
+        {
+          "type": "text",
+          "text": "１）日曜日　（どこで、何を、何で）　しますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  テニスを　します。"
+        },
+        {
+          "type": "text",
+          "text": "２）（　どこへ、どこで、いつ　）　その　カメラを　買いましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  大阪デパートで　買いました。"
+        },
+        {
+          "type": "text",
+          "text": "３）けさ　（　何を、何で、どこで　）　食べましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  何も　食べませんでした。"
+        },
+        {
+          "type": "text",
+          "text": "４）おととい　（　どこで、だれに、何時に　）　会いましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  グプタさんに　会いました。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例：おととい　東京へ　（　a.行きました、　b.行きます　）。"
+        },
+        {
+          "type": "text",
+          "text": "１）きのうの　晩　手紙を　（　a.書きます、　b.書きました　）。"
+        },
+        {
+          "type": "text",
+          "text": "２）毎朝　新聞を　（　a.読みますか、　b.読みましたか　）。"
+        },
+        {
+          "type": "text",
+          "text": "...  いいえ、読みません。"
+        },
+        {
+          "type": "text",
+          "text": "３）いっしょに　美術館へ　（　a.行きませんでしたか、　b.行きませんか　）。"
+        },
+        {
+          "type": "text",
+          "text": "...  ええ、　（　a.行きましょう、　b.行きません　）。"
+        },
+        {
+          "type": "text",
+          "text": "４）あした　大阪城で　花見を　（　a.しました、　b.します　）。"
+        }
+      ],
+      "text": "Các bạn comment đáp án, các sensei tại Riki sẽ vào chữa chi tiết nha\n1.\n例：毎晩　（\na.\n何時に\n、\nb.\nいつ、\nc.\nどこで）　寝ますか。\n...  11\n時に　寝ます。\n１）日曜日　（どこで、何を、何で）　しますか。\n...\nテニスを　します。\n２）（　どこへ、どこで、いつ　）　その　カメラを　買いましたか。\n...\n大阪デパートで　買いました。\n３）けさ　（　何を、何で、どこで　）　食べましたか。\n...\n何も　食べませんでした。\n４）おととい　（　どこで、だれに、何時に　）　会いましたか。\n...\nグプタさんに　会いました。\n2.\n例：おととい　東京へ　（\na.\n行きました\n、\nb.\n行きます　）。\n１）きのうの　晩　手紙を　（\na.\n書きます、\nb.\n書きました　）。\n２）毎朝　新聞を　（\na.\n読みますか、\nb.\n読みましたか　）。\n...\nいいえ、読みません。\n３）いっしょに　美術館へ　（\na.\n行きませんでしたか、\nb.\n行きませんか　）。\n...\nええ、　（\na.\n行きましょう、\nb.\n行きません　）。\n４）あした　大阪城で　花見を　（\na.\nしました、\nb.\nします　）。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

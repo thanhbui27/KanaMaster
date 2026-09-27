@@ -1,0 +1,1406 @@
+{
+  "schemaVersion": 1,
+  "lesson": 21,
+  "title": "Từ vựng ngữ pháp Minna bài 21",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-21",
+  "fetchedAt": "2026-09-27T09:07:19.679307+00:00",
+  "sourceSha256": "5f8363819dd27e3d072e31068f1c0fdba00b735811c81345a5d8ca2acb2ef52f",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box108",
+      "title": "1. Từ vựng minna bài 21",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おもいます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "思います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghĩ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いいます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "言います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nói",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "足ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đủ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かちます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "勝ちます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thắng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まけます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "負けます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thua",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "được tổ chức",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やくにたちます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "役に立ちます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giúp ích",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "むだ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vô ích",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふべん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "不便",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bất tiện",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おなじ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "同じ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giống",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すごい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giỏi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しゅしょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "首相",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thủ tướng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "だいとうりょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "大統領",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tổng thống",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せいじ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "政治",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chính trị",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ニュース",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tin tức",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "スピーチ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bài phát biểu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しあい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "試合",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trận đấu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "アルバイト",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "việc làm thêm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いけん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "意見",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ý kiến",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はなし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "話",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "câu chuyện",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ユーモア",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hài hước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "デザイン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thiết kế",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こうつう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "交通",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giao thông",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ラッシュ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giờ cao điểm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さいきん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "最近",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gần đây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たぶん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chắc, có thể",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きっと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chắc chắn , nhất định",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほんとうに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "本当に",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thật sự",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そんなに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(không ) ~ lắm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～について",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "theo ~ về",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しかたがありません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "không còn cách nào khác",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しばらくですね",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Lâu rồi không gặp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～でものみませんか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～でも飲みませんか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh/chị uống (cà phê, rượu hay cái gì đó) nhé",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みないと。。。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "見ないと。。。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phải xem…",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もちろん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tất nhiên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "カンガルー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanguru",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ vựng\nKanji\nÝ nghĩa\n1\nおもいます\n思います\nnghĩ\n2\nいいます\n言います\nnói\n3\nたります\n足ります\nđủ\n4\nかちます\n勝ちます\nthắng\n5\nまけます\n負けます\nthua\n6\nあります\nđược tổ chức\n7\nやくにたちます\n役に立ちます\ngiúp ích\n8\nむだ\nvô ích\n9\nふべん\n不便\nbất tiện\n10\nおなじ\n同じ\ngiống\n11\nすごい\ngiỏi\n12\nしゅしょう\n首相\nthủ tướng\n13\nだいとうりょう\n大統領\ntổng thống\n14\nせいじ\n政治\nchính trị\n15\nニュース\ntin tức\n16\nスピーチ\nbài phát biểu\n17\nしあい\n試合\ntrận đấu\n18\nアルバイト\nviệc làm thêm\n19\nいけん\n意見\ný kiến\n20\nはなし\n話\ncâu chuyện\n21\nユーモア\nhài hước\n22\nデザイン\nthiết kế\n23\nこうつう\n交通\ngiao thông\n24\nラッシュ\ngiờ cao điểm\n25\nさいきん\n最近\ngần đây\n26\nたぶん\nchắc, có thể\n27\nきっと\nchắc chắn , nhất định\n28\nほんとうに\n本当に\nthật sự\n29\nそんなに\n(không ) ~ lắm\n30\n～について\ntheo ~ về\n31\nしかたがありません\nkhông còn cách nào khác\n32\nしばらくですね\nLâu rồi không gặp\n33\n～でものみませんか\n～でも飲みませんか\nAnh/chị uống (cà phê, rượu hay cái gì đó) nhé\n34\nみないと。。。\n見ないと。。。\nphải xem…\n35\nもちろん\ntất nhiên\n36\nカンガルー\nKanguru",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box110",
+      "title": "2.（Thể văn thông thường）と おもいます",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu này được dùng để biểu thị phỏng đoán hay quan điểm của mình về một việc gì đó. Thông tin ( các phỏng đoán, quan điểm)  được diễn tả bởi động từ おもいます được biểu thị qua trợ từ と"
+        },
+        {
+          "type": "text",
+          "text": "a)  Biểu thị sự phỏng đoán:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： あした　あめが　ふると　おもいます。（O） Tôi nghĩ là ngày mai trời mưa. あした　あめが　ふると　おもいます。（O） Tôi nghĩ là ngày mai trời mưa. あした　あめが　ふりますと　おもいます（X）à không dùng 例2： ハイくんは　もう　ねたと　おもいます。 Tôi nghĩ là bé Hải đã ngủ rồi. 例3： A:　やまださんは　この　ニュースを　しっていますか。 Anh Yamada có biết tin này không? B:　いいえ、たぶん　しらないと　おもいます。 Tôi nghĩ chắc anh ấy không biết.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý : Khi phỏng đoán có nội dung phủ định ( như trong ví dụ 3 ở trên) thì ta chuyển câu văn trước trợ từ とsang thể phủ định còn động từ おもいます thì vẫn giữ nguyên."
+        },
+        {
+          "type": "text",
+          "text": "b)    Biểu thị quan điểm, bày tỏ ý kiến:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例5： A:　しけんは　むずかしかったですか（ Bài thi khó không? B:　いいえ、あまり　むずかしくなかったと　おもいます。 Không, tôi thấy không khó lắm. 例6： 日本は　こうつうが　べんりだと　おもいます Tôi nghĩ rằng Nhật Bản có giao thông thuận lợi かなむら先生は　センターに　いると　おもいません。（X） không dùng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ü    Mẫu câu「～に　ついて　どう　おもいますか」được sử dụng khi bạn muốn hỏi ai đó về quan điểm, ý kiến của họ về một việc gì đó. Khi đi với どう thì không cần phải sử dụng trợ từ と."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例7： A:　あたらしい　くうこうに　ついて　どう　おもいますか。(O) Bạn nghĩ gì về sân bay mới? あたらしい　くうこうに　ついて　どうと　おもいますか（X）à ko dùng. B:　きれいですが、ちょっと　こうつうが　ふべんだと　おもいます。 Tôi thấy nó đẹp nhưng mà giao thông( đi lại) hơi bất tiện.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ü    Để thể hiện sự đồng ý hay không đồng ý với quan điểm, ý kiến của một ai đó, bạn có thể dùng các cách diễn đạt như sau:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例8： A： ファクスは　べんりですね。 Máy fax tiện lợi nhỉ B1：　わたしも　そう　おもいますい Tôi cũng nghĩ vậy. B2：　わたしは　そう（は）おもいません Tôi không nghĩ vậy.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Mẫu này được dùng để biểu thị phỏng đoán hay quan điểm của mình về một việc gì đó. Thông tin ( các phỏng đoán, quan điểm)  được diễn tả bởi động từ\nおもいます\nđược biểu thị qua trợ từ\nと\na)\nBiểu thị sự phỏng đoán:\n例1\n：\nあした　あめが\nふる\nと　おもいます。（\nO\n）\nTôi nghĩ là ngày mai trời mưa.\nあした　あめが\nふる\nと　おもいます。（\nO\n）\nTôi nghĩ là ngày mai trời mưa.\nあした　あめが　ふりますと　おもいます（\nX\n）\nà\nkhông dùng\n例2\n：\nハイくんは　もう\nねた\nと　おもいます。\nTôi nghĩ là bé Hải đã ngủ rồi.\n例3\n：\nA:\nやまださんは　この　ニュースを　しっていますか。\nAnh Yamada có biết tin này không?\nB:\nいいえ、たぶん\nしらない\nと　おもいます。\nTôi nghĩ chắc anh ấy không biết.\nLưu ý\n:\nKhi phỏng đoán có nội dung phủ định ( như trong ví dụ 3 ở trên) thì ta chuyển câu văn trước trợ từ\nと\nsang thể phủ định còn động từ\nおもいます\nthì vẫn giữ nguyên.\nb)\nBiểu thị quan điểm, bày tỏ ý kiến:\n例5\n：\nA:\nしけんは　むずかしかったですか（\nBài thi khó không?\nB:\nいいえ、あまり　むずかしくなかったと　おもいます。\nKhông, tôi thấy không khó lắm.\n例6\n：\n日本は　こうつうが　べんりだと　おもいます\nTôi nghĩ rằng Nhật Bản có giao thông thuận lợi\nかなむら先生は　センターに　いると　おもいません。（\nX\n）\nkhông dùng\nü\nMẫu câu\n「～に　ついて　どう　おもいますか」\nđược sử dụng khi bạn muốn hỏi ai đó về quan điểm, ý kiến của họ về một việc gì đó.\nKhi đi với\nどう\nthì không cần phải sử dụng trợ từ\nと\n.\n例7\n：\nA:\nあたらしい　くうこうに　ついて　どう　おもいますか。\n(O)\nBạn nghĩ gì về sân bay mới?\nあたらしい　くうこうに　ついて　どう\nと\nおもいますか（\nX\n）\nà ko dùng.\nB:\nきれいですが、ちょっと　こうつうが　ふべんだと　おもいます。\nTôi thấy nó đẹp nhưng mà giao thông( đi lại) hơi bất tiện.\nü\nĐể thể hiện sự đồng ý hay không đồng ý với quan điểm, ý kiến của một ai đó, bạn có thể dùng các cách diễn đạt như sau:\n例8\n：\nA\n：\nファクスは　べんりですね。\nMáy fax tiện lợi nhỉ\nB1\n：　わたしも\nそう　おもいます\nい\nTôi cũng nghĩ vậy.\nB2\n：　わたしは\nそう（は）おもいません\nTôi không nghĩ vậy.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box111",
+      "title": "3. “Câu nói” と　いいます ( Thể văn thông thường )",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu này được dùng để trích dẫn lại lời nói của người khác. Nội dung trích dẫn được diễn tả bởi động từ いいますcũng được biểu thị qua trợ từ と."
+        },
+        {
+          "type": "text",
+          "text": "a)            Khi trích dẫn trực tiếp những câu mà người khác nói hoặc đã nói, ta nhắc lại nguyên văn điều mà họ nói trong ngoặc 「　　」 theo cấu trúc sau :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ねるまえに　「おやすみなさい」と　いいます。 Người ta nói “ Oyasuminasai” trước khi ngủ. 例2： やまだ： らいしゅう　とうきょうへ　しゅっちょうします。 Yamada: Tuần sau tôi sẽ đi công tác Tokyo è やまださんは　「らいしゅう　とうきょうへ　しゅっちょうします」と　 いいました。 Anh Yamada nói : “ Tuần sau tôi sẽ đi công tác Tokyo”.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "b)      Khi trích dẫn gián tiếp lại điều mà người khác nói hoặc đã nói,thì ở phần nội dung trích dẫn trước trợ từ と、 ta nhắc lại nội dung ( chứ không phải nguyên văn) câu nói đó và chuyển nó sang thể thông thường. Thì của mệnh đề trích dẫn không phụ thuộc vào thì của câu chính.\\"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： やまだ： らいしゅう　とうきょうへ　しゅっちょうします。 Yamada: Tuần sau tôi sẽ đi công tác Tokyo. è やまださんは　らいしゅう　とうきょうへ　しゅっちょうすると　 いいました。 Anh Yamada nói là tuần sau anh ấy sẽ đi công tác Tokyo. 例4： ハイさん：　レポートを　かかなければ　なりません。 Hải : Tôi phải viết báo cáo è ハイさんは　レポートを　かかなければ　ならないと　いいました。（O） Anh Hải nói là anh ấy phải viết báo cáo. ハイさんは　レポートを　かかなければ　なりませんと　いいました（X）à ko dùng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý: Nếu trích dẫn câu nói của người khác trong dấu ngoặc 「　　」thì không nhất thiết phải chuyển câu nói đó sang thể thông thường."
+        }
+      ],
+      "text": "Mẫu này được dùng để trích dẫn lại lời nói của người khác. Nội dung trích dẫn được diễn tả bởi động từ\nいいます\ncũng được biểu thị qua trợ từ\nと\n.\na)\nKhi\ntrích dẫn trực tiếp\nnhững câu mà người khác nói hoặc đã nói, ta nhắc lại nguyên văn điều mà họ nói trong ngoặc\n「　　」\ntheo cấu trúc sau :\n例1\n：\nねるまえに　「おやすみなさい」と　いいます\n。\nNgười ta nói “ Oyasuminasai” trước khi ngủ\n.\n例\n2\n：\nやまだ：\nらいしゅう　とうきょうへ　しゅっちょうします\n。\nYamada:\nTuần sau tôi sẽ đi công tác Tokyo\nè\nやまださんは　「らいしゅう　とうきょうへ　しゅっちょうします」と\nいいました。\nAnh Yamada nói : “ Tuần sau tôi sẽ đi công tác Tokyo”.\nb)\nKhi\ntrích dẫn gián tiếp\nlại điều mà người khác nói hoặc đã nói,thì ở phần nội dung trích dẫn trước trợ từ\nと、\nta nhắc lại nội dung ( chứ không phải nguyên văn) câu nói đó và chuyển nó sang thể thông thường. Thì của mệnh đề trích dẫn không phụ thuộc vào thì của câu chính.\\\n例3\n：\nやまだ：\nらいしゅう　とうきょうへ　しゅっちょう\nします\n。\nYamada:   Tuần sau tôi sẽ đi công tác Tokyo\n.\nè\nやまださんは　らいしゅう　とうきょうへ　しゅっちょう\nする\nと\nいい\nました\n。\nAnh Yamada nói là tuần sau anh ấy sẽ đi công tác Tokyo.\n例\n4\n：\nハイさん：　レポートを　かかなければ　なり\nません\n。\nHải      :   Tôi phải viết báo cáo\nè\nハイさんは　レポートを　かかなければ　なら\nない\nと　いい\nました\n。（\nO\n）\nAnh Hải nói là anh ấy phải viết báo cáo.\nハイさんは　レポートを　かかなければ　なりませんと　いいました（\nX\n）\nà\nko dùng\nLưu ý\n:\nNếu trích dẫn câu nói của người khác trong dấu ngoặc\n「　　」\nthì không nhất thiết phải chuyển câu nói đó sang thể thông thường.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box112",
+      "title": "4. V | Tính từ đuôi い | Tính từ đuôi な | Thể văn thông thường（～だ）",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Khi người nói nghĩ rằng người nghe cũng có sự hiểu biết nhất định về chuyện mình nói và kỳ vọng rằng người nghe sẽ đồng ý với quan điểm của mình, でしょう( với giọng đọc cao ở cuối câu) được thêm vào để xác nhận sự đồng ý của người nghe. Câu văn trước でしょう được chuyển sang thể văn thông thường."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A： あした　パーティーに　いくでしょう？ Mai bạn cũng đi party đúng không? B：　ええ、いきます。 Tôi cũng nghĩ vậy. 例2： B vừa đi Hokkaido về, A hỏi B: A：ほっかいどうは　とても　さむかったでしょう? Hokkaido lạnh đúng không? B：いいえ、そんなに　さむくなかったです。 Không, không lạnh đến mức ấy. 例3： A：サイゴンは　にぎやかでしょう? Sài Gòn sầm uất phải không? B：はい、にぎやかです。 Ừ, sầm uất.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Khi người nói nghĩ rằng người nghe cũng có sự hiểu biết nhất định về chuyện mình nói và kỳ vọng rằng người nghe sẽ đồng ý với quan điểm của mình,\nでしょう\n(\nvới giọng đọc cao ở cuối câu\n) được thêm vào để xác nhận sự đồng ý của người nghe. Câu văn trước\nでしょう\nđược chuyển sang\nthể văn thông thường\n.\n例1\n：\nA\n：\nあした　パーティーに　いくでしょう？\nMai bạn cũng đi party đúng không?\nB\n：　ええ、いきます。\nTôi cũng nghĩ vậy.\n例2\n：\nB vừa đi Hokkaido về, A hỏi B:\nA\n：ほっかいどうは　とても　さむかったでしょう\n?\nHokkaido lạnh đúng không?\nB\n：いいえ、そんなに　さむくなかったです。\nKhông, không lạnh đến mức ấy\n.\n例3\n：\nA\n：サイゴンは　にぎやかでしょう\n?\nSài Gòn sầm uất phải không?\nB\n：はい、にぎやかです。\nỪ, sầm uất.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box114",
+      "title": "5. N1 (địa điểm) で　N2　が　あります。",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Khi N2 là danh từ biểu thị một sự kiện nào đó ( ví dụ như : buổi tiệc, buổi hòa nhạc, trận đấu,tai nạn, thiên tai,..) thì あります có nghĩa là “ diễn ra”, “ xảy ra” hoặc là “ được tổ chức”."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： とうきょうで　日本と　ブラジルの　サッカーの　しあいが　あります. Trận bóng đá giữa Nhật Bản và Brazil diễn ra ở Tokyo.. 例2： 日本ほうセンターで　クリスマスパーティーが　あります Tuần sau ở trung tâm Luật Nhật Bản sẽ có 1 buổi tiệc giáng sinh (tức là : Tuần sau ở trung tâm Luật Nhật Bản, 1 buổi tiệc giáng sinh sẽ được tổ chức).",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Cần phân biệt mẫu này với mẫu gần giống nó đã học ở các bài trước là : N1(địa điểm)に　N2が　あります."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "N1(địa điểm)に　N2が　あります.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "N1 (địa điểm) で　N2が　あります。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "Biểu thị sự tồn tại của một sự vật( con vật, đồ vật, con người) ở một địa điểm nào đó. Vì vậy : - N2 là danh từ tĩnh, chỉ sự vật như : cái cây, cái bàn, ghế,máy tính,... è Dùng với trợ từ に",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Biểu thị một sự kiện nào đó diễn ra,xảy ra hay được tổ chức tại địa điểm N1. Vì vậy: - N2 là danh từ động, nghĩa là danh từ diễn tả một sự kiện nào đó ( buổi hòa nhạc, buổi tiệc, trận đấu, ...) è Dùng với trợ từ で (Vì nó tương tự như khi ta diễn tả một hành động được xảy ra tại 1 địa điểm nào đó)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "ü    日本ほうセンターに　パソコンが　あります。"
+        },
+        {
+          "type": "text",
+          "text": "Ở trung tâm Luật Nhật Bản có máy tính."
+        },
+        {
+          "type": "text",
+          "text": "ü    日本ほうセンターで　パーティーが　あります。"
+        },
+        {
+          "type": "text",
+          "text": "Có 1 buổi tiệc tại trung tâm Luật Nhật Bản."
+        }
+      ],
+      "text": "Khi N2 là danh từ biểu thị một\nsự kiện\nnào đó ( ví dụ như : buổi tiệc, buổi hòa nhạc, trận đấu,tai nạn, thiên tai,..) thì\nあります\ncó nghĩa là “ diễn ra”, “ xảy ra” hoặc là “ được tổ chức”.\n例1\n：\nとうきょうで　日本と　ブラジルの　サッカーの　しあいが　あります\n.\nTrận bóng đá giữa Nhật Bản và Brazil diễn ra ở Tokyo.\n.\n例2\n：\n日本ほうセンターで　クリスマスパーティーが　あります\nTuần sau ở trung tâm Luật Nhật Bản sẽ có 1 buổi tiệc giáng sinh\n(tức là : Tuần sau ở trung tâm Luật Nhật Bản, 1 buổi tiệc giáng sinh sẽ\nđược tổ chức).\nCần phân biệt mẫu này với mẫu gần giống nó đã học ở các bài trước là : N1(địa điểm)\nに\nN2\nが　あります\n.\nN1(địa điểm)\nに\nN2\nが　あります.\nN1 (địa điểm)\nで\nN2\nが　あります。\nBiểu thị sự tồn tại của một sự vật( con vật, đồ vật, con người) ở một địa điểm nào đó.\nVì vậy :\n-\nN2 là\ndanh từ tĩnh\n, chỉ sự vật như : cái cây, cái bàn, ghế,máy tính,...\nè\nDùng với trợ từ\nに\nBiểu thị một sự kiện nào đó diễn ra,xảy ra hay được tổ chức tại địa điểm N1.\nVì vậy:\n-\nN2 là\ndanh từ động\n, nghĩa là danh từ diễn tả một sự kiện nào đó ( buổi hòa nhạc, buổi tiệc, trận đấu, ...)\nè\nDùng với trợ từ\nで\n(Vì nó tương tự như khi ta diễn tả một hành động được xảy ra tại 1 địa điểm nào đó)\nü\n日本ほうセンターに　パソコンが　あります。\nỞ trung tâm Luật Nhật Bản có máy tính.\nü\n日本ほうセンターで　パーティーが　あります。\nCó 1 buổi tiệc tại trung tâm Luật Nhật Bản.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box115",
+      "title": "6. N ( dịp) で",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Để diễn tả một hành động xảy ra trong một dịp nào đó thì dịp đó được biểu thị bởi trợ từ で."
+        },
+        {
+          "type": "text",
+          "text": "例1：かいぎで　なにか　いけんを　いいましたか。"
+        },
+        {
+          "type": "text",
+          "text": "Bạn có nói ý kiến gì trong buổi họp không?"
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ trên, かいぎ không phải là địa điểm nhưng là nơi, là bối cảnh để diễn ra hành động いいました"
+        },
+        {
+          "type": "text",
+          "text": "à là 1 địa điểm có tính trừu tượng"
+        },
+        {
+          "type": "text",
+          "text": "à nên nó cũng được dùng cùng với trợ từ で"
+        }
+      ],
+      "text": "Để diễn tả một hành động xảy ra trong một dịp nào đó thì dịp đó được biểu thị bởi trợ từ\nで\n.\n例\n1\n：かいぎで　なにか　いけんを　いいましたか。\nBạn có nói ý kiến gì trong buổi họp không?\nTrong ví dụ trên,\nかいぎ\nkhông phải là địa điểm nhưng là nơi, là bối cảnh để diễn ra hành động\nいいました\nà\nlà 1 địa điểm có tính trừu tượng\nà\nnên nó cũng được dùng cùng với trợ từ\nで",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box116",
+      "title": "7. NでもV",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "でも　được sử dụng để đưa ra một ví dụ từ nhiều thứ cùng loại ( ví dụ như trong ví dụ dưới đây là đồ uống) khi muốn khuyến khích, khuyên ai đó làm điều gì đó hoặc khi muốn đề xuất việc gì."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ちょっと　ビールでも　のみませんか Uống bia hay cái gì đấy không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ trên, người nói muốn đề xuất việc uống một đồ uống gì đó, và đưa bia lên làm ví dụ từ rất nhiều đồ uống ( cà phê, chè, nước,...). Tức là người nói không chỉ rủ người nghe uống bia, mà là rủ người nghe uống một thứ gì đó mà có thể là bia chẳng hạn."
+        }
+      ],
+      "text": "でも\nđược sử dụng để đưa ra\nmột ví dụ từ nhiều thứ cùng loại\n( ví dụ như trong ví dụ dưới đây là đồ uống) khi muốn khuyến khích, khuyên ai đó làm điều gì đó hoặc khi muốn đề xuất việc gì.\n例1\n：\nちょっと　ビール\nでも\nのみませんか\nUống bia hay cái gì đấy không\n?\nTrong ví dụ trên, người nói muốn đề xuất việc uống một đồ uống gì đó, và đưa bia lên làm ví dụ từ rất nhiều đồ uống ( cà phê, chè, nước,...). Tức là người nói không chỉ rủ người nghe uống bia, mà là rủ người nghe uống một thứ gì đó mà có thể là bia chẳng hạn.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-8",
+      "sourceId": "content_box118",
+      "title": "8. Thể ない＋ないと...",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Các diễn đạt này là cách giản lược của mẫu : “Thể ない＋ないといけません”. Cách dùng và nghĩa của “ Thể ないといけません” gần giống với mẫu“ Thể ない+なければ　なりません” mà các bạn đã học trong bài 17.Tuy vậy, mẫu “ Thể ないといけません” thường được dùng trong văn nói chứ hầu như không được dùng trong văn viết."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： もう　かえらないと... Tôi phải về bây giờ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Các diễn đạt này là cách giản lược của mẫu : “Thể\nない＋ないといけません\n”. Cách dùng và nghĩa của “ Thể\nないといけません\n” gần giống với mẫu“ Thể\nない\n+\nなければ　なりません\n” mà các bạn đã học trong bài 17.Tuy vậy, mẫu “ Thể\nないといけません\n” thường được dùng trong\nvăn nói\nchứ hầu như không được dùng trong văn viết.\n例1\n：\nもう　かえらないと\n...\nTôi phải về bây giờ.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-9",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Các bạn COMMENT đáp án Riki sẽ giải đáp chi tiết giúp mình nha ^^"
+        },
+        {
+          "type": "text",
+          "text": "1."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "おいしいです",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "帰ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "来ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "上手です",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "役に　立ちます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "例：彼女は　来ますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  いいえ、きょうは　（来ない）と　思います。"
+        },
+        {
+          "type": "text",
+          "text": "１）あの　レストランの　料理は　どうですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  あまり　（____）と　思います。"
+        },
+        {
+          "type": "text",
+          "text": "２）鈴木さんは　英語が　できますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ええ、　（____）と　思います。アメリカに　3年　いましたから。"
+        },
+        {
+          "type": "text",
+          "text": "３）その　辞書は　いいですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ええ、とても　（____）と　思います。"
+        },
+        {
+          "type": "text",
+          "text": "４）田中さんは　いますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  かばんが　ありませんから、もう　うちへ　（____）と　思います。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例："
+        },
+        {
+          "type": "text",
+          "text": "A ：あした　暇ですか。"
+        },
+        {
+          "type": "text",
+          "text": "B：あしたは　会社へ　行かなければ　なりません。"
+        },
+        {
+          "type": "text",
+          "text": "→ Bさんは　あしたは　(会社へ　行かなければ　ならない) と　言いました。"
+        },
+        {
+          "type": "text",
+          "text": "１）"
+        },
+        {
+          "type": "text",
+          "text": "A ：桜の　季節ですね。どこか　お花見に　行きますか。"
+        },
+        {
+          "type": "text",
+          "text": "B：ええ、日曜日　家族と　吉野山へ　行きます。"
+        },
+        {
+          "type": "text",
+          "text": "→ Bさんは (______) と　言いました。"
+        },
+        {
+          "type": "text",
+          "text": "２）"
+        },
+        {
+          "type": "text",
+          "text": "A ：この　本、おもしろいですよ。"
+        },
+        {
+          "type": "text",
+          "text": "B：そうですか。じゃ、貸して　ください。"
+        },
+        {
+          "type": "text",
+          "text": "→ Aさんは　この　本は　(______)と　言いました。"
+        },
+        {
+          "type": "text",
+          "text": "３）"
+        },
+        {
+          "type": "text",
+          "text": "A ：パーティーは　にぎやかでしたか。"
+        },
+        {
+          "type": "text",
+          "text": "B：ええ、とても　にぎやかでした。"
+        },
+        {
+          "type": "text",
+          "text": "→ Bさんは　パーティーは　(______)と　言いました。"
+        },
+        {
+          "type": "text",
+          "text": "４）"
+        },
+        {
+          "type": "text",
+          "text": "A ：すみません。日曜日の　試合を　見に　行く　ことが　できません。"
+        },
+        {
+          "type": "text",
+          "text": "B：そうですか。残念です。"
+        },
+        {
+          "type": "text",
+          "text": "→ Aさんは　(______)と　言いました。"
+        },
+        {
+          "type": "text",
+          "text": "3."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "あります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "暑いです",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すきました",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "試験です",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "疲れました",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "例：おなかが　（すいた）　でしょう？何か　食べませんか。"
+        },
+        {
+          "type": "text",
+          "text": "１）来月　京都で　有名な　お祭りが　（____）でしょう？"
+        },
+        {
+          "type": "text",
+          "text": "２）（____）でしょう？　少し　休みましょう。"
+        },
+        {
+          "type": "text",
+          "text": "３）（____）でしょう？　エアコンを　つけましょうか。"
+        },
+        {
+          "type": "text",
+          "text": "４）あしたは（____）でしょう？　早く　帰りましょう。"
+        }
+      ],
+      "text": "Các bạn COMMENT đáp án Riki sẽ giải đáp chi tiết giúp mình nha ^^\n1.\nおいしいです\n帰ります\n来ます\n上手です\n役に　立ちます\n例：彼女は　来ますか。\n...\nいいえ、きょうは　（来ない）と　思います。\n１）あの　レストランの　料理は　どうですか。\n...\nあまり　（\n____\n）と　思います。\n２）鈴木さんは　英語が　できますか。\n...\nええ、　（\n____\n）と　思います。アメリカに\n3\n年　いましたから。\n３）その　辞書は　いいですか。\n...\nええ、とても　（\n____\n）と　思います。\n４）田中さんは　いますか。\n...\nかばんが　ありませんから、もう　うちへ　（\n____\n）と　思います。\n2.\n例：\nA\n：あした　暇ですか。\nB\n：あしたは　会社へ　行かなければ　なりません。\n→\nB\nさんは　あしたは\n(\n会社へ　行かなければ　ならない\n)\nと　言いました。\n１）\nA\n：桜の　季節ですね。どこか　お花見に　行きますか。\nB\n：ええ、日曜日　家族と　吉野山へ　行きます。\n→\nB\nさんは\n(______)\nと　言いました。\n２）\nA\n：この　本、おもしろいですよ。\nB\n：そうですか。じゃ、貸して　ください。\n→\nA\nさんは　この　本は\n(______)\nと　言いました。\n３）\nA\n：パーティーは　にぎやかでしたか。\nB\n：ええ、とても　にぎやかでした。\n→\nB\nさんは　パーティーは\n(______)\nと　言いました。\n４）\nA\n：すみません。日曜日の　試合を　見に　行く　ことが　できません。\nB\n：そうですか。残念です。\n→\nA\nさんは\n(______)\nと　言いました。\n3.\nあります\n暑いです\nすきました\n試験です\n疲れました\n例：おなかが\n（すいた）\nでしょう？何か　食べませんか。\n１）来月　京都で　有名な　お祭りが　（\n____\n）でしょう？\n２）（\n____\n）でしょう？　少し　休みましょう。\n３）（\n____\n）でしょう？　エアコンを　つけましょうか。\n４）あしたは（\n____\n）でしょう？　早く　帰りましょう。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

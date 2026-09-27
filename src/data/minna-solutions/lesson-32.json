@@ -1,0 +1,359 @@
+{
+  "lesson": 32,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-32",
+  "solutions": [
+    {
+      "exerciseId": "32-section-8-exercise-1",
+      "question": "1. 弟はさくら大学（　）合格しました。",
+      "context": "１．\n例：駅まで歩いて５分（で）行けます。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "大学に合格する: đỗ đại học."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-2",
+      "question": "2. ここは車の音（　）うるさいです。",
+      "context": "１．\n例：駅まで歩いて５分（で）行けます。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "車の音がうるさい: tiếng xe ồn, が chỉ chủ ngữ."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-3",
+      "question": "3. スキーに行って足（　）はが（　）しましたが、１週間（　）治りました。",
+      "context": "１．\n例：駅まで歩いて５分（で）行けます。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Nguồn ghi 足（ ）はが（ ）しました, bị mất/lỗi từ けが. Câu khôi phục: スキーに行って足にけがをしましたが、１週間で治りました。 (Đi trượt tuyết bị thương chân nhưng khỏi sau một tuần). Ba trợ từ tương ứng khi đã sửa đề: に・を・で."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-4",
+      "question": "4. 外国旅行のとき、お金は現金（　）持っていかないほうがいいですよ。",
+      "context": "１．\n例：駅まで歩いて５分（で）行けます。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "現金で: dưới dạng tiền mặt."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-5",
+      "question": "5. やけど（　）したら、すぐ水道の水（　）冷やしてください。",
+      "context": "１．\n例：駅まで歩いて５分（で）行けます。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "で"
+        ]
+      ],
+      "explanation": "やけどをする: bị bỏng; 水で冷やす: làm mát bằng nước."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-6",
+      "question": "6. かぜ（　）ひいたんですか。…ええ、せき（　）出て、熱もあるんです。",
+      "context": "１．\n例：駅まで歩いて５分（で）行けます。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "かぜをひく: bị cảm; せきが出る: ho."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-7",
+      "question": "1. 富士美術館には駐車場がありませんから、電車で＿＿＿＿＿＿＿ほうがいいですね。",
+      "context": "２．\n例１：連休は込みますから、早くホテルを予約したほうがいいです。\n例２：かぜの薬を飲んだら、車を運転しないほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "行った"
+        ]
+      ],
+      "explanation": "Khuyên làm: động từ thể た + ほうがいい."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-8",
+      "question": "2. その牛乳はちょっと古いですから、＿＿＿＿＿＿＿ほうがいいですよ。",
+      "context": "２．\n例１：連休は込みますから、早くホテルを予約したほうがいいです。\n例２：かぜの薬を飲んだら、車を運転しないほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲まない"
+        ]
+      ],
+      "explanation": "Khuyên không làm: thể ない + ほうがいい, không dùng 飲まなかった."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-9",
+      "question": "3. 夕方は雨だと思いますから、傘を＿＿＿＿＿＿＿ほうがいいですよ。",
+      "context": "２．\n例１：連休は込みますから、早くホテルを予約したほうがいいです。\n例２：かぜの薬を飲んだら、車を運転しないほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "持って行った"
+        ]
+      ],
+      "explanation": "持って行ったほうがいい: nên mang ô đi."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-10",
+      "question": "4. 熱があるときは、運動は＿＿＿＿＿＿＿ほうがいいですよ。",
+      "context": "２．\n例１：連休は込みますから、早くホテルを予約したほうがいいです。\n例２：かぜの薬を飲んだら、車を運転しないほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "しない"
+        ]
+      ],
+      "explanation": "Khi sốt không nên vận động: 運動はしないほうがいい."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-11",
+      "question": "5. 地図を見ても、よくわかりませんね。\n…そうですね。あそこの交番で＿＿＿＿＿＿＿ほうがいいですね。",
+      "context": "２．\n例１：連休は込みますから、早くホテルを予約したほうがいいです。\n例２：かぜの薬を飲んだら、車を運転しないほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "聞いた"
+        ]
+      ],
+      "explanation": "交番で聞いたほうがいい: nên hỏi ở đồn cảnh sát."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-12",
+      "question": "1. イーさんは独身ですか。\n…ええ、たぶん＿＿＿＿＿＿＿でしょう。",
+      "context": "３．\n例：よく晴れていますから、今夜はきっとはしがきれいでしょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "独身"
+        ]
+      ],
+      "explanation": "Danh từ bỏ です trước でしょう: 独身でしょう."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-13",
+      "question": "2. 今度のパーティー、お客さんのお皿は何枚ぐらいあったら、足りますか。\n…そうですね。３０枚ぐらいあったら、＿＿＿＿＿でしょう。",
+      "context": "３．\n例：よく晴れていますから、今夜はきっとはしがきれいでしょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "足りる"
+        ]
+      ],
+      "explanation": "足ります → 足りるでしょう: có lẽ đủ."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-14",
+      "question": "3. 今週の土曜日は休みますか。\n…忙しいですから、たぶん＿＿＿＿＿＿＿でしょう。",
+      "context": "３．\n例：よく晴れていますから、今夜はきっとはしがきれいでしょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "休まない",
+          "休めない"
+        ]
+      ],
+      "explanation": "Bận nên có lẽ không nghỉ/không nghỉ được; cả hai có nghĩa phù hợp."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-15",
+      "question": "4. 山田さんはまだ来ていないんですか。\n…もう９時ですから、もうすぐ＿＿＿＿＿＿＿でしょう。",
+      "context": "３．\n例：よく晴れていますから、今夜はきっとはしがきれいでしょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "来る"
+        ]
+      ],
+      "explanation": "もうすぐ来るでしょう: có lẽ sắp đến."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-16",
+      "question": "5. ６月に北海道へ行くんですが、寒いと思いますか。\n…そうですね。６月はそんなに＿＿＿＿＿＿＿でしょう。",
+      "context": "３．\n例：よく晴れていますから、今夜はきっとはしがきれいでしょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "寒くない"
+        ]
+      ],
+      "explanation": "そんなに寒くないでしょう: chắc không lạnh đến thế."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-17",
+      "question": "6. 国際結婚は大変だと思いますか。\n…ええ、習慣も違うし、食べ物も違うし、きっと＿＿＿＿＿＿＿でしょう。",
+      "context": "３．\n例：よく晴れていますから、今夜はきっとはしがきれいでしょう。",
+      "status": "reference",
+      "answers": [
+        [
+          "大変"
+        ]
+      ],
+      "explanation": "Tính từ な không thêm だ trước でしょう: 大変でしょう."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-18",
+      "question": "1. 約束の時間に道が込んでいますから。\n…こんなに道が込んでいますから、＿＿＿＿＿＿＿＿かもしれません。",
+      "context": "４．\n例：コートを持っていくんですか。\n…ええ。夜は寒くなるかもしれませんから。",
+      "status": "sample",
+      "answers": [
+        [
+          "間に合わない"
+        ]
+      ],
+      "explanation": "Đường đông nên có thể không kịp giờ. Câu hỏi đầu trong nguồn bị lỗi, nhưng vế trả lời cho phép suy ra lời giải mẫu này."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-19",
+      "question": "2. 寒いですね。\n…ええ。夜は雪が＿＿＿＿＿＿＿かもしれませんね。",
+      "context": "４．\n例：コートを持っていくんですか。\n…ええ。夜は寒くなるかもしれませんから。",
+      "status": "reference",
+      "answers": [
+        [
+          "降る"
+        ]
+      ],
+      "explanation": "雪が降るかもしれません: có thể có tuyết rơi."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-20",
+      "question": "3. この傘、だれかの忘れ物ですか。\n…そうですね。お客さんの＿＿＿＿＿＿＿かもしれませんね。",
+      "context": "４．\n例：コートを持っていくんですか。\n…ええ。夜は寒くなるかもしれませんから。",
+      "status": "sample",
+      "answers": [
+        [
+          "傘",
+          "忘れ物"
+        ]
+      ],
+      "explanation": "お客さんの傘かもしれません／忘れ物かもしれません: có thể là ô/đồ khách để quên."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-21",
+      "question": "4. ４万円ぐらいでマンションを借りたいんですが、無理でしょうか。\n…うーん、ちょっと＿＿＿＿＿＿＿かもしれませんよ。",
+      "context": "４．\n例：コートを持っていくんですか。\n…ええ。夜は寒くなるかもしれませんから。",
+      "status": "reference",
+      "answers": [
+        [
+          "無理"
+        ]
+      ],
+      "explanation": "Danh từ/tính từ な không dùng だ trước かもしれません."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-22",
+      "question": "5. もしかしたら、会社を＿＿＿＿＿＿＿かもしれません。\n…やめて、何をするんですか。",
+      "context": "４．\n例：コートを持っていくんですか。\n…ええ。夜は寒くなるかもしれませんから。",
+      "status": "reference",
+      "answers": [
+        [
+          "やめる"
+        ]
+      ],
+      "explanation": "会社をやめるかもしれません: có thể nghỉ việc; câu sau xác nhận động từ này."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-23",
+      "question": "6. 友達の結婚式のとき、この服を着ようと思っているんですが、おかしいでしょうか。\n…そうですね。日本ではちょっと＿＿＿＿＿＿＿かもしれませんよ。",
+      "context": "４．\n例：コートを持っていくんですか。\n…ええ。夜は寒くなるかもしれませんから。",
+      "status": "reference",
+      "answers": [
+        [
+          "おかしい"
+        ]
+      ],
+      "explanation": "Tính từ い giữ nguyên trước かもしれません."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-24",
+      "question": "7. ずっと暑い日が続いていますね。\n…そうですね。しばらく暑い日が＿＿＿＿＿＿＿かもしれませんよ。",
+      "context": "４．\n例：コートを持っていくんですか。\n…ええ。夜は寒くなるかもしれませんから。",
+      "status": "reference",
+      "answers": [
+        [
+          "続く"
+        ]
+      ],
+      "explanation": "暑い日が続くかもしれません: có thể còn nóng kéo dài."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-25",
+      "question": "1. ５時までに本社に＿＿＿＿＿＿＿かもしれませんから、電話で（連絡します…）ほうがいいですね。",
+      "context": "５．\n戻れません、インフルエンザです、働きすぎです、失敗します、忙しいです、安くなります\n例：インフルエンザかもしれませんから、早く病院へ（行きます…行った）ほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "戻れない"
+        ],
+        [
+          "連絡した"
+        ]
+      ],
+      "explanation": "戻れません → 戻れない; khuyên liên lạc trước bằng 連絡したほうがいい."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-26",
+      "question": "2. 来週は＿＿＿＿＿＿＿かもしれませんから、これは今週（やってしまいます…）ほうがいいですね。",
+      "context": "５．\n戻れません、インフルエンザです、働きすぎです、失敗します、忙しいです、安くなります\n例：インフルエンザかもしれませんから、早く病院へ（行きます…行った）ほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "忙しい"
+        ],
+        [
+          "やってしまった"
+        ]
+      ],
+      "explanation": "来週は忙しいかもしれない; nên làm xong tuần này: やってしまったほうがいい."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-27",
+      "question": "3. このバンコンはもっと＿＿＿＿＿＿＿かもしれませんから、まだ（買いません…）ほうがいいでしょう。",
+      "context": "５．\n戻れません、インフルエンザです、働きすぎです、失敗します、忙しいです、安くなります\n例：インフルエンザかもしれませんから、早く病院へ（行きます…行った）ほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "安くなる"
+        ],
+        [
+          "買わない"
+        ]
+      ],
+      "explanation": "Có thể rẻ hơn nên chưa mua; nguồn バンコン có thể là lỗi của パソコン."
+    },
+    {
+      "exerciseId": "32-section-8-exercise-28",
+      "question": "4. 最近体の調子が良くないんです。\n…ちょっと＿＿＿＿＿＿＿＿かもしれませんよ。\n(無理をしません…) ほうがいいですよ。",
+      "context": "５．\n戻れません、インフルエンザです、働きすぎです、失敗します、忙しいです、安くなります\n例：インフルエンザかもしれませんから、早く病院へ（行きます…行った）ほうがいいですよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "働きすぎ"
+        ],
+        [
+          "無理をしない"
+        ]
+      ],
+      "explanation": "働きすぎです bỏ です trước かもしれません; khuyên đừng cố quá sức."
+    }
+  ]
+}

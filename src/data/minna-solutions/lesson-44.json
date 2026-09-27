@@ -1,0 +1,339 @@
+{
+  "lesson": 44,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-44",
+  "solutions": [
+    {
+      "exerciseId": "44-section-6-exercise-1",
+      "question": "１）（働きます…　　　　　　　）と、病気になりますよ。",
+      "context": "１．\n例：（笑います…笑いすぎて）、涙が出てしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "働きすぎる"
+        ]
+      ],
+      "explanation": "Động từ bỏ ます + すぎる: làm việc quá sức; trước と dùng từ điển."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-2",
+      "question": "２）お酒を（飲みます…　　　　　　　 ）ないようにしてください。",
+      "context": "１．\n例：（笑います…笑いすぎて）、涙が出てしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲みすぎ"
+        ]
+      ],
+      "explanation": "飲みすぎないように: cố đừng uống quá nhiều; ない đã có ngoài ô."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-3",
+      "question": "３）昨日テニスを（します…　　　　　　）にで、きょうは体が痛いです。",
+      "context": "１．\n例：（笑います…笑いすぎて）、涙が出てしまいました。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Nguồn ghi にで thay vì ので. Câu sửa: 昨日テニスをしすぎたので、きょうは体が痛いです。 (Hôm qua chơi tennis quá nhiều nên hôm nay đau người). Không chấm trên câu nối sai."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-4",
+      "question": "４）たばこを（吸います…　　　　　　　）なと医者に言われました。",
+      "context": "１．\n例：（笑います…笑いすぎて）、涙が出てしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "吸いすぎる"
+        ]
+      ],
+      "explanation": "吸いすぎるな: đừng hút quá nhiều; cấm đoán dùng từ điển + な."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-5",
+      "question": "５）鈴木さんは先月お金を（使います…　　　　　）と言っていました。",
+      "context": "１．\n例：（笑います…笑いすぎて）、涙が出てしまいました。",
+      "status": "reference",
+      "answers": [
+        [
+          "使いすぎた"
+        ]
+      ],
+      "explanation": "先月お金を使いすぎた: tháng trước tiêu quá nhiều, dùng quá khứ trước と言っていました."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-6",
+      "question": "１）      この靴は重くて、＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n飲みます、住みます、分かります、変わります、歩きます、起きます、燃えます、間違えます\n例１：ワット先生の話は分かりやすいです。\n例２：東京は物価が高くて、住みにくいです。",
+      "status": "reference",
+      "answers": [
+        [
+          "歩きにくいです"
+        ]
+      ],
+      "explanation": "靴が重くて歩きにくい: giày nặng nên khó đi."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-7",
+      "question": "２）      この薬は小さくて、＿＿＿＿＿＿＿＿",
+      "context": "２．\n飲みます、住みます、分かります、変わります、歩きます、起きます、燃えます、間違えます\n例１：ワット先生の話は分かりやすいです。\n例２：東京は物価が高くて、住みにくいです。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲みやすいです"
+        ]
+      ],
+      "explanation": "Thuốc nhỏ nên dễ uống: 飲みやすい."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-8",
+      "question": "３）      「ツ」と「シ」は＿＿＿＿＿＿＿＿から、気を付けてください。",
+      "context": "２．\n飲みます、住みます、分かります、変わります、歩きます、起きます、燃えます、間違えます\n例１：ワット先生の話は分かりやすいです。\n例２：東京は物価が高くて、住みにくいです。",
+      "status": "reference",
+      "answers": [
+        [
+          "間違えやすいです"
+        ]
+      ],
+      "explanation": "ツ và シ dễ nhầm: 間違えやすいですから."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-9",
+      "question": "４）      雨の日は交通事故が＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n飲みます、住みます、分かります、変わります、歩きます、起きます、燃えます、間違えます\n例１：ワット先生の話は分かりやすいです。\n例２：東京は物価が高くて、住みにくいです。",
+      "status": "reference",
+      "answers": [
+        [
+          "起きやすいです"
+        ]
+      ],
+      "explanation": "Tai nạn dễ xảy ra ngày mưa: 起きやすい."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-10",
+      "question": "５）      この家は＿＿＿＿＿＿＿材料で作ってありますから、火事にとき、安全です。",
+      "context": "２．\n飲みます、住みます、分かります、変わります、歩きます、起きます、燃えます、間違えます\n例１：ワット先生の話は分かりやすいです。\n例２：東京は物価が高くて、住みにくいです。",
+      "status": "reference",
+      "answers": [
+        [
+          "燃えにくい"
+        ]
+      ],
+      "explanation": "燃えにくい材料: vật liệu khó cháy; tính từ bổ nghĩa danh từ không thêm です. Nguồn 火事にとき → 火事のとき."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-11",
+      "question": "１）ズボンが長すぎますから、（短いです…　　　　　　）ほうがいいですね。",
+      "context": "３．\n例：コピーの色が濃すぎますから、もう少し（薄いです…薄くして）ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "短くした"
+        ]
+      ],
+      "explanation": "短くしたほうがいい: nên làm ngắn đi; biến đổi い → くする rồi thể た."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-12",
+      "question": "２）こんなにたくさん食べられませんから、（半分です…　　　　　　）ください。",
+      "context": "３．\n例：コピーの色が濃すぎますから、もう少し（薄いです…薄くして）ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "半分にして"
+        ]
+      ],
+      "explanation": "Danh từ + にする: hãy chia thành một nửa."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-13",
+      "question": "３）足を（丈夫です…　　　　　）ために、毎日１時間ぐらい歩いています。",
+      "context": "３．\n例：コピーの色が濃すぎますから、もう少し（薄いです…薄くして）ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "丈夫にする"
+        ]
+      ],
+      "explanation": "Tính từ な + にする: làm chân khỏe hơn."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-14",
+      "question": "４）赤ちゃんが寝ていますから、テレビの音を（小さいです…　　　　　 ）ください。",
+      "context": "３．\n例：コピーの色が濃すぎますから、もう少し（薄いです…薄くして）ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "小さくして"
+        ]
+      ],
+      "explanation": "音を小さくしてください: giảm âm lượng."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-15",
+      "question": "５）土曜日は都合が悪いので、（日曜日です…　　　　　　　）いただけませんか。",
+      "context": "３．\n例：コピーの色が濃すぎますから、もう少し（薄いです…薄くして）ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "日曜日にして"
+        ]
+      ],
+      "explanation": "日曜日にしていただけませんか: có thể đổi sang Chủ nhật giúp không?"
+    },
+    {
+      "exerciseId": "44-section-6-exercise-16",
+      "question": "１）      部屋を＿＿＿＿＿＿＿掃除しました。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "きれいに"
+        ]
+      ],
+      "explanation": "Tính từ な + に làm trạng từ: dọn sạch đẹp."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-17",
+      "question": "２）      授業中ですから、廊下は＿＿＿＿＿＿＿＿歩いてください。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "静かに"
+        ]
+      ],
+      "explanation": "静かに歩く: đi nhẹ/giữ yên lặng."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-18",
+      "question": "３）      鈴木さんは＿＿＿＿＿＿＿勉強したので、大学に合格しました。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "まじめに"
+        ]
+      ],
+      "explanation": "まじめに勉強する: học nghiêm túc."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-19",
+      "question": "４）      タワポンさんは日本語を＿＿＿＿＿＿＿＿話します。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "上手に"
+        ]
+      ],
+      "explanation": "上手に話す: nói giỏi."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-20",
+      "question": "５）      転勤のことを部長に＿＿＿＿＿＿＿＿聞きました。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "詳しく"
+        ]
+      ],
+      "explanation": "詳しい → 詳しく: hỏi chi tiết."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-21",
+      "question": "６）      かぜをひいたときは、＿＿＿＿＿＿＿＿寝たほうがいいです。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "早く"
+        ]
+      ],
+      "explanation": "早い → 早く: nên ngủ sớm khi cảm."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-22",
+      "question": "７）      パンを＿＿＿＿＿＿＿＿切ってください。サンドイッチを作りますから。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "薄く"
+        ]
+      ],
+      "explanation": "薄い → 薄く: cắt bánh mì mỏng."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-23",
+      "question": "８）      子供たちは公園で＿＿＿＿＿＿＿＿遊んでいます。",
+      "context": "４．\n速いです、詳しいです、薄いです、上手です、きれいです、元気です、静かです、まじめです、早いです、べんりです。\n例：タワポンさんはずいぶん速く歩くんですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "元気に"
+        ]
+      ],
+      "explanation": "元気に遊ぶ: chơi đùa đầy sức sống."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-24",
+      "question": "１）日曜日は（遅いです…　　　　　　）起きます。",
+      "context": "５．\n例１：（きれいです…きれいな）花ですね。\n例２：漢字を（きれいです…きれいに）書きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "遅く"
+        ]
+      ],
+      "explanation": "遅い → 遅く: dậy muộn."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-25",
+      "question": "２）（適当です…　　　　　　）辞書が見つからなくて、困っています。",
+      "context": "５．\n例１：（きれいです…きれいな）花ですね。\n例２：漢字を（きれいです…きれいに）書きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "適当な"
+        ]
+      ],
+      "explanation": "Bổ nghĩa danh từ 辞書 cần tính từ な: 適当な辞書 (từ điển phù hợp)."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-26",
+      "question": "３）よく見えるように、字を（大きいです…　　　　　 ）書きました。",
+      "context": "５．\n例１：（きれいです…きれいな）花ですね。\n例２：漢字を（きれいです…きれいに）書きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "大きく"
+        ]
+      ],
+      "explanation": "大きく書く: viết chữ to; trạng từ bổ nghĩa động từ."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-27",
+      "question": "４）コーヒーをもっと（濃いです…　　　　　　）いれてくだだい。",
+      "context": "５．\n例１：（きれいです…きれいな）花ですね。\n例２：漢字を（きれいです…きれいに）書きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "濃く"
+        ]
+      ],
+      "explanation": "濃くいれる: pha cà phê đậm hơn."
+    },
+    {
+      "exerciseId": "44-section-6-exercise-28",
+      "question": "５）ワットさんはとても（熱心です…　　　　　　 ）道を教えてくれました。",
+      "context": "５．\n例１：（きれいです…きれいな）花ですね。\n例２：漢字を（きれいです…きれいに）書きました。",
+      "status": "reference",
+      "answers": [
+        [
+          "熱心に"
+        ]
+      ],
+      "explanation": "熱心に教える: tận tình chỉ đường, trạng từ từ tính từ な."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "lesson": 15,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-15",
+  "solutions": [
+    {
+      "exerciseId": "15-section-7-exercise-1",
+      "question": "１）たばこを　吸いたいです。　→　______。",
+      "context": "2. 例: 明日　休みたいです。　→　明日　休んでも　いいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "たばこを吸ってもいいですか"
+        ]
+      ],
+      "explanation": "Xin phép hút thuốc: thể て + もいいですか."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-2",
+      "question": "２）美術館で　写真を　取りたいです。　→　______。",
+      "context": "2. 例: 明日　休みたいです。　→　明日　休んでも　いいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "美術館で写真を撮ってもいいですか",
+          "美術館で写真を取ってもいいですか"
+        ]
+      ],
+      "explanation": "Xin phép chụp ảnh dùng 撮ってもいいですか. Nguồn viết 取りたい; 撮る là chữ thông dụng cho chụp ảnh."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-3",
+      "question": "３）この　カタログが　欲しいです。　→　______。",
+      "context": "2. 例: 明日　休みたいです。　→　明日　休んでも　いいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "このカタログをもらってもいいですか"
+        ]
+      ],
+      "explanation": "Xin nhận cuốn catalog: もらってもいいですか. 欲しい diễn tả mong muốn, cần chuyển sang lời xin phép."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-4",
+      "question": "１）あの部屋を　使っても　いいですか。\n...  すみません、今　会議を　（______）　いますから。",
+      "context": "3. 例：もう帰ってもいいですか。\n...  すみません、ちょっと　（　待って　）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "して"
+        ]
+      ],
+      "explanation": "会議をしています: đang họp; phần います đã có sẵn."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-5",
+      "question": "２）ここで　食事しても　いいですか。\n...  すみません、外で（______）　ください。",
+      "context": "3. 例：もう帰ってもいいですか。\n...  すみません、ちょっと　（　待って　）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "食事して",
+          "食べて"
+        ]
+      ],
+      "explanation": "Nhờ ăn ở bên ngoài: 外で食事してください/食べてください."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-6",
+      "question": "３）このパンチ、　借りても　いいですか。\n...  すみません、今　（______）　いますから。",
+      "context": "3. 例：もう帰ってもいいですか。\n...  すみません、ちょっと　（　待って　）　ください。",
+      "status": "reference",
+      "answers": [
+        [
+          "使って"
+        ]
+      ],
+      "explanation": "Đang dùng chiếc bấm lỗ nên chưa cho mượn; 使っています."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-7",
+      "question": "１）図書館で　食べ物を（　食べます　→ ______）。",
+      "context": "4. 例：エレベーターで（　遊びます→ 遊んでは　いけません）。",
+      "status": "reference",
+      "answers": [
+        [
+          "食べてはいけません"
+        ]
+      ],
+      "explanation": "Cấm ăn trong thư viện: thể て + はいけません."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-8",
+      "question": "２）試験ですから、隣の　人と（　話します　→ ______）。",
+      "context": "4. 例：エレベーターで（　遊びます→ 遊んでは　いけません）。",
+      "status": "reference",
+      "answers": [
+        [
+          "話してはいけません"
+        ]
+      ],
+      "explanation": "Cấm nói chuyện trong lúc thi."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-9",
+      "question": "３）子どもは　お酒を（　飲みます　→ ______）。",
+      "context": "4. 例：エレベーターで（　遊びます→ 遊んでは　いけません）。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲んではいけません"
+        ]
+      ],
+      "explanation": "飲みます → 飲んで; không được uống rượu."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-10",
+      "question": "１）ミラーさんは　大阪に　（______）　います。",
+      "context": "5.\n持ちます　作ります　働きます　結婚します　住みます\n例：ミラーさんは　IMCで　（働いて）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "住んで"
+        ]
+      ],
+      "explanation": "住んでいます chỉ nơi cư trú."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-11",
+      "question": "２）IMCは　コンピューターソフトを（______）　います。",
+      "context": "5.\n持ちます　作ります　働きます　結婚します　住みます\n例：ミラーさんは　IMCで　（働いて）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "作って"
+        ]
+      ],
+      "explanation": "作っています nói về hoạt động sản xuất phần mềm của công ty."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-12",
+      "question": "３）ミラーさんは　（______）　いません。独身です。",
+      "context": "5.\n持ちます　作ります　働きます　結婚します　住みます\n例：ミラーさんは　IMCで　（働いて）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "結婚して"
+        ]
+      ],
+      "explanation": "結婚していません: chưa kết hôn; phù hợp 独身です."
+    },
+    {
+      "exerciseId": "15-section-7-exercise-13",
+      "question": "４）ミラーさんは　パソコンを　（______）　います。",
+      "context": "5.\n持ちます　作ります　働きます　結婚します　住みます\n例：ミラーさんは　IMCで　（働いて）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "持って"
+        ]
+      ],
+      "explanation": "持っています chỉ sở hữu máy tính."
+    }
+  ]
+}

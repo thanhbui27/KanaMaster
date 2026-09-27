@@ -1,0 +1,158 @@
+{
+  "lesson": 19,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-19",
+  "solutions": [
+    {
+      "exerciseId": "19-section-7-exercise-1",
+      "question": "１）ミラーさん、行き方が　わかりますか。\n...  ええ、一度　（____）　ことが　ありますから、大丈夫です。",
+      "context": "2.\n掃除します　来ます　聞きます　買い物に　行きます\nかきます　見ます　行きます\n例：日本は　初めてですか。\n...  いいえ、3年まえに、一度　（来た）　ことが　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "行った"
+        ]
+      ],
+      "explanation": "Kinh nghiệm dùng thể た + ことがある: đã từng đi một lần."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-2",
+      "question": "２）太郎ちゃんは　うちの　仕事を　手伝いますか。\n...  ええ、　（____）り、（____）り　しますよ。",
+      "context": "2.\n掃除します　来ます　聞きます　買い物に　行きます\nかきます　見ます　行きます\n例：日本は　初めてですか。\n...  いいえ、3年まえに、一度　（来た）　ことが　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "掃除した"
+        ],
+        [
+          "買い物に行った"
+        ]
+      ],
+      "explanation": "Trước り cần dạng た. Hai hoạt động mẫu là dọn dẹp và đi mua sắm; cũng có thể đảo thứ tự hai hoạt động."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-3",
+      "question": "３）趣味は　何ですか。\n...  絵を　（____）り、音楽を（____）り　する　ことです。",
+      "context": "2.\n掃除します　来ます　聞きます　買い物に　行きます\nかきます　見ます　行きます\n例：日本は　初めてですか。\n...  いいえ、3年まえに、一度　（来た）　ことが　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "かいた",
+          "描いた"
+        ],
+        [
+          "聞いた"
+        ]
+      ],
+      "explanation": "描いたり、聞いたりすること: liệt kê các hoạt động thuộc sở thích."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-4",
+      "question": "４）歌舞伎は　おもしろいですか。\n...  わかりません。わたしは　歌舞伎を　（____）ことが　ありませんから   ...  。",
+      "context": "2.\n掃除します　来ます　聞きます　買い物に　行きます\nかきます　見ます　行きます\n例：日本は　初めてですか。\n...  いいえ、3年まえに、一度　（来た）　ことが　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "見た"
+        ]
+      ],
+      "explanation": "見たことがありません: chưa từng xem."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-5",
+      "question": "１）掃除しましたから、部屋が　（____）なりました。",
+      "context": "3.\nきれい　暗い　寒い　雨　眠い\n例：（寒く）　なりましたね。エアコンを　つけましょうか。",
+      "status": "reference",
+      "answers": [
+        [
+          "きれいに"
+        ]
+      ],
+      "explanation": "な-tính từ + になります: trở nên sạch đẹp."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-6",
+      "question": "２）日本は　冬　5時ごろ　（____）なります。",
+      "context": "3.\nきれい　暗い　寒い　雨　眠い\n例：（寒く）　なりましたね。エアコンを　つけましょうか。",
+      "status": "reference",
+      "answers": [
+        [
+          "暗く"
+        ]
+      ],
+      "explanation": "い-tính từ bỏ い + くなります: trời tối đi."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-7",
+      "question": "３）もう12時です。　（____）なりました。",
+      "context": "3.\nきれい　暗い　寒い　雨　眠い\n例：（寒く）　なりましたね。エアコンを　つけましょうか。",
+      "status": "reference",
+      "answers": [
+        [
+          "眠く"
+        ]
+      ],
+      "explanation": "眠い → 眠くなる: trở nên buồn ngủ."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-8",
+      "question": "４）朝は　いい　天気でしたが、　午後から（____）なりました。",
+      "context": "3.\nきれい　暗い　寒い　雨　眠い\n例：（寒く）　なりましたね。エアコンを　つけましょうか。",
+      "status": "reference",
+      "answers": [
+        [
+          "雨に"
+        ]
+      ],
+      "explanation": "Danh từ + になります: chuyển sang trời mưa."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-9",
+      "question": "１）沖縄へ　行った　こと　（____）ありますか。",
+      "context": "4. 例：ミラーさんは　日本語 （　が　）　上手に　なりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "Vたことがあります: có kinh nghiệm làm việc gì."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-10",
+      "question": "２）ことし　18歳　（____）なります。",
+      "context": "4. 例：ミラーさんは　日本語 （　が　）　上手に　なりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Tuổi + になります: sẽ tròn 18 tuổi."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-11",
+      "question": "３）ホテルは　高いですから、友達の　うち　（____）泊まります。",
+      "context": "4. 例：ミラーさんは　日本語 （　が　）　上手に　なりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Nơi nghỉ lại dùng に với 泊まります."
+    },
+    {
+      "exerciseId": "19-section-7-exercise-12",
+      "question": "４）たばこは　体　（____）よく　ないです。",
+      "context": "4. 例：ミラーさんは　日本語 （　が　）　上手に　なりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "体にいい/よくない: tốt/không tốt cho cơ thể."
+    }
+  ]
+}

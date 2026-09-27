@@ -1,0 +1,379 @@
+{
+  "lesson": 26,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-26",
+  "solutions": [
+    {
+      "exerciseId": "26-section-6-exercise-1",
+      "question": "1. ９時半（　）新幹線（　）間に合いませんでした。",
+      "context": "1 . 例：シャワー（の）お湯（が）でません。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "９時半の新幹線: tàu lúc 9:30; ～に間に合う: kịp giờ."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-2",
+      "question": "2. 学校（　）遅れたことがありますか。",
+      "context": "1 . 例：シャワー（の）お湯（が）でません。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "学校に遅れる: đến trường muộn."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-3",
+      "question": "3. ボランティア（　）参加しませんか。",
+      "context": "1 . 例：シャワー（の）お湯（が）でません。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "～に参加する: tham gia hoạt động."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-4",
+      "question": "4. ファクスの調子が悪いんですが、どこ（　）連絡したらいいですか。",
+      "context": "1 . 例：シャワー（の）お湯（が）でません。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "～に連絡する: liên lạc tới nơi/người nào."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-5",
+      "question": "5. ごみは駐車場（　）横（　）ごみ置き場（　）出してください。",
+      "context": "1 . 例：シャワー（の）お湯（が）でません。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "の"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "駐車場の横のごみ置き場: điểm bỏ rác cạnh bãi xe; に chỉ nơi đưa rác đến."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-6",
+      "question": "1. どうしてケーキを＿＿＿＿んですか。．．．実はダイエットを＿＿＿＿んです。",
+      "context": "2.\nいいです、悪かったです、下手です、病気です、遅れました、故障しました、書きます、来ませんでした、休みじゃありません、食べません、探しています、ありません、しています、\n例：何を探しているんでせか。．．．ここに置いた手帳がないんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "食べない"
+        ],
+        [
+          "している"
+        ]
+      ],
+      "explanation": "Trước んです dùng thể thường; 食べないんですか và ダイエットをしているんです."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-7",
+      "question": "2. どうして会議の時間に＿＿＿＿んですか。．．．車が＿＿＿＿んです。",
+      "context": "2.\nいいです、悪かったです、下手です、病気です、遅れました、故障しました、書きます、来ませんでした、休みじゃありません、食べません、探しています、ありません、しています、\n例：何を探しているんでせか。．．．ここに置いた手帳がないんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "遅れた"
+        ],
+        [
+          "故障した"
+        ]
+      ],
+      "explanation": "Việc đã xảy ra dùng quá khứ thường: 遅れた／故障したんです."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-8",
+      "question": "3. この間のお花見、どうして＿＿＿＿んですか。\n．．．ちょっと都合が＿＿＿＿んです。",
+      "context": "2.\nいいです、悪かったです、下手です、病気です、遅れました、故障しました、書きます、来ませんでした、休みじゃありません、食べません、探しています、ありません、しています、\n例：何を探しているんでせか。．．．ここに置いた手帳がないんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "来なかった"
+        ],
+        [
+          "悪かった"
+        ]
+      ],
+      "explanation": "Phủ định quá khứ 来なかった; tính từ 悪い → 悪かった."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-9",
+      "question": "4. 土曜日遊びに来ませんか。．．．すみません。今度の土曜日は＿＿＿＿んです。",
+      "context": "2.\nいいです、悪かったです、下手です、病気です、遅れました、故障しました、書きます、来ませんでした、休みじゃありません、食べません、探しています、ありません、しています、\n例：何を探しているんでせか。．．．ここに置いた手帳がないんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "休みじゃない"
+        ]
+      ],
+      "explanation": "休みじゃありません → 休みじゃないんです: hôm đó không được nghỉ."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-10",
+      "question": "5. いつもワープロで手紙を＿＿＿んですか。\n．．．ええ、私は字が＿＿＿＿＿んです。",
+      "context": "2.\nいいです、悪かったです、下手です、病気です、遅れました、故障しました、書きます、来ませんでした、休みじゃありません、食べません、探しています、ありません、しています、\n例：何を探しているんでせか。．．．ここに置いた手帳がないんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "書く"
+        ],
+        [
+          "下手な"
+        ]
+      ],
+      "explanation": "Động từ thể từ điển; tính từ な trước んです cần な: 下手なんです."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-11",
+      "question": "6. 今度飲みに行きませんか。．．．すみません。妻が＿＿＿＿んです。",
+      "context": "2.\nいいです、悪かったです、下手です、病気です、遅れました、故障しました、書きます、来ませんでした、休みじゃありません、食べません、探しています、ありません、しています、\n例：何を探しているんでせか。．．．ここに置いた手帳がないんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "病気な"
+        ]
+      ],
+      "explanation": "Danh từ 病気 + なんです; ô cần 病気な vì んです đã có sẵn."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-12",
+      "question": "1. 渡辺：朝はいつも５時ごろ起きます。\n高橋：｛特に、ずいぶん、たくさん｝早いんですね。",
+      "context": "3. 例：けさは｛何か、何も、何でも｝食べませんでした。",
+      "status": "reference",
+      "answers": [
+        [
+          "ずいぶん"
+        ]
+      ],
+      "explanation": "ずいぶん早い: khá/sớm quá; diễn tả ngạc nhiên trước giờ dậy."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-13",
+      "question": "2. 渡辺：｛今度、最近、もうすぐ｝の運動会に参加したいんですが。\n高橋：｛だれか、だれも、だれでも｝参加することができますから、林さん   に｛直接、特に、きっと｝申し込んでください。",
+      "context": "3. 例：けさは｛何か、何も、何でも｝食べませんでした。",
+      "status": "reference",
+      "answers": [
+        [
+          "今度"
+        ],
+        [
+          "だれでも"
+        ],
+        [
+          "直接"
+        ]
+      ],
+      "explanation": "今度の運動会: hội thao sắp tới; だれでも: bất cứ ai; 直接申し込む: đăng ký trực tiếp."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-14",
+      "question": "3. 渡辺：高橋さん、その手帳いいですね。私も｛こんな、そんな、あな｝手帳が欲しいんですが、どこで買ったんですか。\n高橋：エドヤストアです。手帳の｛乗り場、置き場、売り場｝は1階の奥にあります。",
+      "context": "3. 例：けさは｛何か、何も、何でも｝食べませんでした。",
+      "status": "reference",
+      "answers": [
+        [
+          "そんな"
+        ],
+        [
+          "売り場"
+        ]
+      ],
+      "explanation": "そんな chỉ loại sổ người kia đang có; 売り場 là quầy bán hàng. Nguồn viết あな, có thể là lỗi của あんな."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-15",
+      "question": "1. 食事に行きませんか。\n．．．すみません。今ちょっと気分が＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "4. 例：たばこを吸ってもいいですか。\n…すみません。ここは禁煙なんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "悪いんです"
+        ]
+      ],
+      "explanation": "Mẫu từ chối kèm lý do: 今ちょっと気分が悪いんです, hiện hơi khó chịu."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-16",
+      "question": "2. よくテレビを見ますか。\n…いいえ、あまり見ません。時間が＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "4. 例：たばこを吸ってもいいですか。\n…すみません。ここは禁煙なんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "ないんです"
+        ]
+      ],
+      "explanation": "時間がないんです: giải thích vì không có thời gian xem tivi."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-17",
+      "question": "3. きれいな桜の写真ですね。\n．．．ええ、奈良のお寺で＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "4. 例：たばこを吸ってもいいですか。\n…すみません。ここは禁煙なんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "撮ったんです"
+        ]
+      ],
+      "explanation": "奈良のお寺で撮ったんです: đã chụp ở ngôi chùa tại Nara."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-18",
+      "question": "4. ずいぶんにぎやかですね。\n…ええ。隣の部屋でパーティーを＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "4. 例：たばこを吸ってもいいですか。\n…すみません。ここは禁煙なんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "しているんです"
+        ]
+      ],
+      "explanation": "パーティーをしているんです: hàng xóm đang tổ chức tiệc."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-19",
+      "question": "5. 自分で食事を作りますか。\n…いいえ。料理があまり＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "4. 例：たばこを吸ってもいいですか。\n…すみません。ここは禁煙なんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "上手じゃないんです",
+          "得意じゃないんです"
+        ]
+      ],
+      "explanation": "料理があまり上手じゃないんです: không giỏi nấu ăn lắm; có thể diễn đạt bằng 得意."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-20",
+      "question": "１．日本人の友達が­_______________　が、どんなプレゼントを…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Câu nguồn bị cắt ở lời hỏi về quà, không đủ ô để khôi phục toàn bộ. Cách nói phù hợp: 日本人の友達が結婚するんですが、どんなプレゼントを買ったらいいですか。 (Bạn Nhật sắp kết hôn, nên mua quà gì?). Không chấm ô bị thiếu."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-21",
+      "question": "２．頭が＿＿＿＿＿＿＿どの薬を（飲みます…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "reference",
+      "answers": [
+        [
+          "痛いんですが"
+        ],
+        [
+          "飲んだらいいですか"
+        ]
+      ],
+      "explanation": "Nêu tình trạng 頭が痛いんですが rồi hỏi lời khuyên どの薬を飲んだらいいですか."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-22",
+      "question": "３．NHK へ＿＿＿＿＿＿＿＿が、地図を（書きます…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "reference",
+      "answers": [
+        [
+          "行きたいんです"
+        ],
+        [
+          "書いていただけませんか"
+        ]
+      ],
+      "explanation": "行きたいんですが nêu mong muốn; 書いていただけませんか nhờ vẽ bản đồ lịch sự."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-23",
+      "question": "４．10時までに会議の準備を＿＿＿＿＿＿＿＿＿＿が、\n（手伝います…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "reference",
+      "answers": [
+        [
+          "しなければならないんです"
+        ],
+        [
+          "手伝っていただけませんか"
+        ]
+      ],
+      "explanation": "Phải chuẩn bị họp: 準備をしなければならないんですが; nhờ giúp bằng thể て + いただけませんか."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-24",
+      "question": "５．柔道を＿＿＿＿＿＿＿＿＿＿が、いい先生を（紹介します…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "reference",
+      "answers": [
+        [
+          "習いたいんです"
+        ],
+        [
+          "紹介していただけませんか"
+        ]
+      ],
+      "explanation": "Muốn học judo và nhờ giới thiệu giáo viên."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-25",
+      "question": "６．日本語でレポートを＿＿＿＿＿＿＿＿が、ちょっと（見ます…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "reference",
+      "answers": [
+        [
+          "書いたんです"
+        ],
+        [
+          "見ていただけませんか"
+        ]
+      ],
+      "explanation": "Đã viết báo cáo nên nhờ xem giúp; 書きました → 書いたんです."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-26",
+      "question": "７．2階の事務所のパソコンが＿＿＿＿＿＿＿＿＿が、どう（します…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "reference",
+      "answers": [
+        [
+          "故障なんです"
+        ],
+        [
+          "したらいいですか"
+        ]
+      ],
+      "explanation": "故障 là danh từ nên 故障なんですが; どうしたらいいですか hỏi cách xử lý."
+    },
+    {
+      "exerciseId": "26-section-6-exercise-27",
+      "question": "８．今日は修理が＿＿＿＿＿＿＿＿が、明日まで（待ちます…）",
+      "context": "5.\nいきたいです、見たいです、ありません、遅れました、できません、故障です、痛いです、しなければなりません、書きました、習いたいです、結婚します\n例１：相撲を見たいんですが、どこでチケットを（買います…買ったらいいですか。）\n例2：細かいお金がないんですが、200円（貸します…貸していただけませんか。）",
+      "status": "reference",
+      "answers": [
+        [
+          "できないんです"
+        ],
+        [
+          "待っていただけませんか"
+        ]
+      ],
+      "explanation": "Hôm nay không sửa được; nhờ chờ đến ngày mai."
+    }
+  ]
+}

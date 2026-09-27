@@ -1,0 +1,399 @@
+{
+  "lesson": 34,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-34",
+  "solutions": [
+    {
+      "exerciseId": "34-section-5-exercise-1",
+      "question": "1. この棚（　）重い物を載せないでください。",
+      "context": "1.\n例：スポーツクラブ（二）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "棚に載せる: đặt lên kệ."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-2",
+      "question": "2. 車（　）乗ったら、まずシートベルト（　）してください。",
+      "context": "1.\n例：スポーツクラブ（二）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "車に乗る: lên xe; シートベルトをする: thắt dây an toàn."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-3",
+      "question": "3. これはちょっと塩（　）つけて食べてください。",
+      "context": "1.\n例：スポーツクラブ（二）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ]
+      ],
+      "explanation": "塩をつける: chấm/rắc muối."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-4",
+      "question": "4. １０番線はこの黄色（　）矢印（　）とおりに、行ってください。",
+      "context": "1.\n例：スポーツクラブ（二）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "の"
+        ]
+      ],
+      "explanation": "黄色の矢印のとおりに: đi theo mũi tên màu vàng."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-5",
+      "question": "5. 黒（　）紺（　）スーツ（　）着て結婚式（　）出席します。",
+      "context": "1.\n例：スポーツクラブ（二）通っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "か"
+        ],
+        [
+          "の"
+        ],
+        [
+          "を"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "黒か紺のスーツを着て結婚式に出席します: mặc bộ đồ đen hoặc xanh đậm dự đám cưới."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-6",
+      "question": "1. わたしが今から言います・書いてください\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n例１：番号・ボタンを押してください\n…番号のとおりに、ボタンを押してください。\n例２：さっき松本さんに聞きました・みんなに話しました\n…さっき松本さんに聞いたとおりに、みんなに話しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "わたしが今から言うとおりに、書いてください"
+        ]
+      ],
+      "explanation": "Thể từ điển + とおりに: viết đúng như tôi sắp nói."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-7",
+      "question": "2. この図・いすと机を並べてください\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n例１：番号・ボタンを押してください\n…番号のとおりに、ボタンを押してください。\n例２：さっき松本さんに聞きました・みんなに話しました\n…さっき松本さんに聞いたとおりに、みんなに話しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "この図のとおりに、いすと机を並べてください"
+        ]
+      ],
+      "explanation": "Danh từ + のとおりに: xếp bàn ghế theo sơ đồ."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-8",
+      "question": "3. 太い線・紙を折ってください\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n例１：番号・ボタンを押してください\n…番号のとおりに、ボタンを押してください。\n例２：さっき松本さんに聞きました・みんなに話しました\n…さっき松本さんに聞いたとおりに、みんなに話しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "太い線のとおりに、紙を折ってください"
+        ]
+      ],
+      "explanation": "折る theo đường đậm; danh từ + のとおりに."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-9",
+      "question": "4. ここに書いてあります・薬を飲んでください\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n例１：番号・ボタンを押してください\n…番号のとおりに、ボタンを押してください。\n例２：さっき松本さんに聞きました・みんなに話しました\n…さっき松本さんに聞いたとおりに、みんなに話しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ここに書いてあるとおりに、薬を飲んでください"
+        ]
+      ],
+      "explanation": "書いてあります → 書いてある trước とおりに."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-10",
+      "question": "5. ミラーさんの教えてもらいました・ケーキを作りますした。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n例１：番号・ボタンを押してください\n…番号のとおりに、ボタンを押してください。\n例２：さっき松本さんに聞きました・みんなに話しました\n…さっき松本さんに聞いたとおりに、みんなに話しました。",
+      "status": "sample",
+      "answers": [
+        [
+          "ミラーさんに教えてもらったとおりに、ケーキを作りました"
+        ]
+      ],
+      "explanation": "Đề có lỗi の → に và 作りますした → 作りました. Câu sửa: đã làm bánh đúng như Miller dạy; thể た + とおりに."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-11",
+      "question": "1) ＿＿＿＿＿＿＿＿あとで、歯を磨いてください。",
+      "context": "3.\n結婚式、食事、講義、仕事、運動します、 見つかります、食べます、出します、帰ります\n例１：仕事のあとで、泳ぎに行きます。\n例２：甘いお菓子を食べたあとで、苦いお茶を飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "食事の"
+        ]
+      ],
+      "explanation": "Danh từ + のあとで: sau bữa ăn."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-12",
+      "question": "2) 試験を＿＿＿＿＿＿＿＿あとで、答えを思い出しました。",
+      "context": "3.\n結婚式、食事、講義、仕事、運動します、 見つかります、食べます、出します、帰ります\n例１：仕事のあとで、泳ぎに行きます。\n例２：甘いお菓子を食べたあとで、苦いお茶を飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "出した"
+        ]
+      ],
+      "explanation": "Theo ngân hàng từ, 出します → 出した trước あとで. Tuy nhiên, để nói nộp bài thi một cách rõ và tự nhiên nên viết 答案を出したあとで、答えを思い出しました (sau khi nộp bài mới nhớ ra đáp án). Nguồn dùng 試験 thay cho 答案; không nên học 試験を出す như cách nói chuẩn cho việc nộp bài."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-13",
+      "question": "3) ＿＿＿＿＿＿＿＿あとで、先生に質問しました。",
+      "context": "3.\n結婚式、食事、講義、仕事、運動します、 見つかります、食べます、出します、帰ります\n例１：仕事のあとで、泳ぎに行きます。\n例２：甘いお菓子を食べたあとで、苦いお茶を飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "講義の"
+        ]
+      ],
+      "explanation": "Sau bài giảng: 講義のあとで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-14",
+      "question": "4) ＿＿＿＿＿＿＿＿あとで、シャワーを浴びます。",
+      "context": "3.\n結婚式、食事、講義、仕事、運動します、 見つかります、食べます、出します、帰ります\n例１：仕事のあとで、泳ぎに行きます。\n例２：甘いお菓子を食べたあとで、苦いお茶を飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "運動した"
+        ]
+      ],
+      "explanation": "Sau khi vận động: 運動したあとで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-15",
+      "question": "5) お客さんが＿＿＿＿＿＿＿＿あとで、忘れ物に気が付きました。",
+      "context": "3.\n結婚式、食事、講義、仕事、運動します、 見つかります、食べます、出します、帰ります\n例１：仕事のあとで、泳ぎに行きます。\n例２：甘いお菓子を食べたあとで、苦いお茶を飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰った"
+        ]
+      ],
+      "explanation": "Sau khi khách về: お客さんが帰ったあとで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-16",
+      "question": "6) ＿＿＿＿＿＿＿＿あとで、すぐ旅行に行きます。",
+      "context": "3.\n結婚式、食事、講義、仕事、運動します、 見つかります、食べます、出します、帰ります\n例１：仕事のあとで、泳ぎに行きます。\n例２：甘いお菓子を食べたあとで、苦いお茶を飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "結婚式の"
+        ]
+      ],
+      "explanation": "Sau lễ cưới: 結婚式のあとで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-17",
+      "question": "1) この手紙は９０円の切手を＿＿＿＿＿＿出してください。",
+      "context": "４．\n例：銀行からお金を借りてうちを買いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "はって",
+          "貼って"
+        ]
+      ],
+      "explanation": "切手をはって出す: dán tem rồi gửi."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-18",
+      "question": "2) 天気がいい日には帽子を＿＿＿＿＿＿＿出かけます。",
+      "context": "４．\n例：銀行からお金を借りてうちを買いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "かぶって"
+        ]
+      ],
+      "explanation": "帽子をかぶる → かぶって: đội mũ rồi đi ra ngoài."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-19",
+      "question": "3) ケーキは箱に＿＿＿＿＿＿＿持って行きます。",
+      "context": "４．\n例：銀行からお金を借りてうちを買いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "入れて"
+        ]
+      ],
+      "explanation": "箱に入れて持って行く: cho vào hộp rồi mang đi."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-20",
+      "question": "4) レポートには名前を＿＿＿＿＿＿＿出してください。",
+      "context": "４．\n例：銀行からお金を借りてうちを買いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "書いて"
+        ]
+      ],
+      "explanation": "名前を書いて出す: ghi tên rồi nộp."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-21",
+      "question": "5) 彼は白いシャツを＿＿＿＿＿＿＿、青いネクタイを＿＿＿＿＿来ました。",
+      "context": "４．\n例：銀行からお金を借りてうちを買いました。",
+      "status": "reference",
+      "answers": [
+        [
+          "着て"
+        ],
+        [
+          "して",
+          "締めて"
+        ]
+      ],
+      "explanation": "シャツを着て、ネクタイをして来ました: mặc áo, đeo cà vạt đến."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-22",
+      "question": "1) コーヒーは砂糖を＿＿＿＿＿＿＿飲みますか。…いいえ、入れないで飲みます。",
+      "context": "５．\n例：朝ご飯を食べて学校へ行きますか。…いいえ、食べないで行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "入れて"
+        ]
+      ],
+      "explanation": "入れて飲みますか: uống có cho đường không? Trả lời phủ định dùng 入れないで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-23",
+      "question": "2) 渡辺さんは傘を持って出かけましたか。…いいえ、＿＿＿＿＿＿＿出かけました。",
+      "context": "５．\n例：朝ご飯を食べて学校へ行きますか。…いいえ、食べないで行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "持たないで"
+        ]
+      ],
+      "explanation": "持って行く đối lập 持たないで出かける: đi mà không mang ô."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-24",
+      "question": "3) クーラーを消して寝ましたか。…いいえ、＿＿＿＿＿＿＿寝てしまいました。",
+      "context": "５．\n例：朝ご飯を食べて学校へ行きますか。…いいえ、食べないで行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "消さないで"
+        ]
+      ],
+      "explanation": "消さないで寝てしまいました: ngủ quên mà chưa tắt điều hòa."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-25",
+      "question": "4) 旅行はホテルを＿＿＿＿＿＿＿行きましたか。\n…いいえ、予約しないで行きましたが、すぐ泊まれました。",
+      "context": "５．\n例：朝ご飯を食べて学校へ行きますか。…いいえ、食べないで行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "予約して"
+        ]
+      ],
+      "explanation": "予約して行きましたか: đã đặt khách sạn rồi đi phải không?"
+    },
+    {
+      "exerciseId": "34-section-5-exercise-26",
+      "question": "1) 連休はどこへも＿＿＿＿＿＿＿、うちでゆっくり休みたいです。",
+      "context": "６．\n例：要らない箱はここに置かないで、捨ててください。",
+      "status": "reference",
+      "answers": [
+        [
+          "行かないで"
+        ]
+      ],
+      "explanation": "Không đi đâu, nghỉ ngơi ở nhà: 行かないで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-27",
+      "question": "2) 最近バスやタクシーに＿＿＿＿＿＿＿、よく歩いています。",
+      "context": "６．\n例：要らない箱はここに置かないで、捨ててください。",
+      "status": "reference",
+      "answers": [
+        [
+          "乗らないで"
+        ]
+      ],
+      "explanation": "Không đi xe buýt/taxi mà đi bộ: 乗らないで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-28",
+      "question": "3) 天気製品が故障しても、新しいのを＿＿＿＿＿＿＿修理して使っています。",
+      "context": "６．\n例：要らない箱はここに置かないで、捨ててください。",
+      "status": "reference",
+      "answers": [
+        [
+          "買わないで"
+        ]
+      ],
+      "explanation": "Không mua mới mà sửa để dùng: 買わないで. Nguồn 天気製品 là lỗi của 電気製品."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-29",
+      "question": "4) 昨日はうちへ＿＿＿＿＿＿＿＿＿、友達のうちにとまりました。",
+      "context": "６．\n例：要らない箱はここに置かないで、捨ててください。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰らないで"
+        ]
+      ],
+      "explanation": "Không về nhà mà ở lại nhà bạn: 帰らないで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-30",
+      "question": "5) 日曜日も＿＿＿＿＿＿＿、働くんですか。",
+      "context": "６．\n例：要らない箱はここに置かないで、捨ててください。",
+      "status": "reference",
+      "answers": [
+        [
+          "休まないで"
+        ]
+      ],
+      "explanation": "Chủ nhật cũng làm việc không nghỉ: 休まないで."
+    },
+    {
+      "exerciseId": "34-section-5-exercise-31",
+      "question": "6) 一人で＿＿＿＿＿＿＿、みんなに相談して決めたほうがいいですよ。",
+      "context": "６．\n例：要らない箱はここに置かないで、捨ててください。",
+      "status": "reference",
+      "answers": [
+        [
+          "決めないで"
+        ]
+      ],
+      "explanation": "Đừng tự quyết định, nên hỏi mọi người: 決めないで."
+    }
+  ]
+}

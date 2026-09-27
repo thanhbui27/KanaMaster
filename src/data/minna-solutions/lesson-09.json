@@ -1,0 +1,241 @@
+{
+  "lesson": 9,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-9",
+  "solutions": [
+    {
+      "exerciseId": "9-section-7-exercise-1",
+      "question": "１）マリアさんは　漢字が　（____）　わかりません。",
+      "context": "1.\n全然　とても　たくさん　よく　いつも\n例：日曜日は　（　いつも　）　テニスを　します。",
+      "status": "sample",
+      "answers": [
+        [
+          "あまり",
+          "全然",
+          "ぜんぜん"
+        ]
+      ],
+      "explanation": "あまり～ません là không hiểu lắm; 全然～ません là hoàn toàn không hiểu. Đề không cho mức độ nên không có một đáp án duy nhất."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-2",
+      "question": "２）あの　人は　お金が（____）　あります。",
+      "context": "1.\n全然　とても　たくさん　よく　いつも\n例：日曜日は　（　いつも　）　テニスを　します。",
+      "status": "sample",
+      "answers": [
+        [
+          "たくさん",
+          "少し"
+        ]
+      ],
+      "explanation": "Với あります có thể nói có nhiều hoặc có một ít tiền; đề chưa cho dữ kiện chọn mức độ."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-3",
+      "question": "３）この　パンは　（____）　おいしいです。",
+      "context": "1.\n全然　とても　たくさん　よく　いつも\n例：日曜日は　（　いつも　）　テニスを　します。",
+      "status": "sample",
+      "answers": [
+        [
+          "とても",
+          "すごく"
+        ]
+      ],
+      "explanation": "とてもおいしいです: rất ngon. Đây là cách hoàn chỉnh mẫu, không phải đáp án duy nhất."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-4",
+      "question": "４）ワンさんは　英語が（____）　わかります。",
+      "context": "1.\n全然　とても　たくさん　よく　いつも\n例：日曜日は　（　いつも　）　テニスを　します。",
+      "status": "sample",
+      "answers": [
+        [
+          "よく",
+          "少し",
+          "だいたい"
+        ]
+      ],
+      "explanation": "よく/少し/だいたいわかります có các mức độ hiểu khác nhau; cần ngữ cảnh để chọn một đáp án duy nhất."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-5",
+      "question": "１）松本さんの　奥さんは（　どんな　）人ですか。\n...  親切な　人です。",
+      "context": "2. 例：あの方は　（　どなた　）ですか。\n...  松本さんの　奥さんです。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Câu nguồn đã điền どんな. どんな人 hỏi người như thế nào; 親切な人 nghĩa là người tốt bụng. Không cần thêm câu trả lời."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-6",
+      "question": "２）（____）あの　店で　ワインを　買いますか。\n...  安い　ですから。",
+      "context": "2. 例：あの方は　（　どなた　）ですか。\n...  松本さんの　奥さんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どうして",
+          "なぜ"
+        ]
+      ],
+      "explanation": "～ですから đưa lý do, nên hỏi どうして/なぜ."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-7",
+      "question": "３）カリナさんは（____）料理が　好きですか。\n...  韓国料理が　好きです。",
+      "context": "2. 例：あの方は　（　どなた　）ですか。\n...  松本さんの　奥さんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どんな"
+        ]
+      ],
+      "explanation": "どんな料理 hỏi loại món ăn; đáp 韓国料理."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-8",
+      "question": "４）勉強は（____）ですか。\n...  おもしろいです。",
+      "context": "2. 例：あの方は　（　どなた　）ですか。\n...  松本さんの　奥さんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どう"
+        ]
+      ],
+      "explanation": "どうですか hỏi cảm nhận/tính chất; đáp おもしろいです."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-9",
+      "question": "５）国で（____）に日本語を　習いましたか。\n...  日本人の　先生に　習いました。",
+      "context": "2. 例：あの方は　（　どなた　）ですか。\n...  松本さんの　奥さんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "だれ"
+        ]
+      ],
+      "explanation": "だれに習いましたか hỏi đã học với ai; người dạy đi với に."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-10",
+      "question": "１）テニスが　好きですから、(______)。",
+      "context": "3.\n本を読みません　　銀行は休みです　　毎週します何も買いません　　熱いコーヒーを飲みます\n例：時間が　ありませんから、本を　読みません。",
+      "status": "sample",
+      "answers": [
+        [
+          "よくテニスをします"
+        ]
+      ],
+      "explanation": "Ví dụ: vì thích tennis nên thường chơi tennis. Câu kết quả có thể khác nếu hợp lý."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-11",
+      "question": "２）寒いですから、(______)。",
+      "context": "3.\n本を読みません　　銀行は休みです　　毎週します何も買いません　　熱いコーヒーを飲みます\n例：時間が　ありませんから、本を　読みません。",
+      "status": "sample",
+      "answers": [
+        [
+          "うちにいます"
+        ]
+      ],
+      "explanation": "Ví dụ: vì lạnh nên ở nhà; nhiều kết quả khác cũng đúng."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-12",
+      "question": "３）お金が　ありませんから、(______)。",
+      "context": "3.\n本を読みません　　銀行は休みです　　毎週します何も買いません　　熱いコーヒーを飲みます\n例：時間が　ありませんから、本を　読みません。",
+      "status": "sample",
+      "answers": [
+        [
+          "何も買いません"
+        ]
+      ],
+      "explanation": "Ví dụ: vì không có tiền nên không mua gì."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-13",
+      "question": "４）日曜日ですから、(______)。",
+      "context": "3.\n本を読みません　　銀行は休みです　　毎週します何も買いません　　熱いコーヒーを飲みます\n例：時間が　ありませんから、本を　読みません。",
+      "status": "sample",
+      "answers": [
+        [
+          "会社へ行きません"
+        ]
+      ],
+      "explanation": "Ví dụ: vì Chủ nhật nên không đi làm; đây không phải sự thật bắt buộc với mọi người."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-14",
+      "question": "１）マリアさんは　ダンス　（____）上手です。",
+      "context": "4. 例：ビール　（　を　）　飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "Danh từ kỹ năng đi với が trước 上手です."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-15",
+      "question": "２）わたしは　タイ語　（____）わかりません。",
+      "context": "4. 例：ビール　（　を　）　飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "Đối tượng hiểu/ngôn ngữ dùng が với わかります."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-16",
+      "question": "３）日曜日は　友達と　約束　（____）あります。",
+      "context": "4. 例：ビール　（　を　）　飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "約束があります: có cuộc hẹn."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-17",
+      "question": "４）あしたは　忙しいです　（____）、どこも　行きません。",
+      "context": "4. 例：ビール　（　を　）　飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "から"
+        ]
+      ],
+      "explanation": "から nối lý do bận với kết quả không đi đâu."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-18",
+      "question": "５）どんな　映画　（____）好きですか。",
+      "context": "4. 例：ビール　（　を　）　飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "Đối tượng yêu thích được đánh dấu bằng が."
+    },
+    {
+      "exerciseId": "9-section-7-exercise-19",
+      "question": "６）歌（____）下手です（____）カラオケが　嫌いです。",
+      "context": "4. 例：ビール　（　を　）　飲みます。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ],
+        [
+          "から"
+        ]
+      ],
+      "explanation": "歌が下手: hát kém; ですから: vì vậy/vì lý do đó."
+    }
+  ]
+}

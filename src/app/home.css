@@ -1,0 +1,63 @@
+.dashboard-home { font-family: "Segoe UI", system-ui, sans-serif; }
+.dh-header { width: min(1120px, calc(100% - 48px)); height: 82px; margin: auto; display: flex; align-items: center; gap: 24px; border-bottom: 1px solid var(--line); }
+.dh-brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--ink); font-size: 20px; font-weight: 850; letter-spacing: -.05em; }
+.dh-brand img { border-radius: 10px; } .dh-brand > span > span { color: var(--coral); }
+.dh-header-note { border-left: 1px solid #ded8cf; padding-left: 24px; font-size: 11px; color: var(--muted); }
+.dh-header-link { margin-left: auto; display: flex; align-items: center; gap: 5px; color: var(--muted); font-size: 12px; text-decoration: none; }
+.dh-main { width: min(1120px, calc(100% - 48px)); margin: auto; padding: 42px 0 16px; }
+.dashboard-home a:focus-visible { outline: 3px solid #3c4b8880; outline-offset: 5px; }
+.dh-eyebrow { font-size: 10px; font-weight: 800; letter-spacing: .14em; color: var(--coral-dark); line-height: 1.8; }
+.dh-welcome { display: grid; grid-template-columns: 1.2fr 1fr; align-items: center; gap: 50px; padding: 10px 0 42px; }
+.dh-welcome h1 { font-size: clamp(32px, 3.7vw, 47px); font-weight: 800; letter-spacing: -.05em; line-height: 1.2; margin: 13px 0 16px; }
+.dh-welcome h1 > span { color: var(--coral-dark); } .dh-welcome p { color: var(--muted); font-size: 14px; line-height: 1.85; margin: 0; }
+.dh-hero-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 22px; margin-top: 26px; }
+.dh-button { display: inline-flex; align-items: center; justify-content: center; gap: 12px; padding: 13px 20px; min-height: 48px; border-radius: 13px; background: var(--coral); color: white; text-decoration: none; font-size: 13px; font-weight: 750; box-shadow: 0 7px 18px #f34f3f1a; }
+.dh-button:hover { background: var(--coral-dark); } .dh-text-link { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 650; text-decoration: none; color: var(--ink); }
+.dh-visual { padding: 32px 27px 24px; border: 1px solid #efdfd2; border-radius: 28px; background: linear-gradient(140deg, #fff4e9, #fcf7f0); text-align: center; overflow: hidden; }
+.dh-visual > span { color: #958270; font-size: 13px; letter-spacing: .18em; } .dh-visual > small { font-size: 10px; color: #8c7969; }
+.dh-symbols { display: flex; justify-content: center; gap: 12px; margin: 26px 0 24px; }
+.dh-symbols > span { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 108px; min-height: 134px; background: white; border: 1px solid #ede1d5; border-radius: 18px; font-size: 60px; line-height: 1; color: var(--coral); box-shadow: 0 10px 25px #78513c08; transform: rotate(-7deg); }
+.dh-symbols > span:nth-child(2) { color: var(--indigo); transform: translateY(-7px) rotate(3deg); } .dh-symbols > span:nth-child(3) { color: #2d826b; transform: rotate(9deg); }
+.dh-symbols small { margin-top: 19px; font-size: 8px; letter-spacing: .14em; color: var(--muted); font-weight: 700; }
+.dh-summary { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border: 1px solid var(--line); border-radius: 18px; background: #ffffffa8; margin-bottom: 43px; }
+.dh-summary > div { display: flex; align-items: center; gap: 15px; padding: 22px 25px; min-width: 0; } .dh-summary > div + div { border-left: 1px solid var(--line); }
+.dh-icon { display: grid; place-items: center; width: 43px; height: 43px; flex-shrink: 0; border-radius: 13px; font-size: 27px; }
+.dh-summary strong { font-size: 25px; font-weight: 750; line-height: 1.2; } .dh-summary small { font-size: 13px; color: var(--muted); font-weight: 500; } .dh-summary p { color: var(--muted); font-size: 11px; margin: 4px 0 0; }
+.dh-icon.coral { background: #fff0e8; color: var(--coral-dark); } .dh-icon.indigo { background: #eceefa; color: var(--indigo); } .dh-icon.mint { background: #e9f4ed; color: #2d826b; }
+.dh-section-heading { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin-bottom: 22px; }
+.dashboard-home h2 { margin: 6px 0 0; font-size: 26px; font-weight: 750; letter-spacing: -.04em; line-height: 1.35; } .dh-section-heading > p { font-size: 12px; color: var(--muted); margin: 0; }
+.dh-course-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.dh-course { display: flex; flex-direction: column; min-width: 0; border: 1px solid var(--line); border-radius: 22px; padding: 25px; background: white; box-shadow: 0 8px 28px #20233b04; }
+.dh-course-top { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 24px; }
+.dh-course-symbol { display: grid; place-items: center; width: 60px; height: 60px; border-radius: 17px; background: #fff0e8; color: var(--coral-dark); font-size: 37px; }
+.dh-course.indigo .dh-course-symbol { color: var(--indigo); background: #eceefa; } .dh-course.mint .dh-course-symbol { color: #2d826b; background: #e9f4ed; font-size: 20px; width: 76px; }
+.dh-tag { font-size: 9px; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 6px 9px; }
+.dh-course .dh-eyebrow { font-size: 9px; letter-spacing: .1em; color: var(--muted); }
+.dh-course h3 { font-size: 23px; font-weight: 750; letter-spacing: -.045em; margin: 6px 0 10px; line-height: 1.3; }
+.dh-course > p { font-size: 13px; color: var(--muted); line-height: 1.85; margin: 0 0 23px; flex: 1; }
+.dh-course-progress { display: flex; align-items: center; justify-content: space-between; gap: 9px; font-size: 10px; color: var(--muted); } .dh-course-progress strong { color: var(--ink); }
+.dh-track { height: 5px; margin: 10px 0 22px; background: #f1ede8; border-radius: 6px; overflow: hidden; } .dh-track i { display: block; height: 100%; background: var(--coral); border-radius: inherit; } .dh-course.indigo .dh-track i { background: var(--indigo); }
+.dh-course-link { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding-top: 17px; border-top: 1px solid var(--line); text-decoration: none; color: var(--coral-dark); font-size: 12px; font-weight: 750; }
+.dh-course.indigo .dh-course-link { color: var(--indigo); } .dh-course.mint .dh-course-link { color: #2d826b; } .dh-course-link:hover { text-decoration: underline; text-underline-offset: 4px; }
+.dh-minna-count { display: flex; align-items: center; gap: 12px; margin-bottom: 19px; } .dh-minna-count strong { color: #2d826b; font-size: 31px; font-weight: 750; line-height: 1; } .dh-minna-count span { font-size: 11px; line-height: 1.65; color: var(--ink); } .dh-minna-count small { font-size: 10px; color: var(--muted); }
+.dh-bottom-grid { display: grid; grid-template-columns: 1.25fr 1fr; align-items: stretch; gap: 22px; margin-top: 30px; }
+.dh-next { padding: 26px; border: 1px solid var(--line); border-radius: 22px; background: white; min-width: 0; } .dh-next .dh-section-heading { margin-bottom: 15px; } .dh-next .dh-section-heading > svg { color: #b5ada5; }
+.dh-next-list a { display: flex; align-items: center; gap: 13px; padding: 17px 0; border-bottom: 1px solid var(--line); text-decoration: none; color: var(--ink); }
+.dh-next-list a > div { flex: 1; min-width: 0; } .dh-next-list small { display: block; font-size: 9px; color: var(--muted); letter-spacing: .08em; margin-bottom: 5px; }
+.dh-next-list strong { font-size: 16px; line-height: 1.5; font-weight: 650; overflow-wrap: anywhere; } .dh-next-list a:last-child strong { font-size: 13px; } .dh-next-list a > svg { flex-shrink: 0; color: #9a969c; }
+.dh-resume-note { color: var(--muted); font-size: 10px; line-height: 1.8; margin: 17px 0 0; }
+.dh-practice { padding: 28px; border: 1px solid #e3e3eb; border-radius: 22px; background: #f1f2f8; min-width: 0; } .dh-practice .dh-eyebrow { color: var(--indigo); }
+.dh-practice > p { font-size: 12px; color: var(--muted); line-height: 1.8; margin-bottom: 22px; } .dh-practice-links { display: grid; gap: 9px; margin-bottom: 22px; }
+.dh-practice-links a { display: flex; align-items: center; gap: 12px; padding: 14px 16px; border: 1px solid #e4e5ee; border-radius: 12px; background: #ffffffd9; color: var(--indigo); font-size: 12px; font-weight: 650; text-decoration: none; }
+.dh-practice-links a span { flex: 1; } .dh-practice-links a:hover { background: white; border-color: #b4b9d7; } .dh-practice > .dh-text-link { color: var(--indigo); font-size: 11px; }
+.dh-footnote { margin: 26px 0 0; text-align: center; color: var(--muted); font-size: 10px; line-height: 1.8; }
+@media (max-width: 960px) { .dh-welcome { gap: 25px; } .dh-course { padding: 20px; } .dh-course h3 { font-size: 21px; } .dh-summary > div { padding: 20px 17px; gap: 10px; } .dh-symbols { gap: 7px; } .dh-symbols > span { width: 83px; min-height: 114px; font-size: 50px; } .dh-visual { padding-inline: 20px; } }
+@media (max-width: 760px) {
+  .dh-header, .dh-main { width: calc(100% - 32px); } .dh-header { height: 68px; gap: 12px; } .dh-header-note { display: none; } .dh-header-link { font-size: 10px; } .dh-brand { font-size: 19px; }
+  .dh-main { padding-top: 26px; } .dh-welcome { grid-template-columns: 1fr; padding-bottom: 28px; } .dh-visual { display: none; } .dh-welcome h1 { font-size: clamp(31px, 6vw, 43px); } .dh-welcome p { font-size: 13px; }
+  .dh-summary { margin-bottom: 31px; } .dh-summary > div { display: block; padding: 17px 12px; } .dh-summary .dh-icon { width: 34px; height: 34px; margin-bottom: 12px; border-radius: 10px; } .dh-summary strong { font-size: 23px; } .dh-summary small { font-size: 10px; } .dh-summary p { font-size: 10px; line-height: 1.7; }
+  .dh-section-heading { margin-bottom: 17px; } .dh-section-heading > p { display: none; } .dashboard-home h2 { font-size: 24px; }
+  .dh-course-grid { grid-template-columns: 1fr; gap: 14px; } .dh-course { padding: 22px; } .dh-course-top { margin-bottom: 18px; } .dh-course h3 { font-size: 24px; } .dh-course > p { margin-bottom: 18px; } .dh-course-symbol { width: 53px; height: 53px; }
+  .dh-bottom-grid { grid-template-columns: 1fr; gap: 17px; margin-top: 23px; } .dh-next, .dh-practice { padding: 23px 20px; }
+}
+@media (max-width: 360px) { .dh-brand { font-size: 17px; gap: 7px; } .dh-header-link { font-size: 9px; } .dh-summary > div { padding-inline: 10px; } .dh-summary small { display: block; } .dh-hero-actions { gap: 15px; } .dh-desktop-break { display: none; } }

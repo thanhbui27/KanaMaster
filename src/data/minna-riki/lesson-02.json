@@ -1,0 +1,1503 @@
+{
+  "schemaVersion": 1,
+  "lesson": 2,
+  "title": "Từ vựng ngữ pháp Minna bài 2",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-2",
+  "fetchedAt": "2026-09-27T09:07:07.970351+00:00",
+  "sourceSha256": "19d526c39d5ba9050a15066096d022db8c72cd63ef731c4f7372e0526d3a59ad",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box20",
+      "title": "1. Từ vựng minna bài 2",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "これ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cái này, đây (vật ở gần người nói)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "それ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cái đó, đó (vật ở gần người nghe)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あれ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cái kia, kia (vật ở xa cả người nói và người nghe)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "この~",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "~ này",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "その~",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "~ đó",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あの~",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "~ kia",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "本",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Sách",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じしょ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "辞書",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ điển",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ざっし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "雑誌",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tạp chí",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しんぶん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "新聞",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Báo",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ノート",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Vở",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "てちょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "手帳",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Sổ tay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "めいし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "名詞",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Danh thiếp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "カード",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Thẻ, cạc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "テレホンカード",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Thẻ điện thoại",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えんぴつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "鉛筆",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bút chì",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ボールペン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bút bi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "シャープペンシル",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bút chì kim, bút chì bấm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かぎ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chìa khóa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とけい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "時計",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Đồng hồ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かさ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "傘",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ô, dù",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cặp sách, túi sách",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[カセット] テーブ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Băng [cát-xét]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "テープレコーダー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Máy ghi âm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "テレビ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tivi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ラジオ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Radio",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "カメラ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Máy ảnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "コンピュータ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Máy vi tính",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じどうしゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "自動車",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ô tô, xe hơi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つくえ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "机",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cái bàn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いす",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ghế",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "チョコレート",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chocolate",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "コーヒー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cà phê",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えいご",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "英語",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tiếng Anh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にほんご",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "日本語",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tiếng Nhật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "∼ご",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "∼語",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tiếng~",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cái gì",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Đúng vậy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちがいます。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "違います。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nhầm rồi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そうですか。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Thế à?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あのう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "À…(được sử dụng để thể hiện sự do dự)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほんのきもちです",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほんの気持ちです",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Đây là chút quà nhỏ của tôi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どうぞ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Xin mời",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どうも",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cảm ơn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[どうも] ありがとう[ございます]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cảm ơn nhiều",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "これから おせわになります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "これから お世話になります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ này mong được anh/chị giúp đỡ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こちらこそ よろしく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chính tôi mới mong được anh/chị giúp đỡ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ vựng\nKanji\nÝ nghĩa\n1\nこれ\nCái này, đây (vật ở gần người nói)\n2\nそれ\nCái đó, đó (vật ở gần người nghe)\n3\nあれ\nCái kia, kia (vật ở xa cả người nói và người nghe)\n4\nこの~\n~ này\n5\nその~\n~ đó\n6\nあの~\n~ kia\n7\nほん\n本\nSách\n8\nじしょ\n辞書\nTừ điển\n9\nざっし\n雑誌\nTạp chí\n10\nしんぶん\n新聞\nBáo\n11\nノート\nVở\n12\nてちょう\n手帳\nSổ tay\n13\nめいし\n名詞\nDanh thiếp\n14\nカード\nThẻ, cạc\n15\nテレホンカード\nThẻ điện thoại\n16\nえんぴつ\n鉛筆\nBút chì\n17\nボールペン\nBút bi\n18\nシャープペンシル\nBút chì kim, bút chì bấm\n19\nかぎ\nChìa khóa\n20\nとけい\n時計\nĐồng hồ\n21\nかさ\n傘\nô, dù\n22\nかばん\nCặp sách, túi sách\n23\n[カセット] テーブ\nBăng [cát-xét]\n24\nテープレコーダー\nMáy ghi âm\n25\nテレビ\nTivi\n26\nラジオ\nRadio\n27\nカメラ\nMáy ảnh\n28\nコンピュータ\nMáy vi tính\n29\nじどうしゃ\n自動車\nÔ tô, xe hơi\n30\nつくえ\n机\nCái bàn\n31\nいす\nGhế\n32\nチョコレート\nChocolate\n33\nコーヒー\nCà phê\n34\nえいご\n英語\nTiếng Anh\n35\nにほんご\n日本語\nTiếng Nhật\n36\n∼ご\n∼語\nTiếng~\n37\nなん\n何\nCái gì\n38\nそう\nĐúng vậy\n39\nちがいます。\n違います。\nNhầm rồi\n40\nそうですか。\nThế à?\n41\nあのう\nÀ…(được sử dụng để thể hiện sự do dự)\n42\nほんのきもちです\nほんの気持ちです\nĐây là chút quà nhỏ của tôi\n43\nどうぞ\nXin mời\n44\nどうも\nCảm ơn\n45\n[どうも] ありがとう[ございます]\nCảm ơn nhiều\n46\nこれから おせわになります\nこれから お世話になります\nTừ này mong được anh/chị giúp đỡ\n47\nこちらこそ よろしく\nChính tôi mới mong được anh/chị giúp đỡ",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box21",
+      "title": "2. これ/ それ/ あれ",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/9XhrjU6co4o",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "これ、それ、あれ là những từ chỉ vật và có chức năng như 1 danh từ."
+        },
+        {
+          "type": "text",
+          "text": "-       これ     được dùng để chỉ những vật ở gần người nói"
+        },
+        {
+          "type": "text",
+          "text": "-       それ     được dùng để chỉ những vật ở gần người nghe"
+        },
+        {
+          "type": "text",
+          "text": "-       あれ     được dùng để chỉ những vật ở cách xa cả người nói và người nghe."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A : これは　じしょですか。 Đây là quyển từ điển phải không? (Trong câu này, A là người nói, B là người nghe. A đang cầm vật đó trong tay hoặc đang ở gần vật đó hơn B) B : いいえ、じしょじゃ　ありません。　それは　ノートです。 Không phải. Đó là quyển vở. ( Trong câu này, B là người nói, A là người nghe. Quyển vở lúc này ở gần A) 例2： A: あれは　何（なん）ですか。 Kia là cái gì? B: あれは　かばんです。　　 Kia là cái cặp. Trong trường hợp này, cả A và B đều ở cách xa cái cặp.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "これ、それ、あれ\nlà những từ chỉ vật và có chức năng như 1 danh từ.\n-\nこれ\nđược dùng để chỉ những vật ở gần người nói\n-\nそれ\nđược dùng để chỉ những vật ở gần người nghe\n-\nあれ\nđược dùng để chỉ những vật ở cách xa cả người nói và người nghe.\n例1\n：\nA  :\nこれは　じしょですか。\nĐây là quyển từ điển phải không?\n(\nTrong câu này, A là người nói, B là người nghe. A đang cầm vật đó trong tay hoặc đang ở gần vật đó hơn B\n)\nB  :\nいいえ、じしょじゃ　ありません。　それは　ノートです。\nKhông phải. Đó là quyển vở.\n(\nTrong câu này, B là người nói, A là người nghe. Quyển vở lúc này ở gần A\n)\n例2\n：\nA:\nあれは　何（なん）ですか。\nKia là cái gì?\nB:\nあれは　かばんです。\nKia là cái cặp.\nTrong trường hợp này, cả A và B đều ở cách xa cái cặp.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/9XhrjU6co4o",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box22",
+      "title": "3. このN/ そのN/ あのN",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/8uCYp0ly3UA",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "この」、「その」、「あの」là những từ dùng để bổ nghĩa cho danh từ đứng đằng sau nó. Tương tự như これ、それ、あれ, ta có :"
+        },
+        {
+          "type": "text",
+          "text": "-       この　dùng để bổ nghĩa cho những danh từ chỉ những vật ở gần người nói."
+        },
+        {
+          "type": "text",
+          "text": "-       その  dùng để bổ nghĩa cho những danh từ chỉ những vật ở gần người."
+        },
+        {
+          "type": "text",
+          "text": "-       あの  dùng để bổ nghĩa cho những danh từ chỉ những vật ở xa cả người nói và người nghe."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A:このほんは　何（なん）の　ほんですか。 Quyển sách này là sách gì ? (Trong câu này, A là người nói, B là người nghe. Quyển sách đó đang ở gần A hơn B) B:そのほんは　えいごの　ほんです。 Quyển sách đó là sách tiếng Anh. (Trong câu này, B là người nói, A là người nghe. Quyển sách đó đang ở gần A hơn B) 例2： A:あの方　は　どなたですか。 Vị đó là ai ? B: あの方は　なごやだいがくの　せんせいです。 Vị đó là giáo viên của trường đại học Nagoya. Trong trường hợp này, giáo viên của trường ĐH Nagoya đứng cách xa cả A và B.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "この」、「その」、「あの」\nlà những từ dùng để bổ nghĩa cho danh từ đứng đằng sau nó. Tương tự như\nこれ、それ、あれ\n, ta có :\n-\nこの\ndùng để bổ nghĩa cho những danh từ chỉ những vật ở gần người nói.\n-\nその\ndùng để bổ nghĩa cho những danh từ chỉ những vật ở gần người.\n-\nあの\ndùng để bổ nghĩa cho những danh từ chỉ những vật ở xa cả người nói và người nghe.\n例1\n：\nA:\nこのほんは　何（なん）の　ほんですか。\nQuyển sách này là sách gì ?\n(\nTrong câu này, A là người nói, B là người nghe. Quyển sách đó đang ở gần A hơn B\n)\nB:\nそのほんは　えいごの　ほんです。\nQuyển sách đó là sách tiếng Anh.\n(\nTrong câu này, B là người nói, A là người nghe. Quyển sách đó đang ở gần A hơn B\n)\n例2\n：\nA:\nあの方　は　どなたですか。\nVị đó là ai\n?\nB:\nあの方は　なごやだいがくの　せんせいです。\nVị đó là giáo viên của trường đại học Nagoya.\nTrong trường hợp này, giáo viên của trường ĐH Nagoya đứng cách xa cả A và B.",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/8uCYp0ly3UA",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box23",
+      "title": "4. そうです/ そうじゃ　ありません",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "-「そう」được sử dụng để trả lời vắn tắt cho một câu nghi vấn danh từ ( câu nghi vấn mà tận cùng bằng những danh từ).「はい、そうです」 là câu trả lời khẳng định và「いいえ、そうじゃ　ありません」 là câu trả lời phủ định."
+        },
+        {
+          "type": "text",
+          "text": "- Trong câu trả lời, ta nên tránh lặp lại những từ giống với câu hỏi mà nên sử dụng 「そう」   để trả lời sẽ tự nhiên hơn."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý: Chỉ được sử dụng 「そう」để trả lời khi câu nghi vấn có tận cùng là danh từ. Với câu nghi vấn tận cùng là động từ hoặc tính từ ( sẽ học trong các bài 4 ) thì không được sử dụng cách trả lời này."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A：それは　テレホンカード　ですか。 Đây là thẻ điện thoại phải không? B1：はい、テレホンカードです。(Cách 1) Vâng, đây là thẻ điện thoại. B2：はい、そうです。 (Cách 2) Vâng, đúng rồi. 例2： A：それは　ラジカセ　ですか。 Đây là đài catset phải không? B1：いいえ、ラジカセではありません。(Cách 1) Vâng, đây là thẻ điện thoại. B2 :いいえ、そう　じゃ　ありません。(Cách 2) Không, không phải.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "-「\nそう」\nđược sử dụng để trả lời vắn tắt cho một câu nghi vấn danh từ ( câu nghi vấn mà tận cùng bằng những danh từ).\n「はい、そうです」\nlà câu trả lời khẳng định và\n「いいえ、そうじゃ　ありません」\nlà câu trả lời phủ định.\n- Trong câu trả lời, ta nên tránh lặp lại những từ giống với câu hỏi mà nên sử dụng\n「そう」\nđể trả lời sẽ tự nhiên hơn.\nLưu ý\n: Chỉ được sử dụng\n「そう」\nđể trả lời khi\ncâu nghi vấn có tận cùng là\ndanh từ\n. Với câu nghi vấn tận cùng là động từ hoặc tính từ ( sẽ học trong các bài 4 ) thì không được sử dụng cách trả lời này.\n例1\n：\nA\n：それは　テレホンカード　ですか。\nĐây là thẻ điện thoại phải không?\nB1\n：はい、テレホンカードです。\n(Cách 1)\nVâng, đây là thẻ điện thoại.\nB2\n：はい、そうです。\n(Cách 2)\nVâng, đúng rồi.\n例2\n：\nA\n：それは　ラジカセ　ですか。\nĐây là đài catset phải không?\nB1\n：いいえ、ラジカセではありません。\n(Cách 1)\nVâng, đây là thẻ điện thoại.\nB2 :\nいいえ、そう　じゃ　ありません。\n(Cách 2)\nKhông, không phải.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box25",
+      "title": "5. ～は S1 ですか 、S2 ですか",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Dạng câu 「S1ですか、S2ですか」 là dạng câu hỏi lựa chọn, trong đó người hỏi đưa ra 2 phương án trả lời để người nghe chọn 1 phương án đúng."
+        },
+        {
+          "type": "text",
+          "text": "Khi trả lời cho dạng câu hỏi này, ta không sử dụng các từ 「はい」hoặc「いいえ」 mà chỉ cần nói ra phương án mình lựa chọn."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A:　これは　ポールペンですか、シャープペンシルですか。 Đây là bút bi hay bút chì máy ? B:　シャープペンシルです。 Bút chì máy.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Dạng câu\n「\nS1\nですか、\nS2\nですか」\nlà dạng câu hỏi lựa chọn, trong đó người hỏi đưa ra 2 phương án trả lời để người nghe chọn 1 phương án đúng.\nKhi trả lời cho dạng câu hỏi này, ta không sử dụng các từ\n「はい」\nhoặc\n「いいえ」\nmà chỉ cần nói ra phương án mình lựa chọn.\n例1\n：\nA:\nこれは　ポールペンですか、シャープペンシルですか。\nĐây là bút bi hay bút chì máy ?\nB:\nシャープペンシルです。\nBút chì máy.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box26",
+      "title": "6. N1のN2",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong bài 1 chúng ta đã học 1 ý nghĩa của trợ từ 「の」,  đó là dùng để chỉ việc N2 là một bộ phận của N1."
+        },
+        {
+          "type": "text",
+          "text": "Trong bài 2 này, chúng ta sẽ học 2 ý nghĩa khác của trợ từ này."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1.N1 dùng để giải thích, bổ nghĩa cho N2:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： これは　コンピューターの ほんです。 Đây là sách về máy tính. 例2： A:　これは　何の　ざっしですか。 Đây là tạp chí gì ? B:　それは　じどうしゃの ざっしです。 Đó là tạp chí về xe hơi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2. Chỉ sự sở hữu, N2 thuộc sở hữu của N1."
+        },
+        {
+          "type": "text",
+          "text": "Trong trường hợp này, danh từ đứng sau  thường được giản lược khi đã rõ nghĩa."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： このほんは　わたしの　ほんです。 Quyển sách này là quyển sách của tôi. 例2： A：あれは　だれの　かばんですか。 Kia là cặp của ai ? B ：マイさんの です。 Của Mai . (Trong trường hợp này không cần thêm 「かばん」 vào đằng sau trợ từ「の」 vì cả người nói và người nghe đều biết danh từ muốn nói đến sau đó là gì nhờ câu hỏi trước đó). 例3： A : このかばんは　Bさん　のですか。 Cái cặp này là của B phải không? B : いいえ、　わたし　の　じゃ　ありません。 Không, không phải của tôi. ＊Tuy nhiên, nếu là danh từ chỉ người thì không được giản lược. 例4： A:ミラーさんは　IMCの　しゃいんですか。　 Anh Miller là nhân viên công ty IMC phải không? B：はい、　IMCの　しゃいんです。 Đúng rồi. (Trong trường hợp này mặc dù cả 2 đều biết danh từ đứng sau trợ từ 「の」 là gì nhưng không được giản lược vì đó là từ chỉ người).",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý:"
+        },
+        {
+          "type": "text",
+          "text": "- Cách dùng thứ 2 này cũng bao hàm ý nghĩa của cách dùng đầu tiên mà ta đã học trong bài 1. Tuy nhiên, phải lưu ý rằng, sở hữu ở đây không đơn thuần là sở hữu trong tiếng Việt, mà có ý nghĩa rất rộng, nó ám chỉ cả việc N2 là một bộ phận của N1"
+        },
+        {
+          "type": "text",
+          "text": "( Ví dụ: Sinh viên đại học Luật, nhân viên công ty FPT,...Rõ ràng là trong trường hợp này, sinh viên và nhân viên chỉ là 1 bộ phận của công ty và trường ĐH chứ không thuộc sở hữu của công ty, trường đại học)."
+        },
+        {
+          "type": "text",
+          "text": "Vì thế, cần nhận thức được rằng trợ từ「の」 trong tiếng Nhật không có nghĩa là “ của” 、mà từ “ của” trong tiếng Việt chỉ là một trong những ý nghĩa của trợ từ này khi dịch sang tiếng Việt."
+        }
+      ],
+      "text": "Trong bài 1 chúng ta đã học 1 ý nghĩa của trợ từ\n「の」\n,  đó là dùng để chỉ việc N2 là một bộ phận của N1.\nTrong bài 2 này, chúng ta sẽ học 2 ý nghĩa khác của trợ từ này.\n1.N1 dùng để giải thích, bổ nghĩa cho N2:\n例1\n：\nこれは　コンピューターの\nほんです。\nĐây là sách về máy tính.\n例2\n：\nA:\nこれは　何の　ざっしですか。\nĐây là tạp chí gì ?\nB:\nそれは　じどうしゃの\nざっしです。\nĐó là tạp chí về xe hơi.\n2. Chỉ sự sở hữu, N2 thuộc sở hữu của N1\n.\nTrong trường hợp này, danh từ đứng sau  thường được giản lược khi đã rõ nghĩa.\n例1\n：\nこのほんは　わたしの　ほんです。\nQuyển sách này  là quyển sách của tôi.\n例2\n：\nA\n：あれは　だれの　かばんですか。\nKia là cặp của ai ?\nB\n：マイさんの\nです。\nCủa Mai .\n(Trong trường hợp này không cần thêm\n「かばん」\nvào đằng sau trợ từ\n「の」\nvì cả người nói và người nghe đều biết danh từ muốn nói đến sau đó là gì nhờ câu hỏi trước đó).\n例3\n：\nA  :\nこのかばんは\nB\nさん　のですか。\nCái cặp này là của B\nphải không?\nB  :\nいいえ、　わたし　の　じゃ　ありません。\nKhông, không phải của tôi.\n＊\nTuy nhiên, nếu là danh từ chỉ người thì không được giản lược.\n例4\n：\nA:\nミラーさんは\nIMC\nの　しゃいんですか。\nAnh Miller  là nhân viên công ty IMC phải không?\nB\n：はい、\nIMC\nの　しゃいんです。\nĐúng rồi\n.\n(\nTrong trường hợp này mặc dù cả 2 đều biết danh từ đứng sau trợ từ\n「の」\nlà gì nhưng không được giản lược vì đó là từ chỉ người).\nLưu ý:\n- Cách dùng thứ 2 này cũng bao hàm ý nghĩa của cách dùng đầu tiên mà ta đã học trong bài 1. Tuy nhiên, phải lưu ý rằng, sở hữu ở đây không đơn thuần là sở hữu trong tiếng Việt, mà có ý nghĩa rất rộng, nó ám chỉ cả việc N2 là một bộ phận của N1\n( Ví dụ: Sinh viên đại học Luật, nhân viên công ty FPT,...Rõ ràng là trong trường hợp này, sinh viên và nhân viên chỉ là 1 bộ phận của công ty và trường ĐH chứ không thuộc sở hữu của công ty, trường đại học).\nVì thế, cần nhận thức được rằng trợ từ\n「の」\ntrong tiếng Nhật không có nghĩa là “ của”\n、\nmà từ “ của” trong tiếng Việt chỉ là một trong những ý nghĩa của trợ từ này khi dịch sang tiếng Việt.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box27",
+      "title": "7. そうですか",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Dùng khi người nói nhận được một thông tin gì đó mới (và muốn thế hiện họ đã hiểu thông tin đó.)　Khi nói, chữ か ở cuối câu phải hạ thấp giọng xuống."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A : この　かさは　あなたの　ですか。 Đây là ô của bạn phải không? B :いいえ、ちがいます。　ハイさんの です。 Không phải. Ô của Hải. A : そうですか。 Thế à",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Dùng khi người nói nhận được một thông tin gì đó mới (và muốn thế hiện họ đã hiểu thông tin đó.)\nKhi nói, chữ\nか\nở cuối câu phải hạ thấp giọng xuống.\n例1\n：\nA  :\nこの　かさは　あなたの　ですか。\nĐây là ô của bạn phải không?\nB  :\nいいえ、ちがいます。　ハイさんの\nです。\nKhông phải. Ô của Hải.\nA  :\nそうですか。\nThế à",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-8",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. 例：それは　（　だれ　、なん　、ほん　）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ほんです。"
+        },
+        {
+          "type": "text",
+          "text": "１）ミラーさんは　（　どなた、なんさい、なん　）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  28さいです。"
+        },
+        {
+          "type": "text",
+          "text": "２）ワンさんは　（　だれ、せんせい、なん　）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  いいえ、ちがいます。"
+        },
+        {
+          "type": "text",
+          "text": "３）それは　（　イーさん、だれ、なん　）の　ざっしですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  カメラの　ざっしです。"
+        },
+        {
+          "type": "text",
+          "text": "４）これは　（　わたし、あなた、あの　ひと　）のですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  はい、わたしのです。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例：あの　人は　（だれ）　ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ミラーさんです。"
+        },
+        {
+          "type": "text",
+          "text": "１）これは　（_______）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  はい、カメラです。"
+        },
+        {
+          "type": "text",
+          "text": "２）それは　（_______）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  韓国語の CDです。"
+        },
+        {
+          "type": "text",
+          "text": "３）これは　（_______）の　えんぴつですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  きむらさんの　えんぴつです。"
+        },
+        {
+          "type": "text",
+          "text": "3. 例： は／ほん／です／これ　→　これは　ほんです。"
+        },
+        {
+          "type": "text",
+          "text": "１）です／それ／は／の／わたし／かぎ　→"
+        },
+        {
+          "type": "text",
+          "text": "２）の／です／ミラーさん／じしょ／は／この　→"
+        },
+        {
+          "type": "text",
+          "text": "３）だれ／その／の／か／かさ／です／は　→"
+        },
+        {
+          "type": "text",
+          "text": "４）あれ／です／せんせい／つくえ／の／は　→"
+        },
+        {
+          "type": "text",
+          "text": "4. 例 : 山田       ：   　はい、どなたですか。"
+        },
+        {
+          "type": "text",
+          "text": "サントス：　   408の　サントスです。"
+        },
+        {
+          "type": "text",
+          "text": "１）サントス：       これから（_______）。"
+        },
+        {
+          "type": "text",
+          "text": "どうぞ　よろしく。"
+        },
+        {
+          "type": "text",
+          "text": "山田       ：   　こちらこそ　よろしく。"
+        },
+        {
+          "type": "text",
+          "text": "２）サントス ：     あのう、これ、お土産です。（_______）。"
+        },
+        {
+          "type": "text",
+          "text": "山田        ： 　 えっ、なんですか。"
+        },
+        {
+          "type": "text",
+          "text": "サントス ：     コーヒーです。"
+        },
+        {
+          "type": "text",
+          "text": "山田        ：    （_______）。"
+        }
+      ],
+      "text": "1.\n例：それは　（　だれ　、\nなん\n、ほん　）ですか。\n...\nほんです。\n１）ミラーさんは　（　どなた、なんさい、なん　）ですか。\n...  28\nさいです。\n２）ワンさんは　（　だれ、せんせい、なん　）ですか。\n...\nいいえ、ちがいます。\n３）それは　（　イーさん、だれ、なん　）の　ざっしですか。\n...\nカメラの　ざっしです。\n４）これは　（　わたし、あなた、あの　ひと　）のですか。\n...\nはい、わたしのです。\n2.\n例：あの　人は　（だれ）　ですか。\n...\nミラーさんです。\n１）これは　（\n_______\n）ですか。\n...\nはい、カメラです。\n２）それは　（\n_______\n）ですか。\n...\n韓国語\nの\nCD\nです。\n３）これは　（\n_______\n）の　えんぴつですか。\n...\nきむらさんの　えんぴつです。\n3.\n例：\nは／ほん／です／これ\n→\nこれは　ほんです。\n１）です／それ／は／の／わたし／かぎ\n→\n２）の／です／ミラーさん／じしょ／は／この\n→\n３）だれ／その／の／か／かさ／です／は\n→\n４）あれ／です／せんせい／つくえ／の／は\n→\n4.\n例\n:\n山田\n：\nはい、どなたですか。\nサントス：\n408\nの\nサントスです\n。\n１）サントス：\nこれから（\n_______\n）。\nどうぞ　よろしく。\n山田\n：\nこちらこそ　よろしく。\n２）サントス\n：\nあのう、これ、お土産です。（\n_______\n）。\n山田\n：\nえっ、なんですか。\nサントス\n：\nコーヒーです。\n山田\n：\n（\n_______\n）。",
+      "ruby": [
+        {
+          "text": "韓国語",
+          "readings": [
+            "かんこくご"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

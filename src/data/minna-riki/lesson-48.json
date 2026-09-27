@@ -1,0 +1,1559 @@
+{
+  "schemaVersion": 1,
+  "lesson": 48,
+  "title": "Từ vựng ngữ pháp Minna bài 48",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-48",
+  "fetchedAt": "2026-09-27T09:08:06.206010+00:00",
+  "sourceSha256": "d51c79623864ae84a402fdb4044075ee971ee7741bf1feab7c1d69d64ef29de4",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box340",
+      "title": "2. Động từ dạng sai khiến – (kí hiệu là Vさせます)",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Cách tạo động từ dạng sai khiến:"
+        },
+        {
+          "type": "text",
+          "text": "- Nhóm I : Những động từ trong nhóm này luôn có âm cuối phần thể　ます là những âm thuộc hàng い. Để tạo dạng sai khiến của động từ, ta thay thế âm đó bằng âm tương ứng ở hàng あrồi thêm せvào sau."
+        },
+        {
+          "type": "text",
+          "text": "うたい・ます　→　うたわせ・　ます"
+        },
+        {
+          "type": "text",
+          "text": "つくり・ます　→　つくらせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "かき・ます　   →　　かかせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "もち・ます　   →　　もたせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "のみ・ます　   →　　のませ・ます"
+        },
+        {
+          "type": "text",
+          "text": "なおし・ます   →　なおさせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "はこび・ます   →　はこばせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "- Nhóm II : Để tạo dạng sai khiến của động từ nhóm II, ta thêm させvào sau phần thể ますcủa động từ."
+        },
+        {
+          "type": "text",
+          "text": "たべ・ます　   →　　たべさせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "い・ます　       →　   いさせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "しらべ・ます　→　  しらべさせ・ます"
+        },
+        {
+          "type": "text",
+          "text": "- Nhóm III:"
+        },
+        {
+          "type": "text",
+          "text": "きます　　　→　こさせます"
+        },
+        {
+          "type": "text",
+          "text": "N＋します　 →　N＋させます"
+        },
+        {
+          "type": "text",
+          "text": "します　　    →　させます"
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý: Cũng giống như thể khả năng, tất cả các động từ sau khi chuyển sang dạng sai khiến đều thuộc nhóm II, và biến đổi sang các thể từ điển, thể ない, thểて, thểた,.. theo các quy tắc của nhóm này."
+        },
+        {
+          "type": "text",
+          "text": "例：　かかせ・ます　→　かかせ・る　→　かかせ・ない　→　かかせ・た"
+        }
+      ],
+      "text": "Cách tạo động từ dạng sai khiến:\n-\nNhóm I\n: Những động từ trong nhóm này luôn có âm cuối phần thể\nます\nlà những âm thuộc hàng\nい\n. Để tạo dạng sai khiến của động từ, ta\nthay thế âm đó bằng âm tương ứng ở hàng\nあ\nrồi thêm\nせ\nvào sau.\nうた\nい\n・ます\n→\nうた\nわせ\n・　ます\nつく\nり\n・ます\n→\nつく\nらせ\n・ます\nか\nき\n・ます\n→\nか\nかせ\n・ます\nも\nち\n・ます\n→\nも\nたせ\n・ます\nの\nみ\n・ます\n→\nの\nませ\n・ます\nなお\nし\n・ます\n→\nなお\nさせ\n・ます\nはこ\nび\n・ます\n→\nはこ\nばせ\n・ます\n-\nNhóm II\n: Để tạo dạng sai khiến của động từ nhóm II, ta thêm\nさせ\nvào sau phần thể\nます\ncủa động từ.\nたべ・ます\n→\nたべ\nさせ\n・ます\nい・ます\n→\nい\nさせ\n・ます\nしらべ・ます\n→\nしらべ\nさせ\n・ます\n-\nNhóm III\n:\nきます\n→\nこさせます\nN\n＋します\n→\nN\n＋させます\nします\n→\nさせます\nLưu ý:\nCũng giống như thể khả năng, tất cả các động từ sau khi chuyển sang dạng sai khiến đều\nthuộc nhóm II,\nvà biến đổi sang các thể từ điển, thể\nない\n, thể\nて\n, thể\nた\n,.. theo các quy tắc của nhóm này.\n例：　かかせ・ます\n→\nかかせ・る\n→\nかかせ・ない\n→\nかかせ・た",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box341",
+      "title": "3. Câu với động từ dạng sai khiến",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- Câu với động từ dạng sai khiến được dùng để biểu thị việc người trên bắt buộc, hoặc cho phép người dưới thực hiện một hành động nào đó."
+        },
+        {
+          "type": "text",
+          "text": "- Tùy vào động từ V là tự động từ hay tha động từ mà cấu trúc ngữ pháp của câu nói cũng thay đổi theo như dưới đây."
+        },
+        {
+          "type": "text",
+          "text": "*) Để tiện cho việc theo dõi, ta quy ước:"
+        },
+        {
+          "type": "text",
+          "text": "-  [endif]Người thực hiện hành động V là NGƯỜI 2."
+        },
+        {
+          "type": "text",
+          "text": "- Người cho phép hay bắt buộc NGƯỜI 2 thực hiện hành động V là NGƯỜI 1."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "1) (Người 1) は/ が (Người 2) を Vさせます( tự động từ) 例1：　 部長 は　山田さんを　大阪へ　出張させます。 Người 1 người 2 V sai khiến Trưởng phòng bắt ( yêu cầu) anh Yamada đi công tác Osaka. Trong VD1 trên: - Người thực hiện hành động đi công tác（出張する人）là anh Yamada　(山田さん). - Người bắt buộc anh Yamada thực hiện hành động ấy là Trưởng phòng　(部長). 例2：　 私　　は　娘　　　を　自由に　遊ばせました。 Người 1 Người 2 　　 V sai khiến Tôi cho phép con gái tôi chơi đùa một cách tự do. Trong VD2 ở trên : - Người thực hiện hành động vui chơi ( 遊んだ人) là con gái tôi (娘). - Người cho phép con gái thực hiện hành động vui chơi ấy là tôi (私).",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý : Tuy nhiên, trong trường hợp mà trợ từ を lặp lại 2 lần trong câu như ví dụ dưới đây, thì dù V là tự động từ, ta biểu thị NGƯỜI 2 bằng trợ từ に thay vì trợ từ を như trong công thức:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3：　 先生 は　子供たち を　走らせました。（O） Người 1 Người 2 V sai khiến Thầy giáo bắt bọn trẻ chạy. 子供たちは　運動場を　走りました。 Bọn trẻ chạy quanh sân vận động 先生は　子供たちを　運動場 を　走らせました（X） 先生は　子供たちに　運動場 を　走らせました。（O） Người 1 Người 2 V sau khiến Thầy giáo bắt bọn trẻ chạy quanh sân vận động.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ trên, do trợ từ đi kèm với động từ V là trợ từ を（biểu thị địa điểm diễn ra sự chuyển động） nên nếu để nguyên theo công thức đã cho thì trợ từ bị lặp lại 2 lần ở trong câu. Vì thế, trong trường hợp này, ta chuyển trợ từ を dùng để biểu thị NGƯỜI 2 trong công thức cho ở đầu thành trợ từ に như trên."
+        }
+      ],
+      "text": "- Câu với động từ dạng sai khiến được dùng để biểu thị việc\nngười trên\nbắt buộc\n, hoặc\ncho phép\nngười dưới\nthực hiện một hành động nào đó.\n- Tùy vào động từ V là\ntự động từ\nhay\ntha động từ\nmà cấu trúc ngữ pháp của câu nói cũng thay đổi theo như dưới đây.\n*) Để tiện cho việc theo dõi, ta quy ước:\n-\nNgười thực hiện hành động V là NGƯỜI 2.\n- Người cho phép hay bắt buộc NGƯỜI 2 thực hiện hành động V là NGƯỜI 1.\n1) (Người 1)\nは\n/\nが\n(Người 2)\nを\nV\nさせます\n( tự động từ)\n例1\n：\n部長\nは\n山田\nさん\nを\n大阪\nへ\n出張\nさせます\n。\nNgười 1     người 2                             V sai khiến\nTrưởng phòng bắt ( yêu cầu) anh Yamada đi công tác Osaka.\nTrong VD1 trên:\n- Người thực hiện hành động đi công tác\n（\n出張\nする人）\nlà anh Yamada\n(\n山田\nさん\n).\n- Người bắt buộc anh Yamada thực hiện hành động ấy là Trưởng phòng\n(\n部長\n).\n例2\n：\n私\nは\n娘\nを\n自由\nに\n遊\nばせました\n。\nNgười 1     Người 2\nV sai khiến\nTôi cho phép con gái tôi chơi đùa một cách tự do.\nTrong VD2 ở trên :\n- Người thực hiện hành động vui chơi (\n遊\nんだ人\n) là con gái tôi (\n娘\n)\n.\n- Người cho phép con gái thực hiện hành động vui chơi ấy là tôi  (\n私\n)\n.\nLưu ý\n: Tuy nhiên, trong trường hợp mà\ntrợ từ\nを\nlặp lại 2 lần t\nrong câu như ví dụ dưới đây, thì dù V là tự động từ, ta biểu thị NGƯỜI 2 bằng\ntrợ từ\nに\nthay vì trợ từ\nを\nnhư trong công thức:\n例3\n：\n先生\nは\n子供\nたち\nを\n走\nらせました\n。\n（\nO\n）\nNgười 1     Người 2               V sai khiến\nThầy giáo bắt bọn trẻ chạy.\n子供\nたちは\n運動場\nを\n走\nりました。\nBọn trẻ chạy quanh sân vận động\n先生は\n子供\nたち\nを\n運動場\nを\n走らせました（\nX\n）\n先生\nは\n子供\nたち\nに\n運動場\nを\n走\nらせました\n。\n（\nO\n）\nNgười 1   Người 2                                 V sau khiến\nThầy giáo bắt bọn trẻ chạy quanh sân vận động.\nTrong ví dụ trên, do trợ từ đi kèm với động từ V là trợ từ\nを（\nbiểu thị địa điểm diễn ra sự chuyển động\n）\nnên nếu để nguyên theo công thức đã cho thì trợ từ bị lặp lại 2 lần ở trong câu. Vì thế, trong trường hợp này, ta chuyển trợ từ\nを\ndùng để biểu thị NGƯỜI 2 trong công thức cho ở đầu thành trợ từ\nに\nnhư trên.",
+      "ruby": [
+        {
+          "text": "部長",
+          "readings": [
+            "ぶちょう"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "大阪",
+          "readings": [
+            "おおさか"
+          ]
+        },
+        {
+          "text": "出張",
+          "readings": [
+            "しゅっちょう"
+          ]
+        },
+        {
+          "text": "出張",
+          "readings": [
+            "しゅっちょう"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "部長",
+          "readings": [
+            "ぶちょう"
+          ]
+        },
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "娘",
+          "readings": [
+            "むすめ"
+          ]
+        },
+        {
+          "text": "自由",
+          "readings": [
+            "じゆう"
+          ]
+        },
+        {
+          "text": "遊",
+          "readings": [
+            "あそ"
+          ]
+        },
+        {
+          "text": "遊",
+          "readings": [
+            "あそ"
+          ]
+        },
+        {
+          "text": "娘",
+          "readings": [
+            "むすめ"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "走",
+          "readings": [
+            "はし"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "運動場",
+          "readings": [
+            "うんどうじょう"
+          ]
+        },
+        {
+          "text": "走",
+          "readings": [
+            "はし"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "運動場",
+          "readings": [
+            "うんどうじょう"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "運動場",
+          "readings": [
+            "うんどうじょう"
+          ]
+        },
+        {
+          "text": "走",
+          "readings": [
+            "はし"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box342",
+      "title": "4. Cách sử dụng thể sai khiến:",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Câu văn sai khiến được dùng để biểu thị việc người trên( NGƯỜI 1) bắt buộc hay cho phép người dưới( NGƯỜI 2) làm một hành động nào đó.. Nó được sử dụng khi sự liên hệ trên dưới giữa NGƯỜI 1 và NGƯỜI 2 rõ ràng( VD: cha con, anh em hay cấp trên với cấp dưới trong cùng 1 công ty,…)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： 私は　弟に　荷物を　持たせます。 Tôi sẽ bắt em trai tôi mang hành lý. 例2： お母さんは　子供を　病院へ　行かせました。 Bà mẹ bắt đứa con đến bệnh viện.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Tuy vậy , khi người nói nói với một người bên ngoài rằng mình sẽ sai một người nào đó trong nhóm của anh ta làm một việc gì đó ( như ví dụ 3 dưới đây) thì câu văn thể sai khiến vẫn được sử dụng mà không cần để ý đến mối liên hệ trên dưới trong nội bộ nhóm của người nói."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： A：駅に　着いたら、お電話を　ください。係の　者を　迎えに　行かせますから。 Hãy gọi điện cho tôi khi ông đến ga. Tôi sẽ bảo người phụ trách ra đón. B：わかりました。 Tôi biết rồi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Trong ví dụ trên, anh A có thể là người phụ trách bộ phận liên lạc với khách, còn係りもの là người phụ trách việc đưa đón khách à anh A có thể không phải ở địa vị cao hơn 係りものnhưng vẫn dùng được câu văn ở thể sai khiến vì lý do như đã nói ở trên. Tuy vậy, nó chỉ thường được sử dụng trong trường hợp nhóm của người nói làm dịch vụ gì đó cho người nghe (khách sạn, công ty với khách hàng)."
+        },
+        {
+          "type": "text",
+          "text": "- Lưu ý 1: Khi người dưới yêu cầu người trên làm một việc gì đó mà mối liên hệ trên dưới giữa 2 người rất rõ ràng thì ta sử dụng Vていただきます. Còn nếu 2 người ngang hàng nhau hoặc mối liện hệ trên dưới giữa 2 người ko rõ ràng thì sử dụng Vてもらいます："
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4： 私 は 社長に　説明して　いただきます。 Tôi sẽ nhờ giám đốc giải thích. 例5： 私 は 友達 に 説明して もらいます。 Tôi sẽ nhờ bạn tôi giải thích.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Như vậy, như đã thấy ở ví dụ 4 ở trên, động từ ở thể sai khiến thường không được phép sử dụng để biểu thị việc người dưới đề nghị hay khiến cho người trên làm một việc gì đó. Tuy nhiên, trong một số trường hợp, khi mà động từ V miêu tả một cảm xúc nào đó như :　安心する、心配する、がっかりする、喜ぶ、かなしむ、怒る thì vẫn có thể sử dụng:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例6： 子供の　時、体が　弱くて、母を　心配させました。 Hồi nhỏ, cơ thể tôi yếu ớt nên đã làm cho mẹ tôi lo lắng. 例7： ハイさんは　大学入学試験に　失敗して、両親を　がっかりさせました。 Anh Hải thi trượt đại học làm cho bố mẹ anh ấy rất thất vọng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "- Tuy vậy, trong giáo trình みんなの日本語II　 không đề cập tới cách sử dụng này của động từ sai khiến."
+        }
+      ],
+      "text": "Câu văn sai khiến được dùng để biểu thị việc người trên( NGƯỜI 1)\nbắt buộc\nhay\ncho phép\nngười dưới( NGƯỜI 2) làm một hành động nào đó.. Nó được sử dụng khi\nsự liên hệ trên dưới giữa NGƯỜI 1 và NGƯỜI 2 rõ ràng\n( VD: cha con, anh em hay cấp trên với cấp dưới trong cùng 1 công ty,…).\n例1\n：\n私は\n弟\nに\n荷物\nを\n持\nたせます。\nTôi sẽ bắt em trai tôi mang hành lý.\n例2\n：\nお\n母\nさんは\n子供\nを\n病院\nへ\n行\nかせました。\nBà mẹ bắt đứa con đến bệnh viện.\n- Tuy vậy , khi người nói\nnói với một người bên ngoài\nrằng mình sẽ sai một\nngười nào đó trong nhóm của anh ta\nlàm một việc gì đó ( như ví dụ 3 dưới đây) thì câu văn thể sai khiến vẫn được sử dụng mà không cần để ý đến mối liên hệ trên dưới trong nội bộ nhóm của người nói.\n例3\n：\nA\n：\n駅\nに\n着\nいたら、お\n電話\nを　ください。\n係\nの\n者\nを\n迎\nえに\n行\nかせますから。\nHãy gọi điện cho tôi khi ông đến ga. Tôi sẽ bảo người phụ trách ra đón.\nB\n：わかりました。\nTôi biết rồi.\n- Trong ví dụ trên, anh A có thể là người phụ trách bộ phận liên lạc với khách, còn\n係\nりもの\nlà người phụ trách việc đưa đón khách\nà\nanh A có thể không phải ở địa vị cao hơn\n係\nりもの\nnhưng vẫn dùng được câu văn ở thể sai khiến vì lý do như đã nói ở trên. Tuy vậy, nó chỉ thường được sử dụng trong trường hợp nhóm của người nói làm dịch vụ gì đó cho người nghe (khách sạn, công ty với khách hàng).\n- Lưu ý 1:\nKhi người dưới yêu cầu người trên làm một việc gì đó mà mối liên hệ trên dưới giữa 2 người rất rõ ràng thì ta sử dụng V\nていただきます\n. Còn nếu 2 người ngang hàng nhau hoặc mối liện hệ trên dưới giữa 2 người ko rõ ràng thì sử dụng V\nてもらいます：\n例4\n：\n私\nは\n社長\nに\n説明\nして　いただきます。\nTôi sẽ nhờ giám đốc giải thích.\n例5\n：\n私 は\n友達\nに\n説明\nして もらいます。\nTôi sẽ nhờ bạn tôi giải thích.\nNhư vậy, như đã thấy ở ví dụ 4 ở trên, động từ ở thể sai khiến thường không được phép sử dụng để biểu thị việc người dưới đề nghị hay khiến cho người trên làm một việc gì đó. Tuy nhiên, trong một số trường hợp, khi mà động từ V miêu tả một cảm xúc nào đó như :\n安心\nする、\n心配\nする、がっかりする、\n喜\nぶ、かなしむ、\n怒\nる\nthì vẫn có thể sử dụng:\n例6\n：\n子供\nの\n時\n、\n体\nが\n弱\nくて、\n母\nを\n心配\nさせました。\nHồi nhỏ, cơ thể tôi yếu ớt nên đã làm cho mẹ tôi lo lắng.\n例7\n：\nハイさんは\n大学\n入学\n試験\nに\n失敗\nして、\n両親\nを　がっかりさせました。\nAnh Hải thi trượt đại học làm cho bố mẹ anh ấy rất thất vọng.\n- Tuy vậy, trong giáo trình\nみんなの日本語\nII\nkhông đề cập tới cách sử dụng này của động từ sai khiến.",
+      "ruby": [
+        {
+          "text": "弟",
+          "readings": [
+            "おとうと"
+          ]
+        },
+        {
+          "text": "荷物",
+          "readings": [
+            "にもつ"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "母",
+          "readings": [
+            "かあ"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "病院",
+          "readings": [
+            "びょういん"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "着",
+          "readings": [
+            "つ"
+          ]
+        },
+        {
+          "text": "電話",
+          "readings": [
+            "でんわ"
+          ]
+        },
+        {
+          "text": "係",
+          "readings": [
+            "かかり"
+          ]
+        },
+        {
+          "text": "者",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "迎",
+          "readings": [
+            "むか"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "係",
+          "readings": [
+            "がか"
+          ]
+        },
+        {
+          "text": "係",
+          "readings": [
+            "かか"
+          ]
+        },
+        {
+          "text": "社長",
+          "readings": [
+            "しゃちょう"
+          ]
+        },
+        {
+          "text": "説明",
+          "readings": [
+            "せつめい"
+          ]
+        },
+        {
+          "text": "友達",
+          "readings": [
+            "ともだち"
+          ]
+        },
+        {
+          "text": "説明",
+          "readings": [
+            "せつめい"
+          ]
+        },
+        {
+          "text": "安心",
+          "readings": [
+            "あんしん"
+          ]
+        },
+        {
+          "text": "心配",
+          "readings": [
+            "しんぱい"
+          ]
+        },
+        {
+          "text": "喜",
+          "readings": [
+            "よろこ"
+          ]
+        },
+        {
+          "text": "怒",
+          "readings": [
+            "おこ"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "とき"
+          ]
+        },
+        {
+          "text": "体",
+          "readings": [
+            "からだ"
+          ]
+        },
+        {
+          "text": "弱",
+          "readings": [
+            "よわ"
+          ]
+        },
+        {
+          "text": "母",
+          "readings": [
+            "はは"
+          ]
+        },
+        {
+          "text": "心配",
+          "readings": [
+            "しんぱい"
+          ]
+        },
+        {
+          "text": "大学",
+          "readings": [
+            "だいがく"
+          ]
+        },
+        {
+          "text": "入学",
+          "readings": [
+            "にゅうがく"
+          ]
+        },
+        {
+          "text": "試験",
+          "readings": [
+            "しけん"
+          ]
+        },
+        {
+          "text": "失敗",
+          "readings": [
+            "しっぱい"
+          ]
+        },
+        {
+          "text": "両親",
+          "readings": [
+            "りょうしん"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box343",
+      "title": "5. Vさせていただけませんか",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "～ていただけませんか mà chúng ta đã học trong bài 26 được sử dụng khi mình nhờ người nào đó làm một việc gì. Còn khi muốn xin người nào đó cho phép mình làm hành động V thì sử dụng 　“ thể てcủa động từ sai khiến + いただけませんか”."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： コピー機の　使い方を　教えて　いただけませんか。 Anh có thể dạy tôi cách dùng máy photo được không. 例2： 友達の　結婚式が　あるので、早退させて　いただけませんか。 Vì (hôm nay) có đám cưới của bạn tôi nên có thể cho phép tôi về sớm được không ạ?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ 1, hành động 教えるđược thực hiện bởi người nghe, còn trong ví dụ 2 thì hành động 早退するđược thực hiện bởi người nói."
+        }
+      ],
+      "text": "～ていただけませんか\nmà chúng ta đã học trong bài 26 được sử dụng khi mình nhờ người nào đó làm một việc gì. Còn khi muốn xin người nào đó cho phép mình làm hành động V thì sử dụng\n“ thể\nて\ncủa động từ sai khiến +\nいただけませんか\n”.\n例1\n：\nコピー\n機\nの\n使\nい\n方\nを\n教\nえて　いただけませんか。\nAnh có thể dạy tôi cách dùng máy photo được không.\n例2\n：\n友達\nの\n結婚式\nが　あるので、\n早退\nさせて　いただけませんか。\nVì (hôm nay) có đám cưới của bạn tôi nên có thể cho phép tôi về sớm được không ạ?\nTrong ví dụ 1, hành động\n教\nえる\nđược thực hiện bởi người nghe, còn trong ví dụ 2 thì hành động\n早退\nする\nđược thực hiện bởi người nói.",
+      "ruby": [
+        {
+          "text": "機",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "方",
+          "readings": [
+            "かた"
+          ]
+        },
+        {
+          "text": "教",
+          "readings": [
+            "おし"
+          ]
+        },
+        {
+          "text": "友達",
+          "readings": [
+            "ともだち"
+          ]
+        },
+        {
+          "text": "結婚式",
+          "readings": [
+            "けっこんしき"
+          ]
+        },
+        {
+          "text": "早退",
+          "readings": [
+            "そうたい"
+          ]
+        },
+        {
+          "text": "教",
+          "readings": [
+            "おし"
+          ]
+        },
+        {
+          "text": "早退",
+          "readings": [
+            "そうたい"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "１．"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例：書きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "書かせます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "会います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "働かせます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "かけます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "用意します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "磨かせます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "来ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "守らせます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "捨てます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "飲みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "２．"
+        },
+        {
+          "type": "text",
+          "text": "例１：わたしはいつも娘（を）買い物（に）（行きます…行かせます）"
+        },
+        {
+          "type": "text",
+          "text": "例２：先生は毎日学生（に）テープ（を）（聞きます…聞かせます）"
+        },
+        {
+          "type": "text",
+          "text": "１）部長は鈴木さん（　）アメリカ（　）（出張しました…　　　　　　　　　）"
+        },
+        {
+          "type": "text",
+          "text": "２）わたしは毎日息子（　）皿（　）（洗います…　　　　　　　　　）"
+        },
+        {
+          "type": "text",
+          "text": "３）子供のとき、父はわたし（　）剣道（　）（習いました…　　　　　　　　）"
+        },
+        {
+          "type": "text",
+          "text": "４）わたしは電車の中では子供（　）（立ちます…　　　　　　　　　）います。"
+        },
+        {
+          "type": "text",
+          "text": "５）医者は父（　）たばこ（　）（やめました…　　　　　　　　　）"
+        },
+        {
+          "type": "text",
+          "text": "６）わたしはこども（　）犬（　）世話を（します…　　　　　　　）います。"
+        },
+        {
+          "type": "text",
+          "text": "７）父はわたしたち（　）仕事（　）（手伝います…　　　　　　　　　）"
+        },
+        {
+          "type": "text",
+          "text": "３．"
+        },
+        {
+          "type": "text",
+          "text": "例：娘は塾に通っています。…わたしは娘を塾に通わせています。"
+        },
+        {
+          "type": "text",
+          "text": "1) わたしは日本へ留学しました。"
+        },
+        {
+          "type": "text",
+          "text": "…父は＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "2) 子供は好きな仕事をやります。"
+        },
+        {
+          "type": "text",
+          "text": "…わたしは＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "３）生徒は毎日日記を書いています。"
+        },
+        {
+          "type": "text",
+          "text": "…先生は＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "４）息子は毎朝自分の部屋を掃除します。"
+        },
+        {
+          "type": "text",
+          "text": "…わたしは＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "５）授業のとき、学生は絶対に英語を使いません。"
+        },
+        {
+          "type": "text",
+          "text": "…先生は＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "４．"
+        },
+        {
+          "type": "text",
+          "text": "例：ちょっとこのワープロを（使います…使わせて）いただけませんか。"
+        },
+        {
+          "type": "text",
+          "text": "１）すぐ答えられないので、少し（考えます…　　　　　　　）いただけませんか。"
+        },
+        {
+          "type": "text",
+          "text": "２）申し込んでいなかったんですが、わたしもパーティーに（参加しす…　　　　　　　）いただけませんか。"
+        },
+        {
+          "type": "text",
+          "text": "３）少し熱があるので、早く（帰ります…　　　　　　　）いただけませんか。"
+        },
+        {
+          "type": "text",
+          "text": "４）再入国ビザをもらいに2時間ほど入館へ（行きます…　　　　　　　　　）いただけませんか。"
+        },
+        {
+          "type": "text",
+          "text": "５．経済の資料を探しているんですが、最近のデータを（コピーします…　　　　　　　）いただけませんか。"
+        }
+      ],
+      "text": "１．\n例\n：\n書\nきます\n書\nかせます\n会\nいます\n働\nかせます\nかけます\n用意\nします\n磨\nかせます\n来\nます\n守\nらせます\n捨\nてます\n飲\nみます\n２．\n例\n１：わたしはいつも\n娘\n（を）\n買\nい\n物\n（に）（\n行\nきます\n…\n行\nかせます）\n例\n２：\n先生\nは\n毎日学生\n（に）\nテ\nープ（を）（聞きます\n…\n聞かせます）\n１）\n部長\nは\n鈴木\nさん（　）\nアメリカ\n（　）（\n出張\nしました\n…\n）\n２）わたしは\n毎日息子\n（　）\n皿\n（　）（\n洗\nいます\n…\n）\n３）\n子供\nのとき、父はわたし（　）剣道（　）（習いました\n…\n）\n４）わたしは\n電車\nの\n中\nでは\n子供\n（　）（\n立\nちます\n…\n）います。\n５）\n医者\nは\n父\n（　）たばこ（　）（やめました\n…\n）\n６）わたしはこども（　）\n犬\n（　）\n世話\nを（します\n…\n）います。\n７）\n父\nはわたしたち（　）\n仕事\n（　）（\n手伝\nいます\n…\n）\n３．\n例\n：\n娘\nは\n塾\nに\n通\nっています。\n…\nわたしは\n娘\nを\n塾\nに\n通\nわせています。\n1) わたしは\n日本\nへ\n留学\nしました。\n…\n父は＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n2)\n子供\nは\n好\nきな\n仕事\nをやります。\n…\nわたしは＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n３）\n生徒\nは\n毎日日記\nを\n書\nいています。\n…\n先生\nは＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n４）\n息子\nは\n毎朝自分\nの\n部屋\nを\n掃除\nします。\n…\nわたしは＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n５）\n授業\nのとき、\n学生\nは\n絶対\nに\n英語\nを\n使\nいません。\n…\n先生\nは＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n４．\n例\n：ちょっとこの\nワ\nー\nプロ\nを（\n使\nいます\n…\n使わせて）いただけませんか。\n１）すぐ\n答\nえられないので、\n少\nし（\n考\nえます\n…\n）いただけませんか。\n２）申し\n込\nんでいなかったんですが、わたしも\nパ\nー\nティ\nーに（\n参加\nしす\n…\n）いただけませんか。\n３）\n少\nし\n熱\nがあるので、\n早\nく（\n帰\nります\n…\n）いただけませんか。\n４）\n再入国\nビザ\nをもらいに\n2\n時間\nほど\n入館\nへ（\n行\nきます\n…\n）いただけませんか。\n５．\n経済\nの\n資料\nを\n探\nしているんですが、\n最近\nの\nデ\nー\nタ\nを（コピーします\n…\n）いただけませんか。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "会",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "働",
+          "readings": [
+            "はたら"
+          ]
+        },
+        {
+          "text": "用意",
+          "readings": [
+            "ようい"
+          ]
+        },
+        {
+          "text": "磨",
+          "readings": [
+            "みが"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "守",
+          "readings": [
+            "まも"
+          ]
+        },
+        {
+          "text": "捨",
+          "readings": [
+            "す"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "娘",
+          "readings": [
+            "むすめ"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "毎日学生",
+          "readings": [
+            "まいにちがくせい"
+          ]
+        },
+        {
+          "text": "テ",
+          "readings": [
+            "て"
+          ]
+        },
+        {
+          "text": "部長",
+          "readings": [
+            "ぶちょう"
+          ]
+        },
+        {
+          "text": "鈴木",
+          "readings": [
+            "すずき"
+          ]
+        },
+        {
+          "text": "アメリカ",
+          "readings": [
+            "あめりか"
+          ]
+        },
+        {
+          "text": "出張",
+          "readings": [
+            "しゅっちょう"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "毎日息子",
+          "readings": [
+            "まいにちむすこ"
+          ]
+        },
+        {
+          "text": "皿",
+          "readings": [
+            "さら"
+          ]
+        },
+        {
+          "text": "洗",
+          "readings": [
+            "あら"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "電車",
+          "readings": [
+            "でんしゃ"
+          ]
+        },
+        {
+          "text": "中",
+          "readings": [
+            "なか"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "立",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "医者",
+          "readings": [
+            "いしゃ"
+          ]
+        },
+        {
+          "text": "父",
+          "readings": [
+            "ちち"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "犬",
+          "readings": [
+            "いぬ"
+          ]
+        },
+        {
+          "text": "世話",
+          "readings": [
+            "せわ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "父",
+          "readings": [
+            "ちち"
+          ]
+        },
+        {
+          "text": "仕事",
+          "readings": [
+            "しごと"
+          ]
+        },
+        {
+          "text": "手伝",
+          "readings": [
+            "てつだ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "娘",
+          "readings": [
+            "むすめ"
+          ]
+        },
+        {
+          "text": "塾",
+          "readings": [
+            "じゅく"
+          ]
+        },
+        {
+          "text": "通",
+          "readings": [
+            "かよ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "娘",
+          "readings": [
+            "むすめ"
+          ]
+        },
+        {
+          "text": "塾",
+          "readings": [
+            "じゅく"
+          ]
+        },
+        {
+          "text": "通",
+          "readings": [
+            "かよ"
+          ]
+        },
+        {
+          "text": "日本",
+          "readings": [
+            "にほん"
+          ]
+        },
+        {
+          "text": "留学",
+          "readings": [
+            "りゅうがく"
+          ]
+        },
+        {
+          "text": "子供",
+          "readings": [
+            "こども"
+          ]
+        },
+        {
+          "text": "好",
+          "readings": [
+            "す"
+          ]
+        },
+        {
+          "text": "仕事",
+          "readings": [
+            "しごと"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": []
+        },
+        {
+          "text": "生徒",
+          "readings": [
+            "せいと"
+          ]
+        },
+        {
+          "text": "毎日日記",
+          "readings": [
+            "まいにちにっき"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "息子",
+          "readings": [
+            "むすこ"
+          ]
+        },
+        {
+          "text": "毎朝自分",
+          "readings": [
+            "まいあさじぶん"
+          ]
+        },
+        {
+          "text": "部屋",
+          "readings": [
+            "へや"
+          ]
+        },
+        {
+          "text": "掃除",
+          "readings": [
+            "そうじ"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": []
+        },
+        {
+          "text": "授業",
+          "readings": [
+            "じゅぎょう"
+          ]
+        },
+        {
+          "text": "学生",
+          "readings": [
+            "がくせい"
+          ]
+        },
+        {
+          "text": "絶対",
+          "readings": [
+            "ぜったい"
+          ]
+        },
+        {
+          "text": "英語",
+          "readings": [
+            "えいご"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": []
+        },
+        {
+          "text": "先生",
+          "readings": [
+            "せんせい"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "ワ",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "プロ",
+          "readings": [
+            "ぷろ"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "答",
+          "readings": [
+            "こた"
+          ]
+        },
+        {
+          "text": "少",
+          "readings": [
+            "すこ"
+          ]
+        },
+        {
+          "text": "考",
+          "readings": [
+            "かんが"
+          ]
+        },
+        {
+          "text": "込",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "パ",
+          "readings": [
+            "ぱ"
+          ]
+        },
+        {
+          "text": "ティ",
+          "readings": [
+            "てぃ"
+          ]
+        },
+        {
+          "text": "参加",
+          "readings": [
+            "さんか"
+          ]
+        },
+        {
+          "text": "少",
+          "readings": [
+            "すこ"
+          ]
+        },
+        {
+          "text": "熱",
+          "readings": [
+            "ねつ"
+          ]
+        },
+        {
+          "text": "早",
+          "readings": [
+            "はや"
+          ]
+        },
+        {
+          "text": "帰",
+          "readings": [
+            "かえ"
+          ]
+        },
+        {
+          "text": "再入国",
+          "readings": [
+            "さいにゅうこく"
+          ]
+        },
+        {
+          "text": "ビザ",
+          "readings": [
+            "びざ"
+          ]
+        },
+        {
+          "text": "2",
+          "readings": [
+            "２"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "入館",
+          "readings": [
+            "にゅうかん"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "経済",
+          "readings": [
+            "けいざい"
+          ]
+        },
+        {
+          "text": "資料",
+          "readings": [
+            "しりょう"
+          ]
+        },
+        {
+          "text": "探",
+          "readings": [
+            "さが"
+          ]
+        },
+        {
+          "text": "最近",
+          "readings": [
+            "さいきん"
+          ]
+        },
+        {
+          "text": "デ",
+          "readings": [
+            "で"
+          ]
+        },
+        {
+          "text": "タ",
+          "readings": [
+            "た"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

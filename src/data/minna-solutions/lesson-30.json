@@ -1,0 +1,326 @@
+{
+  "lesson": 30,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-30",
+  "solutions": [
+    {
+      "exerciseId": "30-section-6-exercise-1",
+      "question": "1） 授業（　）まえに、予習しておきます。",
+      "context": "1.\n例：キャッシュカード（は）財布（に）入っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ]
+      ],
+      "explanation": "Danh từ + の前に: trước giờ học."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-2",
+      "question": "2） 授業（　）終わったら、復習しておいてください。",
+      "context": "1.\n例：キャッシュカード（は）財布（に）入っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "授業が終わったら: khi buổi học kết thúc, が chỉ chủ ngữ."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-3",
+      "question": "3） 予定表（　）来月の予定（　）書いておきます。",
+      "context": "1.\n例：キャッシュカード（は）財布（に）入っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "予定表に予定を書いておく: ghi lịch trước vào bảng."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-4",
+      "question": "4） 池（　）周り（　）桜の木（　）植えてあります。",
+      "context": "1.\n例：キャッシュカード（は）財布（に）入っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "に"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "池の周りに桜の木が植えてあります: cây được trồng quanh ao, trạng thái kết quả có chủ ý."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-5",
+      "question": "5） 廊下（　）壁（　）お知らせ（　）はっておきました。",
+      "context": "1.\n例：キャッシュカード（は）財布（に）入っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "廊下の壁にお知らせをはっておきました: đã dán thông báo sẵn trên tường hành lang."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-6",
+      "question": "6） ミラーさんから来た手紙（　）どこですか。\n…机（　）引き出し（　）しまってあります。",
+      "context": "1.\n例：キャッシュカード（は）財布（に）入っています。",
+      "status": "reference",
+      "answers": [
+        [
+          "は"
+        ],
+        [
+          "の"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "手紙は nêu chủ đề; 机の引き出しに là vị trí cất thư."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-7",
+      "question": "1） ミーティングの場所と時間はもうみんなに知らせましたか。\n…はい、もう＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n例：旅行の切符はもう買いましたか。…はい、もう買ってあります。",
+      "status": "reference",
+      "answers": [
+        [
+          "知らせてあります"
+        ]
+      ],
+      "explanation": "～てあります cho biết đã thông báo xong để chuẩn bị."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-8",
+      "question": "2） お子さんの名前はもう決めましたか。\n…はい。もう＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "２．\n例：旅行の切符はもう買いましたか。…はい、もう買ってあります。",
+      "status": "reference",
+      "answers": [
+        [
+          "決めてあります"
+        ]
+      ],
+      "explanation": "名前を決めてあります: tên đã được quyết định sẵn."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-9",
+      "question": "3） 引越しの荷物はもう＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n…はい、もうまとめてあります。",
+      "context": "２．\n例：旅行の切符はもう買いましたか。…はい、もう買ってあります。",
+      "status": "reference",
+      "answers": [
+        [
+          "まとめましたか"
+        ]
+      ],
+      "explanation": "Hỏi đã gom hành lý chưa; câu trả lời まとめてあります nêu kết quả chuẩn bị."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-10",
+      "question": "4） 教室はもう＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n…はい、もう片づけてあります。",
+      "context": "２．\n例：旅行の切符はもう買いましたか。…はい、もう買ってあります。",
+      "status": "reference",
+      "answers": [
+        [
+          "片づけましたか"
+        ]
+      ],
+      "explanation": "Hỏi đã dọn lớp chưa; câu trả lời 片づけてあります."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-11",
+      "question": "1） おした登る山は初めてですから、地図をよく＿＿＿＿＿おきます。",
+      "context": "３．\n例：友達が来るまえに、部屋を掃除しておきます。",
+      "status": "reference",
+      "answers": [
+        [
+          "見て",
+          "調べて"
+        ]
+      ],
+      "explanation": "地図をよく見ておきます／調べておきます: xem kỹ bản đồ trước. Nguồn おした có thể là lỗi của あした."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-12",
+      "question": "2） あさっての夜IMCの部長と食事しますから、レストランを＿＿＿＿＿＿＿おきます。",
+      "context": "３．\n例：友達が来るまえに、部屋を掃除しておきます。",
+      "status": "reference",
+      "answers": [
+        [
+          "予約して"
+        ]
+      ],
+      "explanation": "予約しておきます: đặt trước nhà hàng."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-13",
+      "question": "3） 飲み物はパーティーの時間まで冷蔵庫に＿＿＿＿＿おきます。",
+      "context": "３．\n例：友達が来るまえに、部屋を掃除しておきます。",
+      "status": "reference",
+      "answers": [
+        [
+          "入れて"
+        ]
+      ],
+      "explanation": "冷蔵庫に入れておきます: cho đồ uống vào tủ lạnh trước."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-14",
+      "question": "4） コップが汚れていますから、＿＿＿＿＿おきます。",
+      "context": "３．\n例：友達が来るまえに、部屋を掃除しておきます。",
+      "status": "reference",
+      "answers": [
+        [
+          "洗って"
+        ]
+      ],
+      "explanation": "洗っておきます: rửa cốc sẵn."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-15",
+      "question": "1） はぁみやセロテープを使ったら、元の所に＿＿＿＿＿おいてください。",
+      "context": "５．\n例：部屋はあとでわたしが片づけますから、そのままにしておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "戻して"
+        ]
+      ],
+      "explanation": "元の場所に戻しておいてください: dùng xong để lại chỗ cũ; nguồn はぁみ bị lỗi, có thể là はさみ."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-16",
+      "question": "2） 使わない部屋の電気は＿＿＿＿＿おいてください。",
+      "context": "５．\n例：部屋はあとでわたしが片づけますから、そのままにしておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "消して"
+        ]
+      ],
+      "explanation": "消しておいてください: tắt điện phòng không dùng."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-17",
+      "question": "3） クーラーがついていますから、窓は＿＿＿＿＿おきましょう。",
+      "context": "５．\n例：部屋はあとでわたしが片づけますから、そのままにしておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "閉めて"
+        ]
+      ],
+      "explanation": "閉めておきましょう: đóng cửa sổ để duy trì điều kiện dùng điều hòa."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-18",
+      "question": "4） アメリカへ出張するまえに、どんな準備を＿＿＿＿おいたらいいですか。",
+      "context": "５．\n例：部屋はあとでわたしが片づけますから、そのままにしておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "して"
+        ]
+      ],
+      "explanation": "準備をしておいたら: nếu chuẩn bị trước."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-19",
+      "question": "1） ごみの日はあしたなんですか、今晩出して＿＿＿＿もいいですか。",
+      "context": "６．\nいます、あいります、おきます\n例：テープルの上にケーキの箱が置いてありますから、冷蔵庫に入れておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "おいて"
+        ]
+      ],
+      "explanation": "出しておいてもいい: có thể mang rác ra sẵn."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-20",
+      "question": "2） この手紙、切手がはって＿＿＿＿から、はってから、出してください。",
+      "context": "６．\nいます、あいります、おきます\n例：テープルの上にケーキの箱が置いてありますから、冷蔵庫に入れておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "ありません"
+        ]
+      ],
+      "explanation": "はってありません: chưa dán tem; ～てある diễn tả kết quả một thao tác có chủ ý."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-21",
+      "question": "3） あそこに来週の予定が書いて＿＿＿＿＿から、見て＿＿＿＿＿ください。",
+      "context": "６．\nいます、あいります、おきます\n例：テープルの上にケーキの箱が置いてありますから、冷蔵庫に入れておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "あります"
+        ],
+        [
+          "おいて"
+        ]
+      ],
+      "explanation": "予定が書いてあります: lịch đã ghi; 見ておいてください: hãy xem trước."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-22",
+      "question": "4） 試験までにこの本を読んで＿＿＿＿＿なければなりません。",
+      "context": "６．\nいます、あいります、おきます\n例：テープルの上にケーキの箱が置いてありますから、冷蔵庫に入れておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "おか"
+        ]
+      ],
+      "explanation": "読んでおかなければ: phải đọc trước; おく → おかない → おかなければ."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-23",
+      "question": "5） 新幹線の時間を調べて＿＿＿＿ましょうか。…ええ、お願いします。",
+      "context": "６．\nいます、あいります、おきます\n例：テープルの上にケーキの箱が置いてありますから、冷蔵庫に入れておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "おき"
+        ]
+      ],
+      "explanation": "調べておきましょうか: để tôi tra trước nhé; ましょうか đã có ngoài ô."
+    },
+    {
+      "exerciseId": "30-section-6-exercise-24",
+      "question": "6） あそこに止まって＿＿＿＿車、だれか乗って＿＿＿＿か。\n…いいえ、だれも乗って＿＿＿＿＿",
+      "context": "６．\nいます、あいります、おきます\n例：テープルの上にケーキの箱が置いてありますから、冷蔵庫に入れておいてください。",
+      "status": "reference",
+      "answers": [
+        [
+          "いる"
+        ],
+        [
+          "います"
+        ],
+        [
+          "いません"
+        ]
+      ],
+      "explanation": "車が止まっている bổ nghĩa danh từ; 乗っていますか hỏi trạng thái có người ngồi trong, phủ định 乗っていません."
+    }
+  ]
+}

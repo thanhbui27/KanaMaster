@@ -1,0 +1,1497 @@
+{
+  "schemaVersion": 1,
+  "lesson": 1,
+  "title": "Từ vựng ngữ pháp Minna bài 1",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-1",
+  "fetchedAt": "2026-09-27T09:07:07.826152+00:00",
+  "sourceSha256": "e96e43358295256fe01d9199fdf2c7aa732805da3015be0c2b083cb7194208e9",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box17",
+      "title": "1. Từ vựng minna bài 1",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Hiragana",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "わたし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "私",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tôi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "わたしたち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "私たち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Chúng tôi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あなた",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh/chị, ông/bà, bạn (ngôi thứ 2 số ít)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あのひと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あの人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Người kia",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あのかた",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あの方",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Vị này Lịch sự tương đương với あのひと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みなさん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Các bạn, các anh, các chị, mọi người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～さん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh ～, Chị ～, Ông ～, Bà ～ (cách gọi người khác 1 cách lịch sự)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～ちゃん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bé ( dùng cho nữ) hoặc gọi thân mật cho trẻ con ( cả nam lẫn nữ)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～くん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bé (dùng cho nam) hoặc gọi thân mật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～じん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Người nước ～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せんせい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "先生",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Giáo viên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きょうし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "教師",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Giáo viên ( dùng để nói đến nghề nghiệp)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "がくせい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "学生",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "học sinh, sinh viên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かいしゃいん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "会社員",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhân viên công ty",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～しゃいん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "社員",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhân viên công ty ～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ぎんこういん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "銀行員",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhân viên ngân hàng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いしゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "医者",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bác sĩ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "けんきゅうしゃ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "研究者",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhà nghiên cứu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "エンジニア",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "kỹ sư",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "だいがく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "大学",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trường đại học",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "びょういん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "病院",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bệnh viện",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "でんき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "電気",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Điện, đèn điện",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "だれ（どなた）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "誰",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ai (ngài nào, vị nào)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "―さい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～歳",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tuổi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんさい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何歳",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mấy tuổi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vâng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いいえ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "không",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しつれいですが",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "失礼ですが",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Xin lỗi ( khi muốn nhờ ai việc gì đó)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おなまえは？",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お名前は",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bạn tên gì?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はじめまして。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "初めて",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chào lần đầu gặp nhau",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どうぞよろしく[おねがいします]。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どうぞよろしく「お願いします」。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "rất hân hạnh được làm quen",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こちらは～さんです。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đây là ngài",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～からきました。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～から来ました",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đến từ ～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "アメリカ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Mỹ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "イギリス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "インド",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ấn Độ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "インドネシア",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Indonesia",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かんこく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "韓国",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Hàn quốc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "タイ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Thái Lan",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちゅうごく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "中国",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Trung Quốc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ドイツ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Đức",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にほん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "日本",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nhật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "フランス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Pháp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ブラジル",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Brazil",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さくらだいがく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さ‌く‌ら‌大‌学",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Trường ĐH Sakura (Hoa Anh Đào)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nHiragana\nKanji\nÝ nghĩa\n1\nわたし\n私\nTôi\n2\nわたしたち\n私たち\nChúng tôi\n3\nあなた\nAnh/chị, ông/bà, bạn (ngôi thứ 2 số ít)\n4\nあのひと\nあの人\nNgười kia\n5\nあのかた\nあの方\nVị này Lịch sự tương đương với あのひと\n6\nみなさん\nCác bạn, các anh, các chị, mọi người\n7\n～さん\nAnh ～, Chị ～, Ông\n～, Bà ～ (cách gọi người khác 1 cách lịch sự)\n8\n～ちゃん\nBé ( dùng cho nữ) hoặc gọi thân mật cho trẻ con ( cả nam lẫn nữ)\n9\n～くん\nBé (dùng cho nam) hoặc gọi thân mật\n10\n～じん\n～人\nNgười nước ～\n11\nせんせい\n先生\nGiáo viên\n12\nきょうし\n教師\nGiáo viên ( dùng để nói đến nghề nghiệp)\n13\nがくせい\n学生\nhọc sinh, sinh viên\n14\nかいしゃいん\n会社員\nnhân viên công ty\n15\n～しゃいん\n社員\nnhân viên công ty ～\n16\nぎんこういん\n銀行員\nnhân viên ngân hàng\n17\nいしゃ\n医者\nbác sĩ\n18\nけんきゅうしゃ\n研究者\nnhà nghiên cứu\n19\nエンジニア\nkỹ sư\n20\nだいがく\n大学\ntrường đại học\n21\nびょういん\n病院\nbệnh viện\n22\nでんき\n電気\nĐiện, đèn điện\n23\nだれ（どなた）\n誰\nai (ngài nào, vị nào)\n24\n―さい\n～歳\ntuổi\n25\nなんさい\n何歳\nmấy tuổi\n26\nはい\nvâng\n27\nいいえ\nkhông\n28\nしつれいですが\n失礼ですが\nXin lỗi ( khi muốn nhờ ai việc gì đó)\n29\nおなまえは？\nお名前は\nBạn tên gì?\n30\nはじめまして。\n初めて\nchào lần đầu gặp nhau\n31\nどうぞよろしく[おねがいします]。\nどうぞよろしく「お願いします」。\nrất hân hạnh được làm quen\n32\nこちらは～さんです。\nđây là ngài\n33\n～からきました。\n～から来ました\nđến từ ～\n34\nアメリカ\nMỹ\n35\nイギリス\nAnh\n36\nインド\nẤn Độ\n37\nインドネシア\nIndonesia\n38\nかんこく\n韓国\nHàn quốc\n39\nタイ\nThái Lan\n40\nちゅうごく\n中国\nTrung Quốc\n41\nドイツ\nĐức\n42\nにほん\n日本\nNhật\n43\nフランス\nPháp\n44\nブラジル\nBrazil\n45\nさくらだいがく\nさ‌く‌ら‌大‌学\nTrường ĐH Sakura (Hoa Anh Đào)",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box180",
+      "title": "2. Trợ từ trong tiếng Nhật : は、も、の、か、.",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/zFuylRCpXE8",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Khác với tiếng Viêt, tiếng Nhật là thứ ngôn ngữ chắp dính. Các từ hoặc ngữ có thể tách rời và được nối với nhau bởi những trợ từ. Có nhiều loại trợ từ và cách sử dụng của chúng rất đa dạng. Chính nhờ các trợ từ này mà thứ tự của các thành phần trong một câu của tiếng Nhật có thể được thay đổi dễ dàng mà không làm thay đổi ngữ nghĩa của câu. Trong bài 1, chúng ta sẽ gặp 4 trợ từ là は、も、の、か…"
+        }
+      ],
+      "text": "Khác với tiếng Viêt, tiếng Nhật là thứ ngôn ngữ chắp dính. Các từ hoặc ngữ có thể tách rời và được nối với nhau bởi những trợ từ. Có nhiều loại trợ từ và cách sử dụng của chúng rất đa dạng.\nChính nhờ các trợ từ này mà thứ tự của các thành phần trong một câu của tiếng Nhật có thể được thay đổi dễ dàng mà không làm thay đổi ngữ nghĩa của câu. Trong bài 1, chúng ta sẽ gặp 4 trợ từ là\nは、も、の、か\n…",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/zFuylRCpXE8",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box181",
+      "title": "3. N1 は　N2　です N1 là N2.",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/bM7wpdRk_GI",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Trợ từ 　は được dùng sau N1 để biểu thị N1 là chủ đề của câu."
+        },
+        {
+          "type": "text",
+          "text": "です được dùng ở cuối câu khẳng định thì hiện tại dạng  “ N1 là N2” và thể hiện sự tôn trọng, lịch sự đối với người nghe."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 私　は　学生　です。 Tôi là sinh viên ( Lưu ý: Trợ từ は　không có nghĩa là “ là”",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trợ từ\nは\nđược dùng sau N1 để biểu thị N1 là chủ đề của câu.\nです\nđược dùng ở cuối câu khẳng định thì hiện tại dạng  “ N1 là N2” và thể hiện sự tôn trọng, lịch sự đối với người nghe.\n例1\n：\n私\nは\n学生\nです。\nTôi là sinh viên ( Lưu ý: Trợ từ\nは\nkhông có nghĩa là “ là”",
+      "ruby": [
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        },
+        {
+          "text": "学生",
+          "readings": [
+            "がくせい"
+          ]
+        }
+      ],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/bM7wpdRk_GI",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box182",
+      "title": "4. N1　は　N2　じゃ　ありません",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "じゃ　ありません　là dạng phủ định của　です.Đây là cách nói được sử dụng trong giao tiếp hội thoại hàng ngày. Khi viết, người ta sử dụng dạng chính thống của nó là では　ありません."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： 私　は　ぎんこういん　じゃ　（では）ありません。 Tôi không phải là nhân viên ngân hàng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "～は～　ですか  ==> ~ là ~ phải không."
+        },
+        {
+          "type": "text",
+          "text": "Trợ từ か được đặt ở cuối câu để biến câu đó thành câu nghi vấn. Khi trả lời cho câu hỏi dạng này, ta phải bắt đầu bằng các từ はい　hoặc いいえ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例2： A : ハイさん は いしゃですか。 Anh Hải là bác sĩ phải không. B : はい、いしゃです。 Vâng, anh Hải là bác sĩ. 例3： A : やまださん　は　かいしゃいん　ですか。　 Anh Yamada là nhân viên công ty phải không B : いいえ、かいしゃいんじゃ　ありません。ぎんこういんです Không, anh Yamada không phải là nhân viên công ty. Anh ấy là nhân viên ngân hàng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "じゃ　ありません\nlà dạng phủ định của\nです\n.Đây là cách nói được sử dụng trong giao tiếp hội thoại hàng ngày. Khi viết, người ta sử dụng dạng chính thống của nó là\nでは　ありません.\n例1\n：\n私\nは　ぎんこういん　じゃ　（では）ありません。\nTôi không phải là nhân viên ngân hàng.\n～は～　ですか\n==>\n~ là ~ phải không.\nTrợ từ\nか\nđược đặt ở cuối câu để biến câu đó thành câu nghi vấn. Khi trả lời cho câu hỏi dạng này, ta phải bắt đầu bằng các từ\nはい\nhoặc\nいいえ.\n例2\n：\nA  :\nハイさん   は   いしゃですか。\nAnh Hải là bác sĩ phải không.\nB  :\nはい、いしゃです。\nVâng, anh Hải là bác sĩ.\n例3\n：\nA  :\nやまださん　は　かいしゃいん　ですか。\nAnh Yamada là nhân viên công ty phải không\nB  :\nいいえ、かいしゃいんじゃ　ありません。ぎんこういんです\nKhông, anh Yamada không phải là nhân viên công ty. Anh ấy là nhân viên ngân hàng.",
+      "ruby": [
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box183",
+      "title": "5. ～も～です==> ~ cũng là ~",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "も được sử dụng với tiền đề là khi sự việc mà nó chỉ ra giống với sự việc ở mệnh đề trước."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： 私は　ベトナム人　です。 Tôi là người Việt Nam アンさん　も　ベトナム人　です。 Bạn An cũng là người Việt Nam.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "も\nđược sử dụng với tiền đề là khi sự việc mà nó chỉ ra giống với sự việc ở mệnh đề trước.\n例1\n：\n私\nは\nベトナム人\nです。\nTôi là người Việt Nam\nアンさん　も\nベトナム人\nです。\nBạn An cũng là người Việt Nam.",
+      "ruby": [
+        {
+          "text": "私",
+          "readings": [
+            "わたし"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box184",
+      "title": "6. N1 の N2 です。S は　～さいです ==> S ~ tuổi",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Nối 2 danh từ lại với nhau, danh từ trước xác định cho danh từ sau Trong trường hợp này biểu hiện tính sở thuộc, tức là N2 là một bộ phận của N1, thuộc về N1."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A: 私は　なごやだいがくの　学生　です。 Tôi là sinh viên trường đại học Nagoya B: やまださんは　FPTの　社員　です。 Anh Yamada là nhân viên công ty FPT.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) Hỏi Tuổi ～は なんさい/ おいくつ　ですか　==>    Mấy tuổi / Bao nhiêu tuổi."
+        },
+        {
+          "type": "text",
+          "text": "- Dùng khi nói về tuổi tác.おいくつですか là cách hỏi lịch sự hơn của なんさいですか."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例2： はなちゃんは　9さい　です。　 Bé Hana 9 tuổi. 例3： A: たかひろくんも　９さいですか。 Bé Takahiro cũng 9 tuổi phải không. B: いいえ、たかひろくんは　9さいじゃありません。 Không, bé Takahiro không phải 9 tuổi đâu. A: たかひろくんは　なんさいですか。 Takahiro mấy tuổi rồi. B:たかひろくんは　８さいです。 Takahiro 8 tuổi. 例4： はなちゃんは　9さい　です。　 Bé Hana 9 tuổi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Nối 2 danh từ lại với nhau, danh từ trước xác định cho danh từ sau Trong trường hợp này biểu hiện tính sở thuộc, tức là N2 là một bộ phận của N1, thuộc về N1.\n例1\n：\nA:\n私は　なごや\nだいがく\nの\n学生\nです。\nTôi là sinh viên trường đại học Nagoya\nB:\nやまださんは\nFPT\nの\n社員\nです。\nAnh Yamada là nhân viên công ty FPT.\n*) Hỏi Tuổi\n～は\nなんさい\n/\nおいくつ　ですか\n==>\nMấy tuổi / Bao nhiêu tuổi.\n- Dùng khi nói về tuổi tác.\nおいくつですか\nlà cách hỏi lịch sự hơn của\nなんさいですか\n.\n例2\n：\nはなちゃんは\n9\nさい　です。\nBé Hana 9 tuổi.\n例3\n：\nA:\nたかひろくんも　９さいですか。\nBé Takahiro cũng 9 tuổi phải không.\nB:\nいいえ、たかひろくんは\n9\nさいじゃありません。\nKhông, bé Takahiro không phải 9 tuổi đâu.\nA:\nたかひろくんは　なんさいですか。\nTakahiro mấy tuổi rồi.\nB:\nたかひろくんは　８さいです。\nTakahiro 8 tuổi.\n例4\n：\nはなちゃんは\n9\nさい　です。\nBé Hana 9 tuổi.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. 例：あの方（は）どなたですか。"
+        },
+        {
+          "type": "text",
+          "text": "１）A：サントスさんはブラジル人です。マリアさん（　　）ブラジル人ですか。"
+        },
+        {
+          "type": "text",
+          "text": "B：はい、マリアさん（　　）ブラジル人です。"
+        },
+        {
+          "type": "text",
+          "text": "A：ミラーさん（　　）ブラジル人ですか。"
+        },
+        {
+          "type": "text",
+          "text": "B：いいえ、ミラーさん（　　）ブラジル人じゃありません。"
+        },
+        {
+          "type": "text",
+          "text": "２．グブタさんはIMC（　　）社員です。"
+        },
+        {
+          "type": "text",
+          "text": "2. 例：あなたは会社員ですか。…はい、会社員です。"
+        },
+        {
+          "type": "text",
+          "text": "１）カリナさんは学生ですか。…はい、＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "２）ワンさんも学生ですか。…いいえ、＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "３）あの方は＿＿＿＿＿＿＿＿＿。…山田さんです。"
+        },
+        {
+          "type": "text",
+          "text": "４）これは＿＿＿＿＿＿＿＿＿＿。…はい、わたしのです。"
+        },
+        {
+          "type": "text",
+          "text": "３. 例：［この、これ］は本です。"
+        },
+        {
+          "type": "text",
+          "text": "１）それは［だれ、何］のかばんですか。…［わたし、わたしの］です。"
+        },
+        {
+          "type": "text",
+          "text": "２）［その、それ］は何のテープですか。…日本語のテープです。"
+        },
+        {
+          "type": "text",
+          "text": "３）これはあなたのかぎですか。…［あなた、わたし］のじゃありません。"
+        },
+        {
+          "type": "text",
+          "text": "４）これは［新聞、何］ですか。…はい、それは新聞です。"
+        },
+        {
+          "type": "text",
+          "text": "５）あの人は［何、だれ］ですか。…山田さんです。"
+        }
+      ],
+      "text": "1.\n例\n：あの\n方\n（は）どなたですか。\n１）\nA\n：\nサントスさんは\nブラジル\n人\nです。マリアさん（　　）ブラジル\n人\nですか。\nB\n：はい、マリアさん（　　）ブラジル\n人\nです。\nA\n：ミラーさん（　　）ブラジル\n人\nですか。\nB\n：いいえ、ミラーさん（　　）ブラジル\n人\nじゃありません。\n２．グブタさんは\nIMC\n（　　）\n社員\nです。\n2\n.\n例\n：あなたは\n会社員\nですか。\n…\nはい、\n会社員\nです。\n１）カリナさんは\n学生\nですか。\n…\nはい、＿＿＿＿＿＿＿＿＿＿＿\n２）ワンさんも\n学生\nですか。\n…\nいいえ、＿＿＿＿＿＿＿＿＿＿＿\n３）あの\n方\nは＿＿＿＿＿＿＿＿＿。\n…\n山田\nさんです。\n４）これは＿＿＿＿＿＿＿＿＿＿。\n…\nはい、わたしのです。\n３\n.\n例\n：［この、\nこれ\n］は\n本\nです。\n１）それは［だれ、\n何\n］のかばんですか。\n…\n［わたし、わたしの］です。\n２）［その、それ］は\n何\nのテープ\nですか。\n…\n日本語\nのテープです。\n３）これはあなたのかぎですか。\n…\n［あなた、わたし］のじゃありません。\n４）これは［\n新聞\n、\n何\n］ですか。\n…\nはい、それは\n新聞\nです。\n５）あの人は［\n何\n、だれ］ですか。\n…\n山田\nさんです。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "方",
+          "readings": [
+            "かた"
+          ]
+        },
+        {
+          "text": "サントスさんは",
+          "readings": []
+        },
+        {
+          "text": "人",
+          "readings": [
+            "じん"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "じん"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "じん"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "じん"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "じん"
+          ]
+        },
+        {
+          "text": "社員",
+          "readings": [
+            "しゃいん"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "会社員",
+          "readings": [
+            "かいしゃいん"
+          ]
+        },
+        {
+          "text": "会社員",
+          "readings": [
+            "かいしゃいん"
+          ]
+        },
+        {
+          "text": "学生",
+          "readings": [
+            "がくせい"
+          ]
+        },
+        {
+          "text": "学生",
+          "readings": [
+            "がくせい"
+          ]
+        },
+        {
+          "text": "方",
+          "readings": [
+            "かた"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "本",
+          "readings": [
+            "ほん"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "日本語",
+          "readings": [
+            "にほんご"
+          ]
+        },
+        {
+          "text": "新聞",
+          "readings": [
+            "しんぶん"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "新聞",
+          "readings": [
+            "しんぶん"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

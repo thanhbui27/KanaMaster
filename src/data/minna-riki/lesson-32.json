@@ -1,0 +1,3036 @@
+{
+  "schemaVersion": 1,
+  "lesson": 32,
+  "title": "Từ vựng ngữ pháp Minna bài 32",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-32",
+  "fetchedAt": "2026-09-27T09:07:40.816841+00:00",
+  "sourceSha256": "20767ca65a6c21ffe46005b533071c701da9fba0272523b7e2085d02ad72ef07",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box257",
+      "title": "1. Từ vựng Minna bài 32",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うんどうします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "運動します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vận động, tập thể thao",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せいこうします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "成功します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thành công",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しっぱいします（しけんに～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "失敗します（試験に～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thất bại, trượt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ごうかくします（しけんに～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "合格します（試験に～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đỗ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もどります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "戻ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quay lại, trở lại",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やみます（雨が～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tạnh ,ngừng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はれます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "晴れます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nắng, quang đãng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くもります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "曇ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có mây, mây mù",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふきます（かぜが～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "吹きます（風が～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thổi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なおります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "治ります、直ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "khỏi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つづきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tiếp tục, tiếp diễn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひやします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "冷やします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "làm lạnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しんぱい（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "心配（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lo lắng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "じゅうぶん（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "十分（な）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đủ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おかしい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có vấn đề, không bình thường",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うるさい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ồn ào",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やけど",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bỏng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "けが",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bị thương",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ho",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "インフルエンザ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cúm dịch",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "空",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bầu trời",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たいよう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "太陽",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mặt trời",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "星",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngôi sao",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "月",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mặt trăng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かぜ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "風",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gió",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きた",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "北",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phía bắc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "みなみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "南",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phía nam",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "西",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phía tây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひがし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "東",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phía đông",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すいどう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "隧道",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nước máy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "エンジン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "động cơ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "チーム",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đội",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こんや",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今夜",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tối nay, đêm nay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ゆうがた",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "夕方",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chiều tối",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まえ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "前",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おそく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "遅く",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "muộn , khuya",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こんなに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "như thế này",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そんなに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "như thế đó",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あんなに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "như thế kia",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もしかしたら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có thể, biết dâu là, có khả năng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "それはいけませんね",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thế thì thật không tốt.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "オリンピック",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "olympic",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "げんき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "元気",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "khỏe mạnh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "胃",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dạ dày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はたらきすぎ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "働きすぎ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "làm việc quá sức",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ストレス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "stress, căng thẳng tâm lý",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "むりをします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "無理をします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "làm quá sức",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ゆっくりします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghỉ ngơi, thư thái, dưỡng sức",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほしうらない",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "星占い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bói sao",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おうしざ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "牡牛座",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chòm sao Kim Ngưu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こまります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "困ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "rắc rối, khó xử, vấn đề",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "52",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たからくじ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "「宝くじ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xổ số",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "53",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あたります（たからくじが～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "当たります（宝くじが～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trúng(số)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "54",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "けんこう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "健康",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sức khỏe",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "55",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "れんあい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "恋愛",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tình yêu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "56",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こいびと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "恋人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "người yêu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "57",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "（お）かねもち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お）金持ち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "người giàu có",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nNghĩa\n1\nうんどうします\n運動します\nvận động, tập thể thao\n2\nせいこうします\n成功します\nthành công\n3\nしっぱいします（しけんに～）\n失敗します（試験に～）\nthất bại, trượt\n4\nごうかくします（しけんに～）\n合格します（試験に～）\nđỗ\n5\nもどります\n戻ります\nquay lại, trở lại\n6\nやみます（雨が～）\ntạnh ,ngừng\n7\nはれます\n晴れます\nnắng, quang đãng\n8\nくもります\n曇ります\ncó mây, mây mù\n9\nふきます（かぜが～）\n吹きます（風が～）\nthổi\n10\nなおります\n治ります、直ります\nkhỏi\n11\nつづきます\ntiếp tục, tiếp diễn\n12\nひやします\n冷やします\nlàm lạnh\n13\nしんぱい（な）\n心配（な）\nlo lắng\n14\nじゅうぶん（な）\n十分（な）\nđủ\n15\nおかしい\ncó vấn đề, không bình thường\n16\nうるさい\nồn ào\n17\nやけど\nbỏng\n18\nけが\nbị thương\n19\nせき\nho\n20\nインフルエンザ\ncúm dịch\n21\nそら\n空\nbầu trời\n22\nたいよう\n太陽\nmặt trời\n23\nほし\n星\nngôi sao\n24\nつき\n月\nmặt trăng\n25\nかぜ\n風\ngió\n26\nきた\n北\nphía bắc\n27\nみなみ\n南\nphía nam\n28\nにし\n西\nphía tây\n29\nひがし\n東\nphía đông\n30\nすいどう\n隧道\nnước máy\n31\nエンジン\nđộng cơ\n32\nチーム\nđội\n33\nこんや\n今夜\ntối nay, đêm nay\n34\nゆうがた\n夕方\nchiều tối\n35\nまえ\n前\ntrước\n36\nおそく\n遅く\nmuộn , khuya\n37\nこんなに\nnhư thế này\n38\nそんなに\nnhư thế đó\n39\nあんなに\nnhư thế kia\n40\nもしかしたら\ncó thể, biết dâu là, có khả năng\n41\nそれはいけませんね\nthế thì thật không tốt.\n42\nオリンピック\nolympic\n43\nげんき\n元気\nkhỏe mạnh\n44\nい\n胃\ndạ dày\n45\nはたらきすぎ\n働きすぎ\nlàm việc quá sức\n46\nストレス\nstress, căng thẳng tâm lý\n47\nむりをします\n無理をします\nlàm quá sức\n48\nゆっくりします\nnghỉ ngơi, thư thái, dưỡng sức\n49\nほしうらない\n星占い\nbói sao\n50\nおうしざ\n牡牛座\nchòm sao Kim Ngưu\n51\nこまります\n困ります\nrắc rối, khó xử, vấn đề\n52\nたからくじ\n「宝くじ\nxổ số\n53\nあたります（たからくじが～）\n当たります（宝くじが～）\ntrúng(số)\n54\nけんこう\n健康\nsức khỏe\n55\nれんあい\n恋愛\ntình yêu\n56\nこいびと\n恋人\nngười yêu\n57\n（お）かねもち\nお）金持ち\nngười giàu có",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box258",
+      "title": "2. [Vた/ Vない]　ほうが　いいです",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu này được dùng khi muốn đưa ra lời khuyên hoặc lời cảnh báo mạnh mẽ. Khi dùng mẫu này, người nói hàm ý rằng nếu người nghe làm điều ngược lại thì sẽ dẫn đến một kết quả không hay. Vì thế, tùy vào từng tình huống mà mẫu này có thể tạo cho người nghe ấn tượng là bạn đang áp đặt suy nghĩ của mình cho họ nên cần xét đoán tình huống cho thật kĩ trước khi sử dụng."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： 毎日　運動した　ほうが　いいです。 Bạn nên tập thể dục hàng ngày. 例2： A：熱が　あるんです。 Tôi bị sốt B：じゃ、お風呂に　入らない　ほうが　いいですよ。 Thế thì, bạn không nên tắm đâu.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý : 　Sự khác nhau giữa [～た　ほうが　いい] và [～たら　いい]："
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： A：日本の　お寺が　見たいんですが… Tôi muốn xem chùa của Nhật … B1：じゃ、京都へ　行ったら　いいですよ。(O) Thế thì bạn nên đi Kyoto ấy. B2 ：じゃ、京都へ　行った方が　いいですよ。（X）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) Xét ví dụ 3 ở trên và so sánh 2 mẫu ～た　ほうが　いい　và　～たら　いい :"
+        },
+        {
+          "type": "text",
+          "text": "- B1 : Khi nghe A nói muốn đi chùa thì B1 đề xuất 1 địa điểm ( Kyoto) mà B1 nghĩ là A nên đi, nhưng A không đi Kyoto mà đi chỗ khác thì cũng không có vấn đề gì."
+        },
+        {
+          "type": "text",
+          "text": "- B2: Ngược lại với B1, câu của B2 hàm ý rằng A nên đi đến Kyoto và nếu A không đi Kyoto mà đi chỗ khác thì sẽ dẫn đến một kết quả xấu nào đó --> việc A không đi Kyoto là không tốt."
+        },
+        {
+          "type": "text",
+          "text": "--> Có tính chất mạnh mẽ, áp đặt hơn."
+        }
+      ],
+      "text": "Mẫu này được dùng khi muốn đưa ra\nlời khuyên\nhoặc\nlời cảnh báo\nmạnh mẽ. Khi dùng mẫu này, người nói hàm ý rằng nếu người nghe làm điều ngược lại thì sẽ dẫn đến một kết quả không hay. Vì thế, tùy vào từng tình huống mà mẫu này có thể tạo cho người nghe ấn tượng là bạn đang áp đặt suy nghĩ của mình cho họ nên cần xét đoán tình huống cho thật kĩ trước khi sử dụng.\n例1\n：\n毎日\n運動\nした　ほうが　いいです。\nBạn nên tập thể dục hàng ngày.\n例2\n：\nA\n：\n熱\nが　あるんです。\nTôi bị sốt\nB\n：じゃ、お\n風呂\nに\n入\nらない　ほうが　いいですよ。\nThế thì, bạn không nên tắm đâu.\nLưu ý\n:\nSự khác nhau giữa\n[\n～た　ほうが　いい]\nvà\n[\n～たら　いい]：\n例3\n：\nA\n：日本の　お\n寺\nが\n見\nたいんですが\n…\nTôi muốn xem chùa của Nhật …\nB1\n：じゃ、\n京都\nへ\n行\nったら　いいですよ。\n(O)\nThế thì bạn nên đi Kyoto ấy.\nB2\n：じゃ、\n京都\nへ\n行\nった\n方\nが　いいですよ。（\nX\n）\n*) Xét ví dụ 3 ở trên và so sánh 2 mẫu\n～た　ほうが　いい\nvà\n～たら　いい\n:\n- B1 : Khi nghe A nói muốn đi chùa thì B1 đề xuất 1 địa điểm ( Kyoto) mà B1 nghĩ là A nên đi, nhưng A không đi Kyoto mà đi chỗ khác thì cũng không có vấn đề gì.\n- B2: Ngược lại với B1, câu của B2 hàm ý rằng A nên đi đến Kyoto và nếu A không đi Kyoto mà đi chỗ khác thì sẽ dẫn đến một kết quả xấu nào đó --> việc A không đi Kyoto là không tốt.\n--> Có tính chất mạnh mẽ, áp đặt hơn.",
+      "ruby": [
+        {
+          "text": "毎日",
+          "readings": [
+            "まいにち"
+          ]
+        },
+        {
+          "text": "運動",
+          "readings": [
+            "うんどう"
+          ]
+        },
+        {
+          "text": "熱",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "風呂",
+          "readings": [
+            "ふろ"
+          ]
+        },
+        {
+          "text": "入",
+          "readings": [
+            "はい"
+          ]
+        },
+        {
+          "text": "寺",
+          "readings": [
+            "てら"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "京都",
+          "readings": [
+            "きょうと"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "京都",
+          "readings": [
+            "きょうと"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "方",
+          "readings": [
+            "ほう"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box259",
+      "title": "3. ([V / い-adj / な-adj / N] Thể thông thường) + でしょう",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "*) Thể văn thông thường của mẫu này là 「～だろう」"
+        },
+        {
+          "type": "text",
+          "text": "- Mẫu này được sử dụng để biểu đạt sự phỏng đoán của người nói từ những thông tin mà họ biết. Khi người nói sử dụng mẫu này dưới dạng câu hỏi giống như ở ví dụ 2, thì có nghĩa là họ đang muốn hỏi xem người nghe phỏng đoán thế nào về sự việc đó. Mẫu này thường được sử dụng kèm với các phó từ như 「たぶん」、「おそらく」."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 明日は　雨が　降るでしょう。 Có lẽ ngày mai trời mưa. 例2： ハイさんの　うちは　駅から　遠いですから、きっと　不便でしょう。 Nhà anh Hải ở xa ga nên chắc là bất tiện. 例3： ハイさんは　合格するでしょうか。 Bạn có nghĩ là anh Hải sẽ đỗ không? 例4： この　ケーキは　たぶん　甘いでしょう。 Cái bánh này chắc là ngọt.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*)Lưu ý: Đọc cao dần hay đọc thấp dần でしょう ở cuối câu sẽ làm thay đổi hẳn ý nghĩa của câu. でしょう  với giọng đọc cao ở cuối câu có ý nghĩa nhằm xác nhận sự đồng ý của người nghe đối với quan điểm của người nói ( mẫu 3, bài 21) trong khi でしょう với giọng đọc thấp ở cuối câu lại có nghĩa thể hiện sự phỏng đoán của người nói đối với 1 sự việc nào đó."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例5：　 きょう、ハイさんは　パーティーに　来るでしょう。(đọc thấp giọng) Hôm nay có lẽ anh Hải sẽ đến dự tiệc. 例6：　 きょう、ハイさんは　パーティーに　来るでしょう。(đọc cao giọng) Hôm nay anh Hải đến dự tiệc chứ?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "*) Thể văn thông thường của mẫu này là\n「～だろう」\n- Mẫu này được sử dụng để biểu đạt sự phỏng đoán của người nói từ những thông tin mà họ biết. Khi người nói sử dụng mẫu này dưới dạng câu hỏi giống như ở ví dụ 2, thì có nghĩa là họ đang muốn hỏi xem người nghe phỏng đoán thế nào về sự việc đó. Mẫu này thường được sử dụng kèm với các phó từ như\n「たぶん」、「おそらく」\n.\n例1\n：\n明日\nは\n雨\nが\n降\nるでしょう。\nCó lẽ ngày mai trời mưa.\n例2\n：\nハイさんの　うちは\n駅\nから\n遠\nいですから、きっと\n不便\nでしょう。\nNhà anh Hải ở xa ga nên chắc là bất tiện.\n例3\n：\nハイさんは　合格するでしょうか。\nBạn có nghĩ là anh Hải sẽ đỗ không?\n例4\n：\nこの　ケーキは　たぶん\n甘\nいでしょう。\nCái bánh này chắc là ngọt.\n*)Lưu ý\n: Đọc cao dần hay đọc thấp dần\nでしょう\nở cuối câu sẽ làm thay đổi hẳn ý nghĩa của câu.\nでしょう\nvới giọng\nđọc cao\nở cuối câu có ý nghĩa nhằm\nxác nhận sự đồng ý\ncủa người nghe đối với quan điểm của người nói ( mẫu 3, bài 21) trong khi\nでしょう\nvới giọng\nđọc thấp\nở cuối câu lại có nghĩa\nthể hiện sự phỏng đoán\ncủa người nói đối với 1 sự việc nào đó.\n例5\n：\nきょう、ハイさんは　パーティーに\n来\nるでしょう。\n(đọc thấp giọng)\nHôm nay có lẽ anh Hải sẽ đến dự tiệc.\n例6\n：\nきょう、ハイさんは　パーティーに\n来\nるでしょう。\n(đọc cao giọng)\nHôm nay anh Hải đến dự tiệc chứ?",
+      "ruby": [
+        {
+          "text": "明日",
+          "readings": [
+            "あした"
+          ]
+        },
+        {
+          "text": "雨",
+          "readings": [
+            "あめ"
+          ]
+        },
+        {
+          "text": "降",
+          "readings": [
+            "ふ"
+          ]
+        },
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "遠",
+          "readings": [
+            "とお"
+          ]
+        },
+        {
+          "text": "不便",
+          "readings": [
+            "ふべん"
+          ]
+        },
+        {
+          "text": "甘",
+          "readings": [
+            "あま"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "く"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "く"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box260",
+      "title": "4. ([V / い-adj / な-adj / N] Thể thông thường) + かも　しれません",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "～かも　しれません　cũng là một mẫu câu dùng để thể hiện sự phỏng đoán của người nói, nó có nghĩa rằng có khả năng một sự việc nào đó đã đang hoặc sẽ xảy ra. Mức độ xác thực của phỏng đoán khi dùng mẫu này thấp hơn so với khi dùng mẫu ～でしょう (khoảng 50%)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 約束の　時間に　間に　合わないかも　しれません。 Có thể chúng ta sẽ không kịp giờ hẹn. 例2：　 あの　ビルが　山田さんの　会社かも　しれません。 Tòa nhà đó có lẽ là công ty của anh Yamada.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) Lưu ý : Sự khác nhau của  Vないかもしれません và  Vる（た）かもしれません:"
+        },
+        {
+          "type": "text",
+          "text": "- Khi dùng mẫu　～かもしれません tuy khả năng xảy ra V là xấp xỉ 50% ( tức là khả năng xảy ra điều ngược lại cũng là 50%) nhưng không phải vì vậy mà ý nghĩa của câu khi dùng Vる（た）かもしれません và　Vないかもしれません là như nhau."
+        },
+        {
+          "type": "text",
+          "text": "- Khi ta nói Vないかもしれません tức là việc xảy ra V là tiền đề, tuy vậy, vẫn có khả năng không xảy ra V. Còn khi nói Vる（た）かもしれません tức là việc không xảy ra V là tiền đề, nhưng vẫn có khả năng xảy ra V."
+        },
+        {
+          "type": "text",
+          "text": "Xét 2 ví dụ sau:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： Hôm nay là buổi tiệc của cả lớp, và hôm trước mọi người trong lớp đều nói là sẽ đến dự. Đến giờ bắt đầu, A vẫn ko thấy C đến nơi quay sang hỏi B. A : 今日　Cさんは　来るんですよね？ Hôm nay anh C sẽ đến nhỉ? B : Cさんは　来る　かもしれません（X） Có lẽ anh C đến. B : Cさんは　来ない　かもしれません（O） Có lẽ anh C không đến. Trong tình huống này, vì C và mọi người trong lớp nói là mình sẽ đến nên việc C đến là tiền đề. Tuy vậy, vì đã quá giờ mà không thấy C => có khả năng C có việc gì đó đột xuất nên sẽ không đến => dùng Vないかも　しれません。 例4：　 Mọi hôm anh A vẫn về lúc 6h. Hôm nay đã tận 8h rồi mà vẫn không thấy A về. B và C là bạn cùng phòng A thấy sốt ruột, liền hỏi nhau: B : 今日　Aさんは　帰りが　遅いですね。 Hôm nay anh A về muộn nhỉ C : もしかしたら　事故に　あったかも　しれません。 Có khi anh ấy gặp tai nạn cũng nên. Trong tình huống này, việc anh A không gặp tai nạn là tiền đề (có thể anh ấy chỉ làm việc muộn hoặc đi đâu đó chơi). Tuy nhiên vẫn có khả năng là chẳng may anh ấy đã gặp tai nạn gì đó => dùng Vる（た）かもしれません。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) Phân biệt 「～でしょう」 và「～かもしれません」："
+        },
+        {
+          "type": "text",
+          "text": "「～でしょう」được sử dụng trong trường hợp người nói nghĩ rằng một sự việc nào đó sẽ xảy ra. Ngược lại,「～かもしれません」　không chỉ dùng để biểu thị rằng một việc nào đó có khả năng sẽ xảy ra, mà còn hàm ý rằng, sự việc đó cũng có khả năng sẽ không xảy ra. Vì thế, có thể dùng 「～かもしれません」để biểu thị các khả năng trái ngược nhau có thể xảy ra như ví dụ dưới đây, trong khi   「～でしょう」thì không thể :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例5：　 A：私の　答えは　正しいですか。 Câu trả lời của em có đúng không ạ? B：正しいかもしれない、正しくないかもしれない。（O） Có thể đúng mà cũng có thể sai. B：正しいでしょう、正しくないでしょう。（X）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "～かも　しれません\ncũng là một mẫu câu dùng để thể hiện sự phỏng đoán của người nói, nó có nghĩa rằng có khả năng một sự việc nào đó đã đang hoặc sẽ xảy ra. Mức độ xác thực của phỏng đoán khi dùng mẫu này\nthấp hơn\nso với khi dùng mẫu\n～でしょう\n(khoảng 50%)\n例1\n：\n約束\nの\n時間\nに　間に\n合\nわないかも　しれません。\nCó thể chúng ta sẽ không kịp giờ hẹn.\n例2\n：\nあの　ビルが\n山田\nさんの\n会社\nかも　しれません。\nTòa nhà đó có lẽ là công ty của anh Yamada.\n*) Lưu ý\n: Sự khác nhau của\nV\nないかもしれません\nvà\nV\nる（た）かもしれません\n:\n- Khi dùng mẫu\n～かもしれません\ntuy khả năng xảy ra V là xấp xỉ 50% ( tức là khả năng xảy ra điều ngược lại cũng là 50%) nhưng không phải vì vậy mà ý nghĩa của câu khi dùng V\nる（た）かもしれません\nvà\nV\nないかもしれません\nlà như nhau.\n- Khi ta nói V\nないかもしれません\ntức là việc xảy ra V là tiền đề, tuy vậy, vẫn có khả năng không xảy ra V. Còn khi nói V\nる（た）かもしれません\ntức là việc không xảy ra V là tiền đề, nhưng vẫn có khả năng xảy ra V.\nXét 2 ví dụ sau:\n例3\n：\nHôm nay là buổi tiệc của cả lớp, và hôm trước mọi người trong lớp đều nói là  sẽ đến dự. Đến giờ bắt đầu, A vẫn ko thấy C đến nơi quay sang hỏi B.\nA  :\n今日\nC\nさんは\n来\nるんですよね？\nHôm nay anh C sẽ đến nhỉ?\nB  :\nC\nさんは　来る　かもしれません（\nX\n）\nCó lẽ anh C đến.\nB  :\nC\nさんは　来ない　かもしれません（\nO\n）\nCó lẽ anh C không đến.\nTrong tình huống này, vì C và mọi người trong lớp nói là mình sẽ đến nên việc C đến là tiền đề. Tuy vậy, vì đã quá giờ mà không thấy C =>\ncó khả năng C có việc gì đó đột xuất nên sẽ không đến =>\ndùng V\nないかも　しれません。\n例4\n：\nMọi hôm anh A vẫn về lúc 6h. Hôm nay đã tận 8h rồi mà vẫn không thấy A về. B và C là bạn cùng phòng A thấy sốt ruột, liền hỏi nhau:\nB  :\n今日\nA\nさんは\n帰\nりが\n遅\nいですね。\nHôm nay anh A về muộn nhỉ\nC  :\nもしかしたら\n事故\nに　あったかも　しれません。\nCó khi anh ấy gặp tai nạn cũng nên.\nTrong tình huống này, việc anh A không gặp tai nạn là tiền đề (có thể anh ấy chỉ làm việc muộn hoặc đi đâu đó chơi). Tuy nhiên vẫn có khả năng là chẳng may anh ấy đã gặp tai nạn gì đó =>\ndùng  V\nる（た）かもしれません。\n*) Phân biệt\n「～でしょう」\nvà\n「～かもしれません」：\n「～でしょう」\nđược sử dụng trong trường hợp người nói nghĩ rằng một sự việc nào đó sẽ xảy ra. Ngược lại,\n「～かもしれません」\nkhông chỉ dùng để biểu thị rằng một việc nào đó có khả năng sẽ xảy ra, mà còn hàm ý rằng, sự việc đó cũng có khả năng sẽ không xảy ra. Vì thế, có thể dùng\n「～かもしれません」\nđể\nbiểu thị các khả năng trái ngược nhau\ncó thể xảy ra như ví dụ dưới đây, trong khi\n「～でしょう」\nthì không thể :\n例5\n：\nA\n：私の\n答\nえは\n正\nしいですか。\nCâu trả lời của em có đúng không ạ?\nB\n：\n正\nしいかもしれない、\n正\nしくないかもしれない。（\nO\n）\nCó thể đúng mà cũng có thể sai.\nB\n：\n正\nしいでしょう、\n正\nしくないでしょう。（\nX\n）",
+      "ruby": [
+        {
+          "text": "約束",
+          "readings": [
+            "やくそく"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "合",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "会社",
+          "readings": [
+            "かいしゃ"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "く"
+          ]
+        },
+        {
+          "text": "今日",
+          "readings": [
+            "きょう"
+          ]
+        },
+        {
+          "text": "帰",
+          "readings": [
+            "かえ"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おそ"
+          ]
+        },
+        {
+          "text": "事故",
+          "readings": [
+            "じこ"
+          ]
+        },
+        {
+          "text": "答",
+          "readings": [
+            "こた"
+          ]
+        },
+        {
+          "text": "正",
+          "readings": [
+            "ただ"
+          ]
+        },
+        {
+          "text": "正",
+          "readings": [
+            "ただ"
+          ]
+        },
+        {
+          "text": "正",
+          "readings": [
+            "まさ"
+          ]
+        },
+        {
+          "text": "正",
+          "readings": [
+            "ただ"
+          ]
+        },
+        {
+          "text": "正",
+          "readings": [
+            "まさ"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box261",
+      "title": "5. きっと/たぶん/もしかしたら",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1) きっと"
+        },
+        {
+          "type": "text",
+          "text": "- Đây là trạng từ biểu thị việc người nghe khá là chắc chắn về điều mà họ đang nói. Mức độ xác thực của phỏng đoán khi sử dụng trạng từ này ở mức cao hơn khá nhiều cho tới bằng với mức độ xác thực khi sử dụng ～でしょう："
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ハイさんは　1日6時間も　勉強したんだから、きっと　合格しますよ。 Anh Hải học 1 ngày những 6 tiếng đồng hồ nên chắc chắc là sẽ thi đỗ.. 例2： Buổi tối trời không có một chút sao này, anh Hải nhìn vậy và đoán mai trời sẽ mưa: 明日は　きっと　雨でしょう。 Ngày mai chắc chắn sẽ mưa.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2) たぶん"
+        },
+        {
+          "type": "text",
+          "text": "- Trạng từ này biểu thị mức độ xác thực của phỏng đoán thấp hơn so với きっと và thường được sử dụng kèm với ～でしょう. Giống như các bạn thấy trong ví dụ 4 dưới đây, たぶん thường được dùng kèm với ～と思います ( xem bài 21)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： A：ハイさんは　来るでしょうか。 Anh Hải có đến không nhỉ. B：ハイさんは パーティーが　好きだから、たぶん　来るでしょう。 Anh Hải có thích tiệc tùng lắm nên chắc là sẽ tới 例4： Một nhóm sinh viên đi ăn nhà hàng với nhau. Sau đó A hỏi B xem mất khoảng bao nhiêu, B nhìn bàn ăn và đoán: たくさん　食べたから、たぶん　一人　10万ドン　ぐらい　でしょう。 Ăn nhiều lắm nên chắc mỗi người khoảng 100.000 VND. 例5： 山田さんは　この　ニュースを　たぶん　知らないと　思います。 Tôi nghĩ có lẽ anh Yamada không biết tin này.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "3) もしかしたら : Trạng từ này thường được sử dụng kèm với ～かも　しれません, biểu thị việc có một chút ít khả năng là một sự việc hoặc một tình huống nào đó sẽ xảy ra:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例6：　 A nghỉ khá nhiều môn học và chưa hoàn thành xong khóa luận tốt nghiệp, nói với bạn bè: もしかしたら　3月に　卒業できないかも　しれません。 Có khi tôi không tốt nghiệp được vào tháng 3. (Trong tình huống này, việc anh A muốn nói rằng theo lẽ thường nếu cố anh vẫn tốt nghiệp được --> việc tốt nghiệp được là tiền đề, nhưng vẫn có khả năng xảy ra việc anh không hoàn thành luận án và không được tốt nghiệp)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "1)\nきっと\n- Đây là trạng từ biểu thị việc người nghe khá là chắc chắn về điều mà họ đang nói. Mức độ xác thực của phỏng đoán khi sử dụng trạng từ này ở mức cao hơn khá nhiều cho tới bằng với mức độ xác thực khi sử dụng\n～でしょう：\n例1\n：\nハイさんは\n1\n日\n6\n時間\nも\n勉強\nしたんだから、きっと\n合格\nしますよ。\nAnh Hải học 1 ngày những 6 tiếng đồng hồ nên chắc chắc là sẽ thi đỗ..\n例2\n：\nBuổi tối trời không có một chút sao này, anh Hải nhìn vậy và đoán mai trời sẽ mưa:\n明日\nは　きっと\n雨\nでしょう。\nNgày mai chắc chắn sẽ mưa.\n2)\nたぶん\n- Trạng từ này biểu thị mức độ xác thực của phỏng đoán thấp hơn so với\nきっと\nvà thường được sử dụng kèm với\n～でしょう\n. Giống như các bạn thấy trong ví dụ 4 dưới đây,\nたぶん\nthường được dùng kèm với\n～と思います\n( xem bài 21).\n例3\n：\nA\n：ハイさんは\n来\nるでしょうか。\nAnh Hải có đến không nhỉ.\nB\n：ハイさんは\nパーティーが\n好\nきだから、たぶん\n来\nるでしょう。\nAnh Hải có thích tiệc tùng lắm nên chắc là sẽ tới\n例4\n：\nMột nhóm sinh viên đi ăn nhà hàng với nhau. Sau đó A hỏi B xem mất khoảng bao nhiêu, B nhìn bàn ăn và đoán:\nたくさん\n食\nべたから、たぶん　一人\n10\n万ドン　ぐらい　でしょう。\nĂn nhiều lắm nên chắc mỗi người khoảng 100.000 VND.\n例5\n：\n山田さんは　この　ニュースを　たぶん　知らないと　思います。\nTôi nghĩ có lẽ anh Yamada không biết tin này.\n3)\nもしかしたら\n: Trạng từ này thường được sử dụng kèm với\n～かも　しれません\n, biểu thị việc có một chút ít khả năng là một sự việc hoặc một tình huống nào đó sẽ xảy ra:\n例6\n：\nA nghỉ khá nhiều môn học và chưa hoàn thành xong khóa luận tốt nghiệp, nói với bạn bè:\nもしかしたら\n3\n月に\n卒業\nできないかも　しれません。\nCó khi tôi không tốt nghiệp được vào tháng 3.\n(Trong tình huống này, việc anh A muốn nói rằng theo lẽ thường nếu cố anh vẫn tốt nghiệp được --> việc tốt nghiệp được là tiền đề, nhưng vẫn có khả năng xảy ra việc anh không hoàn thành luận án và không được tốt nghiệp)",
+      "ruby": [
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "合格",
+          "readings": [
+            "ごうかく"
+          ]
+        },
+        {
+          "text": "明日",
+          "readings": [
+            "あした"
+          ]
+        },
+        {
+          "text": "雨",
+          "readings": [
+            "あめ"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "好",
+          "readings": [
+            "す"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "食",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "卒業",
+          "readings": [
+            "そつぎょう"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box262",
+      "title": "6. Từ để hỏi + か + Tính từ + N",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 何　か　心配な　こと が　あるんですか。 Anh có việc gì lo lắng không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Như các bạn đã thấy trong ví dụ trên, bạn không thể nói 心配な　何かmà phải nói theo đúng trật tự　何か　心配な　こと. Tương tự với các mẫu khác như : なにか～もの、どこか～ところ、だれか～ひと、いつか～とき,…"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例2：　 スキーに　行きたいんですが、どこか　いいところ　ありませんか。 Tôi muốn đi trượt tuyết. Có chỗ nào hay không? 例3：　 どこか　けしきが　きれいなところで　お茶を　飲みましょう。 Chúng ta uống trà ở nơi nào đó có cảnh đẹp đi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "例1\n：\n何\nか\n心配\nな　こと  が　あるんですか。\nAnh có việc gì lo lắng không?\nNhư các bạn đã thấy trong ví dụ trên, bạn không thể nói\n心配\nな\n何\nか\nmà phải nói theo đúng trật tự\n何\nか\n心配\nな　こと\n. Tương tự với các mẫu khác như :\nなにか～もの、どこか～ところ、だれか～ひと、いつか～とき\n,…\n例2\n：\nスキーに\n行\nきたいんですが、どこか　いいところ　ありませんか。\nTôi muốn đi trượt tuyết. Có chỗ nào hay không?\n例3\n：\nどこか　けしきが　きれいなところで　お\n茶\nを\n飲\nみましょう。\nChúng ta uống trà ở nơi nào đó có cảnh đẹp đi.",
+      "ruby": [
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "心配",
+          "readings": [
+            "しんぱい"
+          ]
+        },
+        {
+          "text": "心配",
+          "readings": [
+            "しんぱい"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "心配",
+          "readings": [
+            "しんぱい"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "茶",
+          "readings": [
+            "ちゃ"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box263",
+      "title": "7. Từ chỉ số lượng 　＋　で：",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ でđược thêm vào sau các từ chỉ số lượng để biểu thị giới hạn tối đa của giá cả, thời gian, số lượng,… cần thiết để một hành động, một sự kiện hoặc một tình huống nào đó có thể được thực hiện."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 駅まで　30分で　行けますか。 Tôi có thể đi đến nhà ga trong vòng 30p được không? 例2：　 3万円で　ビデオが　買えますか。 Tôi có thể mua đầu video trong khoảng 3 vạn yên được không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trợ từ\nで\nđược thêm vào sau các từ chỉ số lượng để\nbiểu thị giới hạn tối đa\ncủa giá cả, thời gian, số lượng,…\ncần thiết\nđể một hành động, một sự kiện hoặc một tình huống nào đó có thể được thực hiện.\n例1\n：\n駅\nまで\n30\n分で\n行\nけますか。\nTôi có thể đi đến nhà ga trong vòng 30p được không?\n例2\n：\n3\n万円で　ビデオが\n買\nえますか。\nTôi có thể mua đầu video trong khoảng 3 vạn yên được không?",
+      "ruby": [
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-8",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "１．"
+        },
+        {
+          "type": "text",
+          "text": "例：駅まで歩いて５分（で）行けます。"
+        },
+        {
+          "type": "text",
+          "text": "1. 弟はさくら大学（　）合格しました。"
+        },
+        {
+          "type": "text",
+          "text": "2. ここは車の音（　）うるさいです。"
+        },
+        {
+          "type": "text",
+          "text": "3. スキーに行って足（　）はが（　）しましたが、１週間（　）治りました。"
+        },
+        {
+          "type": "text",
+          "text": "4. 外国旅行のとき、お金は現金（　）持っていかないほうがいいですよ。"
+        },
+        {
+          "type": "text",
+          "text": "5. やけど（　）したら、すぐ水道の水（　）冷やしてください。"
+        },
+        {
+          "type": "text",
+          "text": "6. かぜ（　）ひいたんですか。…ええ、せき（　）出て、熱もあるんです。"
+        },
+        {
+          "type": "text",
+          "text": "２．"
+        },
+        {
+          "type": "text",
+          "text": "例１：連休は込みますから、早くホテルを予約したほうがいいです。"
+        },
+        {
+          "type": "text",
+          "text": "例２：かぜの薬を飲んだら、車を運転しないほうがいいですよ。"
+        },
+        {
+          "type": "text",
+          "text": "1. 富士美術館には駐車場がありませんから、電車で＿＿＿＿＿＿＿ほうがいいですね。"
+        },
+        {
+          "type": "text",
+          "text": "2. その牛乳はちょっと古いですから、＿＿＿＿＿＿＿ほうがいいですよ。"
+        },
+        {
+          "type": "text",
+          "text": "3. 夕方は雨だと思いますから、傘を＿＿＿＿＿＿＿ほうがいいですよ。"
+        },
+        {
+          "type": "text",
+          "text": "4. 熱があるときは、運動は＿＿＿＿＿＿＿ほうがいいですよ。"
+        },
+        {
+          "type": "text",
+          "text": "5. 地図を見ても、よくわかりませんね。"
+        },
+        {
+          "type": "text",
+          "text": "…そうですね。あそこの交番で＿＿＿＿＿＿＿ほうがいいですね。"
+        },
+        {
+          "type": "text",
+          "text": "３．"
+        },
+        {
+          "type": "text",
+          "text": "例：よく晴れていますから、今夜はきっとはしがきれいでしょう。"
+        },
+        {
+          "type": "text",
+          "text": "1. イーさんは独身ですか。"
+        },
+        {
+          "type": "text",
+          "text": "…ええ、たぶん＿＿＿＿＿＿＿でしょう。"
+        },
+        {
+          "type": "text",
+          "text": "2. 今度のパーティー、お客さんのお皿は何枚ぐらいあったら、足りますか。"
+        },
+        {
+          "type": "text",
+          "text": "…そうですね。３０枚ぐらいあったら、＿＿＿＿＿でしょう。"
+        },
+        {
+          "type": "text",
+          "text": "3. 今週の土曜日は休みますか。"
+        },
+        {
+          "type": "text",
+          "text": "…忙しいですから、たぶん＿＿＿＿＿＿＿でしょう。"
+        },
+        {
+          "type": "text",
+          "text": "4. 山田さんはまだ来ていないんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…もう９時ですから、もうすぐ＿＿＿＿＿＿＿でしょう。"
+        },
+        {
+          "type": "text",
+          "text": "5. ６月に北海道へ行くんですが、寒いと思いますか。"
+        },
+        {
+          "type": "text",
+          "text": "…そうですね。６月はそんなに＿＿＿＿＿＿＿でしょう。"
+        },
+        {
+          "type": "text",
+          "text": "6. 国際結婚は大変だと思いますか。"
+        },
+        {
+          "type": "text",
+          "text": "…ええ、習慣も違うし、食べ物も違うし、きっと＿＿＿＿＿＿＿でしょう。"
+        },
+        {
+          "type": "text",
+          "text": "４．"
+        },
+        {
+          "type": "text",
+          "text": "例：コートを持っていくんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…ええ。夜は寒くなるかもしれませんから。"
+        },
+        {
+          "type": "text",
+          "text": "1. 約束の時間に道が込んでいますから。"
+        },
+        {
+          "type": "text",
+          "text": "…こんなに道が込んでいますから、＿＿＿＿＿＿＿＿かもしれません。"
+        },
+        {
+          "type": "text",
+          "text": "2. 寒いですね。"
+        },
+        {
+          "type": "text",
+          "text": "…ええ。夜は雪が＿＿＿＿＿＿＿かもしれませんね。"
+        },
+        {
+          "type": "text",
+          "text": "3. この傘、だれかの忘れ物ですか。"
+        },
+        {
+          "type": "text",
+          "text": "…そうですね。お客さんの＿＿＿＿＿＿＿かもしれませんね。"
+        },
+        {
+          "type": "text",
+          "text": "4. ４万円ぐらいでマンションを借りたいんですが、無理でしょうか。"
+        },
+        {
+          "type": "text",
+          "text": "…うーん、ちょっと＿＿＿＿＿＿＿かもしれませんよ。"
+        },
+        {
+          "type": "text",
+          "text": "5. もしかしたら、会社を＿＿＿＿＿＿＿かもしれません。"
+        },
+        {
+          "type": "text",
+          "text": "…やめて、何をするんですか。"
+        },
+        {
+          "type": "text",
+          "text": "6. 友達の結婚式のとき、この服を着ようと思っているんですが、おかしいでしょうか。"
+        },
+        {
+          "type": "text",
+          "text": "…そうですね。日本ではちょっと＿＿＿＿＿＿＿かもしれませんよ。"
+        },
+        {
+          "type": "text",
+          "text": "7. ずっと暑い日が続いていますね。"
+        },
+        {
+          "type": "text",
+          "text": "…そうですね。しばらく暑い日が＿＿＿＿＿＿＿かもしれませんよ。"
+        },
+        {
+          "type": "text",
+          "text": "５．"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "戻れません、インフルエンザです、働きすぎです、失敗します、忙しいです、安くなります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "例：インフルエンザかもしれませんから、早く病院へ（行きます…行った）ほうがいいですよ。"
+        },
+        {
+          "type": "text",
+          "text": "1. ５時までに本社に＿＿＿＿＿＿＿かもしれませんから、電話で（連絡します…）ほうがいいですね。"
+        },
+        {
+          "type": "text",
+          "text": "2. 来週は＿＿＿＿＿＿＿かもしれませんから、これは今週（やってしまいます…）ほうがいいですね。"
+        },
+        {
+          "type": "text",
+          "text": "3. このバンコンはもっと＿＿＿＿＿＿＿かもしれませんから、まだ（買いません…）ほうがいいでしょう。"
+        },
+        {
+          "type": "text",
+          "text": "4. 最近体の調子が良くないんです。"
+        },
+        {
+          "type": "text",
+          "text": "…ちょっと＿＿＿＿＿＿＿＿かもしれませんよ。"
+        },
+        {
+          "type": "text",
+          "text": "(無理をしません…) ほうがいいですよ。"
+        }
+      ],
+      "text": "１．\n例\n：\n駅\nまで\n歩\nいて５\n分\n（で）\n行\nけます。\n1.\n弟\nはさくら\n大学\n（　）\n合格\nしました。\n2.\nここは\n車\nの\n音\n（　）うるさいです。\n3.\nスキ\nーに\n行\nって\n足\n（　）はが（　）しましたが、１\n週間\n（　）\n治\nりました。\n4.\n外国旅行\nのとき、お\n金\nは\n現金\n（　）\n持\nっていかないほうがいいですよ。\n5.\nやけど（　）したら、すぐ\n水道\nの\n水\n（　）\n冷\nやしてください。\n6.\nかぜ（　）ひいたんですか。\n…\nええ、せき（　）\n出\nて、\n熱\nもあるんです。\n２．\n例\n１：\n連休\nは\n込\nみますから、\n早\nく\nホテル\nを\n予約\nしたほうがいいです。\n例\n２：かぜの\n薬\nを\n飲\nんだら、\n車\nを\n運転\nしないほうがいいですよ。\n1.\n富士美術館\nには\n駐車場\nがありませんから、\n電車\nで＿＿＿＿＿＿＿ほうがいいです\nね。\n2.\nその\n牛乳\nはちょっと\n古\nいですから、＿＿＿＿＿＿＿ほうがいいですよ。\n3.\n夕方\nは\n雨\nだと\n思\nいますから、\n傘\nを＿＿＿＿＿＿＿ほうがいいですよ。\n4.\n熱\nがあるときは、\n運動\nは＿＿＿＿＿＿＿ほうがいいですよ。\n5.\n地図\nを\n見\nても、よくわかりませんね。\n…\nそうですね。あそこの\n交番\nで＿＿＿＿＿＿＿ほうがいいですね。\n３．\n例：よく\n晴\nれていますから、\n今夜\nはきっとはしがきれいでしょう。\n1.\nイーさんは\n独身\nですか。\n…\nええ、たぶん＿＿＿＿＿＿＿でしょう。\n2.\n今度\nの\nパ\nー\nティ\nー、お\n客\nさんのお\n皿\nは\n何枚\nぐらいあったら、\n足\nりますか。\n…\nそうですね。３０\n枚\nぐらいあったら、＿＿＿＿＿でしょう。\n3.\n今週\nの\n土曜日\nは\n休\nみますか。\n…\n忙\nしいですから、たぶん＿＿＿＿＿＿＿でしょう。\n4.\n山田\nさんはまだ\n来\nていないんですか。\n…\nもう９\n時\nですから、もうすぐ＿＿＿＿＿＿＿でしょう。\n5.\n６\n月\nに\n北海道\nへ\n行\nくんですが、\n寒\nいと\n思\nいますか。\n…\nそうですね。６\n月\nはそんなに＿＿＿＿＿＿＿でしょう。\n6.\n国際結婚\nは\n大変\nだと\n思\nいますか。\n…\nええ、\n習慣\nも\n違\nうし、\n食\nべ\n物\nも\n違\nうし、きっと＿＿＿＿＿＿＿でしょう。\n４．\n例：コートを\n持\nっていくんですか。\n…\nええ。\n夜\nは\n寒\nくなるかもしれませんから。\n1.\n約束\nの\n時間\nに\n道\nが\n込\nんでいますから。\n…\nこんなに\n道\nが\n込\nんでいますから、＿＿＿＿＿＿＿＿かもしれません。\n2.\n寒\nいですね。\n…\nええ。\n夜\nは\n雪\nが＿＿＿＿＿＿＿かもしれませんね。\n3.\nこの\n傘\n、だれかの\n忘\nれ\n物\nですか。\n…\nそうですね。お\n客\nさんの＿＿＿＿＿＿＿かもしれませんね。\n4.\n４\n万円\nぐらいで\nマンション\nを\n借\nりたいんですが、\n無理\nでしょうか。\n…\nうーん、ちょっと＿＿＿＿＿＿＿かもしれませんよ。\n5.\nもしかしたら、\n会社\nを＿＿＿＿＿＿＿かもしれません。\n…\nやめて、\n何\nをするんですか。\n6.\n友達\nの\n結婚式\nのとき、この\n服\nを\n着\nようと\n思\nっているんですが、おかしいでしょう\nか。\n…\nそうですね。\n日本\nではちょっと＿＿＿＿＿＿＿かもしれませんよ。\n7.\nずっと\n暑\nい\n日\nが\n続\nいていますね。\n…\nそうですね。しばらく\n暑\nい\n日\nが＿＿＿＿＿＿＿かもしれませんよ。\n５．\n戻\nれません、\nインフルエンザです\n、\n働\nきすぎです、\n失敗\nします、\n忙\nしいです、\n安\nくなります\n例：\nインフルエンザ\nかもしれませんから、\n早\nく\n病院\nへ（\n行\nきます\n…\n行\nった）ほうが\nいいですよ。\n1.\n５\n時\nまでに\n本社\nに＿＿＿＿＿＿＿かもしれませんから、\n電話\nで（\n連絡\nします\n…\n）ほうがいいですね。\n2.\n来週\nは＿＿＿＿＿＿＿かもしれませんから、これは\n今週\n（やってしまいます\n…\n）ほうがいいですね。\n3.\nこのバンコンはもっと＿＿＿＿＿＿＿かもしれませんから、まだ（\n買\nいません\n…\n）ほうがいいでしょう。\n4.\n最近体\nの\n調子\nが\n良\nくないんです。\n…\nちょっと＿＿＿＿＿＿＿＿かもしれませんよ。\n(\n無理\nをしません\n…\n)\nほうがいいですよ。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "歩",
+          "readings": [
+            "ある"
+          ]
+        },
+        {
+          "text": "分",
+          "readings": [
+            "ふん"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "弟",
+          "readings": [
+            "おとうと"
+          ]
+        },
+        {
+          "text": "大学",
+          "readings": [
+            "だいがく"
+          ]
+        },
+        {
+          "text": "合格",
+          "readings": [
+            "ごうかく"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "音",
+          "readings": [
+            "おと"
+          ]
+        },
+        {
+          "text": "スキ",
+          "readings": [
+            "すき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "足",
+          "readings": [
+            "あし"
+          ]
+        },
+        {
+          "text": "週間",
+          "readings": [
+            "しゅうかん"
+          ]
+        },
+        {
+          "text": "治",
+          "readings": [
+            "なお"
+          ]
+        },
+        {
+          "text": "外国旅行",
+          "readings": [
+            "がいこくりょこう"
+          ]
+        },
+        {
+          "text": "金",
+          "readings": [
+            "かね"
+          ]
+        },
+        {
+          "text": "現金",
+          "readings": [
+            "げんきん"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "水道",
+          "readings": [
+            "すいどう"
+          ]
+        },
+        {
+          "text": "水",
+          "readings": [
+            "みず"
+          ]
+        },
+        {
+          "text": "冷",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "で"
+          ]
+        },
+        {
+          "text": "熱",
+          "readings": [
+            "ねつ"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "連休",
+          "readings": [
+            "れんきゅう"
+          ]
+        },
+        {
+          "text": "込",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "早",
+          "readings": [
+            "はや"
+          ]
+        },
+        {
+          "text": "ホテル",
+          "readings": [
+            "ほてる"
+          ]
+        },
+        {
+          "text": "予約",
+          "readings": [
+            "よやく"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "薬",
+          "readings": [
+            "くすり"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "運転",
+          "readings": [
+            "うんてん"
+          ]
+        },
+        {
+          "text": "富士美術館",
+          "readings": [
+            "ふじびじゅつかん"
+          ]
+        },
+        {
+          "text": "駐車場",
+          "readings": [
+            "ちゅうしゃじょう"
+          ]
+        },
+        {
+          "text": "電車",
+          "readings": [
+            "でんしゃ"
+          ]
+        },
+        {
+          "text": "牛乳",
+          "readings": [
+            "ぎゅうにゅう"
+          ]
+        },
+        {
+          "text": "古",
+          "readings": [
+            "ふる"
+          ]
+        },
+        {
+          "text": "夕方",
+          "readings": [
+            "ゆうがた"
+          ]
+        },
+        {
+          "text": "雨",
+          "readings": [
+            "あめ"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "傘",
+          "readings": [
+            "かさ"
+          ]
+        },
+        {
+          "text": "熱",
+          "readings": [
+            "ねつ"
+          ]
+        },
+        {
+          "text": "運動",
+          "readings": [
+            "うんどう"
+          ]
+        },
+        {
+          "text": "地図",
+          "readings": [
+            "ちず"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "交番",
+          "readings": [
+            "こうばん"
+          ]
+        },
+        {
+          "text": "晴",
+          "readings": [
+            "は"
+          ]
+        },
+        {
+          "text": "今夜",
+          "readings": [
+            "こんや"
+          ]
+        },
+        {
+          "text": "独身",
+          "readings": [
+            "どくしん"
+          ]
+        },
+        {
+          "text": "今度",
+          "readings": [
+            "こんど"
+          ]
+        },
+        {
+          "text": "パ",
+          "readings": [
+            "ぱ"
+          ]
+        },
+        {
+          "text": "ティ",
+          "readings": [
+            "てぃ"
+          ]
+        },
+        {
+          "text": "客",
+          "readings": [
+            "きゃく"
+          ]
+        },
+        {
+          "text": "皿",
+          "readings": [
+            "さら"
+          ]
+        },
+        {
+          "text": "何枚",
+          "readings": [
+            "なんまい"
+          ]
+        },
+        {
+          "text": "足",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "枚",
+          "readings": [
+            "まい"
+          ]
+        },
+        {
+          "text": "今週",
+          "readings": [
+            "こんしゅう"
+          ]
+        },
+        {
+          "text": "土曜日",
+          "readings": [
+            "どようび"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "忙",
+          "readings": [
+            "いそが"
+          ]
+        },
+        {
+          "text": "山田",
+          "readings": [
+            "やまだ"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "月",
+          "readings": [
+            "がつ"
+          ]
+        },
+        {
+          "text": "北海道",
+          "readings": [
+            "ほっかいどう"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "寒",
+          "readings": [
+            "さむ"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "月",
+          "readings": [
+            "がつ"
+          ]
+        },
+        {
+          "text": "国際結婚",
+          "readings": [
+            "こくさいけっこん"
+          ]
+        },
+        {
+          "text": "大変",
+          "readings": [
+            "たいへん"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "習慣",
+          "readings": [
+            "しゅうかん"
+          ]
+        },
+        {
+          "text": "違",
+          "readings": [
+            "ちが"
+          ]
+        },
+        {
+          "text": "食",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "違",
+          "readings": [
+            "ちが"
+          ]
+        },
+        {
+          "text": "持",
+          "readings": [
+            "も"
+          ]
+        },
+        {
+          "text": "夜",
+          "readings": [
+            "よる"
+          ]
+        },
+        {
+          "text": "寒",
+          "readings": [
+            "さむ"
+          ]
+        },
+        {
+          "text": "約束",
+          "readings": [
+            "やくそく"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "道",
+          "readings": [
+            "みち"
+          ]
+        },
+        {
+          "text": "込",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "道",
+          "readings": [
+            "みち"
+          ]
+        },
+        {
+          "text": "込",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "寒",
+          "readings": [
+            "さむ"
+          ]
+        },
+        {
+          "text": "夜",
+          "readings": [
+            "よる"
+          ]
+        },
+        {
+          "text": "雪",
+          "readings": [
+            "ゆき"
+          ]
+        },
+        {
+          "text": "傘",
+          "readings": [
+            "かさ"
+          ]
+        },
+        {
+          "text": "忘",
+          "readings": [
+            "わす"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "客",
+          "readings": [
+            "きゃく"
+          ]
+        },
+        {
+          "text": "万円",
+          "readings": [
+            "まんえん"
+          ]
+        },
+        {
+          "text": "マンション",
+          "readings": [
+            "まんしょん"
+          ]
+        },
+        {
+          "text": "借",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "無理",
+          "readings": [
+            "むり"
+          ]
+        },
+        {
+          "text": "会社",
+          "readings": [
+            "かいしゃ"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なに"
+          ]
+        },
+        {
+          "text": "友達",
+          "readings": [
+            "ともだち"
+          ]
+        },
+        {
+          "text": "結婚式",
+          "readings": [
+            "けっこんしき"
+          ]
+        },
+        {
+          "text": "服",
+          "readings": [
+            "ふく"
+          ]
+        },
+        {
+          "text": "着",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "日本",
+          "readings": [
+            "にほん"
+          ]
+        },
+        {
+          "text": "暑",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "日",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "続",
+          "readings": [
+            "つづ"
+          ]
+        },
+        {
+          "text": "暑",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "日",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "戻",
+          "readings": [
+            "もど"
+          ]
+        },
+        {
+          "text": "働",
+          "readings": [
+            "はたら"
+          ]
+        },
+        {
+          "text": "失敗",
+          "readings": [
+            "しっぱい"
+          ]
+        },
+        {
+          "text": "忙",
+          "readings": [
+            "いそが"
+          ]
+        },
+        {
+          "text": "安",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "早",
+          "readings": [
+            "はや"
+          ]
+        },
+        {
+          "text": "病院",
+          "readings": [
+            "びょういん"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "本社",
+          "readings": [
+            "ほんしゃ"
+          ]
+        },
+        {
+          "text": "電話",
+          "readings": [
+            "でんわ"
+          ]
+        },
+        {
+          "text": "連絡",
+          "readings": [
+            "れんらく"
+          ]
+        },
+        {
+          "text": "来週",
+          "readings": [
+            "らいしゅう"
+          ]
+        },
+        {
+          "text": "今週",
+          "readings": [
+            "こんしゅう"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "最近体",
+          "readings": [
+            "さいきんからだ"
+          ]
+        },
+        {
+          "text": "調子",
+          "readings": [
+            "ちょうし"
+          ]
+        },
+        {
+          "text": "良",
+          "readings": [
+            "よ"
+          ]
+        },
+        {
+          "text": "無理",
+          "readings": [
+            "むり"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

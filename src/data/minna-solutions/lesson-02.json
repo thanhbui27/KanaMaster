@@ -1,0 +1,171 @@
+{
+  "lesson": 2,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-2",
+  "solutions": [
+    {
+      "exerciseId": "2-section-8-exercise-1",
+      "question": "１）ミラーさんは　（　どなた、なんさい、なん　）ですか。\n...  28さいです。",
+      "context": "1. 例：それは　（　だれ　、なん　、ほん　）ですか。\n...  ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "なんさい"
+        ]
+      ],
+      "explanation": "28さい là tuổi; hỏi bằng なんさい."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-2",
+      "question": "２）ワンさんは　（　だれ、せんせい、なん　）ですか。\n...  いいえ、ちがいます。",
+      "context": "1. 例：それは　（　だれ　、なん　、ほん　）ですか。\n...  ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "せんせい"
+        ]
+      ],
+      "explanation": "いいえ、ちがいます trả lời câu hỏi xác nhận nghề nghiệp, không trả lời được câu hỏi だれ/なん."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-3",
+      "question": "３）それは　（　イーさん、だれ、なん　）の　ざっしですか。\n...  カメラの　ざっしです。",
+      "context": "1. 例：それは　（　だれ　、なん　、ほん　）ですか。\n...  ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "なん"
+        ]
+      ],
+      "explanation": "カメラのざっし là tạp chí về máy ảnh. なんの hỏi chủ đề; だれの hỏi chủ sở hữu."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-4",
+      "question": "４）これは　（　わたし、あなた、あの　ひと　）のですか。\n...  はい、わたしのです。",
+      "context": "1. 例：それは　（　だれ　、なん　、ほん　）ですか。\n...  ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "あなた"
+        ]
+      ],
+      "explanation": "Người hỏi dùng あなたの; người đáp dùng わたしの để nói “của tôi”."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-5",
+      "question": "１）これは　（_______）ですか。\n...  はい、カメラです。",
+      "context": "2. 例：あの　人は　（だれ）　ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "カメラ"
+        ]
+      ],
+      "explanation": "はい、カメラです xác nhận vật được hỏi là máy ảnh."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-6",
+      "question": "２）それは　（_______）ですか。\n...  韓国語の CDです。",
+      "context": "2. 例：あの　人は　（だれ）　ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "何のCD",
+          "なんのCD"
+        ]
+      ],
+      "explanation": "Hỏi CD về/ngôn ngữ gì; câu trả lời chỉ rõ 韓国語のCD. Không hỏi chủ sở hữu."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-7",
+      "question": "３）これは　（_______）の　えんぴつですか。\n...  きむらさんの　えんぴつです。",
+      "context": "2. 例：あの　人は　（だれ）　ですか。\n...  ミラーさんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "だれ",
+          "どなた"
+        ]
+      ],
+      "explanation": "Câu trả lời 木村さんの chỉ chủ sở hữu, nên hỏi だれの."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-8",
+      "question": "１）です／それ／は／の／わたし／かぎ　→",
+      "context": "3. 例： は／ほん／です／これ　→　これは　ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "それはわたしのかぎです"
+        ]
+      ],
+      "explanation": "Thứ tự: chủ đề それは + cụm sở hữu わたしのかぎ + です."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-9",
+      "question": "２）の／です／ミラーさん／じしょ／は／この　→",
+      "context": "3. 例： は／ほん／です／これ　→　これは　ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "このじしょはミラーさんのです"
+        ]
+      ],
+      "explanation": "この đi liền với じしょ; ミラーさんの lược danh từ đã rõ."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-10",
+      "question": "３）だれ／その／の／か／かさ／です／は　→",
+      "context": "3. 例： は／ほん／です／これ　→　これは　ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "そのかさはだれのですか"
+        ]
+      ],
+      "explanation": "そのかさ làm chủ đề; だれのですか hỏi chiếc ô của ai."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-11",
+      "question": "４）あれ／です／せんせい／つくえ／の／は　→",
+      "context": "3. 例： は／ほん／です／これ　→　これは　ほんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "あれはせんせいのつくえです"
+        ]
+      ],
+      "explanation": "せんせいのつくえ là bàn của giáo viên."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-12",
+      "question": "１）サントス：       これから（_______）。\nどうぞ　よろしく。\n山田       ：   　こちらこそ　よろしく。",
+      "context": "4. 例 : 山田       ：   　はい、どなたですか。\nサントス：　   408の　サントスです。",
+      "status": "reference",
+      "answers": [
+        [
+          "お世話になります",
+          "おせわになります"
+        ]
+      ],
+      "explanation": "これからお世話になります là lời chào khi bắt đầu quan hệ và mong được giúp đỡ."
+    },
+    {
+      "exerciseId": "2-section-8-exercise-13",
+      "question": "２）サントス ：     あのう、これ、お土産です。（_______）。\n山田        ： 　 えっ、なんですか。\nサントス ：     コーヒーです。\n山田        ：    （_______）。",
+      "context": "4. 例 : 山田       ：   　はい、どなたですか。\nサントス：　   408の　サントスです。",
+      "status": "reference",
+      "answers": [
+        [
+          "どうぞ"
+        ],
+        [
+          "ありがとうございます",
+          "どうもありがとうございます",
+          "どうも"
+        ]
+      ],
+      "explanation": "どうぞ dùng khi trao quà; người nhận đáp lời cảm ơn. Có nhiều cách cảm ơn lịch sự phù hợp."
+    }
+  ]
+}

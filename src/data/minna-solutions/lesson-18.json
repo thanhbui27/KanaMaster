@@ -1,0 +1,161 @@
+{
+  "lesson": 18,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-18",
+  "solutions": [
+    {
+      "exerciseId": "18-section-8-exercise-1",
+      "question": "１）車　（____）運転（____）　できます。",
+      "context": "2. 例：100メートル　（　X　）　泳ぐ　こと　（　が　）　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "車の運転ができます: có thể lái xe; 運転 là danh từ."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-2",
+      "question": "２）漢字　（____）50ぐらい　書く　こと（____）　できます。",
+      "context": "2. 例：100メートル　（　X　）　泳ぐ　こと　（　が　）　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "漢字を書くことができます: を cho đối tượng viết, が cho cụm danh hóa khả năng."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-3",
+      "question": "３）会議　（____）まえに、資料を　コピーしなければ　なりません。",
+      "context": "2. 例：100メートル　（　X　）　泳ぐ　こと　（　が　）　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ]
+      ],
+      "explanation": "Danh từ + の前に: trước cuộc họp."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-4",
+      "question": "４）２年　（____）まえに、大学を　出ました。",
+      "context": "2. 例：100メートル　（　X　）　泳ぐ　こと　（　が　）　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "X",
+          "×"
+        ]
+      ],
+      "explanation": "Khoảng thời gian + 前に không thêm の/に: 2年前に. Nhập X/×."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-5",
+      "question": "１）わたしは　自転車に　（____）ことが　できません。",
+      "context": "3.\nかきます　換えます　乗ります　弾きます　予約します\n例：わたしは　ピアノを　（弾く）　ことが　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "乗る"
+        ]
+      ],
+      "explanation": "Trước ことができる dùng thể từ điển: 自転車に乗る."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-6",
+      "question": "２）電話で　飛行機の　チケットを　（____）ことが　できます。",
+      "context": "3.\nかきます　換えます　乗ります　弾きます　予約します\n例：わたしは　ピアノを　（弾く）　ことが　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "予約する"
+        ]
+      ],
+      "explanation": "予約します → 予約する; đặt vé qua điện thoại."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-7",
+      "question": "３）趣味は　絵を （____）ことです。",
+      "context": "3.\nかきます　換えます　乗ります　弾きます　予約します\n例：わたしは　ピアノを　（弾く）　ことが　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "かく",
+          "描く"
+        ]
+      ],
+      "explanation": "趣味は絵を描くことです: sở thích là vẽ tranh."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-8",
+      "question": "４）どこで　お金を　（____）ことが　できますか。",
+      "context": "3.\nかきます　換えます　乗ります　弾きます　予約します\n例：わたしは　ピアノを　（弾く）　ことが　できます。",
+      "status": "reference",
+      "answers": [
+        [
+          "換える"
+        ]
+      ],
+      "explanation": "換えます → 換える; đổi tiền."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-9",
+      "question": "１）朝　うちで　コーヒーを（　飲みます　→____）、会社へ　行きます。",
+      "context": "4. 例1：友達の　うちへ（　行きます　→行く　まえに）、電話を　かけます。\n例2：仕事が（　終わります　→____）、飲みに　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "飲んでから"
+        ]
+      ],
+      "explanation": "Sau khi uống cà phê thì đi làm; 飲んでから."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-10",
+      "question": "２）料理を（　始めます　→____）、手を　洗います。",
+      "context": "4. 例1：友達の　うちへ（　行きます　→行く　まえに）、電話を　かけます。\n例2：仕事が（　終わります　→____）、飲みに　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "始める前に",
+          "始めるまえに"
+        ]
+      ],
+      "explanation": "Rửa tay trước khi bắt đầu nấu ăn; thể từ điển + 前に."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-11",
+      "question": "３）夜（　寝ます　→____）、日記を　書きます。",
+      "context": "4. 例1：友達の　うちへ（　行きます　→行く　まえに）、電話を　かけます。\n例2：仕事が（　終わります　→____）、飲みに　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "寝る前に",
+          "寝るまえに"
+        ]
+      ],
+      "explanation": "Viết nhật ký trước khi ngủ."
+    },
+    {
+      "exerciseId": "18-section-8-exercise-12",
+      "question": "４）銀行で　お金を（　出します　→____）、買い物に　行きました。",
+      "context": "4. 例1：友達の　うちへ（　行きます　→行く　まえに）、電話を　かけます。\n例2：仕事が（　終わります　→____）、飲みに　行きます。",
+      "status": "reference",
+      "answers": [
+        [
+          "出してから"
+        ]
+      ],
+      "explanation": "Rút tiền xong rồi đi mua sắm; thể て + から."
+    }
+  ]
+}

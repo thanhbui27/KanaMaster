@@ -1,0 +1,133 @@
+{
+  "lesson": 10,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-10",
+  "solutions": [
+    {
+      "exerciseId": "10-section-9-exercise-1",
+      "question": "１）ワイン売り場は　地下に　（____）。",
+      "context": "1. 例：受付に　ミラーさんが　（　います　　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "あります"
+        ]
+      ],
+      "explanation": "Quầy bán rượu là vật/địa điểm, dùng あります."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-2",
+      "question": "２）犬は　どこに　（____）か。",
+      "context": "1. 例：受付に　ミラーさんが　（　います　　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "います"
+        ]
+      ],
+      "explanation": "Chó là sinh vật, dùng います."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-3",
+      "question": "３）あそこに　小さい　男の　子が　（____）。",
+      "context": "1. 例：受付に　ミラーさんが　（　います　　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "います"
+        ]
+      ],
+      "explanation": "Cậu bé là người, dùng います."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-4",
+      "question": "４）冷蔵庫の　中に　何も　（____）。",
+      "context": "1. 例：受付に　ミラーさんが　（　います　　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "ありません"
+        ]
+      ],
+      "explanation": "何も + phủ định; đồ vật dùng ありません."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-5",
+      "question": "５）事務所に　だれも（____）。",
+      "context": "1. 例：受付に　ミラーさんが　（　います　　）。",
+      "status": "reference",
+      "answers": [
+        [
+          "いません"
+        ]
+      ],
+      "explanation": "だれも + phủ định; người dùng いません."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-6",
+      "question": "１）消しゴムは　机の　上（____）　あります。",
+      "context": "2. 例：いす　（　の　）　下（　に　）　猫　（　が　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Địa điểm tồn tại dùng に: trên bàn."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-7",
+      "question": "２）タクシー乗り場（の）　近く（____）　　ポストが　あります。",
+      "context": "2. 例：いす　（　の　）　下（　に　）　猫　（　が　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "近くにあります: có ở gần đó."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-8",
+      "question": "３）花屋（は）　スーパー（と）　銀行（____）　間に　あります。",
+      "context": "2. 例：いす　（　の　）　下（　に　）　猫　（　が　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ]
+      ],
+      "explanation": "AとBの間: giữa A và B."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-9",
+      "question": "４）公園（____）だれ（____）いません。",
+      "context": "2. 例：いす　（　の　）　下（　に　）　猫　（　が　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "も"
+        ]
+      ],
+      "explanation": "公園にだれもいません: không có ai trong công viên."
+    },
+    {
+      "exerciseId": "10-section-9-exercise-10",
+      "question": "５）事務所に　ファクス（____）パソコンなど（____）　あります。",
+      "context": "2. 例：いす　（　の　）　下（　に　）　猫　（　が　）　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "や"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "AやBなど liệt kê không đầy đủ; が đánh dấu những vật hiện hữu."
+    }
+  ]
+}

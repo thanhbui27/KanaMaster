@@ -1,0 +1,1027 @@
+{
+  "schemaVersion": 1,
+  "lesson": 25,
+  "title": "Từ vựng ngữ pháp Minna bài 25",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-25",
+  "fetchedAt": "2026-09-27T09:07:22.115898+00:00",
+  "sourceSha256": "706205b3ec167a93d50da532e1bc5e46db6ab252834bb27786aada997aa64b1f",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box173",
+      "title": "1. Từ vựng minna bài 25",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かんがえます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "考えます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghĩ,suy nghĩ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つきます（駅に～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "着きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đến(ga)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "りゅうがくします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "留学します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "du học",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とります（年を～）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "取ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thêm (tuổi)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いなか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "田舎",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quê,nông thôn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たいしかん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "大使館",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đại sứ quán",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "グループ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhóm, bạn bè",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "チャンス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cơ hội",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "億",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "một trăm triệu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nếu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いくら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cho dù,thế nào",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "てんきん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "転勤",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chuyển công tác",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "việc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いっぱいのみましょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "一杯飲みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chúng ta cùng uống nhé",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どうぞおげんきで",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どうぞ元気で",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chúc anh chị mạnh khỏe (câu nói trước khi chia tay với ai đó mà có lẽ lâu nữa mới gặp lại)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "（いろいろ）おせわになりました",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "（いろいろ）お世話になりました",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh/chị đã giúp tôi nhiều",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "がんばります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "頑張ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cố gắng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ vựng\nKanji\nÝ nghĩa\n1\nかんがえます\n考えます\nnghĩ,suy nghĩ\n2\nつきます（駅に～）\n着きます\nđến(ga)\n3\nりゅうがくします\n留学します\ndu học\n4\nとります（年を～）\n取ります\nthêm (tuổi)\n5\nいなか\n田舎\nquê,nông thôn\n6\nたいしかん\n大使館\nđại sứ quán\n7\nグループ\nnhóm, bạn bè\n8\nチャンス\ncơ hội\n9\nおく\n億\nmột trăm triệu\n10\nもし\nnếu\n11\nいくら\ncho dù,thế nào\n12\nてんきん\n転勤\nchuyển công tác\n13\nこと\nviệc\n14\nいっぱいのみましょう\n一杯飲みます\nchúng ta cùng uống nhé\n15\nどうぞおげんきで\nどうぞ元気で\nchúc anh chị mạnh khỏe (câu nói trước khi chia tay với ai đó mà có lẽ lâu nữa mới gặp lại)\n16\n（いろいろ）おせわになりました\n（いろいろ）お世話になりました\nAnh/chị đã giúp tôi nhiều\n17\nがんばります\n頑張ります\ncố gắng",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box175",
+      "title": "2. Thể quá khứ thông thường +ら",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/Kc91sPe5urk",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Khi ら　được thêm vào sau thể quá khứ thông thường của các động từ, tính từ,danh từ.. thì nó sẽ biến mệnh đề đứng trước nó thành mệnh đề biểu hiện điều kiện. Ta sử dụng mẫu này khi muốn bày tỏ lập trường, ý kiến, yêu cầu, tình trạng của mình trong một điều kiện nào đó."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 おかねが　あったら、りょこうします。 Nếu có tiền, tôi sẽ đi du lịch. 例2：　 いみが　わからなかったら、じしょを　しらべてください。 Nếu không hiểu nghĩa thì hãy tra từ điển. 例3：　 やすかったら、パソコンを　かいたいです。 Nếu rẻ thì tôi muốn mua máy tính. 例4：　 ひまだったら、　てつだって　ください。 Nếu rỗi rãi thì hãy giúp tôi đi. 例5：　 いいてんき　だったら、さんぽしませんか。 Nếu thời tiết tốt thì đi dạo không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Chú ý: Ở bài 23, các bạn đã được học mẫu : “ Thể từ điển+ と” .Trong mẫu này, mệnh để trước と cũng là mệnh đề điều kiện. Tuy nhiên 2 mẫu này khác nhau ở những điểm sau đây:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "Thể quá khứ thông thường+ら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Thể từ điển + と、～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "- Chỉ dùng khi nói, không dùng khi viết - Mệnh đề trước らcó thể biểu hiện cả điều kiện giả định. - Mệnh đề sau ら có thể thể hiện ý chí của con người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "- Dùng được cả khi nói và khi viết. - Mệnh đề trước と chỉ biểu hiện được điều kiện nói chung - Mệnh đề sau と không được thể hiện ý chí của con người.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "-Điều kiện nói chung tức là các điều kiện mà chắc chắn sẽ xảy ra được ( 例：　ふゆに　なると,..), và khi nó xảy ra thì đương nhiên sẽ kéo theo kết quả ở mệnh đề sau と"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例6：　 100どに　なると、ふっとうします。( ～ど： ~độ 　　ふっとうします： nước sôi) Cứ 100 độ thì nước sẽ sôi. 例7：　 あさになると　たいようが　のぼります。 Cứ đến sang thì mặt trời mọc. ( たいよう：　mặt trời, のぼります：mọc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Các điều kiện đưa ra như : 100どに　なります、あさに　なります,… sẽ chắc chắn xảy ra được nên dùng được với ～と."
+        },
+        {
+          "type": "text",
+          "text": "-Điều kiện giả định tức là các điều kiện có khả năng xảy ra hoặc không xảy ra (例：100万円が　あったら….)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例8：　 100万えんが　あったら、りょこうに　いきたいです。 Nếu có 1 triệu yên thì tôi muốn đi du lịch. 例9：　 にわが　もう　ちょっと　広かったら、はなを　つくりたいです、 Nếu vườn rộng hơn một chút nữa thì tôi muốn trồng hoa.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Nếu vườn rộng hơn một chút nữa thì tôi muốn trồng hoa."
+        },
+        {
+          "type": "text",
+          "text": "Các điều kiện đưa ra ở trên như : 100万えんが　あったら、にわが　もうちょっと　ひろかったら,… chỉ là giả định mà người nói đưa ra. Nó có khả năng không xảy ra được nên không dùng được với ～と mà phải dùng với ～たら."
+        },
+        {
+          "type": "text",
+          "text": "Những điều kiện dùng được với と thì cũng dùng được với～たら  nhưng ngược lại thì không:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例10：　 ふゆに　なると　さむくなります。（O） Cứ đến mùa đông thì trời trở lạnh. ふゆに　なったら　さむくなります。（O） 例11：　 じかんが　あったら　えいがを　みに　いきましょう。（O） Nếu có thời gian thì chúng ta đi xem phim đi. じかんが　あると、　えいがを　みに　いきましょう（X）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Khi\nら\nđược thêm vào sau thể quá khứ thông thường của các động từ, tính từ,danh từ.. thì nó sẽ biến mệnh đề đứng trước nó thành mệnh đề biểu hiện điều kiện. Ta sử dụng mẫu này khi muốn bày tỏ lập trường, ý kiến, yêu cầu, tình trạng của mình trong một điều kiện nào đó.\n例\n1\n：\nおかねが　あったら、りょこうします。\nNếu có tiền, tôi sẽ đi du lịch.\n例\n2\n：\nいみが　わからなかったら、じしょを　しらべてください。\nNếu không hiểu nghĩa thì hãy tra từ điển.\n例\n3\n：\nやすかったら、パソコンを　かいたいです。\nNếu rẻ thì tôi muốn mua máy tính.\n例\n4\n：\nひまだったら、　てつだって　ください。\nNếu rỗi rãi thì hãy giúp tôi đi.\n例\n5\n：\nいいてんき　だったら、さんぽしませんか。\nNếu thời tiết tốt thì đi dạo không\n?\nChú ý\n: Ở bài 23, các bạn đã được học mẫu : “ Thể từ điển+\nと\n” .Trong mẫu này, mệnh để trước\nと\ncũng là mệnh đề điều kiện. Tuy nhiên 2 mẫu này khác nhau ở những điểm sau đây:\nThể quá khứ thông thường+\nら\nThể từ điển +\nと、～\n-\nChỉ dùng khi nói,\nkhông dùng khi viế\nt\n-\nMệnh đề trước\nら\ncó thể biểu hiện cả\nđiều kiện giả định.\n-\nMệnh đề sau\nら\ncó thể thể hiện ý chí\ncủa con người\n-\nDùng được\ncả khi nói và khi viết.\n-\nMệnh đề trước\nと\nchỉ biểu hiện được\nđiều kiện nói chung\n-\nMệnh đề sau\nと\nkhông được thể hiện ý chí\ncủa con người.\n-\nĐiều kiện nói chung\ntức là các điều kiện mà chắc chắn sẽ xảy ra được (\n例：　ふゆに　なると\n,..), và khi nó xảy ra thì\nđương nhiên\nsẽ kéo theo kết quả ở mệnh đề sau\nと\n例\n6\n：\n100\nどに　なると、ふっとうします。\n(\n～ど：\n~độ\nふっとうします：\nnước sôi)\nCứ 100 độ thì nước sẽ sôi.\n例\n7\n：\nあさになると　たいようが　のぼります。\nCứ đến sang thì mặt trời mọc.\n(\nたいよう：\nmặt trời,\nのぼります：\nmọc\nCác điều kiện đưa ra như : 100\nどに　なります、あさに　なります\n,… sẽ chắc chắn xảy ra được nên dùng được với\n～と\n.\n-\nĐiều kiện giả định\ntức là các điều kiện có khả năng xảy ra hoặc không xảy ra (\n例：\n100\n万円が　あったら\n….).\n例\n8\n：\n100\n万えんが　あったら、りょこうに　いきたいです。\nNếu có 1 triệu yên thì tôi muốn đi du lịch.\n例\n9\n：\nにわが　もう　ちょっと　広かったら、はなを　つくりたいです、\nNếu vườn rộng hơn một chút nữa thì tôi muốn trồng hoa.\nNếu vườn rộng hơn một chút nữa thì tôi muốn trồng hoa.\nCác điều kiện đưa ra ở trên như : 100\n万えんが　あったら、にわが　もうちょっと　ひろかったら\n,… chỉ là giả định mà người nói đưa ra. Nó có khả năng không xảy ra được nên không dùng được với\n～と\nmà phải dùng với\n～たら\n.\nNhững điều kiện dùng được với\nと\nthì cũng dùng được với\n～たら\nnhưng ngược lại thì không:\n例\n10\n：\nふゆに　なると　さむくなります。（\nO\n）\nCứ đến mùa đông thì trời trở lạnh.\nふゆに　なったら　さむくなります。（\nO\n）\n例\n11\n：\nじかんが　あったら　えいがを　みに　いきましょう。（\nO\n）\nNếu có thời gian thì chúng ta đi xem phim đi.\nじかんが　あると、　えいがを　みに　いきましょう（\nX\n）",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/Kc91sPe5urk",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box176",
+      "title": "3. Vた＋ら、～：",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu này được sử dụng khi người ta muốn nói rằng,để cho một hành động hay một tình trạng nào đó được đề cập đến ở mệnh đề chính được tiến hành thì điều kiện phải có là hành động ở mệnh đề phụ phải hoàn tất. Thì của mệnh đề chính luôn ở thì không quá khứ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 10時になったら、でかけましょう。 Đến 10 giờ thì chúng ta sẽ đi ra ngoài. 例2：　 うちへ　かえったら、すぐ　シャワーを　あびます。 Về đến nhà là tôi sẽ tắm ngay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý : Mẫu này nhìn ngoài khá giống với mẫu “ Thể quá khứ thông thường ＋ら”  nhưng không hề có ý nghĩa giả định."
+        }
+      ],
+      "text": "Mẫu này được sử dụng khi người ta muốn nói rằng,để cho một hành động hay một tình trạng nào đó được đề cập đến ở mệnh đề chính được tiến hành thì điều kiện phải có là hành động ở mệnh đề phụ phải hoàn tất. Thì của mệnh đề chính luôn ở thì không quá khứ.\n例\n1\n：\n10\n時になったら、でかけましょう。\nĐến 10 giờ thì chúng ta sẽ đi ra ngoài.\n例\n2\n：\nうちへ　かえったら、すぐ　シャワーを　あびます。\nVề đến nhà là tôi sẽ tắm ngay\nLưu ý\n:\nMẫu này nhìn ngoài khá giống với mẫu “ Thể quá khứ thông thường\n＋ら\n”  nhưng không hề có ý nghĩa giả định.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box177",
+      "title": "4. Thể て | Tính từ đuôi い, な",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/nnWbep_KF74",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Trái ngược với mẫu : “ Thể quá khứ thông thường + ら,~” diễn tả một điều kiện thuận ( tức là khi điều kiện đó xảy ra thì sẽ dẫn đến tình trạng, hành động ở mệnh đề chính), mẫu này được dùng để diễn tả một điều kiện nghịch. Mẫu này được dùng khi muốn nói về việc một hành động hay một sư kiện được cho là đương nhiên sẽ phải xảy ra theo điều kiện đã có nhưng kết quả xảy ra lại trái ngược với lẽ thường hoặc với những gì mà ta kì vọng."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 にちようびでも　はたらきます。 Mặc dù là chủ nhật nhưng tôi vẫn làm việc. 例2：　 やすくても、わたしは　グループりょこうが　きらいです。 Dù rẻ nhưng tôi ghét du lịch theo tour. 例3：　 べんりでも、　パソコンを　つかいません。 Dù tiện nhưng tôi không dùng máy tính. 例4：　 がんばっても、　このしごとは　あしたまでに　おわらないと　おもいます。 Tôi nghĩ là dù có cố gắng thì công việc này cũng không xong trước ngày mai.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "-Xét các ví dụ trên :"
+        },
+        {
+          "type": "text",
+          "text": "-Ví dụ 1:"
+        },
+        {
+          "type": "text",
+          "text": "Điều kiện : にちようびです."
+        },
+        {
+          "type": "text",
+          "text": "Kết quả  : はたらきます"
+        },
+        {
+          "type": "text",
+          "text": "Theo lẽ thường, điều kiện にちようびですà はたらきません. Tuy nhiên kết quả xảy ra lại là  はたらきます、trái ngược với lẽ thường."
+        },
+        {
+          "type": "text",
+          "text": "-Ví dụ 4:"
+        },
+        {
+          "type": "text",
+          "text": "Điều kiện: がんばります"
+        },
+        {
+          "type": "text",
+          "text": "Kết quả :  しごとは　おわりません"
+        },
+        {
+          "type": "text",
+          "text": "Khi có điều kiện がんばります, ta sẽ kì vọng là しごとが　おわります ==> kết quả xảy ra しごとが　おわりません、trái ngược với điều mà ta kì vọng."
+        },
+        {
+          "type": "text",
+          "text": "Các ví dụ 2 và 3 cũng tương tự như vậy."
+        },
+        {
+          "type": "text",
+          "text": "-Mẫu ～ても（でも）và　 mẫu  ～たら là 2 mẫu có ý nghĩa trái ngược nhau ( điều kiện thuận và điều kiện nghịch) :"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 あめが　ふったら　せんたくを　しません。 Nếu trời mua thì sẽ không giặt quần áo. あめが　ふっても　せんたくを　します。 Dù trời mưa vẫn giặt quần áo. 例2：　 やすかったら　パソコンを　かいます。 Nếu rẻ thì tôi sẽ mua máy tính. やすくても　　パソコンを　かいません。 Dù rẻ tôi cũng không mua máy tính",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trái ngược với mẫu : “ Thể quá khứ thông thường +\nら\n,~” diễn tả một\nđiều kiện thuận\n( tức là khi điều kiện đó xảy ra thì sẽ dẫn đến tình trạng, hành động ở mệnh đề chính), mẫu này được dùng để diễn tả một\nđiều kiện nghịch.\nMẫu này được dùng khi muốn nói về việc một hành động hay một sư kiện được cho là đương nhiên sẽ phải xảy ra theo điều kiện đã có nhưng kết quả xảy ra lại trái ngược với lẽ thường hoặc với những gì mà ta kì vọng.\n例\n1\n：\nにちようびでも　はたらきます。\nMặc dù là chủ nhật nhưng tôi vẫn làm việc.\n例\n2\n：\nやすくても、わたしは　グループりょこうが　きらいです。\nDù rẻ nhưng tôi ghét du lịch theo tour.\n例\n3\n：\nべんりでも、　パソコンを　つかいません。\nDù tiện nhưng tôi không dùng máy tính.\n例\n4\n：\nがんばっても、　このしごとは　あしたまでに　おわらないと　おもいます。\nTôi nghĩ là dù có cố gắng thì công việc này cũng không xong trước ngày mai\n.\n-\nXét các ví dụ trên :\n-Ví dụ 1\n:\nĐiều kiện :\nにちようびです\n.\nKết quả  :\nはたらきます\nTheo lẽ thường, điều kiện\nにちようびです\nà\nはたらきません\n. Tuy nhiên kết quả xảy ra lại là\nはたらきます、\ntrái ngược với lẽ thường.\n-\nVí dụ 4\n:\nĐiều kiện:\nがんばります\nKết quả :\nしごとは\nおわりません\nKhi có điều kiện\nがんばります\n, ta sẽ kì vọng là\nしごとが　おわります\n==> kết quả xảy ra\nしごとが　おわりません、\ntrái ngược với điều mà ta kì vọng.\nCác ví dụ 2 và 3 cũng tương tự như vậy.\n-Mẫu\n～ても（でも\n）\nvà\nmẫu\n～たら\nlà 2 mẫu có ý nghĩa trái ngược nhau ( điều kiện thuận và điều kiện nghịch) :\n例\n1\n：\nあめが　ふったら　せんたくを　しません。\nNếu trời mua thì sẽ không giặt quần áo.\nあめが　ふっても　せんたくを　します。\nDù trời mưa vẫn giặt quần áo.\n例\n2\n：\nやすかったら　パソコンを　かいます。\nNếu rẻ thì tôi sẽ mua máy tính.\nやすくても　　パソコンを　かいません。\nDù rẻ tôi cũng không mua máy tính",
+      "ruby": [],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/nnWbep_KF74",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box178",
+      "title": "5. もし　và　いくら",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "もし　được sử dụng trong câu “ Thể quá khứ thông thường + ら” và  もし được sử dụng trong câu ～ても（～でも） để báo cho người nghe biết rằng câu đó là câu điều kiện. もし　bao hàm ý nhấn mạnh về giả thuyết của người nói, trong khi đó いくら thì nhấn mạnh về mức độ điều kiện."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 もし　1おくえん　あったら、　いろいろな　くにを　りょこうしたいです。 Nếu có 100 triệu Yên thì tôi sẽ đi du lịch nhiều nước. 例2：　 もし　あした　ひまだったら、やまへ　いきたいです。 Nếu ngày mai rỗi thì tôi muốn đi lên núi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong 2 ví dụ trên, もし được thêm vào sẽ giúp nhấn mạnh hơn về giả thuyết mà người nói đưa ra ở mệnh đề trước ら."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3：　 あらっても　きれいに　なりません。 Dù giặt cũng không sạch いくら　あらっても　きれいに　なりません。 Dù có giặt thế nào đi nữa cũng không sạch.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Rõ ràng, khi thêm いくら　vào thì người nghe sẽ cảm nhận được mức độ đưa ra ở mệnh đề điều kiện tăng lên nhiều. Nếu như ở câu đầu tiên, ta chỉ hình dung là cái áo bị bẩn và giặt bình thường thì không sạch, thì ở câu sau, ta hình dung là chiếc áo đó bị bẩn và dù giặt đi giặt lại bao nhiêu lần, bằng các loại bột giặt khác nhau cũng không thể sạch được ."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4：　 たかくても　かいます。 Dù đắt cũng mua. いくら　たかくても　かいます。 Dù có đắt mấy cũng mua.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Trong ví dụ 4 cũng vậy. Ở câu đầu tiên, ta chỉ biết rằng dù đắt thì người nói cũng mua vật đó, nhưng ở câu sau, có thể hình dung là dù giá đắt đến thế nào đi chăng nữa người mua cũng phải mua bằng được ==> mức độ của điều kiện đã được nhấn mạnh hơn."
+        }
+      ],
+      "text": "もし\nđược sử dụng trong câu “ Thể quá khứ thông thường +\nら\n” và\nもし\nđược sử dụng trong câu\n～ても（～でも）\nđể báo cho người nghe biết rằng câu đó là câu điều kiện.\nもし\nbao hàm ý\nnhấn mạnh về giả thuyết\ncủa người nói, trong khi đó\nいくら\nthì nhấn mạnh về\nmức độ điều kiện.\n例\n1\n：\nもし\n1\nおくえん　あっ\nたら\n、　いろいろな　くにを　りょこうしたいです。\nNếu có 100 triệu Yên thì tôi sẽ đi du lịch nhiều nước.\n例\n2\n：\nもし\nあした　ひまだっ\nたら\n、やまへ　いきたいです。\nNếu ngày mai rỗi thì tôi muốn đi lên núi.\nTrong 2 ví dụ trên,\nもし\nđược thêm vào sẽ giúp nhấn mạnh hơn về giả thuyết mà người nói đưa ra ở mệnh đề trước\nら\n.\n例\n3\n：\nあらっても　きれいに　なりません。\nDù giặt cũng không sạch\nいくら\nあらっ\nても\nきれいに　なりません。\nDù có giặt thế nào đi nữa cũng không sạch.\nRõ ràng, khi thêm\nいくら\nvào thì người nghe sẽ cảm nhận được mức độ đưa ra ở mệnh đề điều kiện tăng lên nhiều. Nếu như ở câu đầu tiên, ta chỉ hình dung là cái áo bị bẩn và giặt bình thường thì không sạch, thì ở câu sau, ta hình dung là chiếc áo đó bị bẩn và dù giặt đi giặt lại bao nhiêu lần, bằng các loại bột giặt khác nhau cũng không thể sạch được .\n例\n4\n：\nたかくても　かいます。\nDù đắt cũng mua.\nいくら\nたかく\nても\nかいます。\nDù có đắt mấy cũng mua.\nTrong ví dụ 4 cũng vậy. Ở câu đầu tiên, ta chỉ biết rằng dù đắt thì người nói cũng mua vật đó, nhưng ở câu sau, có thể hình dung là dù giá đắt đến thế nào đi chăng nữa người mua cũng phải mua bằng được ==> mức độ của điều kiện đã được nhấn mạnh hơn.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box179",
+      "title": "6. N が",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong các bài trước, chúng ta đã được lưu ý rằng, chủ thể của mệnh đề phụ trong câu được biểu thị bằng trợ từ が. Các mệnh đề phụ sử dụng たら、ても、とき、と、まえに、và mệnh đề chỉ nguyên nhân から thì chủ thể của cũng được biểu thị bằng trợ từ が　như dưới đây:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1：　 ともだちが　くるまえに、へやを　そうじします。 Tôi dọn nhà trước khi bạn bè đến. 例2： つまが　びょうきのとき、　かいしゃを　やすみます。 Lúc vợ tôi ốm, tôi nghỉ làm. 例3：　 やまださんが　やくそくの　じかんに　こなかったら、どうしますか。 Nếu anh Yamada mà không đến vào giờ hẹn thì làm gì? 例4：　 ちずが　なくても、　くることが　できます。 Dù không có bản đồ thì tôi vẫn có thể đến được. 例5：　 あした　しけんが　ありますから、べんきょうしなければなりません。 Vì ngày mai thi nên tôi phải học.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trong các bài trước, chúng ta đã được lưu ý rằng, chủ thể của mệnh đề phụ trong câu được biểu thị bằng trợ từ\nが\n. Các mệnh đề phụ sử dụng\nたら、ても、とき、と、まえに、\nvà mệnh đề chỉ nguyên nhân\nから\nthì chủ thể của cũng được biểu thị bằng trợ từ\nが\nnhư dưới đây:\n例\n1\n：\nともだちが　くるまえに、へやを　そうじします。\nTôi dọn nhà trước khi bạn bè đến.\n例\n2\n：\nつまが　びょうきのとき、　かいしゃを　やすみます。\nLúc vợ tôi ốm, tôi nghỉ làm.\n例\n3\n：\nやまださんが　やくそくの　じかんに　こなかったら、どうしますか。\nNếu anh Yamada mà không đến vào giờ hẹn thì làm gì?\n例\n4\n：\nちずが　なくても、　くることが　できます。\nDù không có bản đồ thì tôi vẫn có thể đến được.\n例\n5\n：\nあした　しけんが　ありますから、べんきょうしなければなりません。\nVì ngày mai thi nên tôi phải học.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. 例：雨が（　降ります　→　降った）ら、出かけません。"
+        },
+        {
+          "type": "text",
+          "text": "１）毎日　日本語を（　使います　→ ______ ）ら、上手に　なります。"
+        },
+        {
+          "type": "text",
+          "text": "２）バスが（　来ません　→ ______ ）ら、タクシーで　行きましょう。"
+        },
+        {
+          "type": "text",
+          "text": "３）月曜日が（　無理です　→ ______ ）ら、火曜日に　レポートを　出して　ください。"
+        },
+        {
+          "type": "text",
+          "text": "４）日曜日　天気が（　いいです　→ ______ ）ら、ゴルフに　行きませんか。"
+        },
+        {
+          "type": "text",
+          "text": "５）（　考えます　→ ______ ）も、わかりません。"
+        },
+        {
+          "type": "text",
+          "text": "６）車は　高いですから、（　便利です　→ ______ ）も、買いません。"
+        },
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "時間が　あったら、__",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "d",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "a.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "エアコンを　つけて　ください。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "１）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お金が　あっても、__",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "____",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "b.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "サッカーの　試合が　あります。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "２）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "暑かったら、__",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "____",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "c.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何も　買いません。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "３）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "仕事が　忙しくても、__",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "____",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "d.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "遊びに　行きましょう。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "４）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いい　会社だったら、__",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "____",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "e.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "毎晩　日本語を　勉強します。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "５）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "雨でも、__",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "____",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "f.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "入りたいです。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "3. 例：いつ　旅行に　行きますか。（　夏休みに　なります　）"
+        },
+        {
+          "type": "text",
+          "text": "...  夏休みに　なったら、すぐ　行きます。"
+        },
+        {
+          "type": "text",
+          "text": "１）何時に　パワー電気へ　行きますか。（　会議が　終わります　）"
+        },
+        {
+          "type": "text",
+          "text": "...  ______"
+        },
+        {
+          "type": "text",
+          "text": "２）いつ　結婚したいですか。（　大学を　出ます　）"
+        },
+        {
+          "type": "text",
+          "text": "...  ______"
+        },
+        {
+          "type": "text",
+          "text": "３）何時ごろ　出かけましょうか。（　昼ごはんを　食べます　）"
+        },
+        {
+          "type": "text",
+          "text": "...  ______"
+        },
+        {
+          "type": "text",
+          "text": "４）いつごろ　新しい　仕事を　始めますか。（　国へ　帰ります　）"
+        },
+        {
+          "type": "text",
+          "text": "...  ______"
+        }
+      ],
+      "text": "1.\n例：雨が（　降ります\n→\n降った）ら、出かけません。\n１）毎日　日本語を（　使います\n→\n______\n）ら、上手に　なります。\n２）バスが（　来ません\n→\n______\n）ら、タクシーで　行きましょう。\n３）月曜日が（　無理です\n→\n______\n）ら、火曜日に　レポートを　出して　ください。\n４）日曜日　天気が（　いいです\n→\n______\n）ら、ゴルフに　行きませんか。\n５）（　考えます\n→\n______\n）も、わかりません。\n６）車は　高いですから、（　便利です\n→\n______\n）も、買いません。\n2.\n例）\n時間が　あったら、__\nd\na.\nエアコンを　つけて　ください\n。\n１）\nお金が　あっても、__\n____\nb.\nサッカーの　試合が　あります。\n２）\n暑かったら、__\n____\nc.\n何も　買いません。\n３）\n仕事が　忙しくても、__\n____\nd.\n遊びに　行きましょう。\n４）\nいい　会社だったら、__\n____\ne.\n毎晩　日本語を　勉強します。\n５）\n雨でも、__\n____\nf.\n入りたいです。\n3.\n例：いつ　旅行に　行きますか。（　夏休みに　なります　）\n...\n夏休みに　なったら、すぐ　行きます\n。\n１）何時に　パワー電気へ　行きますか。（　会議が　終わります　）\n...  ______\n２）いつ　結婚したいですか。（　大学を　出ます　）\n...  ______\n３）何時ごろ　出かけましょうか。（　昼ごはんを　食べます　）\n...  ______\n４）いつごろ　新しい　仕事を　始めますか。（　国へ　帰ります　）\n...  ______",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

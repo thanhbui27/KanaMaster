@@ -1,0 +1,373 @@
+{
+  "lesson": 38,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-38",
+  "solutions": [
+    {
+      "exerciseId": "38-section-6-exercise-1",
+      "question": "1. 母はさくら病院（　）入院しています。",
+      "context": "1.\n例：やっと日本の生活（に）慣れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "病院に入院する: nhập viện."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-2",
+      "question": "2. ビデオ（　）電源（　）入れてください。",
+      "context": "1.\n例：やっと日本の生活（に）慣れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "ビデオの電源を入れる: bật nguồn thiết bị video."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-3",
+      "question": "3. うそ（　）言うのはよくないです。",
+      "context": "1.\n例：やっと日本の生活（に）慣れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ]
+      ],
+      "explanation": "うそを言う: nói dối."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-4",
+      "question": "4. 先週姉（　）男の子（　）生まれました。",
+      "context": "1.\n例：やっと日本の生活（に）慣れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "姉に男の子が生まれた: chị đã sinh bé trai; に chỉ người có con, が chỉ đứa trẻ."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-5",
+      "question": "5. 回覧の名前の下（　）はんこ（　）押してください。",
+      "context": "1.\n例：やっと日本の生活（に）慣れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "名前の下にはんこを押す: đóng dấu dưới tên."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-6",
+      "question": "1. カリナさんが授業に＿＿＿＿＿＿＿は珍しいですね。",
+      "context": "2.\nあります、伝えます、運びます、招待します、歩きます、遅れます、着て行きます\n例：夜遅く一人歩くのは危ないです。",
+      "status": "reference",
+      "answers": [
+        [
+          "遅れるの"
+        ]
+      ],
+      "explanation": "Động từ từ điển + の danh từ hóa: việc Karina đến lớp muộn."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-7",
+      "question": "2. 結婚式にこの服を＿＿＿＿＿＿＿＿はおかしいですか。",
+      "context": "2.\nあります、伝えます、運びます、招待します、歩きます、遅れます、着て行きます\n例：夜遅く一人歩くのは危ないです。",
+      "status": "reference",
+      "answers": [
+        [
+          "着て行くの"
+        ]
+      ],
+      "explanation": "この服を着て行くの: việc mặc bộ đồ này đến lễ cưới."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-8",
+      "question": "3. 近くに大きいスーパーが＿＿＿＿＿＿は便利ですね。",
+      "context": "2.\nあります、伝えます、運びます、招待します、歩きます、遅れます、着て行きます\n例：夜遅く一人歩くのは危ないです。",
+      "status": "reference",
+      "answers": [
+        [
+          "あるの"
+        ]
+      ],
+      "explanation": "スーパーがあるの: việc có siêu thị lớn gần đây."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-9",
+      "question": "4. 自分の気持ちを＿＿＿＿＿＿＿＿はとても難しいと思います。",
+      "context": "2.\nあります、伝えます、運びます、招待します、歩きます、遅れます、着て行きます\n例：夜遅く一人歩くのは危ないです。",
+      "status": "reference",
+      "answers": [
+        [
+          "伝えるの"
+        ]
+      ],
+      "explanation": "気持ちを伝えるの: việc truyền đạt cảm xúc."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-10",
+      "question": "5. 引っ越しに荷物をこの車で＿＿＿＿＿＿＿はちょっと無理です。",
+      "context": "2.\nあります、伝えます、運びます、招待します、歩きます、遅れます、着て行きます\n例：夜遅く一人歩くのは危ないです。",
+      "status": "reference",
+      "answers": [
+        [
+          "運ぶの"
+        ]
+      ],
+      "explanation": "荷物を運ぶの: việc chuyển hành lý bằng xe này."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-11",
+      "question": "1. ＿＿＿＿＿＿＿＿＿＿＿＿＿＿楽しいです。",
+      "context": "3.\n例：働きながら子供を育てるのは大変です。",
+      "status": "sample",
+      "answers": [
+        [
+          "友達と旅行するのは"
+        ]
+      ],
+      "explanation": "Ví dụ: 友達と旅行するのは楽しいです, đi du lịch với bạn rất vui; は chưa có ngoài ô nên cần điền cả は."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-12",
+      "question": "2. ＿＿＿＿＿＿＿＿＿＿＿＿＿＿は体によくないです。",
+      "context": "3.\n例：働きながら子供を育てるのは大変です。",
+      "status": "sample",
+      "answers": [
+        [
+          "たばこを吸うの"
+        ]
+      ],
+      "explanation": "Hút thuốc không tốt cho cơ thể; động từ + の, は đã có sẵn."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-13",
+      "question": "3. ＿＿＿＿＿＿＿＿＿＿＿＿＿＿は気持ちがいいです。",
+      "context": "3.\n例：働きながら子供を育てるのは大変です。",
+      "status": "sample",
+      "answers": [
+        [
+          "朝散歩するの"
+        ]
+      ],
+      "explanation": "Ví dụ: đi dạo buổi sáng dễ chịu. Câu mở có nhiều lời giải."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-14",
+      "question": "4. 外国語でスピーチをするのは＿＿＿＿＿＿＿＿＿＿。",
+      "context": "3.\n例：働きながら子供を育てるのは大変です。",
+      "status": "sample",
+      "answers": [
+        [
+          "難しいです"
+        ]
+      ],
+      "explanation": "Ví dụ: phát biểu bằng ngoại ngữ khó; cũng có thể mô tả cảm nhận khác."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-15",
+      "question": "5. 歩きながらたばこを吸うのは＿＿＿＿＿＿＿＿＿＿。",
+      "context": "3.\n例：働きながら子供を育てるのは大変です。",
+      "status": "sample",
+      "answers": [
+        [
+          "危ないです"
+        ]
+      ],
+      "explanation": "Vừa đi vừa hút thuốc nguy hiểm; hoàn thành phần vị ngữ."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-16",
+      "question": "1. ことしは遅いです・桜が咲きます…＿＿＿＿＿＿＿＿＿が＿＿＿＿＿＿",
+      "context": "4.\n例：息子は好きです・動物を飼います…息子は動物を飼うのが好きです。",
+      "status": "reference",
+      "answers": [
+        [
+          "ことしは桜が咲くの"
+        ],
+        [
+          "遅いです"
+        ]
+      ],
+      "explanation": "Danh từ hóa 桜が咲くの, rồi dùng が遅いです."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-17",
+      "question": "2. 私は下手です・整理します…＿＿＿＿＿＿＿＿＿が＿＿＿＿＿＿­＿＿＿",
+      "context": "4.\n例：息子は好きです・動物を飼います…息子は動物を飼うのが好きです。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Dấu gạch dưới chứa ký tự ngắt mềm khiến bộ tách tạo ba ô thay vì hai. Câu đầy đủ: 私は整理するのが下手です。 (Tôi không giỏi sắp xếp). Không chấm theo các ô bị tách sai."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-18",
+      "question": "3. 子供は早いです・けがが治ります…＿＿＿＿＿＿＿＿＿が＿＿＿＿＿＿",
+      "context": "4.\n例：息子は好きです・動物を飼います…息子は動物を飼うのが好きです。",
+      "status": "reference",
+      "answers": [
+        [
+          "子供はけがが治るの"
+        ],
+        [
+          "早いです"
+        ]
+      ],
+      "explanation": "けがが治るのが早い: trẻ em lành vết thương nhanh."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-19",
+      "question": "4. マリアさんは上手です・プレゼントを選びます。\n…＿＿＿＿＿＿＿＿＿が＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "4.\n例：息子は好きです・動物を飼います…息子は動物を飼うのが好きです。",
+      "status": "reference",
+      "answers": [
+        [
+          "マリアさんはプレゼントを選ぶの"
+        ],
+        [
+          "上手です"
+        ]
+      ],
+      "explanation": "Maria giỏi chọn quà: 選ぶのが上手."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-20",
+      "question": "5. 私は嫌いです・込んでいる電車に乗ります。\n…＿＿＿＿＿＿＿＿＿が＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "4.\n例：息子は好きです・動物を飼います…息子は動物を飼うのが好きです。",
+      "status": "reference",
+      "answers": [
+        [
+          "私は込んでいる電車に乗るの"
+        ],
+        [
+          "嫌いです"
+        ]
+      ],
+      "explanation": "乗るのが嫌い: không thích đi tàu đông."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-21",
+      "question": "1. 中村さんに手紙を出しましたが、木ってを＿＿＿＿＿＿を忘れました。",
+      "context": "5.\n例：ミーティングの時間を決めましたが、渡辺さんに連絡するのを忘れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "はるの",
+          "貼るの"
+        ]
+      ],
+      "explanation": "切手をはるのを忘れました: quên dán tem. Nguồn 木って là lỗi của 切手."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-22",
+      "question": "2. 帰るときは、コピー機の電源を＿＿＿＿＿＿＿＿＿を忘れないでください。",
+      "context": "5.\n例：ミーティングの時間を決めましたが、渡辺さんに連絡するのを忘れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "切るの"
+        ]
+      ],
+      "explanation": "電源を切るのを忘れない: đừng quên tắt nguồn."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-23",
+      "question": "3. 書類を入れた引き出しのかぎを＿＿＿＿＿＿＿＿＿を忘れないようにしてください。",
+      "context": "5.\n例：ミーティングの時間を決めましたが、渡辺さんに連絡するのを忘れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "かけるの"
+        ]
+      ],
+      "explanation": "かぎをかけるのを忘れない: đừng quên khóa ngăn kéo."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-24",
+      "question": "4. 昨日出したレポートに名前を＿＿＿＿＿＿＿＿＿を忘れてしまいました。",
+      "context": "5.\n例：ミーティングの時間を決めましたが、渡辺さんに連絡するのを忘れました。",
+      "status": "reference",
+      "answers": [
+        [
+          "書くの"
+        ]
+      ],
+      "explanation": "名前を書くのを忘れる: quên ghi tên báo cáo."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-25",
+      "question": "1. 小川さんの息子さんが大学に＿＿＿＿＿＿＿＿を知りませんでした。",
+      "context": "６．\n買いました、飼えません、退院します、書いています、育てます、できました、合格しました、亡くなりました\n例：駅前に大きなレストランができたのを知っていますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "合格したの"
+        ]
+      ],
+      "explanation": "知りませんでした: trước đây không biết việc đã đỗ; thể た + の."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-26",
+      "question": "2. 高橋さんがドイツ製の車を＿＿＿＿＿＿＿＿＿を知っていますか。",
+      "context": "６．\n買いました、飼えません、退院します、書いています、育てます、できました、合格しました、亡くなりました\n例：駅前に大きなレストランができたのを知っていますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "買ったの"
+        ]
+      ],
+      "explanation": "Đã mua xe: 買ったのを知っていますか."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-27",
+      "question": "3. このマンションではペットが＿＿＿＿＿＿＿＿を知りませんでした。",
+      "context": "６．\n買いました、飼えません、退院します、書いています、育てます、できました、合格しました、亡くなりました\n例：駅前に大きなレストランができたのを知っていますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "飼えないの"
+        ]
+      ],
+      "explanation": "Không được/không thể nuôi thú ở đây: 飼えないの."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-28",
+      "question": "4. あさって林さんが＿＿＿＿＿＿＿＿＿＿を知っていますか。",
+      "context": "６．\n買いました、飼えません、退院します、書いています、育てます、できました、合格しました、亡くなりました\n例：駅前に大きなレストランができたのを知っていますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "退院するの"
+        ]
+      ],
+      "explanation": "あさって: ngày kia nên dùng 退院する, không dùng quá khứ."
+    },
+    {
+      "exerciseId": "38-section-6-exercise-29",
+      "question": "5. 昨日山田さんのお父さんが＿＿＿＿＿＿＿＿＿を知っていますか。",
+      "context": "６．\n買いました、飼えません、退院します、書いています、育てます、できました、合格しました、亡くなりました\n例：駅前に大きなレストランができたのを知っていますか。",
+      "status": "reference",
+      "answers": [
+        [
+          "亡くなったの"
+        ]
+      ],
+      "explanation": "昨日: hôm qua; dùng 亡くなったの."
+    }
+  ]
+}

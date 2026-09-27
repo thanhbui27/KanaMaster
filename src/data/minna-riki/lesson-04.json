@@ -1,0 +1,1687 @@
+{
+  "schemaVersion": 1,
+  "lesson": 4,
+  "title": "Từ vựng ngữ pháp Minna bài 4",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-4",
+  "fetchedAt": "2026-09-27T09:07:08.324524+00:00",
+  "sourceSha256": "10aa984ac940946b19f2a65fbf9ef2fe85e6beaffdb958d35e89ce823ead38c9",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box41",
+      "title": "I. TỪ VỰNG MINNA BÀI 4",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Hiragana",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thức dậy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ねます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "寝ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngủ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はたらきます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "働きます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "làm việc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やすみます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "休みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghỉ ngơi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "べんきょうします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "勉強します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "học tập",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おわります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "終わります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "kết thúc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "デパート",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cửa hàng bách hóa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ぎんこう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "銀行",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngân hàng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ゆうびんきょく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "郵便局",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bưu điện",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "としょかん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "図書館",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thư viện",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "びじゅつかん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "美術館",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "viện bảo tàng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "でんわばんごう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "電話番号",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "số điện thoại",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何番",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "số mấy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いま",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bây giờ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～じ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～時",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "~giờ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～ふん / ～ぷん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～分",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～phút",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "半",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "phân nửa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんじ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何時",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mấy giờ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんぷん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何分",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mấy phút",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ごぜん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "午前",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sáng (AM: trước 12 giờ)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ごご",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "午後",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chiều (PM: sau 12 giờ)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あさ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "朝",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sáng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひる",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "昼",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trưa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "晩",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tối",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "よる",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "夜",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tối",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おととい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày hôm kia",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きのう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày hôm qua",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hôm nay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あした",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "明日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あさって",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngày mốt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "けさ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今朝",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sáng nay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こんばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tối nay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ゆうべ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tối hôm qua",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やすみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "休み",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghỉ ngơi (danh từ)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ひるやすみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "昼休み",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghỉ trưa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まいあさ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "毎朝",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mỗi sáng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まいばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "毎晩",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mỗi tối",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まいにち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "毎日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mỗi ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ペキン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bắc Kinh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "バンコク",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bangkok",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ロンドン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Luân Đôn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ロサンゼルス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Los Angeles",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たいへんですね",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "大変ですね",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vất vả nhỉ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ばんごうあんない",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dịch vụ 116 (hỏi số điện thoại)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おといあわせ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(số điện thoại) bạn muốn biết / hỏi là",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nHiragana\nKanji\nÝ nghĩa\n1\nおきます\nthức dậy\n2\nねます\n寝ます\nngủ\n3\nはたらきます\n働きます\nlàm việc\n4\nやすみます\n休みます\nnghỉ ngơi\n5\nべんきょうします\n勉強します\nhọc tập\n6\nおわります\n終わります\nkết thúc\n7\nデパート\ncửa hàng bách hóa\n8\nぎんこう\n銀行\nngân hàng\n9\nゆうびんきょく\n郵便局\nbưu điện\n10\nとしょかん\n図書館\nthư viện\n11\nびじゅつかん\n美術館\nviện bảo tàng\n12\nでんわばんごう\n電話番号\nsố điện thoại\n13\nなんばん\n何番\nsố mấy\n14\nいま\n今\nbây giờ\n15\n～じ\n～時\n~giờ\n16\n～ふん / ～ぷん\n～分\n～phút\n17\nはん\n半\nphân nửa\n18\nなんじ\n何時\nmấy giờ\n19\nなんぷん\n何分\nmấy phút\n20\nごぜん\n午前\nsáng (AM: trước 12 giờ)\n21\nごご\n午後\nchiều (PM: sau 12 giờ)\n22\nあさ\n朝\nsáng\n23\nひる\n昼\ntrưa\n24\nばん\n晩\ntối\n25\nよる\n夜\ntối\n26\nおととい\nngày hôm kia\n27\nきのう\nngày hôm qua\n28\nきょう\n今日\nhôm nay\n29\nあした\n明日\nngày mai\n30\nあさって\nngày mốt\n31\nけさ\n今朝\nsáng nay\n32\nこんばん\ntối nay\n33\nゆうべ\ntối hôm qua\n34\nやすみ\n休み\nnghỉ ngơi (danh từ)\n35\nひるやすみ\n昼休み\nnghỉ trưa\n36\nまいあさ\n毎朝\nmỗi sáng\n37\nまいばん\n毎晩\nmỗi tối\n38\nまいにち\n毎日\nmỗi ngày\n39\nペキン\nBắc Kinh\n40\nバンコク\nBangkok\n41\nロンドン\nLuân Đôn\n42\nロサンゼルス\nLos Angeles\n43\nたいへんですね\n大変ですね\nvất vả nhỉ\n44\nばんごうあんない\ndịch vụ 116 (hỏi số điện thoại)\n45\nおといあわせ\n(số điện thoại) bạn muốn biết / hỏi là",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box42",
+      "title": "2. 今(いま)　～時(じ)　～分(ふん)です",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/rCKvrHCDDGE",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Trong tiếng Nhật, người ta sử dụng các đơn vị đếm thời gian là 時（giờ）và 分（phút）kết hợp với các số đếm để nói về thời gian. Các số đếm sẽ được đặt trước các đơn vị chỉ thời gian."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ８じ１５ふん　– 8 giờ 15 phút。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*)  Đơn vị đếm phút (分) được đọc khác nhau tùy theo số đếm đi trước nó:"
+        },
+        {
+          "type": "text",
+          "text": "- Đọc là ふん khi đứng sau các số đếm : 2,5,7,9 hoặc những số có tận cùng là những chữ số trên."
+        },
+        {
+          "type": "text",
+          "text": "- Đọc là ぷん khi đứng sau các số đếm 1,3,4,6,8 và 10 hoặc những số có tận cùng là những chữ số trên. Đặc biệt, các số đếm 1,6,8,10 khi đọc cùng vớiぷんsẽ bị biến âm thành いっ、ろっ、はっ và じゅっ（じっ.）"
+        },
+        {
+          "type": "text",
+          "text": "*)  Khi nói về giờ cũng cần lưu ý các cách đọc đặc biệt với các giờ sau :"
+        },
+        {
+          "type": "text",
+          "text": "- ４時　（じ）　đọc là よじ　（không đọc làよんじ）"
+        },
+        {
+          "type": "text",
+          "text": "- ７時　（じ）　đọc là しちじ（không đọc là ななじ）"
+        },
+        {
+          "type": "text",
+          "text": "- ９時　（じ）　đọc là くじ　（không đọc làきゅうじ）"
+        },
+        {
+          "type": "text",
+          "text": "Tham khảo phụ lục đính kèm để hiểu rõ thêm về cách nói giờ và phút."
+        },
+        {
+          "type": "text",
+          "text": "- Từ để hỏi 何khi đi kèm với các đơn vị chỉ số đếm được dùng để hỏi các câu hỏi liên quan tới số lượng hoặc số đếm. Ở đây, từ  何時( đôi lúc là 何分 ) được dùng để hỏi về thời gian."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A : 今　何時ですか。 Bây giờ là mấy giờ ? B : ７時１０分です。 7 giờ 10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "*) Lưu ý : Như đã học ở bài 1, trợ từ は cho ta biết chủ đề của một câu. Một từ chỉ địa danh danh cũng có thể được sử dụng như chủ đề của một câu như dưới đây:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： A : ニューヨークは　いま　なんじですか。 New York bây giờ là mấy giờ ? B : ごぜん　４じです。 4 giờ sáng.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trong tiếng Nhật, người ta sử dụng các đơn vị đếm thời gian là\n時\n（\ngiờ\n）\nvà\n分\n（\nphút\n）\nkết hợp với các số đếm để nói về thời gian. Các số đếm sẽ được đặt trước các đơn vị chỉ thời gian.\n例1\n：\n８じ１５ふん\n–\n8 giờ 15 phút\n。\n*)\nĐơn vị đếm phút\n(\n分\n) được đọc khác nhau tùy theo số đếm đi trước nó:\n- Đọc là\nふん\nkhi đứng sau các số đếm : 2,5,7,9 hoặc những số có tận cùng là những chữ số trên.\n- Đọc là\nぷん\nkhi đứng sau các số đếm 1,3,4,6,8 và 10 hoặc những số có tận cùng là những chữ số trên. Đặc biệt, các số đếm 1,6,8,10 khi đọc cùng với\nぷん\nsẽ bị biến âm thành\nいっ、ろっ、はっ\nvà\nじゅっ（じっ\n.\n）\n*)  Khi nói về giờ\ncũng cần lưu ý các cách đọc đặc biệt với các giờ sau :\n- ４時　（じ）\nđọc là\nよじ　（\nkhông đọc là\nよんじ）\n- ７時　（じ）\nđọc là\nしちじ（\nkhông đọc là\nななじ）\n- ９時　（じ）\nđọc là\nくじ　（\nkhông đọc là\nきゅうじ）\nTham khảo phụ lục đính kèm để hiểu rõ thêm về cách nói giờ và phút.\n- Từ để hỏi\n何\nkhi đi kèm với các đơn vị chỉ số đếm được dùng để hỏi các câu hỏi liên quan tới số lượng hoặc số đếm. Ở đây, từ\n何時\n( đôi lúc là\n何分\n) được dùng để hỏi về thời gian.\n例1\n：\nA :\n今\n何時\nですか。\nBây giờ là mấy giờ ?\nB :\n７\n時\n１０\n分\nです。\n7 giờ 10\n*)\nLưu ý\n: Như đã học ở bài 1, trợ từ\nは\ncho ta biết chủ đề của một câu. Một từ chỉ địa danh danh cũng có thể được sử dụng như chủ đề của một câu như dưới đây:\n例3\n：\nA :\nニューヨークは　いま　なんじですか。\nNew York bây giờ là mấy giờ ?\nB :\nごぜん　４じです。\n4 giờ sáng.",
+      "ruby": [
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "分",
+          "readings": [
+            "ふん"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "何時",
+          "readings": [
+            "なんじ"
+          ]
+        },
+        {
+          "text": "何分",
+          "readings": [
+            "なんぷん"
+          ]
+        },
+        {
+          "text": "何時",
+          "readings": [
+            "なんじ"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "分",
+          "readings": [
+            "ぷん"
+          ]
+        }
+      ],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/rCKvrHCDDGE",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box43",
+      "title": "3. Vます",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1) Thể ます là một trong những thể của động từ trong tiếng Nhật. Những động từ kết thúc bằng ますcó chức năng làm vị ngữ của câu."
+        },
+        {
+          "type": "text",
+          "text": "2 ) Thể ます  làm cho câu nghe lịch sự hơn."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： わたしは　まいにち　べんきょうします。 Tôi học mỗi ngày.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "1) Thể\nます\nlà một trong những thể của động từ trong tiếng Nhật. Những động từ kết thúc bằng\nます\ncó chức năng làm vị ngữ của câu.\n2 ) Thể\nます\nlàm cho câu nghe lịch sự hơn.\n例1\n：\nわたしは　まいにち　べんきょうします。\nTôi học mỗi ngày.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box44",
+      "title": "3. Vます/Vません/Vました/Vませんでした",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. Thểます được dùng để diễn tả một sự thật khách quan"
+        },
+        {
+          "type": "text",
+          "text": "( VD: nước sôi ở 100 độ, mặt trời mọc từ đằng Đông,..)  hoặc một việc đã trở thành thói quen."
+        },
+        {
+          "type": "text",
+          "text": "Có thể gọi ます  là thể khẳng định của động từ ở thời không quá khứ ( tức là bao gồm cả hiện tại và tương lai) dạng lịch sự. Thể phủ định và thể quá khứ của ます được biến đổi như bảng dưới đây"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Không quá khứ (hiện tại/tương lai)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Quá khứ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "Khẳng định",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(おき)ます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(おき）ました",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "Phủ định",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(おき）ません",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(おき）ませんでした",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： まいあさ　６じに　おきます。 Hàng ngày tôi thức dậy lúc 6 giờ. 例2： あした　６じに　おきます。 Ngày mai tôi sẽ thức dậy lúc 6 giờ. 例3： けさ　６じに　おきました。 Sáng nay tôi thức dậy lúc 6 giờ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2.  Dạng câu hỏi của những câu động từ"
+        },
+        {
+          "type": "text",
+          "text": "( tức là những câu kết thúc bằng động từ ) cũng có cấu tạo tương tự như những câu danh từ. Nó có cấu tạo giống câu trần thuật và thêm か vào cuối mỗi câu."
+        },
+        {
+          "type": "text",
+          "text": "Ở dạng câu hỏi này, khi trả lời ta phải nhắc lại động từ. Không được sử dụng các trả lời ngắn gọn そうです hoặcそうじゃありませんnhư đã học trong bài 2."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4： A :きのう　べんきょうしましたか。 Hôm qua bạn có học không? B1：はい、べんきょうしました。 Có, tôi có học. B2 : いいえ、べんきょうしませんでした。 Không, tôi không học. 例5： A : まいあさ　なんじに　おきますか。 Hàng ngày bạn dậy lúc mấy giờ? B : ６じに　おきます。 Tôi dậy lúc 6 giờ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "1. Thể\nます\nđược dùng để diễn tả một sự thật khách quan\n( VD: nước sôi ở 100 độ, mặt trời mọc từ đằng Đông,..)  hoặc một việc đã trở thành thói quen.\nCó thể gọi\nます\nlà thể khẳng định của động từ ở thời không quá khứ ( tức là bao gồm cả hiện tại và tương lai) dạng lịch sự. Thể phủ định và thể quá khứ của\nます\nđược biến đổi như bảng dưới đây\nKhông quá khứ (hiện tại/tương lai)\nQuá khứ\nKhẳng định\n(\nおき\n)\nます\n(\nおき）ました\nPhủ định\n(\nおき）ません\n(\nおき）ませんでした\n例1\n：\nまいあさ　６じに　おきます。\nHàng ngày tôi thức dậy lúc 6 giờ.\n例2\n：\nあした　６じに　おきます。\nNgày mai tôi sẽ thức dậy lúc 6 giờ.\n例3\n：\nけさ　６じに　おきました。\nSáng nay tôi thức dậy lúc 6 giờ.\n2.  Dạng câu hỏi của những câu động từ\n( tức là những câu kết thúc bằng động từ ) cũng có cấu tạo tương tự như những câu danh từ. Nó có cấu tạo giống câu trần thuật và thêm\nか\nvào cuối mỗi câu.\nỞ dạng câu hỏi này, khi trả lời ta phải nhắc lại động từ. Không được sử dụng các trả lời ngắn gọn\nそうです\nhoặc\nそうじゃありません\nnhư đã học trong bài 2.\n例4\n：\nA :\nきのう　べんきょうしましたか。\nHôm qua bạn có học không?\nB1\n：はい、べんきょうしました。\nCó, tôi có học.\nB2 :\nいいえ、べんきょうしませんでした。\nKhông, tôi không học.\n例5\n：\nA :\nまいあさ　なんじに　おきますか。\nHàng ngày bạn dậy lúc mấy giờ?\nB :\n６じに　おきます。\nTôi dậy lúc 6 giờ.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box45",
+      "title": "4. N (thời gian) に V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "media",
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/SnFtsxx2pes",
+          "alt": ""
+        },
+        {
+          "type": "text",
+          "text": "Để chỉ thời điểm tiến hành một động tác, một sự di chuyển, ta thêm trợ từ に ở sau danh từ chỉ thời gian. Tuy nhiên, cần lưu ý là chỉ được thêm trợ từ に vào trước những danh từ đi cùng với số đếm ( Ví dụ: ngày, tháng, năm hoặc giờ,..)."
+        },
+        {
+          "type": "text",
+          "text": "Ta cũng có thể thêm trợ từ にvào trước danh từ chỉ các ngày trong tuần mặc dù nó không thật sự cần thiết. Còn lại các danh từ chỉ thời gian không đi cùng với số đếm khác"
+        },
+        {
+          "type": "text",
+          "text": "( ví dụ : sáng nay, hôm qua, mùa hè,..) thì không thêm trợ từ に vào đằng sau."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ６時半に　おきます。 Tôi dậy lúc 6 rưỡi. 例2： ７月２日に　ハノイへ　きました。( Bài 5) Tôi lên Hà Nội vào ngày 2/7. 例3： にちようび[に]　ハイフォンへ　いきます。(Bài 5) Chủ Nhật tôi sẽ đi Hải Phòng. 例4： きのう　べんきょうしました。 Hôm qua tôi học.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Để chỉ thời điểm tiến hành một động tác, một sự di chuyển, ta thêm trợ từ\nに\nở sau danh từ chỉ thời gian. Tuy nhiên, cần lưu ý là chỉ được thêm trợ từ\nに\nvào trước những danh từ đi cùng với số đếm ( Ví dụ: ngày, tháng, năm hoặc giờ,..).\nTa cũng có thể thêm trợ từ\nに\nvào trước danh từ chỉ các ngày trong tuần mặc dù nó không thật sự cần thiết. Còn lại\ncác danh từ chỉ thời gian không đi cùng với số đếm khác\n( ví dụ : sáng nay, hôm qua, mùa hè,..) thì\nkhông thêm trợ từ\nに\nv\nào đằng sau.\n例1\n：\n６\n時半\nに\nおきます。\nTôi dậy lúc 6 rưỡi.\n例2\n：\n７月２日\nに\nハノイへ　きました。\n( Bài 5)\nTôi lên Hà Nội vào ngày 2/7.\n例3\n：\nにちようび\n[\nに\n]\nハイフォンへ　いきます。\n(Bài 5)\nChủ Nhật tôi sẽ đi Hải Phòng.\n例4\n：\nきのう　べんきょうしました。\nHôm qua tôi học.",
+      "ruby": [
+        {
+          "text": "時半",
+          "readings": [
+            "じはん"
+          ]
+        }
+      ],
+      "links": [],
+      "media": [
+        {
+          "kind": "iframe",
+          "url": "https://www.youtube.com/embed/SnFtsxx2pes",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box46",
+      "title": "6. N1 から N2 まで",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1. からchỉ thời gian hoặc địa điểm bắt đầu một sự việc nào đó, cònまで chỉ thời gian hoặc địa điểm kết thúc một sự việc nào đó."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ごぜん９じから　ごご５じまで　　はたらきます。 Tôi làm việc từ 9 giờ sáng đến 5 giờ chiều. 例2： おおさかから　とうきょう まで　３じかん　かかります。 Đi từ Osaka đến Tokyo mất 3 tiếng. (ngữ pháp bài 11)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "2）から và まで không phải bao giờ cũng đi cùng với nhau"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例3： ９じから　はたらきます。 Tôi làm việc từ 9 giờ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "3)～から、～まで、～から～まで、đôi lúc được dùng kèm trực tiếp vớiです ở cuối câu:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例4： ぎんこうは　９じから　３じまでです。 Ngân hàng mở cửa từ 9 giờ (sáng) đến 3 giờ ( chiều). 例5： ひるやすみは　１２じからです。 Giờ nghỉ trưa bắt đầu từ 12 giờ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "1. から\nchỉ thời gian hoặc địa điểm bắt đầu một sự việc nào đó, còn\nまで\nchỉ thời gian hoặc địa điểm kết thúc một sự việc nào đó.\n例1\n：\nごぜん９じから　ごご５じまで　　はたらきます。\nTôi làm việc từ 9 giờ sáng đến 5 giờ chiều.\n例2\n：\nおおさかから　とうきょう まで　３じかん　かかります。\nĐi từ Osaka đến Tokyo mất 3 tiếng. (ngữ pháp bài 11)\n2\n）から\nvà\nまで\nkhông phải bao giờ cũng đi\ncùng\nvới nhau\n例3\n：\n９じから　はたらきます。\nTôi làm việc từ 9 giờ.\n3)\n～から、～まで、～から～まで、\nđôi lúc được dùng kèm trực tiếp với\nです\nở cuối câu:\n例4\n：\nぎんこうは　９じから　３じまでです\n。\nNgân hàng mở cửa từ 9 giờ (sáng) đến 3 giờ ( chiều)\n.\n例5\n：\nひるやすみは　１２じからです\n。\nGiờ nghỉ trưa bắt đầu từ 12 giờ.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-7",
+      "sourceId": "content_box47",
+      "title": "6. N1 と N2",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ と được dùng để nối 2 danh từ với nhau."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： ぎんこうの　やすみは　どようびと　にちようびです。 Ngân hàng nghỉ(đóng cửa) ngày thứ 7 và Chủ Nhật.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "Trợ từ\nと\nđược dùng để nối 2 danh từ với nhau.\n例1\n：\nぎんこうの　やすみは　どようびと　にちようびです。\nNgân hàng nghỉ(đóng cửa) ngày thứ 7 và Chủ Nhật.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-8",
+      "sourceId": "content_box48",
+      "title": "7. ね",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "- Trong tiếng Nhật có những từ được gọi là “ từ cuối câu” ( giống như “nhỉ”, “ đấy” ,..của tiếng Việt), chúng được đặt ở cuối mỗi câu để biểu hiện thái độ của người nói."
+        },
+        {
+          "type": "text",
+          "text": "- ね được dùng ở cuối câu để truyền đạt cho người nghe cảm xúc của mình hay thể hiện sự mong muốn người nghe đồng tình với nhũng gì mà mình nói ( ね không được sử dụng khi độc thoại)."
+        },
+        {
+          "type": "text",
+          "text": "- ね còn được sử dụng để xác nhận lại một sự việc nào đó. Khi sử dụng các “ từ cuối câu” này phải lưu ý đến ngữ điệu đọc , vì tùy vào cách lên giọng hay xuống giọng mà ý nghĩa câu sẽ khác nhau."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "例1： A : まいあさ　9じから　5じまで　べんきょうします。 Hàng sáng tôi học từ 9 giờ đến 5 giờ. B :（それは）たいへんですね。 (đọc thấp giọng xuống) (Thế thì) vất vả nhỉ/mệt nhỉ. 例2： A : やまださんの　でんわばんごうは　８７１の６８１３です。 Số điện thoại của Yamada là 871-6813. B : ８７１－６８１３ですね。 (đọc cao giọng lên ) 871-6813 hả.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý:  ね không phải bao giờ cũng có nghĩa là “ nhỉ” của Tiếng Việt."
+        }
+      ],
+      "text": "- Trong tiếng Nhật có những từ được gọi là “ từ cuối câu” ( giống như “nhỉ”, “ đấy” ,..của tiếng Việt), chúng được đặt ở cuối mỗi câu để biểu hiện thái độ của người nói.\n- ね\nđược dùng ở cuối câu để truyền đạt cho người nghe cảm xúc của mình hay thể hiện sự mong muốn người nghe đồng tình với nhũng gì mà mình nói (\nね\nkhông được sử dụng khi độc thoại).\n- ね\ncòn được sử dụng để xác nhận lại một sự việc nào đó. Khi sử dụng các “ từ cuối câu” này phải lưu ý đến ngữ điệu đọc , vì tùy vào cách lên giọng hay xuống giọng mà ý nghĩa câu sẽ khác nhau.\n例1\n：\nA :\nまいあさ\n9\nじから\n5\nじまで　べんきょうします\n。\nHàng sáng tôi học từ 9 giờ đến 5 giờ.\nB :\n（それは）たいへんですね。\n(đọc thấp giọng xuống)\n(Thế thì) vất vả nhỉ/mệt nhỉ.\n例2\n：\nA :\nやまださんの　でんわばんごうは　８７１の６８１３です\n。\nSố điện thoại của Yamada là 871-6813\n.\nB :\n８７１－６８１３ですね。\n(đọc cao giọng lên )\n871-6813 hả.\nLưu ý\n:\nね\nkhông phải bao giờ cũng có nghĩa là “ nhỉ” của Tiếng Việt.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-9",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Các bạn COMMENT đáp án Sensei sẽ vào chữa chi tiết giúp mình nhé!"
+        },
+        {
+          "type": "text",
+          "text": "1. 例：あの　人は　（ だれ ）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  ミラーさんです。"
+        },
+        {
+          "type": "text",
+          "text": "１）今（___）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  5時です。"
+        },
+        {
+          "type": "text",
+          "text": "２）佐藤さんの　電話番号は（____）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  020の　333の　4367です。"
+        },
+        {
+          "type": "text",
+          "text": "３）きょうは（____）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  火曜日です。"
+        },
+        {
+          "type": "text",
+          "text": "４）テレーザちゃんは（____）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "...  9歳です。"
+        },
+        {
+          "type": "text",
+          "text": "５）きのう（____）まで　働きましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  9時まで　働きました。"
+        },
+        {
+          "type": "text",
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "text": "例1：  これは　スイス（ の ）時計です。"
+        },
+        {
+          "type": "text",
+          "text": "例2：  電話は　どこ（ X ）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "１）  毎朝（___）6時（___）起きます。"
+        },
+        {
+          "type": "text",
+          "text": "２）  美術館は　何時（___）　何時（___）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "３）  今　何時（___）ですか。"
+        },
+        {
+          "type": "text",
+          "text": "４）  木曜日（___）　午後　病院は　休みです。"
+        },
+        {
+          "type": "text",
+          "text": "５）  大学は　何時（___）　終わりますか。"
+        },
+        {
+          "type": "text",
+          "text": "６）  銀行の　休みは　土曜日（___）　日曜日です。"
+        },
+        {
+          "type": "text",
+          "text": "3. 例： 毎日　9時から　5時まで（ a. 働きます　、b. 働きました ）。"
+        },
+        {
+          "type": "text",
+          "text": "１）きのう　10時に（　a. 寝ます、b. 寝ました　）。"
+        },
+        {
+          "type": "text",
+          "text": "２）毎日　昼　12時から　1時まで（　a. 休みます、b. 休みました　）。"
+        },
+        {
+          "type": "text",
+          "text": "３）おとといの　晩　9時から　11時まで（　a. 勉強します、b. 勉強しました　）。"
+        },
+        {
+          "type": "text",
+          "text": "４）毎朝　何時に（　a. 起きます、b. 起きました　）か。"
+        },
+        {
+          "type": "text",
+          "text": "５）あさっては　日曜日です。（　a. 働きません、b. 働きませんでした　）。"
+        },
+        {
+          "type": "text",
+          "text": "4. 例：今晩　勉強しますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  はい、（べんきょうします）。"
+        },
+        {
+          "type": "text",
+          "text": "１）おととい　休みましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  はい、（_______）。"
+        },
+        {
+          "type": "text",
+          "text": "２）日曜日　働きますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  いいえ、（_______）。"
+        },
+        {
+          "type": "text",
+          "text": "３）きのう　勉強しましたか。"
+        },
+        {
+          "type": "text",
+          "text": "...  いいえ、（_______）。"
+        },
+        {
+          "type": "text",
+          "text": "４）大学は　3時に　終わりますか。"
+        },
+        {
+          "type": "text",
+          "text": "...  はい、（_______）。"
+        }
+      ],
+      "text": "Các bạn COMMENT đáp án Sensei sẽ vào chữa chi tiết giúp mình nhé!\n1.\n例：あの　人は　（ だれ ）ですか。\n...\nミラーさんです。\n１）今（\n___\n）ですか。\n...  5\n時です。\n２）佐藤さんの　電話番号は（\n____\n）ですか。\n...  020\nの\n333\nの\n4367\nです。\n３）きょうは（\n____\n）ですか。\n...\n火曜日です。\n４）テレーザちゃんは（\n____\n）ですか。\n...  9\n歳です。\n５）きのう（\n____\n）まで　働きましたか。\n...  9\n時まで　働きました。\n2.\n例\n1\n：\nこれは　スイス（ の ）時計です。\n例\n2\n：\n電話は　どこ（\nX\n）ですか。\n１）\n毎朝（\n___\n）\n6\n時（\n___\n）起きます。\n２）\n美術館は　何時（\n___\n）　何時（\n___\n）ですか。\n３）\n今　何時（\n___\n）ですか。\n４）\n木曜日（\n___\n）　午後　病院は　休みです。\n５）\n大学は　何時（\n___\n）　終わりますか。\n６）\n銀行の　休みは　土曜日（\n___\n）　日曜日です。\n3.\n例：\n毎日\n9\n時から\n5\n時まで（\na.\n働きます\n、\nb.\n働きました ）。\n１）きのう\n10\n時に（\na.\n寝ます、\nb.\n寝ました　）。\n２）毎日　昼\n12\n時から\n1\n時まで（\na.\n休みます、\nb.\n休みました　）。\n３）おとといの　晩\n9\n時から\n11\n時まで（\na.\n勉強します、\nb.\n勉強しました　）。\n４）毎朝　何時に（\na.\n起きます、\nb.\n起きました　）か。\n５）あさっては　日曜日です。（\na.\n働きません、\nb.\n働きませんでした　）。\n4.\n例：今晩　勉強しますか。\n...\nはい、（べんきょうします）。\n１）おととい　休みましたか。\n...\nはい、（\n_______\n）。\n２）日曜日　働きますか。\n...\nいいえ、（\n_______\n）。\n３）きのう　勉強しましたか。\n...\nいいえ、（\n_______\n）。\n４）大学は\n3\n時に　終わりますか。\n...\nはい、（\n_______\n）。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ]
+}

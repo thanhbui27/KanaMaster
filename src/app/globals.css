@@ -106,9 +106,10 @@ button { -webkit-tap-highlight-color: transparent; }
 .available .lesson-state { color: #4b5182; background: #eaecfa; }
 .locked .lesson-state { color: #77727a; background: #eeeae5; }
 
-.mobile-nav { position: fixed; z-index: 40; right: 0; bottom: 0; left: 0; display: grid; grid-template-columns: repeat(5, 1fr); min-height: calc(70px + env(safe-area-inset-bottom)); padding: 6px max(8px, env(safe-area-inset-right)) env(safe-area-inset-bottom) max(8px, env(safe-area-inset-left)); border-top: 1px solid rgba(222, 216, 207, .9); background: rgba(255,255,255,.94); box-shadow: 0 -8px 28px rgba(40,40,60,.06); backdrop-filter: blur(18px); }
+.mobile-nav { position: fixed; z-index: 40; right: 0; bottom: 0; left: 0; display: grid; grid-template-columns: repeat(6, 1fr); min-height: calc(70px + env(safe-area-inset-bottom)); padding: 6px max(8px, env(safe-area-inset-right)) env(safe-area-inset-bottom) max(8px, env(safe-area-inset-left)); border-top: 1px solid rgba(222, 216, 207, .9); background: rgba(255,255,255,.94); box-shadow: 0 -8px 28px rgba(40,40,60,.06); backdrop-filter: blur(18px); }
 .nav-item { display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 4px; min-width: 52px; min-height: 56px; border: 0; border-radius: 14px; color: #8b8b98; background: transparent; font-size: 10px; font-weight: 750; text-decoration: none; cursor: pointer; }
 .nav-item.active { color: var(--coral); }
+.mobile-nav .nav-item { min-width: 0; }
 
 .install-prompt { position: fixed; z-index: 60; right: max(16px, env(safe-area-inset-right)); bottom: calc(82px + env(safe-area-inset-bottom)); left: max(16px, env(safe-area-inset-left)); display: grid; grid-template-columns: 42px 1fr auto; align-items: center; gap: 12px; width: min(calc(100% - 32px), 620px); margin: 0 auto; border: 1px solid #eaded4; border-radius: 22px; padding: 15px 17px; background: rgba(255, 255, 255, .98); box-shadow: 0 20px 55px rgba(32, 35, 59, .2); animation: prompt-in 260ms ease-out; }
 .install-close { position: absolute; top: -10px; right: -8px; display: grid; place-items: center; width: 31px; height: 31px; border: 1px solid var(--line); border-radius: 50%; color: var(--muted); background: white; box-shadow: 0 4px 10px #20233b1c; cursor: pointer; }

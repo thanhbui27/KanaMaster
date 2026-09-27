@@ -1,0 +1,3643 @@
+{
+  "schemaVersion": 1,
+  "lesson": 42,
+  "title": "Từ vựng ngữ pháp Minna bài 42",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-42",
+  "fetchedAt": "2026-09-27T09:08:00.441714+00:00",
+  "sourceSha256": "9a3ebdbb4fbcc7f01857b3a7bcb548986f12b76ed6eb487ed99fa2be03d7fbbe",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "content_box311",
+      "title": "1. Từ vựng minna bài 42",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Từ Vựng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つつみます Ⅰ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "包みます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bọc; gói",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "わかします Ⅰ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "沸かします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đun sôi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まぜます Ⅱ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "混ぜます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trộn; khuấy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "けいさんします Ⅲ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "計算します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tính toán",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あつい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "厚い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dầy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うすい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "薄い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mỏng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "べんごし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "弁護士",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "luật sư",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おんがくか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "音楽家",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhạc sĩ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こどもたち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "子どもたち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "trẻ em",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふたり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "二人",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hai người",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きょういく",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "教育",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "giáo dục",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "れきし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "歴史",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lịch sử",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ぶんか",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "文化",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "văn hoá",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しゃかい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "社会",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xã hội",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ほうりつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "法律",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "pháp luật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せんそう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "戦争",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chiến tranh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "へいわ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "平和",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "hoà bình",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もくてき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "目的",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mục đích",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あんぜん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "安全",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "an toàn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ろんぶん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "論文",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "luận văn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かんけい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "関係",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "quan hệ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ミキサ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "máy trộn; máy xay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "やかん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ấm đun nước",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せんぬき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "栓抜き",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cái mở nút chai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かんきり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "缶切り",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đồ mở đồ hộp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かんづめ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "缶詰",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đồ hộp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふろしき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "khăn gói",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そろばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bàn tính",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たいおんけい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "体温計",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cặp nhiệt độ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ざいりょう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "材料",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "vật liệu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "石",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đá; sỏi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ピラミッド",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "kim tự tháp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "データ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dữ liệu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ファイル",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tập tin",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ある～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nọ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いっしょうけんめい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "生懸命",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cố gắng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なぜ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tại sao",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こくれん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "国連",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "liên hiệp quốc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こくさいれんごう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "国際連合",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "liên hiệp quốc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ポーランド",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Phần Lan",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ローン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tiền vay; trả góp",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "セット",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bộ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あとは",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "còn lại",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "カップラーメン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mì ăn liền",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "インスタントラーメン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mì ăn liền",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なべ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nồi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どんぶり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tô to",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しょくひん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "食品",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thực phẩm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちょうさ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "調査",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "điều tra",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "カップ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tách; chén",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "また",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lại nữa; ngoài ra",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "52",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～のかわりに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～の代わりに",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thay cho",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "53",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どこででも",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bất cứ nơi nào",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "54",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いまでは",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "今では",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bây giờ; hiện nay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nTừ Vựng\nKanji\nNghĩa\n1\nつつみます Ⅰ\n包みます\nbọc; gói\n2\nわかします Ⅰ\n沸かします\nđun sôi\n3\nまぜます Ⅱ\n混ぜます\ntrộn; khuấy\n4\nけいさんします Ⅲ\n計算します\ntính toán\n5\nあつい\n厚い\ndầy\n6\nうすい\n薄い\nmỏng\n7\nべんごし\n弁護士\nluật sư\n8\nおんがくか\n音楽家\nnhạc sĩ\n9\nこどもたち\n子どもたち\ntrẻ em\n10\nふたり\n二人\nhai người\n11\nきょういく\n教育\ngiáo dục\n12\nれきし\n歴史\nlịch sử\n13\nぶんか\n文化\nvăn hoá\n14\nしゃかい\n社会\nxã hội\n15\nほうりつ\n法律\npháp luật\n16\nせんそう\n戦争\nchiến tranh\n17\nへいわ\n平和\nhoà bình\n18\nもくてき\n目的\nmục đích\n19\nあんぜん\n安全\nan toàn\n20\nろんぶん\n論文\nluận văn\n21\nかんけい\n関係\nquan hệ\n22\nミキサ\nmáy trộn; máy xay\n23\nやかん\nấm đun nước\n24\nせんぬき\n栓抜き\ncái mở nút chai\n25\nかんきり\n缶切り\nđồ mở đồ hộp\n26\nかんづめ\n缶詰\nđồ hộp\n27\nふろしき\nkhăn gói\n28\nそろばん\nbàn tính\n28\nたいおんけい\n体温計\ncặp nhiệt độ\n30\nざいりょう\n材料\nvật liệu\n31\nいし\n石\nđá; sỏi\n32\nピラミッド\nkim tự tháp\n33\nデータ\ndữ liệu\n34\nファイル\ntập tin\n35\nある～\nnọ\n36\nいっしょうけんめい\n生懸命\ncố gắng\n37\nなぜ\ntại sao\n38\nこくれん\n国連\nliên hiệp quốc\n39\nこくさいれんごう\n国際連合\nliên hiệp quốc\n40\nポーランド\nPhần Lan\n41\nローン\ntiền vay; trả góp\n42\nセット\nbộ\n43\nあとは\ncòn lại\n44\nカップラーメン\nmì ăn liền\n45\nインスタントラーメン\nmì ăn liền\n46\nなべ\nnồi\n47\nどんぶり\ntô to\n48\nしょくひん\n食品\nthực phẩm\n49\nちょうさ\n調査\nđiều tra\n50\nカップ\ntách; chén\n51\nまた\nlại nữa; ngoài ra\n52\n～のかわりに\n～の代わりに\nthay cho\n53\nどこででも\nbất cứ nơi nào\n54\nいまでは\n今では\nbây giờ; hiện nay",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "content_box312",
+      "title": "2. V ( thể từ điển )",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Mẫu này được sử dụng để diễn tả mục đích của một hành động nào đó."
+        },
+        {
+          "type": "text",
+          "text": "例1："
+        },
+        {
+          "type": "text",
+          "text": "車を　買うために、貯金しています。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi đang tiết kiệm tiền để mua ôtô."
+        },
+        {
+          "type": "text",
+          "text": "例2："
+        },
+        {
+          "type": "text",
+          "text": "論文を　書くために、資料を　集めています。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi đang tập hợp tài liệu để viết luận văn."
+        },
+        {
+          "type": "text",
+          "text": "例3："
+        },
+        {
+          "type": "text",
+          "text": "引っ越しの　ために、車を　借ります。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi sẽ thuê xe để dọn nhà."
+        },
+        {
+          "type": "text",
+          "text": "例4："
+        },
+        {
+          "type": "text",
+          "text": "健康の　ために、毎朝　走って　います。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi chạy bộ mỗi sáng vì sức khỏe."
+        },
+        {
+          "type": "text",
+          "text": "例5："
+        },
+        {
+          "type": "text",
+          "text": "家族の　ために、うちを　建てます。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi xây nhà cho gia đình."
+        },
+        {
+          "type": "text",
+          "text": "N のために cũng được sử dụng với nghĩa :” vì lợi ích của N” ( như trong ví dụ 4)."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý 1:"
+        },
+        {
+          "type": "text",
+          "text": "-                 ~ように mà bạn đã học trong bài 36 cũng được sử dụng để diễn tả mục đích. Tuy nhiên,"
+        },
+        {
+          "type": "text",
+          "text": "～ように được sử dụng với những động từ không ý chí trong khi ~ ために lại được sử dụng với những động từ có ý chí. So sánh 2 câu dưới đây :"
+        },
+        {
+          "type": "text",
+          "text": "例5："
+        },
+        {
+          "type": "text",
+          "text": "車を　買う　ために、貯金しています。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi đang tiết kiệm tiền để mua ôtô."
+        },
+        {
+          "type": "text",
+          "text": "例6："
+        },
+        {
+          "type": "text",
+          "text": "車が　買える　ように、貯金しています。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi đang tiết kiệm tiền để có thể mua ôtô."
+        },
+        {
+          "type": "text",
+          "text": "Trong 2 câu trên, VD5 có nghĩa là một người nào đó chủ định đặt ra mục đích là “ mua ôtô” và thực hiện hành động : “ tiết kiệm tiền” để đạt được mục đích đó."
+        },
+        {
+          "type": "text",
+          "text": "Trong khi đó, VD6 lại có nghĩa là người nói coi tình trạng “ có thể mua được ôtô” là mục tiêu của mình và thực hiện hành động  “ tiết kiệm tiền” để tiến gần tới mục tiêu đó."
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý 2: 　なります có 2 ý nghĩa là “ trở thành”( đi kèm danh từ) - thể hiện ý chí của người nói và “ trở nên” ( đi kèm tính từ)- biểu thị sự biến đổi một trạng thái nào đó nên không thể hiện ý chí của người nói:"
+        },
+        {
+          "type": "text",
+          "text": "例7："
+        },
+        {
+          "type": "text",
+          "text": "弁護士に　なるために、法律を　勉強して　います。（O）"
+        },
+        {
+          "type": "text",
+          "text": "Tôi đang học luật để trở thành luật sư."
+        },
+        {
+          "type": "text",
+          "text": "弁護士に　なるように、法律を　勉強して　います。（X）"
+        },
+        {
+          "type": "text",
+          "text": "例8："
+        },
+        {
+          "type": "text",
+          "text": "日本語が　上手に　なるように、毎日　勉強して　います。（O）"
+        },
+        {
+          "type": "text",
+          "text": "Tôi học mỗi ngày để tiếng Nhật của tôi trở nên giỏi( giỏi lên)."
+        },
+        {
+          "type": "text",
+          "text": "日本語が　上手に　なるために、毎日　勉強して　います。（X）"
+        }
+      ],
+      "text": "Mẫu này được sử dụng để\ndiễn tả mục đích\ncủa một hành động nào đó.\n例\n1\n：\n車\nを\n買\nうために、\n貯金\nしています。\nTôi đang tiết kiệm tiền để mua ôtô.\n例\n2\n：\n論文\nを\n書\nくために、\n資料\nを\n集\nめています。\nTôi đang tập hợp tài liệu để viết luận văn.\n例\n3\n：\n引\nっ\n越\nしの　ために、\n車\nを\n借\nります。\nTôi sẽ thuê xe để dọn nhà.\n例\n4\n：\n健康\nの　ために、\n毎朝\n走\nって　います。\nTôi chạy bộ mỗi sáng vì sức khỏe.\n例\n5\n：\n家族\nの　ために、うちを\n建\nてます。\nTôi xây nhà cho gia đình.\nN\nのために\ncũng được sử dụng với nghĩa :” vì lợi ích của N” ( như\ntrong ví dụ 4).\nLưu ý 1\n:\n-\n~\nように\nmà bạn đã học trong bài 36 cũng được sử dụng để diễn tả mục đích. Tuy nhiên,\n～\nように\nđược sử dụng với những\nđộng từ không ý chí\ntrong khi\n~\nために\nlại được sử dụng với những\nđộng từ có ý chí\n. So sánh 2 câu dưới đây :\n例\n5\n：\n車\nを\n買\nう　ために、\n貯金\nしています。\nTôi đang tiết kiệm tiền để mua ôtô.\n例\n6\n：\n車\nが\n買\nえる　ように、\n貯金\nしています。\nTôi đang tiết kiệm tiền để có thể mua ôtô.\nTrong 2 câu trên, VD5 có nghĩa là một người nào đó\nchủ định\nđặt ra mục đích là “ mua ôtô” và thực hiện hành động : “ tiết kiệm tiền” để đạt được mục đích đó.\nTrong khi đó, VD6 lại có nghĩa là người nói coi\ntình trạng\n“ có thể mua được ôtô” là mục tiêu của mình và thực hiện hành động  “ tiết kiệm tiền” để tiến gần tới mục tiêu đó.\nLưu ý 2:\nなります\ncó 2 ý nghĩa là\n“\ntrở thành\n”\n( đi kèm danh từ) - t\nhể hiện ý chí của người nói\nvà “\ntrở nên\n” ( đi kèm tính từ)- biểu thị sự biến đổi một trạng thái nào đó nên\nkhông thể hiện ý chí của người nói\n:\n例\n7\n：\n弁護士\nに　なるために、\n法律\nを\n勉強\nして　います。（\nO\n）\nTôi đang học luật để\ntrở thành\nluật sư.\n弁護士\nに　なるように、\n法律\nを\n勉強\nして　います。（\nX\n）\n例\n8\n：\n日本\n語\nが\n上手\nに　なるように、\n毎日\n勉強\nして　います。（\nO\n）\nTôi học mỗi ngày để tiếng Nhật của tôi\ntrở nên\ngiỏi( giỏi lên).\n日本\n語\nが\n上手\nに　なるために、\n毎日\n勉強\nして　います。（\nX\n）",
+      "ruby": [
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "貯金",
+          "readings": [
+            "ちょきん"
+          ]
+        },
+        {
+          "text": "論文",
+          "readings": [
+            "ろんぶん"
+          ]
+        },
+        {
+          "text": "書",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "資料",
+          "readings": [
+            "しりょう"
+          ]
+        },
+        {
+          "text": "集",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "引",
+          "readings": [
+            "ひ"
+          ]
+        },
+        {
+          "text": "越",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "借",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "健康",
+          "readings": [
+            "けんこう"
+          ]
+        },
+        {
+          "text": "毎朝",
+          "readings": [
+            "まいあさ"
+          ]
+        },
+        {
+          "text": "走",
+          "readings": [
+            "はし"
+          ]
+        },
+        {
+          "text": "家族",
+          "readings": [
+            "かぞく"
+          ]
+        },
+        {
+          "text": "建",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "貯金",
+          "readings": [
+            "ちょきん"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "貯金",
+          "readings": [
+            "ちょきん"
+          ]
+        },
+        {
+          "text": "弁護士",
+          "readings": [
+            "べんごし"
+          ]
+        },
+        {
+          "text": "法律",
+          "readings": [
+            "ほうりつ"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "弁護士",
+          "readings": [
+            "べんごし"
+          ]
+        },
+        {
+          "text": "法律",
+          "readings": [
+            "ほうりつ"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "語",
+          "readings": [
+            "ご"
+          ]
+        },
+        {
+          "text": "上手",
+          "readings": [
+            "じょうず"
+          ]
+        },
+        {
+          "text": "毎日",
+          "readings": [
+            "まいにち"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "語",
+          "readings": [
+            "ご"
+          ]
+        },
+        {
+          "text": "上手",
+          "readings": [
+            "じょうず"
+          ]
+        },
+        {
+          "text": "毎日",
+          "readings": [
+            "まいにち"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "content_box313",
+      "title": "3. V ( thể từ điển )",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Như các bạn đã học trong bài 38, V( thể từ điển) の có thể được sử dụng như một cụm danh từ.  V( thể từ điển) の に và  Nに được sử dụng kèm với các từ : 使う( dùng)、いい(tốt)、便利だ (tiện) 、役に立つ( có ích)、（時間が）かかる (tốn ),… để chỉ một mục đích của một động từ hay một tính từ nào đó ở đằng sau."
+        },
+        {
+          "type": "text",
+          "text": "例1："
+        },
+        {
+          "type": "text",
+          "text": "この　はさみは　花を　切るのに　使います。"
+        },
+        {
+          "type": "text",
+          "text": "Cái kèo này được dùng để cắt hoa. ( dùng cho mục đích cắt hoa)."
+        },
+        {
+          "type": "text",
+          "text": "例2："
+        },
+        {
+          "type": "text",
+          "text": "この　かばんは　大きくて、旅行に　便利です。"
+        },
+        {
+          "type": "text",
+          "text": "Cái cặp này to, tiện cho việc đi du lịch. ( tiện cho mục đích đi du lịch)."
+        },
+        {
+          "type": "text",
+          "text": "例3："
+        },
+        {
+          "type": "text",
+          "text": "電話番号を　調べるのに　時間が　かかります。"
+        },
+        {
+          "type": "text",
+          "text": "Mất nhiều thời gian để tra số điện thoại. ( mất nhiều thời gian cho mục đích tra số điện thoại)"
+        },
+        {
+          "type": "text",
+          "text": "Lưu ý:  Các cách khác nhau dùng để diễn tả mục đích:"
+        },
+        {
+          "type": "text",
+          "text": "1)            V( thể ます) に　行きます・来ます・帰りますN"
+        },
+        {
+          "type": "text",
+          "text": "例4："
+        },
+        {
+          "type": "text",
+          "text": "神戸へ　船を　見に　行きます。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi đi Kobe xem tàu"
+        },
+        {
+          "type": "text",
+          "text": "例5："
+        },
+        {
+          "type": "text",
+          "text": "ハノイへ　法律の　勉強に　来ました。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi đến Hà Nội học Luật."
+        },
+        {
+          "type": "text",
+          "text": "2)            V1（thể từ điển）-  động từ không ý chí　ように、 V2 ( động từ có ý chí.) V1（thểない）＋ない"
+        },
+        {
+          "type": "text",
+          "text": "例6："
+        },
+        {
+          "type": "text",
+          "text": "早く　届くように、速達で　出します。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi gửi chuyển phát nhanh để ( thư) nhanh tới nơi."
+        },
+        {
+          "type": "text",
+          "text": "例7："
+        },
+        {
+          "type": "text",
+          "text": "忘れないように、メモします。"
+        },
+        {
+          "type": "text",
+          "text": "Ghi chép lại để không quên."
+        },
+        {
+          "type": "text",
+          "text": "3)            V（thể từ điển）- động từ có ý chí　ために、～ (động từ có  chí) Nの"
+        },
+        {
+          "type": "text",
+          "text": "例8："
+        },
+        {
+          "type": "text",
+          "text": "大学に　入る　ために、一生懸命　勉強します。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi học chăm chỉ để vào đại học."
+        },
+        {
+          "type": "text",
+          "text": "例9："
+        },
+        {
+          "type": "text",
+          "text": "健康の　ために、野菜を　たくさん　食べます。"
+        },
+        {
+          "type": "text",
+          "text": "Tôi ăn nhiều rau vì sức khỏe."
+        },
+        {
+          "type": "text",
+          "text": "4)   使います・役に立ちます・（時間が）　かかりますư"
+        },
+        {
+          "type": "text",
+          "text": "例10："
+        },
+        {
+          "type": "text",
+          "text": "外国旅行を　するのには　パスポートが　必要です。"
+        },
+        {
+          "type": "text",
+          "text": "Để đi du lịch nước ngoài thì cần có hộ chiếu."
+        },
+        {
+          "type": "text",
+          "text": "例11："
+        },
+        {
+          "type": "text",
+          "text": "近くに　店がなくて、　買い物に　不便です。"
+        },
+        {
+          "type": "text",
+          "text": "Ở gần đây không có cửa hàng, bất tiện cho việc mua sắm"
+        }
+      ],
+      "text": "Như các bạn đã học trong bài 38, V( thể từ điển)\nの\ncó thể được sử dụng như một cụm danh từ.  V( thể từ điển)\nの\nに\nvà  N\nに\nđược sử dụng kèm với các từ :\n使\nう\n( dùng)\n、いい\n(tốt)\n、\n便利\nだ\n(tiện)\n、\n役\nに\n立\nつ\n( có ích)\n、（\n時間\nが）かかる\n(tốn ),… để chỉ một\nmục đích\ncủa một động từ hay một tính từ nào đó ở đằng sau.\n例\n1\n：\nこの　はさみは\n花\nを\n切\nるのに\n使\nいます。\nCái kèo này được dùng để cắt hoa. ( dùng cho mục đích cắt hoa).\n例\n2\n：\nこの　かばんは　大きくて、\n旅行\nに\n便利\nです。\nCái cặp này to, tiện cho việc đi du lịch. ( tiện cho mục đích đi du lịch).\n例\n3\n：\n電話番号\nを\n調\nべるのに\n時間\nが　かかります。\nMất nhiều thời gian để tra số điện thoại. ( mất nhiều thời gian cho mục đích tra số điện thoại)\nLưu ý:\nCác cách khác nhau dùng để diễn tả mục đích:\n1)\nV( thể\nます\n)\nに\n行\nきます・\n来\nます・\n帰\nります\nN\n例\n4\n：\n神戸\nへ\n船\nを\n見\nに\n行\nきます。\nTôi đi Kobe xem tàu\n例\n5\n：\nハノイへ\n法律\nの\n勉強\nに\n来\nました。\nTôi đến Hà Nội học Luật.\n2)\nV1\n（\nthể từ điển\n）\n-  động từ\nkhông ý chí\nように、\nV2 ( động từ\ncó ý chí.)\nV1\n（\nthể\nない）＋ない\n例\n6\n：\n早\nく\n届\nくように、\n速達\nで\n出\nします。\nTôi gửi chuyển phát nhanh để ( thư) nhanh tới nơi.\n例\n7\n：\n忘\nれないように、メモします。\nGhi chép lại để không quên.\n3)\nV\n（\nthể từ điển\n）\n- động từ có ý chí\nために、～\n(động từ có\nchí)\nN\nの\n例\n8\n：\n大学に\n入\nる　ために、\n一生懸命\n勉強\nします。\nTôi học chăm chỉ để vào đại học.\n例\n9\n：\n健康\nの　ために、\n野菜\nを　たくさん\n食\nべます。\nTôi ăn nhiều rau vì sức khỏe.\n4)\n使\nいます・\n役\nに\n立\nちます・（\n時間\nが）　かかりますư\n例\n10\n：\n外国\n旅行\nを　するのには　パスポートが\n必要\nです。\nĐể đi du lịch nước ngoài thì cần có hộ chiếu.\n例\n11\n：\n近\nくに\n店\nがなくて、\n買\nい\n物\nに\n不便\nです。\nỞ gần đây không có cửa hàng, bất tiện cho việc mua sắm",
+      "ruby": [
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "便利",
+          "readings": [
+            "べんり"
+          ]
+        },
+        {
+          "text": "役",
+          "readings": [
+            "やく"
+          ]
+        },
+        {
+          "text": "立",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "花",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "切",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "旅行",
+          "readings": [
+            "りょこう"
+          ]
+        },
+        {
+          "text": "便利",
+          "readings": [
+            "べんり"
+          ]
+        },
+        {
+          "text": "電話番号",
+          "readings": [
+            "でんわばんごう"
+          ]
+        },
+        {
+          "text": "調",
+          "readings": [
+            "しら"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "帰",
+          "readings": [
+            "かえ"
+          ]
+        },
+        {
+          "text": "神戸",
+          "readings": [
+            "こうべ"
+          ]
+        },
+        {
+          "text": "船",
+          "readings": [
+            "ふね"
+          ]
+        },
+        {
+          "text": "見",
+          "readings": [
+            "み"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "法律",
+          "readings": [
+            "ほうりつ"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "早",
+          "readings": [
+            "はや"
+          ]
+        },
+        {
+          "text": "届",
+          "readings": [
+            "とど"
+          ]
+        },
+        {
+          "text": "速達",
+          "readings": [
+            "そくたつ"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "だ"
+          ]
+        },
+        {
+          "text": "忘",
+          "readings": [
+            "わす"
+          ]
+        },
+        {
+          "text": "入",
+          "readings": [
+            "はい"
+          ]
+        },
+        {
+          "text": "一生懸命",
+          "readings": [
+            "いっしょうけんめい"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "健康",
+          "readings": [
+            "けんこう"
+          ]
+        },
+        {
+          "text": "野菜",
+          "readings": [
+            "やさい"
+          ]
+        },
+        {
+          "text": "食",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "役",
+          "readings": [
+            "やく"
+          ]
+        },
+        {
+          "text": "立",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "外国",
+          "readings": [
+            "がいこく"
+          ]
+        },
+        {
+          "text": "旅行",
+          "readings": [
+            "りょこう"
+          ]
+        },
+        {
+          "text": "必要",
+          "readings": [
+            "ひつよう"
+          ]
+        },
+        {
+          "text": "近",
+          "readings": [
+            "ちか"
+          ]
+        },
+        {
+          "text": "店",
+          "readings": [
+            "みせ"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "不便",
+          "readings": [
+            "ふべん"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "content_box314",
+      "title": "4. Số từ + は",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Khi thêm trợ từ は vào sau một số từ ( từ chỉ số lượng) thì nó sẽ biểu thị giá trị nhỏ nhất mà người nói dự tính là cần thiết để làm gì."
+        },
+        {
+          "type": "text",
+          "text": "例1："
+        },
+        {
+          "type": "text",
+          "text": "日本では　結婚式を　するのに　200万円は　要ります。"
+        },
+        {
+          "type": "text",
+          "text": "Ở Nhật để làm đám cưới thì cần có ít nhất là 2 triệu Yên."
+        }
+      ],
+      "text": "Khi thêm trợ từ\nは\nvào sau một số từ ( từ chỉ số lượng) thì nó sẽ biểu thị\ngiá trị nhỏ nhất\nmà người nói\ndự tính là cần thiết\nđể làm gì.\n例\n1\n：\n日本では\n結婚式\nを　するのに\n200\n万\n円は\n要\nります。\nỞ Nhật để làm đám cưới thì cần có\nít nhất\nlà 2 triệu Yên.",
+      "ruby": [
+        {
+          "text": "結婚式",
+          "readings": [
+            "けっこんしき"
+          ]
+        },
+        {
+          "text": "万",
+          "readings": [
+            "まん"
+          ]
+        },
+        {
+          "text": "要",
+          "readings": [
+            "い"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "content_box315",
+      "title": "5. Số từ + も:",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Khi thêm trợ từ も vào sau một số từ( từ chỉ số lượng) thì nó sẽ biểu thị việc người nói nghĩ rằng giá trị được biểu thị bởi số từ đó quá nhiều."
+        },
+        {
+          "type": "text",
+          "text": "例1："
+        },
+        {
+          "type": "text",
+          "text": "駅まで　行くのに　2時間も　かかりました。"
+        },
+        {
+          "type": "text",
+          "text": "Mất những 2 tiếng đồng hồ để đi tới ga."
+        },
+        {
+          "type": "text",
+          "text": "例2："
+        },
+        {
+          "type": "text",
+          "text": "家を　建てるのに　3000万円も　必要なんですか。"
+        },
+        {
+          "type": "text",
+          "text": "Cần những 3 triệu Yên để xây nhà cơ à?"
+        }
+      ],
+      "text": "Khi thêm trợ từ\nも\nvào sau một số từ( từ chỉ số lượng) thì nó sẽ biểu thị việc người nói nghĩ rằng giá trị được biểu thị bởi số từ đó\nquá nhiều\n.\n例\n1\n：\n駅\nまで\n行\nくのに\n2\n時間\nも　かかりました。\nMất những 2 tiếng đồng hồ để đi tới ga.\n例\n2\n：\n家\nを\n建\nてるのに\n3000\n万円も\n必要\nなんですか。\nCần những 3 triệu Yên để xây nhà cơ à?",
+      "ruby": [
+        {
+          "text": "駅",
+          "readings": [
+            "えき"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "家",
+          "readings": [
+            "いえ"
+          ]
+        },
+        {
+          "text": "建",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "必要",
+          "readings": [
+            "ひつよう"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "content_box05",
+      "title": "Luyện tập",
+      "kind": "practice",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "1．"
+        },
+        {
+          "type": "text",
+          "text": "例：これはプレせんと（に）ちょうどいいですね。"
+        },
+        {
+          "type": "text",
+          "text": "1． 戦争（　）死んだ人のために、この曲（　）作りました。"
+        },
+        {
+          "type": "text",
+          "text": "2． ボランティアの会議（　）出席するために、休み（　）取りました。"
+        },
+        {
+          "type": "text",
+          "text": "3． このバックはポケット（　）たくさんあって、仕事（　）便利です。"
+        },
+        {
+          "type": "text",
+          "text": "4． 日本（　）アジア（　）関係を知るために、資料（　）集めてます。"
+        },
+        {
+          "type": "text",
+          "text": "5． A:うちから会社まで車でどのぐらいかかりますか。"
+        },
+        {
+          "type": "text",
+          "text": "B：道が混んでいなくても、１時間半（　）かかります。"
+        },
+        {
+          "type": "text",
+          "text": "A：１時間半（　）かかるんですか。大変ですね。"
+        },
+        {
+          "type": "text",
+          "text": "２．"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "熱",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "混ぜます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "電車の時間",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "沸かします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "お湯",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "計算します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "材料",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "測ります",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "瓶のふた",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "整理します",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "資料",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "調べます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "ふろしき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "開けます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "text": "例：やかんはお湯を沸かすのに使います。"
+        },
+        {
+          "type": "text",
+          "text": "1． 栓めきは＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "2． ミキサーは＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "3． 体温計は＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "4． ファイルは＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "5． 時刻表は＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "3．"
+        },
+        {
+          "type": "text",
+          "text": "例１：新しいマンションはどうですか。（買い物・不便です）"
+        },
+        {
+          "type": "text",
+          "text": "…とても静かでいいんですが、ちょっと買い物に不便です。"
+        },
+        {
+          "type": "text",
+          "text": "例２：これはなんですか。（計算します・使います）"
+        },
+        {
+          "type": "text",
+          "text": "…そろばんです。計算するのに使います。"
+        },
+        {
+          "type": "text",
+          "text": "1． この公園は広くて、気が多いですね。（散歩・いいです）"
+        },
+        {
+          "type": "text",
+          "text": "…ええ、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "2． 電子辞書はどうですか。（漢字の読み方を調べます・役にたちます）"
+        },
+        {
+          "type": "text",
+          "text": "…便利ですよ。特に＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "3． 弟さんのけがはどうですか。（治ります・２ヶ月かかりました）"
+        },
+        {
+          "type": "text",
+          "text": "…おかげさまでやっと良くなりました。＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "4． この傘はずいぶん軽いですね。（旅行・便利です）"
+        },
+        {
+          "type": "text",
+          "text": "…ええ、小さくて、軽いですから、＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        {
+          "type": "text",
+          "text": "４．"
+        },
+        {
+          "type": "text",
+          "text": "例１：古いお寺の写真を（撮ります・撮る）ために、京都へ行きました。。"
+        },
+        {
+          "type": "text",
+          "text": "例２：（子ども・子どもの）ために、犬を飼いました。"
+        },
+        {
+          "type": "text",
+          "text": "1． 友達の結婚式に（出席します・　　　　　）ために、休みを取りました。"
+        },
+        {
+          "type": "text",
+          "text": "2． 日本語を（勉強している人・　　　　　）ために、易しい日本語で話そう"
+        },
+        {
+          "type": "text",
+          "text": "と思っています。"
+        },
+        {
+          "type": "text",
+          "text": "3． １２時に飛行機に（乗ります・　　　　　）ために、８時にウチを出なけ"
+        },
+        {
+          "type": "text",
+          "text": "ればなりません。"
+        },
+        {
+          "type": "text",
+          "text": "4． （健康・　　　　　）ために、毎日ジョギングをしています。"
+        },
+        {
+          "type": "text",
+          "text": "5． （困っている人・　　　　　　）ために、法律を勉強して、弁護士になろ"
+        },
+        {
+          "type": "text",
+          "text": "うと思っています。"
+        },
+        {
+          "type": "text",
+          "text": "6． （何・　　　　 ）ために、歴史を勉強するんですか。"
+        },
+        {
+          "type": "text",
+          "text": "7． 静かなところで子どもを（育てます・　　　　　　）ために、引っ越しし"
+        },
+        {
+          "type": "text",
+          "text": "ました。"
+        },
+        {
+          "type": "text",
+          "text": "５．"
+        },
+        {
+          "type": "text",
+          "text": "例：どうして人が大勢並んでいるんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…コンサートのチケットを買うために、並んでいるんです。"
+        },
+        {
+          "type": "text",
+          "text": "1． 日本へ来た目的はなんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、来ました。"
+        },
+        {
+          "type": "text",
+          "text": "2． どうして日本語を勉強していますか。"
+        },
+        {
+          "type": "text",
+          "text": "…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、一生懸命勉強しています。"
+        },
+        {
+          "type": "text",
+          "text": "3． なぜ貯金しているんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、貯金しなければなりません。"
+        },
+        {
+          "type": "text",
+          "text": "4． どうしてコンピューターを買ったんですか。"
+        },
+        {
+          "type": "text",
+          "text": "…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、買ったんです。"
+        },
+        {
+          "type": "text",
+          "text": "６．"
+        },
+        {
+          "type": "text",
+          "text": "例：書留を出す「ように、ために」、郵便局へ行きました。"
+        },
+        {
+          "type": "text",
+          "text": "1． 魯文を描く「ように、ために」、資料を集めています。"
+        },
+        {
+          "type": "text",
+          "text": "2． 電車に傘を忘れない「ように、ために」、気をつけてください。"
+        },
+        {
+          "type": "text",
+          "text": "3． 絵を勉強する「ように、ために」、フランスへ行こうと思っています。"
+        },
+        {
+          "type": "text",
+          "text": "4． マランソ大会に出る「ように、ために」、毎日練習しています。"
+        },
+        {
+          "type": "text",
+          "text": "5． 約束の時間に遅れない「ように、ために」、急いで行きました。"
+        },
+        {
+          "type": "text",
+          "text": "6． 病気が早く治る「ように、ために」、薬を飲んでいます。"
+        }
+      ],
+      "text": "1\n．\n例\n：これは\nプレ\nせんと（に）ちょうどいいですね。\n1\n．\n戦争\n（　）\n死\nんだ\n人\nのために、この\n曲\n（　）\n作\nりました。\n2\n．\nボランティア\nの\n会議\n（　）\n出席\nするために、\n休\nみ（　）\n取\nりました。\n3\n． この\nバック\nは\nポケット\n（　）たくさんあって、\n仕事\n（　）\n便利\nです。\n4\n．\n日本\n（　）\nアジア\n（　）\n関係\nを\n知\nるために、\n資料\n（　）\n集\nめてます。\n5\n．\nA:\nうちから\n会社\nまで\n車\nでどのぐらいかかりますか。\nB\n：\n道\nが\n混\nんでいなくても、１\n時間半\n（　）かかります。\nA\n：１\n時間半\n（　）かかるんですか。\n大変\nですね。\n２．\n熱\n混\nぜます\n電車\nの\n時間\n沸\nかします\nお\n湯\n計算\nします\n材料\n測\nります\n瓶\nのふた\n整理\nします\n資料\n調\nべます\nふろしき\n開\nけます\n例\n：やかんは\nお\n湯\nを\n沸\nかすのに\n使\nいます。\n1\n．\n栓\nめきは＿＿＿＿＿＿＿＿＿＿＿＿＿\n2\n． ミキサーは＿＿＿＿＿＿＿＿＿＿＿＿\n3\n．\n体温計\nは＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n4\n． ファイルは＿＿＿＿＿＿＿＿＿＿＿＿\n5\n．\n時刻表\nは＿＿＿＿＿＿＿＿＿＿＿＿＿\n3\n．\n例\n１：\n新\nしい\nマンション\nはどうですか。（\n買\nい\n物\n・\n不便\nです）\n…\nとても\n静\nかでいいんですが、ちょっと\n買\nい\n物\nに\n不便\nです\n。\n例\n２：これはなんですか。（計算します・使います）\n…そろばんです。\n計算\nするのに\n使\nいます\n。\n1\n． この\n公園\nは\n広\nくて、\n気\nが\n多\nいですね。（\n散歩\n・いいです）\n…ええ、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n2\n．\n電子辞書\nはどうですか。（\n漢字\nの\n読\nみ\n方\nを\n調\nべます・\n役\nにたちます）\n…\n便利ですよ。\n特\nに＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n3\n．\n弟\nさんのけがはどうですか。（\n治\nります・２\nヶ\n月\nかかりました）\n…おかげさまでやっと\n良\nくなりました。＿＿＿＿＿＿＿＿＿＿＿\n4\n． この\n傘\nはずいぶん\n軽\nいですね。（\n旅行\n・\n便利\nです）\n…ええ、\n小\nさくて、\n軽\nいですから、＿＿＿＿＿＿＿＿＿＿＿＿＿\n４\n．\n例\n１：\n古\nいお\n寺\nの\n写真\nを（\n撮\nります・\n撮\nる）ために、\n京都\nへ\n行\nきました。。\n例\n２：（\n子\nども・\n子\nどもの）ために、\n犬\nを\n飼\nいました。\n1\n．\n友達\nの\n結婚式\nに（\n出席\nします・　　　　　）ために、\n休\nみを\n取\nりました。\n2\n．\n日本語\nを（\n勉強\nしている\n人\n・　　　　　）ために、\n易\nしい\n日本語\nで\n話\nそう\nと\n思\nっています。\n3\n． １２\n時\nに\n飛行機\nに（\n乗\nります・　　　　　）ために、８\n時\nに\nウチ\nを\n出\nなけ\nればなりません。\n4\n． （\n健康\n・　　　　　）ために、\n毎日\nジョギング\nをしています。\n5\n． （\n困\nっている\n人\n・　　　　　　）ために、\n法律\nを\n勉強\nして、\n弁護士\nになろ\nうと\n思\nっています。\n6\n． （\n何\n・　　　　 ）ために、\n歴史\nを\n勉強\nするんですか。\n7\n．\n静\nかなところで\n子\nどもを（\n育\nてます・　　　　　　）ために、引っ\n越\nしし\nました。\n５\n．\n例\n：どうして\n人\nが\n大勢並\nんでいるんですか。\n…\nコンサー\nト\nのチケットを\n買\nう\nために、\n並\nんでいるんです。\n1\n．\n日本\nへ\n来\nた\n目的\nはなんですか。\n…\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、\n来\nました。\n2\n． どうして\n日本語\nを\n勉強\nしていますか。\n…\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、\n一生懸命勉強\nしています。\n3\n． なぜ\n貯金\nしているんですか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、\n貯金\nしなければなりません。\n4\n． どうして\nコンピュ\nー\nタ\nーを\n買\nったんですか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ために、\n買\nったんです。\n６．\n例\n：\n書留\nを\n出\nす「ように、\nために\n」、\n郵便局\nへ\n行\nきました。\n1\n．\n魯文\nを\n描\nく「ように、ために」、\n資料\nを\n集\nめています。\n2\n．\n電車\nに\n傘\nを\n忘\nれない「ように、ために」、\n気\nをつけてください。\n3\n．\n絵\nを\n勉強\nする「ように、ために」、\nフランス\nへ\n行\nこうと思っています。\n4\n．\nマランソ\n大会\nに\n出\nる「ように、ために」、\n毎日練習\nしています。\n5\n．\n約束\nの\n時間\nに\n遅\nれない「ように、ために」、\n急\nいで\n行\nきました。\n6\n．\n病気\nが\n早\nく\n治\nる「ように、ために」、\n薬\nを\n飲\nんでいます。",
+      "ruby": [
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "プレ",
+          "readings": [
+            "ぷれ"
+          ]
+        },
+        {
+          "text": "戦争",
+          "readings": [
+            "せんそう"
+          ]
+        },
+        {
+          "text": "死",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "ひと"
+          ]
+        },
+        {
+          "text": "曲",
+          "readings": [
+            "きょく"
+          ]
+        },
+        {
+          "text": "作",
+          "readings": [
+            "つく"
+          ]
+        },
+        {
+          "text": "ボランティア",
+          "readings": [
+            "ぼらんてぃあ"
+          ]
+        },
+        {
+          "text": "会議",
+          "readings": [
+            "かいぎ"
+          ]
+        },
+        {
+          "text": "出席",
+          "readings": [
+            "しゅっせき"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "取",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "バック",
+          "readings": [
+            "ばっく"
+          ]
+        },
+        {
+          "text": "ポケット",
+          "readings": [
+            "ぽけっと"
+          ]
+        },
+        {
+          "text": "仕事",
+          "readings": [
+            "しごと"
+          ]
+        },
+        {
+          "text": "便利",
+          "readings": [
+            "べんり"
+          ]
+        },
+        {
+          "text": "日本",
+          "readings": [
+            "にほん"
+          ]
+        },
+        {
+          "text": "アジア",
+          "readings": [
+            "あじあ"
+          ]
+        },
+        {
+          "text": "関係",
+          "readings": [
+            "かんけい"
+          ]
+        },
+        {
+          "text": "知",
+          "readings": [
+            "し"
+          ]
+        },
+        {
+          "text": "資料",
+          "readings": [
+            "しりょう"
+          ]
+        },
+        {
+          "text": "集",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "会社",
+          "readings": [
+            "かいしゃ"
+          ]
+        },
+        {
+          "text": "車",
+          "readings": [
+            "くるま"
+          ]
+        },
+        {
+          "text": "道",
+          "readings": [
+            "みち"
+          ]
+        },
+        {
+          "text": "混",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "時間半",
+          "readings": [
+            "じかんはん"
+          ]
+        },
+        {
+          "text": "時間半",
+          "readings": [
+            "じかんはん"
+          ]
+        },
+        {
+          "text": "大変",
+          "readings": [
+            "たいへん"
+          ]
+        },
+        {
+          "text": "熱",
+          "readings": [
+            "ねつ"
+          ]
+        },
+        {
+          "text": "混",
+          "readings": [
+            "ま"
+          ]
+        },
+        {
+          "text": "電車",
+          "readings": [
+            "でんしゃ"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "沸",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "湯",
+          "readings": [
+            "ゆ"
+          ]
+        },
+        {
+          "text": "計算",
+          "readings": [
+            "けいさん"
+          ]
+        },
+        {
+          "text": "材料",
+          "readings": [
+            "ざいりょう"
+          ]
+        },
+        {
+          "text": "測",
+          "readings": [
+            "はか"
+          ]
+        },
+        {
+          "text": "瓶",
+          "readings": [
+            "びん"
+          ]
+        },
+        {
+          "text": "整理",
+          "readings": [
+            "せいり"
+          ]
+        },
+        {
+          "text": "資料",
+          "readings": [
+            "しりょう"
+          ]
+        },
+        {
+          "text": "調",
+          "readings": [
+            "しら"
+          ]
+        },
+        {
+          "text": "開",
+          "readings": [
+            "あ"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "湯",
+          "readings": [
+            "ゆ"
+          ]
+        },
+        {
+          "text": "沸",
+          "readings": [
+            "わ"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "栓",
+          "readings": [
+            "せん"
+          ]
+        },
+        {
+          "text": "体温計",
+          "readings": [
+            "たいおんけい"
+          ]
+        },
+        {
+          "text": "時刻表",
+          "readings": [
+            "じこくひょう"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "新",
+          "readings": [
+            "あたら"
+          ]
+        },
+        {
+          "text": "マンション",
+          "readings": [
+            "まんしょん"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "不便",
+          "readings": [
+            "ふべん"
+          ]
+        },
+        {
+          "text": "…",
+          "readings": [
+            "・・・"
+          ]
+        },
+        {
+          "text": "静",
+          "readings": [
+            "しず"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "物",
+          "readings": [
+            "もの"
+          ]
+        },
+        {
+          "text": "不便",
+          "readings": [
+            "ふべん"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "計算",
+          "readings": [
+            "けいさん"
+          ]
+        },
+        {
+          "text": "使",
+          "readings": [
+            "つか"
+          ]
+        },
+        {
+          "text": "公園",
+          "readings": [
+            "こうえん"
+          ]
+        },
+        {
+          "text": "広",
+          "readings": [
+            "ひろ"
+          ]
+        },
+        {
+          "text": "気",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "多",
+          "readings": [
+            "おお"
+          ]
+        },
+        {
+          "text": "散歩",
+          "readings": [
+            "さんぽ"
+          ]
+        },
+        {
+          "text": "電子辞書",
+          "readings": [
+            "でんしじしょ"
+          ]
+        },
+        {
+          "text": "漢字",
+          "readings": [
+            "かんじ"
+          ]
+        },
+        {
+          "text": "読",
+          "readings": [
+            "よ"
+          ]
+        },
+        {
+          "text": "方",
+          "readings": [
+            "かた"
+          ]
+        },
+        {
+          "text": "調",
+          "readings": [
+            "しら"
+          ]
+        },
+        {
+          "text": "役",
+          "readings": [
+            "やく"
+          ]
+        },
+        {
+          "text": "特",
+          "readings": [
+            "とく"
+          ]
+        },
+        {
+          "text": "弟",
+          "readings": [
+            "おとうと"
+          ]
+        },
+        {
+          "text": "治",
+          "readings": [
+            "なお"
+          ]
+        },
+        {
+          "text": "ヶ",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "月",
+          "readings": [
+            "げつ"
+          ]
+        },
+        {
+          "text": "良",
+          "readings": [
+            "よ"
+          ]
+        },
+        {
+          "text": "傘",
+          "readings": [
+            "かさ"
+          ]
+        },
+        {
+          "text": "軽",
+          "readings": [
+            "かる"
+          ]
+        },
+        {
+          "text": "旅行",
+          "readings": [
+            "りょこう"
+          ]
+        },
+        {
+          "text": "便利",
+          "readings": [
+            "べんり"
+          ]
+        },
+        {
+          "text": "小",
+          "readings": [
+            "ちい"
+          ]
+        },
+        {
+          "text": "軽",
+          "readings": [
+            "かる"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "古",
+          "readings": [
+            "ふる"
+          ]
+        },
+        {
+          "text": "寺",
+          "readings": [
+            "てら"
+          ]
+        },
+        {
+          "text": "写真",
+          "readings": [
+            "しゃしん"
+          ]
+        },
+        {
+          "text": "撮",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "撮",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "京都",
+          "readings": [
+            "きょうと"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "子",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "子",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "犬",
+          "readings": [
+            "いぬ"
+          ]
+        },
+        {
+          "text": "飼",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "友達",
+          "readings": [
+            "ともだち"
+          ]
+        },
+        {
+          "text": "結婚式",
+          "readings": [
+            "けっこんしき"
+          ]
+        },
+        {
+          "text": "出席",
+          "readings": [
+            "しゅっせき"
+          ]
+        },
+        {
+          "text": "休",
+          "readings": [
+            "やす"
+          ]
+        },
+        {
+          "text": "取",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "日本語",
+          "readings": [
+            "にほんご"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "ひと"
+          ]
+        },
+        {
+          "text": "易",
+          "readings": [
+            "やさ"
+          ]
+        },
+        {
+          "text": "日本語",
+          "readings": [
+            "にほんご"
+          ]
+        },
+        {
+          "text": "話",
+          "readings": [
+            "はな"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "飛行機",
+          "readings": [
+            "ひこうき"
+          ]
+        },
+        {
+          "text": "乗",
+          "readings": [
+            "の"
+          ]
+        },
+        {
+          "text": "時",
+          "readings": [
+            "じ"
+          ]
+        },
+        {
+          "text": "ウチ",
+          "readings": [
+            "うち"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "で"
+          ]
+        },
+        {
+          "text": "健康",
+          "readings": [
+            "けんこう"
+          ]
+        },
+        {
+          "text": "毎日",
+          "readings": [
+            "まいにち"
+          ]
+        },
+        {
+          "text": "ジョギング",
+          "readings": [
+            "じょぎんぐ"
+          ]
+        },
+        {
+          "text": "困",
+          "readings": [
+            "こま"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "ひと"
+          ]
+        },
+        {
+          "text": "法律",
+          "readings": [
+            "ほうりつ"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "弁護士",
+          "readings": [
+            "べんごし"
+          ]
+        },
+        {
+          "text": "思",
+          "readings": [
+            "おも"
+          ]
+        },
+        {
+          "text": "何",
+          "readings": [
+            "なん"
+          ]
+        },
+        {
+          "text": "歴史",
+          "readings": [
+            "れきし"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "静",
+          "readings": [
+            "しず"
+          ]
+        },
+        {
+          "text": "子",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "育",
+          "readings": [
+            "そだ"
+          ]
+        },
+        {
+          "text": "越",
+          "readings": [
+            "こ"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "人",
+          "readings": [
+            "ひと"
+          ]
+        },
+        {
+          "text": "大勢並",
+          "readings": [
+            "おおぜいなら"
+          ]
+        },
+        {
+          "text": "ト",
+          "readings": [
+            "と"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "並",
+          "readings": [
+            "なら"
+          ]
+        },
+        {
+          "text": "日本",
+          "readings": [
+            "にほん"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "目的",
+          "readings": [
+            "もくてき"
+          ]
+        },
+        {
+          "text": "来",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "2",
+          "readings": [
+            "２"
+          ]
+        },
+        {
+          "text": "日本語",
+          "readings": [
+            "にほんご"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "一生懸命勉強",
+          "readings": [
+            "いっしょうけんめいべんきょう"
+          ]
+        },
+        {
+          "text": "貯金",
+          "readings": [
+            "ちょきん"
+          ]
+        },
+        {
+          "text": "貯金",
+          "readings": [
+            "ちょきん"
+          ]
+        },
+        {
+          "text": "コンピュ",
+          "readings": [
+            "こんぴゅ"
+          ]
+        },
+        {
+          "text": "タ",
+          "readings": [
+            "た"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "買",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "例",
+          "readings": [
+            "れい"
+          ]
+        },
+        {
+          "text": "書留",
+          "readings": [
+            "かきとめ"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "だ"
+          ]
+        },
+        {
+          "text": "郵便局",
+          "readings": [
+            "ゆうびんきょく"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "魯文",
+          "readings": [
+            "ろぶん"
+          ]
+        },
+        {
+          "text": "描",
+          "readings": [
+            "か"
+          ]
+        },
+        {
+          "text": "資料",
+          "readings": [
+            "しりょう"
+          ]
+        },
+        {
+          "text": "集",
+          "readings": [
+            "あつ"
+          ]
+        },
+        {
+          "text": "電車",
+          "readings": [
+            "でんしゃ"
+          ]
+        },
+        {
+          "text": "傘",
+          "readings": [
+            "かさ"
+          ]
+        },
+        {
+          "text": "忘",
+          "readings": [
+            "わす"
+          ]
+        },
+        {
+          "text": "気",
+          "readings": [
+            "き"
+          ]
+        },
+        {
+          "text": "絵",
+          "readings": [
+            "え"
+          ]
+        },
+        {
+          "text": "勉強",
+          "readings": [
+            "べんきょう"
+          ]
+        },
+        {
+          "text": "フランス",
+          "readings": [
+            "ふらんす"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "マランソ",
+          "readings": [
+            "まらんそ"
+          ]
+        },
+        {
+          "text": "大会",
+          "readings": [
+            "たいかい"
+          ]
+        },
+        {
+          "text": "出",
+          "readings": [
+            "で"
+          ]
+        },
+        {
+          "text": "毎日練習",
+          "readings": [
+            "まいにちれんしゅう"
+          ]
+        },
+        {
+          "text": "約束",
+          "readings": [
+            "やくそく"
+          ]
+        },
+        {
+          "text": "時間",
+          "readings": [
+            "じかん"
+          ]
+        },
+        {
+          "text": "遅",
+          "readings": [
+            "おく"
+          ]
+        },
+        {
+          "text": "急",
+          "readings": [
+            "いそ"
+          ]
+        },
+        {
+          "text": "行",
+          "readings": [
+            "い"
+          ]
+        },
+        {
+          "text": "病気",
+          "readings": [
+            "びょうき"
+          ]
+        },
+        {
+          "text": "早",
+          "readings": [
+            "はや"
+          ]
+        },
+        {
+          "text": "治",
+          "readings": [
+            "なお"
+          ]
+        },
+        {
+          "text": "薬",
+          "readings": [
+            "くすり"
+          ]
+        },
+        {
+          "text": "飲",
+          "readings": [
+            "の"
+          ]
+        }
+      ],
+      "links": [],
+      "media": []
+    }
+  ]
+}

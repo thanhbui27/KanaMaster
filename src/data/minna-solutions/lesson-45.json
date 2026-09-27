@@ -1,0 +1,282 @@
+{
+  "lesson": 45,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-45",
+  "solutions": [
+    {
+      "exerciseId": "45-section-4-exercise-1",
+      "question": "１）初めて会った人と（話します…　　　　　　　）場合は、丁寧に話したほうがいいです。",
+      "context": "1.\n例：買ってから、１年以内に（故障しました…故障した）場合は、無料で修理します。",
+      "status": "reference",
+      "answers": [
+        [
+          "話す"
+        ]
+      ],
+      "explanation": "Động từ từ điển + 場合は: trường hợp nói chuyện với người mới gặp."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-2",
+      "question": "２）（雨です…　　　　　　）場合は、野球の練習はありません。",
+      "context": "1.\n例：買ってから、１年以内に（故障しました…故障した）場合は、無料で修理します。",
+      "status": "reference",
+      "answers": [
+        [
+          "雨の"
+        ]
+      ],
+      "explanation": "Danh từ + の場合は: trong trường hợp trời mưa."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-3",
+      "question": "３）なかなか熱が（下がりません…　　　　　　　　）場合は、この薬を飲んでください。",
+      "context": "1.\n例：買ってから、１年以内に（故障しました…故障した）場合は、無料で修理します。",
+      "status": "reference",
+      "answers": [
+        [
+          "下がらない"
+        ]
+      ],
+      "explanation": "熱が下がらない場合: nếu mãi không hạ sốt."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-4",
+      "question": "４）体の調子が（悪いです…　　　　　　　）場合は、キャンプに参加しないでください。",
+      "context": "1.\n例：買ってから、１年以内に（故障しました…故障した）場合は、無料で修理します。",
+      "status": "reference",
+      "answers": [
+        [
+          "悪い"
+        ]
+      ],
+      "explanation": "Tính từ い giữ nguyên trước 場合."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-5",
+      "question": "５）明日の花火大会が（調子になりました…　　　　　　　　　）場合は、来週行います。",
+      "context": "1.\n例：買ってから、１年以内に（故障しました…故障した）場合は、無料で修理します。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Nguồn 調子になりました không hợp nghĩa; nhiều khả năng là 中止になりました. Câu sửa: 明日の花火大会が中止になった場合は、来週行います。 (Nếu hội pháo hoa ngày mai bị hủy thì tổ chức tuần sau)."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-6",
+      "question": "１）      ＿＿＿＿＿＿＿場合は、すぐ火を消してください。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "地震の"
+        ]
+      ],
+      "explanation": "Danh từ + の場合は: trường hợp động đất. Đây là đáp án ngữ pháp theo đề, không phải hướng dẫn ứng phó khẩn cấp."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-7",
+      "question": "２）      お釣りが＿＿＿＿＿＿＿場合は、このレバーを回してください。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "出ない"
+        ]
+      ],
+      "explanation": "お釣りが出ない場合: trường hợp máy không nhả tiền thừa."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-8",
+      "question": "３）      途中でコピーを＿＿＿＿＿＿＿場合は、このボタンを押します。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "やめたい"
+        ]
+      ],
+      "explanation": "やめたい場合: khi muốn dừng sao chép giữa chừng."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-9",
+      "question": "４）      電車にかばんを＿＿＿＿＿＿＿＿場合は、どうしたらいいですか。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "忘れた"
+        ]
+      ],
+      "explanation": "忘れた場合: nếu để quên túi trên tàu."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-10",
+      "question": "５）      ３０日までにお金が＿＿＿＿＿＿＿＿場合は、私に相談してください。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "払えない"
+        ]
+      ],
+      "explanation": "払えない場合: nếu không thể trả tiền đúng hạn."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-11",
+      "question": "６）      ＿＿＿＿＿＿＿＿＿場合は、きれいな紙で包みますから、あそこにいる係に言って下さい。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "贈り物の"
+        ]
+      ],
+      "explanation": "贈り物の場合: trường hợp mua làm quà, cửa hàng sẽ gói."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-12",
+      "question": "７）      まちがい電話を＿＿＿＿＿＿＿＿場合は、ちゃんと謝ったほうがいいです。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "かけた"
+        ]
+      ],
+      "explanation": "間違い電話をかけた場合: nếu gọi nhầm số thì nên xin lỗi."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-13",
+      "question": "８）      書き方を＿＿＿＿＿＿＿＿場合は、新しい紙に書いてください。",
+      "context": "２．\n住みます、忘れます、やめたいです、地震です、かけます、まちがえます、交通事故です、払えません、贈り物です、出ません\n例：日本に住む場合は、外国人登録をしなければなりません。",
+      "status": "reference",
+      "answers": [
+        [
+          "まちがえた",
+          "間違えた"
+        ]
+      ],
+      "explanation": "書き方を間違えた場合: nếu viết sai thì viết lại lên giấy mới."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-14",
+      "question": "１）      キャンプの準備をしていました・雨で急に中止になりました。\n…­­­­­­­­­­­­＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：もう会議が始まる時間です・林さんはまだ来ていません。\n…もう会議が始まる時間なのに、林さんはまだ来ていません。",
+      "status": "reference",
+      "answers": [
+        [
+          "キャンプの準備をしていたのに、雨で急に中止になりました"
+        ]
+      ],
+      "explanation": "のに nối kết quả trái mong đợi: đã chuẩn bị mà lại bị hủy vì mưa."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-15",
+      "question": "２）      もう１０時です・弟はまだ起きていません。\n…­­­­­­­­­­­­＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：もう会議が始まる時間です・林さんはまだ来ていません。\n…もう会議が始まる時間なのに、林さんはまだ来ていません。",
+      "status": "reference",
+      "answers": [
+        [
+          "もう１０時なのに、弟はまだ起きていません",
+          "もう10時なのに、弟はまだ起きていません"
+        ]
+      ],
+      "explanation": "Danh từ + なのに: đã 10 giờ mà em vẫn chưa dậy."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-16",
+      "question": "３）      わたしは牛乳が嫌いです・母は飲めと言います。\n…­­­­­­­­­­­­＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：もう会議が始まる時間です・林さんはまだ来ていません。\n…もう会議が始まる時間なのに、林さんはまだ来ていません。",
+      "status": "reference",
+      "answers": [
+        [
+          "わたしは牛乳が嫌いなのに、母は飲めと言います"
+        ]
+      ],
+      "explanation": "Tính từ な + なのに: không thích sữa nhưng mẹ bảo uống."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-17",
+      "question": "４）      ４月になりました・まだ桜が咲いていません。\n…­­­­­­­­­­­­＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：もう会議が始まる時間です・林さんはまだ来ていません。\n…もう会議が始まる時間なのに、林さんはまだ来ていません。",
+      "status": "reference",
+      "answers": [
+        [
+          "４月になったのに、まだ桜が咲いていません",
+          "4月になったのに、まだ桜が咲いていません"
+        ]
+      ],
+      "explanation": "Đã tháng 4 mà hoa vẫn chưa nở; động từ quá khứ + のに."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-18",
+      "question": "５）      雨が降っています・彼は釣りに行きました。\n…­­­­­­­­­­­­＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：もう会議が始まる時間です・林さんはまだ来ていません。\n…もう会議が始まる時間なのに、林さんはまだ来ていません。",
+      "status": "reference",
+      "answers": [
+        [
+          "雨が降っているのに、彼は釣りに行きました"
+        ]
+      ],
+      "explanation": "Đang mưa mà anh ấy vẫn đi câu; giữ trạng thái hiện tại trong vế đầu."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-19",
+      "question": "１）電車がなかなか来なかった（　　）、早くうちを出た（　　）、遅刻してしまいました。",
+      "context": "４．\n例：練習した（のに）、かぜをひいた（ので）、マラソン大会に出られませんでした。",
+      "status": "reference",
+      "answers": [
+        [
+          "ので"
+        ],
+        [
+          "のに"
+        ]
+      ],
+      "explanation": "Vì tàu không đến (ので), dù ra khỏi nhà sớm (のに) vẫn trễ."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-20",
+      "question": "２）住所をまちがえた（　　）、手紙を出した（　　）、届きませんでした。",
+      "context": "４．\n例：練習した（のに）、かぜをひいた（ので）、マラソン大会に出られませんでした。",
+      "status": "reference",
+      "answers": [
+        [
+          "ので"
+        ],
+        [
+          "のに"
+        ]
+      ],
+      "explanation": "Vì sai địa chỉ (ので), dù đã gửi (のに) thư không đến."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-21",
+      "question": "３）この店は狭くて汚い（　　）、おいしい（　　）、いつも込んでいます。",
+      "context": "４．\n例：練習した（のに）、かぜをひいた（ので）、マラソン大会に出られませんでした。",
+      "status": "reference",
+      "answers": [
+        [
+          "のに"
+        ],
+        [
+          "ので"
+        ]
+      ],
+      "explanation": "Dù quán hẹp và bẩn (のに), vì ngon (ので) nên luôn đông."
+    },
+    {
+      "exerciseId": "45-section-4-exercise-22",
+      "question": "４）このコンピューターは先月買った（　　）、保証書をなくした（　　）、無料で修理してもらえませんでした。",
+      "context": "４．\n例：練習した（のに）、かぜをひいた（ので）、マラソン大会に出られませんでした。",
+      "status": "reference",
+      "answers": [
+        [
+          "のに"
+        ],
+        [
+          "ので"
+        ]
+      ],
+      "explanation": "Dù mua tháng trước (のに), vì mất bảo hành (ので) nên không được sửa miễn phí."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "lesson": 35,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-35",
+  "solutions": [
+    {
+      "exerciseId": "35-section-7-exercise-1",
+      "question": "1) 道（　）財布（　）拾いました。",
+      "context": "１．\n例：電話（が）かからないんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "を"
+        ]
+      ],
+      "explanation": "道で財布を拾う: nhặt ví trên đường."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-2",
+      "question": "2) 予定（　）変わったら、知らせてください。",
+      "context": "１．\n例：電話（が）かからないんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ]
+      ],
+      "explanation": "予定が変わる: lịch thay đổi, dùng tự động từ 変わる."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-3",
+      "question": "3) 正しい答え（　）丸を付けてください。",
+      "context": "１．\n例：電話（が）かからないんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "答えに丸を付ける: đánh dấu tròn vào đáp án."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-4",
+      "question": "4) もう一度ほかの方法（　）やりましょう。",
+      "context": "１．\n例：電話（が）かからないんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "方法で: bằng phương pháp khác."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-5",
+      "question": "5) 向こう（　）見える建物（　）何ですか。",
+      "context": "１．\n例：電話（が）かからないんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "は"
+        ]
+      ],
+      "explanation": "向こうに見える建物は: tòa nhà nhìn thấy ở đằng kia làm chủ đề."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-6",
+      "question": "6) 庭（　）珍しい花（　）咲いていますね。",
+      "context": "１．\n例：電話（が）かからないんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "が"
+        ]
+      ],
+      "explanation": "庭に花が咲く: hoa nở trong vườn."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-7",
+      "question": "1) いろいろな外国語が＿＿＿＿＿＿＿海外旅行は楽しいでしょう。",
+      "context": "２．\n普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません\n例１：速達で出せば、明日着くと思います。\n例２：簡単な料理なら、作れます。",
+      "status": "reference",
+      "answers": [
+        [
+          "話せれば"
+        ]
+      ],
+      "explanation": "話せる → 話せれば: nếu nói được nhiều ngoại ngữ."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-8",
+      "question": "2) 許可を＿＿＿＿＿＿＿＿、ここには入れません。",
+      "context": "２．\n普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません\n例１：速達で出せば、明日着くと思います。\n例２：簡単な料理なら、作れます。",
+      "status": "reference",
+      "answers": [
+        [
+          "もらわなければ"
+        ]
+      ],
+      "explanation": "もらわない → もらわなければ: nếu không có phép thì không được vào."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-9",
+      "question": "3) いい品物で、＿＿＿＿＿＿＿たくさん売れると思います。",
+      "context": "２．\n普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません\n例１：速達で出せば、明日着くと思います。\n例２：簡単な料理なら、作れます。",
+      "status": "reference",
+      "answers": [
+        [
+          "安ければ"
+        ]
+      ],
+      "explanation": "安い → 安ければ: nếu rẻ thì bán chạy."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-10",
+      "question": "4) ＿＿＿＿＿＿＿、デーパトはそんなに込んでいないと思いますよ。",
+      "context": "２．\n普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません\n例１：速達で出せば、明日着くと思います。\n例２：簡単な料理なら、作れます。",
+      "status": "reference",
+      "answers": [
+        [
+          "普通の日なら"
+        ]
+      ],
+      "explanation": "Danh từ + なら: nếu là ngày thường."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-11",
+      "question": "5) 操作が＿＿＿＿＿＿＿、長い時間車を運転しても、疲れないでしょう。",
+      "context": "２．\n普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません\n例１：速達で出せば、明日着くと思います。\n例２：簡単な料理なら、作れます。",
+      "status": "reference",
+      "answers": [
+        [
+          "楽なら"
+        ]
+      ],
+      "explanation": "Tính từ な + なら: nếu thao tác nhẹ nhàng thì lái lâu cũng không mệt."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-12",
+      "question": "6) この雑誌、＿＿＿＿＿＿＿、捨てますよ。",
+      "context": "２．\n普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません\n例１：速達で出せば、明日着くと思います。\n例２：簡単な料理なら、作れます。",
+      "status": "reference",
+      "answers": [
+        [
+          "要らなければ"
+        ]
+      ],
+      "explanation": "要らない → 要らなければ: nếu không cần thì bỏ đi."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-13",
+      "question": "7) このカーテンはどうやって閉めるんですか。\n…そのひもを＿＿＿＿＿＿、閉まりますよ。",
+      "context": "２．\n普通の日です、楽です、安いです、簡単な料理です、困ります、出します、引きます、話せます、もらいません、要りません\n例１：速達で出せば、明日着くと思います。\n例２：簡単な料理なら、作れます。",
+      "status": "reference",
+      "answers": [
+        [
+          "引けば"
+        ]
+      ],
+      "explanation": "引く → 引けば: kéo dây thì rèm đóng."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-14",
+      "question": "1) 新しいパソコンの使い方が分かりません・だれに聞きますか\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。",
+      "context": "３．\n例：パスポートをなくしました・どうしますか\n…パスポートをなくしたんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "新しいパソコンの使い方が分からないんですが、だれに聞けばいいですか"
+        ]
+      ],
+      "explanation": "Nêu vấn đề bằng んですが, hỏi người nên hỏi bằng だれに聞けばいいですか."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-15",
+      "question": "2) 大学院の試験を受けたいです・いつまでに申し込みますか。\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。",
+      "context": "３．\n例：パスポートをなくしました・どうしますか\n…パスポートをなくしたんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "大学院の試験を受けたいんですが、いつまでに申し込めばいいですか"
+        ]
+      ],
+      "explanation": "申し込む → 申し込めば; いつまでに hỏi hạn đăng ký."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-16",
+      "question": "3) お葬式に行きます・どんな服を着て行きますか\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。",
+      "context": "３．\n例：パスポートをなくしました・どうしますか\n…パスポートをなくしたんですが、どうすればいいですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "お葬式に行くんですが、どんな服を着て行けばいいですか"
+        ]
+      ],
+      "explanation": "着て行く → 着て行けば: nên mặc gì đến tang lễ?"
+    },
+    {
+      "exerciseId": "35-section-7-exercise-17",
+      "question": "1) A:間に合わないかもしれませんから、タクシーで行きます。\nB：タクシーで＿＿＿＿＿＿＿、間に合うでしょう。",
+      "context": "４．\n例１：A:体の調子がよくないですから、たばこをやめます。\nＢ：たばこをやめれば、よくなるかもしれませんよ。\n例２：A:ワインを買いたいんですが、どこで買ったらいいですか。\nＢ：ワインなら、ユニューヤ・ストアがいいと思いますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "行けば"
+        ]
+      ],
+      "explanation": "行く → 行けば: nếu đi taxi thì kịp."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-18",
+      "question": "2) A:こんなに雨が降っていますから、明日の山登りは無理ですよ。\nB：山登りが＿＿＿＿＿＿＿、ゆっくり温泉に入りましょう。",
+      "context": "４．\n例１：A:体の調子がよくないですから、たばこをやめます。\nＢ：たばこをやめれば、よくなるかもしれませんよ。\n例２：A:ワインを買いたいんですが、どこで買ったらいいですか。\nＢ：ワインなら、ユニューヤ・ストアがいいと思いますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "無理なら"
+        ]
+      ],
+      "explanation": "無理なら: nếu không thể leo núi thì đi tắm suối nóng."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-19",
+      "question": "3) A:　京都へ旅行に行くんですが、いいホテルを知っていますか。\nＢ：そうですね。京都の＿＿＿＿＿＿＿、さくらホテルがいいと思いますよ。\nA:駅から近くて、設備が＿＿＿＿＿＿＿、高いでしょう？",
+      "context": "４．\n例１：A:体の調子がよくないですから、たばこをやめます。\nＢ：たばこをやめれば、よくなるかもしれませんよ。\n例２：A:ワインを買いたいんですが、どこで買ったらいいですか。\nＢ：ワインなら、ユニューヤ・ストアがいいと思いますよ。",
+      "status": "reference",
+      "answers": [
+        [
+          "ホテルなら"
+        ],
+        [
+          "よければ",
+          "よかったら"
+        ]
+      ],
+      "explanation": "京都のホテルなら: nói đến khách sạn Kyoto; 設備がよければ: nếu cơ sở vật chất tốt. Mẫu trọng tâm là điều kiện ば."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-20",
+      "question": "1) 給料やボーナスは＿＿＿＿＿＿＿＿＿＿ほどいいです。",
+      "context": "５．\n例１：外国語の勉強は若ければ若いほどいいです。\n例２：生活が便利になればなるほど電気を使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "多ければ多い"
+        ]
+      ],
+      "explanation": "多ければ多いほど: càng nhiều càng tốt."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-21",
+      "question": "2) マンションの家賃は駅から＿＿＿＿＿＿＿＿ほど高くなります。",
+      "context": "５．\n例１：外国語の勉強は若ければ若いほどいいです。\n例２：生活が便利になればなるほど電気を使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "近ければ近い"
+        ]
+      ],
+      "explanation": "近ければ近いほど: càng gần ga càng đắt."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-22",
+      "question": "3) パソコンは操作が＿＿＿＿＿＿＿＿ほどいいです。",
+      "context": "５．\n例１：外国語の勉強は若ければ若いほどいいです。\n例２：生活が便利になればなるほど電気を使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "簡単なら簡単な"
+        ]
+      ],
+      "explanation": "Tính từ な: 簡単なら簡単なほど, càng dễ thao tác càng tốt."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-23",
+      "question": "4) ピアノやテニスは＿＿＿＿＿＿＿＿ほど上手になります。",
+      "context": "５．\n例１：外国語の勉強は若ければ若いほどいいです。\n例２：生活が便利になればなるほど電気を使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "練習すればする"
+        ]
+      ],
+      "explanation": "練習すればするほど: càng luyện tập càng giỏi."
+    },
+    {
+      "exerciseId": "35-section-7-exercise-24",
+      "question": "5) 年を＿＿＿＿＿＿＿＿＿ほど歯や目が悪くなります。",
+      "context": "５．\n例１：外国語の勉強は若ければ若いほどいいです。\n例２：生活が便利になればなるほど電気を使います。",
+      "status": "reference",
+      "answers": [
+        [
+          "取れば取る"
+        ]
+      ],
+      "explanation": "年を取れば取るほど: càng lớn tuổi răng/mắt càng yếu."
+    }
+  ]
+}

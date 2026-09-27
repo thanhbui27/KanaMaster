@@ -1,0 +1,310 @@
+{
+  "lesson": 39,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-39",
+  "solutions": [
+    {
+      "exerciseId": "39-section-5-exercise-1",
+      "question": "1. 胃の病気（　）入院するので、社員旅行（　）参加できません。",
+      "context": "1.\n例：事故（で）バズ（が）遅れたんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "病気で: vì bệnh; 社員旅行に参加する: tham gia chuyến đi công ty."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-2",
+      "question": "2.（　）遅刻して、先生（　）しかられました。",
+      "context": "1.\n例：事故（で）バズ（が）遅れたんです。",
+      "status": "sample",
+      "answers": [
+        [
+          "授業に",
+          "学校に"
+        ],
+        [
+          "に"
+        ]
+      ],
+      "explanation": "Ô đầu không có danh từ làm mốc nên cần điền cả 授業に／学校に (đến lớp/trường muộn). 先生にしかられる: bị giáo viên mắng. Không thể chỉ điền một trợ từ vào ô đầu."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-3",
+      "question": "3. 質問（　）答えられなくて、恥ずかしかったです。",
+      "context": "1.\n例：事故（で）バズ（が）遅れたんです。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "質問に答える: trả lời câu hỏi."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-4",
+      "question": "4. バスはこの道（　）と通って、駅まで行きます",
+      "context": "1.\n例：事故（で）バズ（が）遅れたんです。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Nguồn thừa と trong この道（ ）と通って. Câu sửa: バスはこの道を通って、駅まで行きます。 通る dùng を chỉ đường đi qua."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-5",
+      "question": "１）（台風です…　　　　　　）木が倒れました。",
+      "context": "２．\n例１：（地震です…地震で）橋が壊れました。\n例２：電話で母の元気な声を（聞きました…聞いて）、安心しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "台風で"
+        ]
+      ],
+      "explanation": "Danh từ chỉ nguyên nhân + で: cây đổ do bão."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-6",
+      "question": "２）日本語が（わかりません…　　　　　　　　）、困っています。",
+      "context": "２．\n例１：（地震です…地震で）橋が壊れました。\n例２：電話で母の元気な声を（聞きました…聞いて）、安心しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "わからなくて"
+        ]
+      ],
+      "explanation": "Phủ định わからない → わからなくて, nêu nguyên nhân của 困っています."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-7",
+      "question": "３）バスが（遅れました…　　　　　　　　）、約束の時間に間に合いませんでした。",
+      "context": "２．\n例１：（地震です…地震で）橋が壊れました。\n例２：電話で母の元気な声を（聞きました…聞いて）、安心しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "遅れて"
+        ]
+      ],
+      "explanation": "遅れる → 遅れて; quá khứ được thể hiện ở cuối câu."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-8",
+      "question": "４）渡辺さんに（会えませんでした…　　　　　　　）、がっかりました。",
+      "context": "２．\n例１：（地震です…地震で）橋が壊れました。\n例２：電話で母の元気な声を（聞きました…聞いて）、安心しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "会えなくて"
+        ]
+      ],
+      "explanation": "会えませんでした → 会えなくて: không gặp được nên thất vọng; nguồn がっかりました thiếu り, đúng là がっかりしました."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-9",
+      "question": "５）友達が（いません…　　　　　　　）、寂しいです。",
+      "context": "２．\n例１：（地震です…地震で）橋が壊れました。\n例２：電話で母の元気な声を（聞きました…聞いて）、安心しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "いなくて"
+        ]
+      ],
+      "explanation": "いない → いなくて: không có bạn nên cô đơn."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-10",
+      "question": "６）このコーヒーは（熱いです…　　　　　）、飲めません。",
+      "context": "２．\n例１：（地震です…地震で）橋が壊れました。\n例２：電話で母の元気な声を（聞きました…聞いて）、安心しました。",
+      "status": "reference",
+      "answers": [
+        [
+          "熱くて"
+        ]
+      ],
+      "explanation": "熱い → 熱くて: nóng nên không uống được."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-11",
+      "question": "1. ８時の電車に乗れましたか。\n…いいえ、（込んでいました…　　　　　）。＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：その窓から庭は見えますか。\n…いいえ、もう外は（暗いです…暗くて）、何も見えません。",
+      "status": "reference",
+      "answers": [
+        [
+          "込んでいて"
+        ],
+        [
+          "乗れませんでした"
+        ]
+      ],
+      "explanation": "Đông nên không lên được: ～て nêu nguyên nhân, kết quả là khả năng phủ định."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-12",
+      "question": "2. ゆうべよく寝られましたか。\n…いいえ、隣のテレビの音が（うるさかったです…　　　　）、＿＿＿＿＿",
+      "context": "３．\n例：その窓から庭は見えますか。\n…いいえ、もう外は（暗いです…暗くて）、何も見えません。",
+      "status": "reference",
+      "answers": [
+        [
+          "うるさくて"
+        ],
+        [
+          "寝られませんでした"
+        ]
+      ],
+      "explanation": "うるさい → うるさくて; không ngủ được dùng 寝られませんでした."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-13",
+      "question": "3. 漢字はすぐ覚えられますか。\n…いいえ、形が（複雑です…　　　）、なかなか＿＿＿＿＿＿＿",
+      "context": "３．\n例：その窓から庭は見えますか。\n…いいえ、もう外は（暗いです…暗くて）、何も見えません。",
+      "status": "reference",
+      "answers": [
+        [
+          "複雑で"
+        ],
+        [
+          "覚えられません"
+        ]
+      ],
+      "explanation": "Tính từ な dùng で; なかなか覚えられません: khó nhớ được."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-14",
+      "question": "4. 講義は分かりますか。\n…いいえ、話し方が（速いです…　　　　）、＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：その窓から庭は見えますか。\n…いいえ、もう外は（暗いです…暗くて）、何も見えません。",
+      "status": "reference",
+      "answers": [
+        [
+          "速くて"
+        ],
+        [
+          "分かりません"
+        ]
+      ],
+      "explanation": "速い → 速くて: nói nhanh nên không hiểu."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-15",
+      "question": "１）友達の結婚式が（あります…　　　　　）ので、早退してもいいですか。",
+      "context": "４．\n例：毎日（練習しました…練習した）ので、日本語が話せるようになりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "ある"
+        ]
+      ],
+      "explanation": "Thể thường + ので: あるので."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-16",
+      "question": "２）漢字が（わかりません… 　　　　　）ので、ひらがなで書いてもいいですか。",
+      "context": "４．\n例：毎日（練習しました…練習した）ので、日本語が話せるようになりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "わからない"
+        ]
+      ],
+      "explanation": "わかりません → わからないので."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-17",
+      "question": "３）お金が（ありませんでした…　　　　　）ので、何も買いませんでした。",
+      "context": "４．\n例：毎日（練習しました…練習した）ので、日本語が話せるようになりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "なかった"
+        ]
+      ],
+      "explanation": "ありませんでした → なかったので, quá khứ không có tiền."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-18",
+      "question": "４）明日お見合いを（します…　　　　　）ので、着物を着ようと思っています。",
+      "context": "４．\n例：毎日（練習しました…練習した）ので、日本語が話せるようになりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "する"
+        ]
+      ],
+      "explanation": "します → するので; dự định ngày mai."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-19",
+      "question": "５）ちょっと（邪魔です…　　　　　）ので、この箱を片付けてもいいですか。",
+      "context": "４．\n例：毎日（練習しました…練習した）ので、日本語が話せるようになりました。",
+      "status": "reference",
+      "answers": [
+        [
+          "邪魔な"
+        ]
+      ],
+      "explanation": "Danh từ/tính từ な + なので: 邪魔なので."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-20",
+      "question": "1. 富士山が見えて｛うれしかったです、写真をとりました｝。",
+      "context": "５．\n例：うるさくて｛勉強しません、勉強できません｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "うれしかったです"
+        ]
+      ],
+      "explanation": "見えて nêu nguyên nhân của cảm xúc vui, chọn うれしかったです theo mẫu ngữ pháp bài."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-21",
+      "question": "2. 日本は物価が高くて｛困ります、買い物をしません｝。",
+      "context": "５．\n例：うるさくて｛勉強しません、勉強できません｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "困ります"
+        ]
+      ],
+      "explanation": "物価が高くて困ります: giá cao gây khó khăn; mẫu này nối nguyên nhân với trạng thái ngoài ý muốn."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-22",
+      "question": "3. 私は字が下手で｛手紙を書きません、恥ずかしいです｝。",
+      "context": "５．\n例：うるさくて｛勉強しません、勉強できません｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "恥ずかしいです"
+        ]
+      ],
+      "explanation": "Chữ xấu khiến xấu hổ, dùng 下手で恥ずかしいです."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-23",
+      "question": "4. 遅くなって｛すみません、タクシーに乗ろうと思います｝。",
+      "context": "５．\n例：うるさくて｛勉強しません、勉強できません｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "すみません"
+        ]
+      ],
+      "explanation": "遅くなってすみません: xin lỗi vì đến muộn."
+    },
+    {
+      "exerciseId": "39-section-5-exercise-24",
+      "question": "5. 台風で｛寝ませんでした、寝られませんでした｝。",
+      "context": "５．\n例：うるさくて｛勉強しません、勉強できません｝。",
+      "status": "reference",
+      "answers": [
+        [
+          "寝られませんでした"
+        ]
+      ],
+      "explanation": "Vì bão nên không thể ngủ; biểu thị khả năng phủ định, không phải chủ ý không ngủ."
+    }
+  ]
+}

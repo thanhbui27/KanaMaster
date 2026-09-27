@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "test:minna": "node scripts/test-minna.cjs && node scripts/test-minna-solutions.cjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

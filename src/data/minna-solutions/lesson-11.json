@@ -1,0 +1,225 @@
+{
+  "lesson": 11,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-11",
+  "solutions": [
+    {
+      "exerciseId": "11-section-5-exercise-1",
+      "question": "１）子どもが（　2　→　　　____　　）　います。",
+      "context": "1. 例：みかんが（　8　→　　やっつ　　　）　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "2人",
+          "二人",
+          "ふたり"
+        ]
+      ],
+      "explanation": "Đếm hai người dùng ふたり, không đọc ににん."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-2",
+      "question": "２）車が（　4　→　　　____　　）　あります。",
+      "context": "1. 例：みかんが（　8　→　　やっつ　　　）　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "4台",
+          "四台",
+          "よんだい"
+        ]
+      ],
+      "explanation": "Xe dùng trợ số từ 台; bốn xe là よんだい."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-3",
+      "question": "３）切手を（　10　→　　　____　　）　買いました。",
+      "context": "1. 例：みかんが（　8　→　　やっつ　　　）　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "10枚",
+          "十枚",
+          "じゅうまい"
+        ]
+      ],
+      "explanation": "Tem là vật mỏng, dùng 枚."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-4",
+      "question": "４）りんごを（　5　→　　　____　　）　ください。",
+      "context": "1. 例：みかんが（　8　→　　やっつ　　　）　あります。",
+      "status": "reference",
+      "answers": [
+        [
+          "5つ",
+          "五つ",
+          "いつつ"
+        ]
+      ],
+      "explanation": "Đếm táo bằng bộ số ～つ: いつつ."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-5",
+      "question": "１）いすが　（______）　ありますか。\n...  3つ　あります。",
+      "context": "2. 例：子どもが　（　　何人　　）　いますか。\n...  3人　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "いくつ"
+        ]
+      ],
+      "explanation": "Câu trả lời 3つ nên hỏi いくつ."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-6",
+      "question": "２）毎日　（______）　働きますか。\n...  8時間　働きます。",
+      "context": "2. 例：子どもが　（　　何人　　）　いますか。\n...  3人　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "何時間",
+          "なんじかん"
+        ]
+      ],
+      "explanation": "8時間 là khoảng thời gian, khác với 8時 là thời điểm."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-7",
+      "question": "３）切符を　（______）　買いますか。\n...  2枚　買います。",
+      "context": "2. 例：子どもが　（　　何人　　）　いますか。\n...  3人　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "何枚",
+          "なんまい"
+        ]
+      ],
+      "explanation": "Vé dùng 枚."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-8",
+      "question": "４）寮に　自転車が　（______）　ありますか。\n...  5台　あります。",
+      "context": "2. 例：子どもが　（　　何人　　）　いますか。\n...  3人　います。",
+      "status": "reference",
+      "answers": [
+        [
+          "何台",
+          "なんだい"
+        ]
+      ],
+      "explanation": "Xe đạp dùng 台."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-9",
+      "question": "１）1週間　（____）　3回（____）彼女に　電話を　かけます。",
+      "context": "3. 例：電車で　（　で　）　1時間（　X　）かかります。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "X",
+          "×"
+        ]
+      ],
+      "explanation": "1週間に3回: ba lần mỗi tuần; không cần trợ từ sau số lần. Nhập X/× cho ô trống không cần trợ từ."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-10",
+      "question": "２）この　荷物は　アメリカまで　船便（____）　いくらですか。",
+      "context": "3. 例：電車で　（　で　）　1時間（　X　）かかります。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "船便で: bằng đường tàu biển."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-11",
+      "question": "３）日本（____）　2年（____）います。",
+      "context": "3. 例：電車で　（　で　）　1時間（　X　）かかります。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "X",
+          "×",
+          "間"
+        ]
+      ],
+      "explanation": "日本に chỉ nơi ở; 2年 là khoảng thời gian và không dùng に sau đó. 2年間 cũng hợp lệ."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-12",
+      "question": "４）りんご（____）　5つ（X）ください。\n...  はい。600円です。",
+      "context": "3. 例：電車で　（　で　）　1時間（　X　）かかります。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ]
+      ],
+      "explanation": "りんごを5つください: を đi sau vật được yêu cầu, lượng từ đứng sau."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-13",
+      "question": "１）田中さんは　ご主人と　子どもが　２人　います。田中さんの　家族は　全部で　何人ですか。\n...  ______。",
+      "context": "4.",
+      "status": "reference",
+      "answers": [
+        [
+          "4人です",
+          "四人です",
+          "よにんです"
+        ]
+      ],
+      "explanation": "Tanaka + chồng + hai con = bốn người; không chỉ đếm chồng và con."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-14",
+      "question": "２）りんごを　15　もらいました。4つ　食べました。隣の　うちの　人に　6つ　あげました。今　りんごが　いくつ　ありますか。\n...  ______。",
+      "context": "4.",
+      "status": "reference",
+      "answers": [
+        [
+          "5つあります",
+          "五つあります",
+          "いつつあります"
+        ]
+      ],
+      "explanation": "15 − 4 − 6 = 5 quả táo."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-15",
+      "question": "３）80円の　切手を　5枚と、50円の　切手を　5枚　買います。全部で　いくらですか。\n...  ______。",
+      "context": "4.",
+      "status": "reference",
+      "answers": [
+        [
+          "650円です",
+          "六百五十円です"
+        ]
+      ],
+      "explanation": "80×5 + 50×5 = 650 yên."
+    },
+    {
+      "exerciseId": "11-section-5-exercise-16",
+      "question": "４）わたしは　中国語を　3か月　習いました。1か月に　8回　習いました。1回は　2時間です。全部で　何時間　習いましたか。\n...  ______。",
+      "context": "4.",
+      "status": "reference",
+      "answers": [
+        [
+          "48時間です",
+          "四十八時間です"
+        ]
+      ],
+      "explanation": "3 tháng × 8 buổi/tháng × 2 giờ/buổi = 48 giờ."
+    }
+  ]
+}

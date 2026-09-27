@@ -1,0 +1,306 @@
+{
+  "lesson": 47,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-47",
+  "solutions": [
+    {
+      "exerciseId": "47-section-6-exercise-1",
+      "question": "１）      交差点（　）ひと（　）集まっていますね。事故（　）ようです。",
+      "context": "１．\n例：きのう神戸（で）地震があったそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ],
+        [
+          "が"
+        ],
+        [
+          "の"
+        ]
+      ],
+      "explanation": "交差点に人が集まる: người tụ tập ở giao lộ; 事故のよう: có vẻ là tai nạn."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-2",
+      "question": "２）      変な味（　）しますね。塩（　）砂糖をまちがえようです。",
+      "context": "１．\n例：きのう神戸（で）地震があったそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "が"
+        ],
+        [
+          "と"
+        ]
+      ],
+      "explanation": "味がする: có vị; 塩と砂糖を間違えた: nhầm muối và đường. Nguồn まちがえよう phải là まちがえたよう."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-3",
+      "question": "３）      雨が降っているようです。外を歩いている人が傘（　）さしています。",
+      "context": "１．\n例：きのう神戸（で）地震があったそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "を"
+        ]
+      ],
+      "explanation": "傘をさす: che ô."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-4",
+      "question": "４）      わたしは彼の意見（　）賛成です。",
+      "context": "１．\n例：きのう神戸（で）地震があったそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "に"
+        ]
+      ],
+      "explanation": "意見に賛成: đồng ý với ý kiến."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-5",
+      "question": "５）      鈴木さんは大阪（　）転勤するそうです。",
+      "context": "１．\n例：きのう神戸（で）地震があったそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "に",
+          "へ"
+        ]
+      ],
+      "explanation": "大阪に／へ転勤する: chuyển công tác đến Osaka."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-6",
+      "question": "６）      最近新しい医学の論文をアメリカの雑誌（　）読みました。",
+      "context": "１．\n例：きのう神戸（で）地震があったそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "で"
+        ]
+      ],
+      "explanation": "雑誌で読む: đọc được trên tạp chí."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-7",
+      "question": "７）      電気が消えていますから、だら（　）いないようですね。",
+      "context": "１．\n例：きのう神戸（で）地震があったそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "も"
+        ]
+      ],
+      "explanation": "だれもいない: không có ai; nguồn だら là lỗi của だれ."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-8",
+      "question": "１）きのう九州のホテルで火事が（ありました…　　　　　　）そうです。",
+      "context": "２．\n例：あしたは雨が（降ります…降る）そうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "あった"
+        ]
+      ],
+      "explanation": "Tin nghe lại dùng thể thường + そう: あったそうです (nghe nói đã có)."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-9",
+      "question": "２）イーサンは夏休みに国へ（帰りません…　　　　　　）そうです。",
+      "context": "２．\n例：あしたは雨が（降ります…降る）そうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "帰らない"
+        ]
+      ],
+      "explanation": "帰りません → 帰らないそうです: nghe nói không về."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-10",
+      "question": "３）ミラーさんは会議のことを（知りませんでした…　　　　　　）そうです。",
+      "context": "２．\n例：あしたは雨が（降ります…降る）そうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "知らなかった"
+        ]
+      ],
+      "explanation": "知りませんでした → 知らなかったそうです."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-11",
+      "question": "４）ワット先生はきのうは（忙しかったです…　　　　　　　　）そうです。",
+      "context": "２．\n例：あしたは雨が（降ります…降る）そうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "忙しかった"
+        ]
+      ],
+      "explanation": "Tính từ quá khứ giữ nguyên: 忙しかったそうです."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-12",
+      "question": "５）インドネシアのバリ島はとても（きれいです…　　　　　　）そうです。",
+      "context": "２．\n例：あしたは雨が（降ります…降る）そうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "きれいだ"
+        ]
+      ],
+      "explanation": "Tin truyền đạt dùng tính từ な + だそうです: nghe nói Bali rất đẹp. Không bỏ だ ở mẫu truyền đạt này."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-13",
+      "question": "６）火事の原因は子供の（花火でした…　　　　　　）そうです。",
+      "context": "２．\n例：あしたは雨が（降ります…降る）そうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "花火だった"
+        ]
+      ],
+      "explanation": "Danh từ quá khứ + そうです: 花火だったそうです."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-14",
+      "question": "１）      交通事故は減っているんですか。（警察の発表・増えています）\n…いいえ、＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：明日の天気はどうですか。（天気予報・曇りです）\n…天気予報によると、曇りだそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "警察の発表によると、増えているそうです"
+        ]
+      ],
+      "explanation": "Nêu nguồn 警察の発表によると rồi thuật lại 増えているそうです; chỉ chuyển câu của bài tập."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-15",
+      "question": "２）      男性と女性とどちらが長生きするんですか。（この本・女性のほうが長生きします）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：明日の天気はどうですか。（天気予報・曇りです）\n…天気予報によると、曇りだそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "この本によると、女性のほうが長生きするそうです"
+        ]
+      ],
+      "explanation": "この本によると: theo cuốn sách này; thuật lại bằng thể thường + そうです."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-16",
+      "question": "３）      きれいな花の写真ですね。（この写真の説明・世界で一番大きい花です）\n…＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "３．\n例：明日の天気はどうですか。（天気予報・曇りです）\n…天気予報によると、曇りだそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "この写真の説明によると、世界で一番大きい花だそうです"
+        ]
+      ],
+      "explanation": "Danh từ 花 + だそうです; giữ nguồn thông tin là chú thích ảnh."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-17",
+      "question": "１）      パトかーが止まっていますね。\nあのうちに泥棒が（入りました…　　　　　　）ようです。",
+      "context": "４．\n例：道が込んでいますね。（交通事故です…交通事故の）ようですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "入った"
+        ]
+      ],
+      "explanation": "Có xe cảnh sát nên suy ra 泥棒が入ったようです: hình như trộm đã vào."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-18",
+      "question": "２）この牛乳、変なにおいがしますね。ちょっと（ふるいです…　　　　）ようです。",
+      "context": "４．\n例：道が込んでいますね。（交通事故です…交通事故の）ようですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "ふるい",
+          "古い"
+        ]
+      ],
+      "explanation": "古いようです: có vẻ sữa cũ dựa trên mùi."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-19",
+      "question": "３）頭が痛いです。どうも（かぜです…　　　　　）ようです。",
+      "context": "４．\n例：道が込んでいますね。（交通事故です…交通事故の）ようですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "かぜの",
+          "風邪の"
+        ]
+      ],
+      "explanation": "Danh từ + のようです: có vẻ bị cảm."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-20",
+      "question": "４）彼はいつも一人で座っています。友達が（いません…　　　　　）ようです。",
+      "context": "４．\n例：道が込んでいますね。（交通事故です…交通事故の）ようですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "いない"
+        ]
+      ],
+      "explanation": "友達がいないようです: suy đoán không có bạn; thể phủ định thường."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-21",
+      "question": "５）クララさんはすしを食べませんね。（嫌いです…　　　　　　）ようです。",
+      "context": "４．\n例：道が込んでいますね。（交通事故です…交通事故の）ようですね。",
+      "status": "reference",
+      "answers": [
+        [
+          "嫌いな"
+        ]
+      ],
+      "explanation": "Tính từ な + ようです: 嫌いなようです."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-22",
+      "question": "１）このワープロは（使いやすいです…　　　　　　）そうですが、使っている人の話によると、使い方が（複雑です…　　　　　）そうですよ。",
+      "context": "５．\n例：あの犬は大きくて（怖いです…怖）そうですね。\n…ええ、友達に聞いたんですが、ほんとうに（怖いです…怖い）そうですよ。子供をかんだそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "使いやす"
+        ],
+        [
+          "複雑だ"
+        ]
+      ],
+      "explanation": "使いやすそう là vẻ ngoài; 複雑だそう là nghe người dùng nói. Không nhầm hai loại そう."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-23",
+      "question": "２）星がたくさん見えますから、あしたは天気が（いいです…　　　　　　）どうですよ。",
+      "context": "５．\n例：あの犬は大きくて（怖いです…怖）そうですね。\n…ええ、友達に聞いたんですが、ほんとうに（怖いです…怖い）そうですよ。子供をかんだそうです。",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Nguồn kết どうですよ thay vì そうですよ. Sau khi sửa: 星がたくさん見えますから、あしたは天気がよさそうですよ。 いい → よさそう, suy đoán từ dấu hiệu chứ không phải lời truyền đạt."
+    },
+    {
+      "exerciseId": "47-section-6-exercise-24",
+      "question": "３）（遅れます…　　　　　）そうですよ。タクシーで行きましょう。",
+      "context": "５．\n例：あの犬は大きくて（怖いです…怖）そうですね。\n…ええ、友達に聞いたんですが、ほんとうに（怖いです…怖い）そうですよ。子供をかんだそうです。",
+      "status": "reference",
+      "answers": [
+        [
+          "遅れ"
+        ]
+      ],
+      "explanation": "遅れそう: có vẻ sắp muộn nên đi taxi; bỏ ます trước そう."
+    }
+  ]
+}

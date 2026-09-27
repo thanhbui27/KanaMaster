@@ -1,0 +1,178 @@
+{
+  "lesson": 8,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-8",
+  "solutions": [
+    {
+      "exerciseId": "8-section-11-exercise-1",
+      "question": "1.小さい　古い　易しい　忙しい　暑い",
+      "context": "",
+      "status": "source-issue",
+      "answers": [],
+      "explanation": "Đây là danh sách từ cho sẵn (小さい・古い・易しい・忙しい・暑い), không phải câu hỏi. Không cần nhập đáp án."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-2",
+      "question": "１）あした　暇ですか。\n...  いいえ、　（______）　です。",
+      "context": "\n例：タイは　寒いですか。\n...  いいえ、　（ 　暑い　　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "忙しい"
+        ]
+      ],
+      "explanation": "Đối lập với 暇 là 忙しい; い-tính từ đứng trước です."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-3",
+      "question": "２）あなたの　会社は　新しいですか。\n...  いいえ、　（______）　です。",
+      "context": "\n例：タイは　寒いですか。\n...  いいえ、　（ 　暑い　　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "古い"
+        ]
+      ],
+      "explanation": "Đối lập 新しい là 古い."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-4",
+      "question": "３）日本語は　難しいですか。\n...  いいえ、　（______）　です。",
+      "context": "\n例：タイは　寒いですか。\n...  いいえ、　（ 　暑い　　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "易しい",
+          "やさしい"
+        ]
+      ],
+      "explanation": "Đối lập 難しい là 易しい (dễ)."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-5",
+      "question": "４）あなたの　うちは　大きいですか。\n...  いいえ、　（______）　です。",
+      "context": "\n例：タイは　寒いですか。\n...  いいえ、　（ 　暑い　　）　です。",
+      "status": "reference",
+      "answers": [
+        [
+          "小さい"
+        ]
+      ],
+      "explanation": "Đối lập 大きい là 小さい."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-6",
+      "question": "１）あなたの　パソコンは　新しいですか。\n...  いいえ、（______）。古いです。",
+      "context": "2. 例：日本の　食べ物は　安いですか。\n...  いいえ、（　安くないです　）。とても　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "新しくないです",
+          "新しくありません"
+        ]
+      ],
+      "explanation": "Phủ định い-tính từ: bỏ い, thêm くないです hoặc くありません."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-7",
+      "question": "２）イギリスは　今　暑いですか。\n...  いいえ、あまり（______）。",
+      "context": "2. 例：日本の　食べ物は　安いですか。\n...  いいえ、（　安くないです　）。とても　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "暑くないです",
+          "暑くありません"
+        ]
+      ],
+      "explanation": "あまり đi với phủ định: không nóng lắm."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-8",
+      "question": "３）大阪は　静かですか。\n...  いいえ、（______）。とても　にぎやかです。",
+      "context": "2. 例：日本の　食べ物は　安いですか。\n...  いいえ、（　安くないです　）。とても　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "静かじゃありません",
+          "静かではありません",
+          "静かじゃないです"
+        ]
+      ],
+      "explanation": "静か là な-tính từ; phủ định bằng じゃありません/ではありません."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-9",
+      "question": "４）この　手帳は　便利ですか。\n...  いいえ、あまり（______）。",
+      "context": "2. 例：日本の　食べ物は　安いですか。\n...  いいえ、（　安くないです　）。とても　高いです。",
+      "status": "reference",
+      "answers": [
+        [
+          "便利じゃありません",
+          "便利ではありません",
+          "便利じゃないです"
+        ]
+      ],
+      "explanation": "便利 là な-tính từ; あまり đi với phủ định."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-10",
+      "question": "１）インドネシアは（　暑いです　→　　　______　　）　国です。",
+      "context": "3. 例：ワンさんは（　元気です　→　　　元気な　　）　人です。",
+      "status": "reference",
+      "answers": [
+        [
+          "暑い"
+        ]
+      ],
+      "explanation": "い-tính từ giữ い khi bổ nghĩa danh từ: 暑い国."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-11",
+      "question": "２）富士山は（　有名です　→　　　______　　）　山です。",
+      "context": "3. 例：ワンさんは（　元気です　→　　　元気な　　）　人です。",
+      "status": "reference",
+      "answers": [
+        [
+          "有名な"
+        ]
+      ],
+      "explanation": "な-tính từ thêm な trước danh từ: 有名な山."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-12",
+      "question": "３）東京は（　おもしろいです　→　　　______　　）　町です。",
+      "context": "3. 例：ワンさんは（　元気です　→　　　元気な　　）　人です。",
+      "status": "reference",
+      "answers": [
+        [
+          "おもしろい"
+        ]
+      ],
+      "explanation": "おもしろい町: い-tính từ giữ nguyên trước danh từ."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-13",
+      "question": "４）山で　（　きれいです　→　　　______　　）　花を　見ました。",
+      "context": "3. 例：ワンさんは（　元気です　→　　　元気な　　）　人です。",
+      "status": "reference",
+      "answers": [
+        [
+          "きれいな"
+        ]
+      ],
+      "explanation": "きれい dù kết thúc bằng い vẫn là な-tính từ: きれいな花."
+    },
+    {
+      "exerciseId": "8-section-11-exercise-14",
+      "question": "５）（　新しいです　→　　______　　　）　車を　買いました。",
+      "context": "3. 例：ワンさんは（　元気です　→　　　元気な　　）　人です。",
+      "status": "reference",
+      "answers": [
+        [
+          "新しい"
+        ]
+      ],
+      "explanation": "新しい車: bỏ です, giữ 新しい trước danh từ."
+    }
+  ]
+}

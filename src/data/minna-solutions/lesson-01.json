@@ -1,0 +1,157 @@
+{
+  "lesson": 1,
+  "provenance": "Biên soạn tham khảo từ đề bài và ngữ pháp; không phải đáp án chính thức của Riki.",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-1",
+  "solutions": [
+    {
+      "exerciseId": "1-section-7-exercise-1",
+      "question": "１）A：サントスさんはブラジル人です。マリアさん（　　）ブラジル人ですか。\nB：はい、マリアさん（　　）ブラジル人です。\nA：ミラーさん（　　）ブラジル人ですか。\nB：いいえ、ミラーさん（　　）ブラジル人じゃありません。",
+      "context": "1. 例：あの方（は）どなたですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "も",
+          "は"
+        ],
+        [
+          "も"
+        ],
+        [
+          "も",
+          "は"
+        ],
+        [
+          "は"
+        ]
+      ],
+      "explanation": "も nghĩa là “cũng”: hỏi Maria/Miller có cùng quốc tịch với Santos không. Khi phủ định với Miller, dùng は. Trong câu hỏi, は cũng đúng nếu chỉ chuyển chủ đề, không nhấn mạnh “cũng”."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-2",
+      "question": "２．グブタさんはIMC（　　）社員です。",
+      "context": "1. 例：あの方（は）どなたですか。",
+      "status": "reference",
+      "answers": [
+        [
+          "の"
+        ]
+      ],
+      "explanation": "IMCの社員: nhân viên của công ty IMC; の nối tổ chức với người thuộc tổ chức đó."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-3",
+      "question": "１）カリナさんは学生ですか。…はい、＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：あなたは会社員ですか。…はい、会社員です。",
+      "status": "reference",
+      "answers": [
+        [
+          "学生です",
+          "がくせいです"
+        ]
+      ],
+      "explanation": "Trả lời khẳng định: はい、学生です。Không cần lặp lại tên Karina."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-4",
+      "question": "２）ワンさんも学生ですか。…いいえ、＿＿＿＿＿＿＿＿＿＿＿",
+      "context": "2. 例：あなたは会社員ですか。…はい、会社員です。",
+      "status": "reference",
+      "answers": [
+        [
+          "学生じゃありません",
+          "学生ではありません",
+          "がくせいじゃありません"
+        ]
+      ],
+      "explanation": "いいえ đi với phủ định. Chưa có dữ kiện về nghề thật của Wang nên không tự thêm nghề nghiệp."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-5",
+      "question": "３）あの方は＿＿＿＿＿＿＿＿＿。…山田さんです。",
+      "context": "2. 例：あなたは会社員ですか。…はい、会社員です。",
+      "status": "reference",
+      "answers": [
+        [
+          "どなたですか",
+          "だれですか"
+        ]
+      ],
+      "explanation": "Hỏi danh tính vì câu trả lời là 山田さんです。どなた lịch sự hơn だれ."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-6",
+      "question": "４）これは＿＿＿＿＿＿＿＿＿＿。…はい、わたしのです。",
+      "context": "2. 例：あなたは会社員ですか。…はい、会社員です。",
+      "status": "reference",
+      "answers": [
+        [
+          "あなたのですか"
+        ]
+      ],
+      "explanation": "Người đáp xác nhận “vâng, của tôi”, nên người hỏi dùng あなたのですか."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-7",
+      "question": "１）それは［だれ、何］のかばんですか。…［わたし、わたしの］です。",
+      "context": "３. 例：［この、これ］は本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "だれ"
+        ],
+        [
+          "わたしの"
+        ]
+      ],
+      "explanation": "だれの hỏi chủ sở hữu; わたしの thay cho わたしのかばん, không dùng わたし đứng riêng."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-8",
+      "question": "２）［その、それ］は何のテープですか。…日本語のテープです。",
+      "context": "３. 例：［この、これ］は本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "それ"
+        ]
+      ],
+      "explanation": "それ đứng độc lập làm chủ đề; その phải đứng trước danh từ."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-9",
+      "question": "３）これはあなたのかぎですか。…［あなた、わたし］のじゃありません。",
+      "context": "３. 例：［この、これ］は本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "わたし"
+        ]
+      ],
+      "explanation": "Người trả lời nói “không phải của tôi”: わたしのじゃありません。"
+    },
+    {
+      "exerciseId": "1-section-7-exercise-10",
+      "question": "４）これは［新聞、何］ですか。…はい、それは新聞です。",
+      "context": "３. 例：［この、これ］は本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "新聞"
+        ]
+      ],
+      "explanation": "Câu trả lời có はい nên đây là câu hỏi xác nhận “có phải báo không”, không phải câu hỏi 何."
+    },
+    {
+      "exerciseId": "1-section-7-exercise-11",
+      "question": "５）あの人は［何、だれ］ですか。…山田さんです。",
+      "context": "３. 例：［この、これ］は本です。",
+      "status": "reference",
+      "answers": [
+        [
+          "だれ"
+        ]
+      ],
+      "explanation": "Hỏi người dùng だれ; 何 hỏi vật hoặc nội dung."
+    }
+  ]
+}

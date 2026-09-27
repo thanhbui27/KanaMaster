@@ -1,12 +1,13 @@
 "use client";
 
-import { BookOpen, ChartNoAxesColumnIncreasing, Dumbbell, Home, RotateCcw } from "lucide-react";
+import { BookOpen, ChartNoAxesColumnIncreasing, Dumbbell, Home, RotateCcw, Library } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const items = [
   { label: "Home", icon: Home, href: "/" },
   { label: "Learn", icon: BookOpen, href: "/learn" },
+  { label: "Minna", icon: Library, href: "/minna" },
   { label: "Practice", icon: Dumbbell, href: "/practice" },
   { label: "Review", icon: RotateCcw, href: "/review" },
   { label: "Progress", icon: ChartNoAxesColumnIncreasing, href: "/progress" },
@@ -26,7 +27,7 @@ export function MobileNav() {
               ? pathname.startsWith(href) || (pathname.startsWith("/test/") && !isReviewTest)
               : pathname.startsWith(href);
         return (
-        <Link key={label} href={href} className={active ? "nav-item active" : "nav-item"} aria-current={active ? "page" : undefined}>
+        <Link key={label} href={href} aria-label={label === "Minna" ? "Minna no Nihongo" : label} className={active ? "nav-item active" : "nav-item"} aria-current={active ? "page" : undefined}>
           <Icon size={21} strokeWidth={active ? 2.8 : 2.2} />
           <span>{label}</span>
         </Link>

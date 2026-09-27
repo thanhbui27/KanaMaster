@@ -1,0 +1,403 @@
+{
+  "source": "https://riki.edu.vn",
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "Từ vựng ngữ pháp Minna bài 1",
+      "file": "lesson-01.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 2,
+      "title": "Từ vựng ngữ pháp Minna bài 2",
+      "file": "lesson-02.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 3,
+      "title": "Từ vựng ngữ pháp Minna bài 3",
+      "file": "lesson-03.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 4,
+      "title": "Từ vựng ngữ pháp Minna bài 4",
+      "file": "lesson-04.json",
+      "sections": 9,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 5,
+      "title": "Từ vựng ngữ pháp Minna bài 5",
+      "file": "lesson-05.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 6,
+      "title": "Từ vựng ngữ pháp Minna bài 6",
+      "file": "lesson-06.json",
+      "sections": 10,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 7,
+      "title": "Từ vựng ngữ pháp Minna bài 7",
+      "file": "lesson-07.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 8,
+      "title": "Từ vựng ngữ pháp Minna bài 8",
+      "file": "lesson-08.json",
+      "sections": 11,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 9,
+      "title": "Từ vựng ngữ pháp Minna bài 9",
+      "file": "lesson-09.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 10,
+      "title": "Từ vựng ngữ pháp Minna bài 10",
+      "file": "lesson-10.json",
+      "sections": 9,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 11,
+      "title": "Từ vựng ngữ pháp Minna bài 11",
+      "file": "lesson-11.json",
+      "sections": 5,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 13,
+      "title": "Từ vựng ngữ pháp Minna bài 13",
+      "file": "lesson-13.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 14,
+      "title": "Từ vựng ngữ pháp Minna bài 14",
+      "file": "lesson-14.json",
+      "sections": 10,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 15,
+      "title": "Từ vựng ngữ pháp Minna bài 15",
+      "file": "lesson-15.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 16,
+      "title": "Từ vựng ngữ pháp Minna bài 16",
+      "file": "lesson-16.json",
+      "sections": 9,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 17,
+      "title": "Từ vựng ngữ pháp Minna bài 17",
+      "file": "lesson-17.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 18,
+      "title": "Từ vựng ngữ pháp Minna bài 18",
+      "file": "lesson-18.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 19,
+      "title": "Từ vựng ngữ pháp Minna bài 19",
+      "file": "lesson-19.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 20,
+      "title": "Từ vựng ngữ pháp Minna bài 20",
+      "file": "lesson-20.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 21,
+      "title": "Từ vựng ngữ pháp Minna bài 21",
+      "file": "lesson-21.json",
+      "sections": 9,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 22,
+      "title": "Từ vựng ngữ pháp Minna bài 22",
+      "file": "lesson-22.json",
+      "sections": 4,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 23,
+      "title": "Từ vựng ngữ pháp Minna bài 23",
+      "file": "lesson-23.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 24,
+      "title": "Từ vựng ngữ pháp Minna bài 24",
+      "file": "lesson-24.json",
+      "sections": 4,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 25,
+      "title": "Từ vựng ngữ pháp Minna bài 25",
+      "file": "lesson-25.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 26,
+      "title": "Từ vựng ngữ pháp Minna bài 26",
+      "file": "lesson-26.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 27,
+      "title": "Từ vựng ngữ pháp Minna bài 27",
+      "file": "lesson-27.json",
+      "sections": 9,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 28,
+      "title": "Từ vựng ngữ pháp Minna bài 28",
+      "file": "lesson-28.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 29,
+      "title": "Từ vựng ngữ pháp Minna bài 29",
+      "file": "lesson-29.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 30,
+      "title": "Từ vựng ngữ pháp Minna bài 30",
+      "file": "lesson-30.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 31,
+      "title": "Từ vựng ngữ pháp Minna bài 31",
+      "file": "lesson-31.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 32,
+      "title": "Từ vựng ngữ pháp Minna bài 32",
+      "file": "lesson-32.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 33,
+      "title": "Từ vựng ngữ pháp Minna bài 33",
+      "file": "lesson-33.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 34,
+      "title": "Từ vựng ngữ pháp Minna bài 34",
+      "file": "lesson-34.json",
+      "sections": 5,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 35,
+      "title": "Từ vựng ngữ pháp Minna bài 35",
+      "file": "lesson-35.json",
+      "sections": 7,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 36,
+      "title": "Từ vựng ngữ pháp Minna bài 36",
+      "file": "lesson-36.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 37,
+      "title": "Từ vựng ngữ pháp Minna bài 37",
+      "file": "lesson-37.json",
+      "sections": 8,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 38,
+      "title": "Từ vựng ngữ pháp Minna bài 38",
+      "file": "lesson-38.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 39,
+      "title": "Từ vựng ngữ pháp Minna bài 39",
+      "file": "lesson-39.json",
+      "sections": 5,
+      "vocabularySections": 0,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 40,
+      "title": "Từ vựng ngữ pháp Minna bài 40",
+      "file": "lesson-40.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 41,
+      "title": "Từ vựng ngữ pháp Minna bài 41",
+      "file": "lesson-41.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 42,
+      "title": "Từ vựng ngữ pháp Minna bài 42",
+      "file": "lesson-42.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 43,
+      "title": "Từ vựng ngữ pháp Minna bài 43",
+      "file": "lesson-43.json",
+      "sections": 5,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 44,
+      "title": "Từ vựng ngữ pháp Minna bài 44",
+      "file": "lesson-44.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 45,
+      "title": "Từ vựng ngữ pháp Minna bài 45",
+      "file": "lesson-45.json",
+      "sections": 4,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 46,
+      "title": "Từ vựng ngữ pháp Minna bài 46",
+      "file": "lesson-46.json",
+      "sections": 5,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 47,
+      "title": "Từ vựng ngữ pháp Minna bài 47",
+      "file": "lesson-47.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 48,
+      "title": "Từ vựng ngữ pháp Minna bài 48",
+      "file": "lesson-48.json",
+      "sections": 5,
+      "vocabularySections": 0,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 49,
+      "title": "Từ vựng ngữ pháp Minna bài 49",
+      "file": "lesson-49.json",
+      "sections": 8,
+      "vocabularySections": 0,
+      "practiceSections": 1
+    },
+    {
+      "lesson": 50,
+      "title": "Từ vựng ngữ pháp Minna bài 50",
+      "file": "lesson-50.json",
+      "sections": 4,
+      "vocabularySections": 0,
+      "practiceSections": 1
+    }
+  ],
+  "failures": [
+    {
+      "lesson": 12,
+      "error": "No cached HTML; download required"
+    }
+  ]
+}
