@@ -18,6 +18,10 @@
 .mn-app textarea { width: 100%; resize: vertical; line-height: 1.65; }
 .mn-kicker { display: inline-flex; align-items: center; gap: 7px; font-size: 10px; font-weight: 850; color: var(--coral-dark); letter-spacing: .13em; }
 .mn-muted { color: var(--muted); font-size: 13px; line-height: 1.7; }
+.mn-word-speak { display:inline-flex; align-items:center; gap:7px; padding:9px 12px; min-height:40px; margin-bottom:12px; border:1px solid #d4dfd4; border-radius:9px; color:#34583e; background:#f2f7ee; font-size:12px!important; }
+.mn-flash-audio { display:flex; flex-direction:column; align-items:center; gap:5px; margin:16px 0; text-align:center; }
+.mn-notes-banner { display:flex; align-items:center; gap:18px; padding:22px; margin-bottom:30px; text-decoration:none; background:#edf3e9; color:#34583e; border:1px solid #ccdccc; border-radius:16px; }
+.mn-notes-banner > svg { flex-shrink:0; }.mn-notes-banner > div { flex:1; }.mn-notes-banner strong { display:block; font-size:16px; }.mn-notes-banner span { display:block; font-size:12px; line-height:1.8; margin-top:5px; }
 .mn-button { display: inline-flex; justify-content: center; align-items: center; gap: 8px; border: 1px solid var(--line); border-radius: 12px; min-height: 44px; padding: 10px 17px; background: white; color: var(--ink); font-size: 13px !important; font-weight: 750 !important; text-decoration: none; transition: background .15s, transform .15s; }
 .mn-button:hover:not(:disabled) { background: var(--coral-soft); border-color: #f3b6a6; }
 .mn-button.primary { background: var(--coral); color: white; border-color: var(--coral); box-shadow: 0 5px 16px #f34f3f1c; }

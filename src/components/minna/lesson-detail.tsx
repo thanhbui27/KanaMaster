@@ -17,9 +17,9 @@ export function LessonDetail({ lesson, previous, next }: { lesson: Lesson; previ
   const { progress, update, ready, storageFailed } = useLessonProgress(lesson.id);
   const metrics = progressMetrics(lesson, progress);
   const choose = (index: number) => { setTab(index); if (index !== 2) setFocus(null); };
-  const mark = (id: string, state: "learned" | "review") => update(p => ({ ...p,
-    learned: state === "learned" ? [...new Set([...p.learned, id])] : p.learned.filter(w => w !== id),
-    review: state === "review" ? [...new Set([...p.review, id])] : p.review.filter(w => w !== id) }));
+  const mark = (id: string, state: "learned" | "review", toggle = false) => update(p => ({ ...p,
+    learned: state === "learned" && !(toggle && p.learned.includes(id)) ? [...new Set([...p.learned, id])] : p.learned.filter(w => w !== id),
+    review: state === "review" && !(toggle && p.review.includes(id)) ? [...new Set([...p.review, id])] : p.review.filter(w => w !== id) }));
   const review = (ids: string[]) => { setFocus(ids); setTab(2); };
   const stats = <div className="mn-stat-grid four"><div><strong>{metrics.learned}<small> / {lesson.vocabulary.length}</small></strong><span>Từ đã nhớ</span></div><div><strong>{progress.quiz.bestTotal ? `${progress.quiz.bestCorrect}/${progress.quiz.bestTotal}` : "—"}</strong><span>Quiz tốt nhất{progress.quiz.bestTotal > 0 ? ` · ${Math.round(progress.quiz.bestCorrect / progress.quiz.bestTotal * 100)}%` : ""}</span></div><div><strong>{metrics.grammar}<small> / {lesson.grammar.length}</small></strong><span>Ngữ pháp đã học</span></div><div><strong>{metrics.practice}<small> / {lesson.exercises.length}</small></strong><span>Bài tập đã làm · tự kiểm tra</span></div></div>;
   return <>

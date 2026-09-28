@@ -34,6 +34,21 @@ Open `/practice/handwriting` to use the on-device writing recognizer. It support
 
 ## Minna no Nihongo
 
+The **Lưu ý học tập** handbook at `/minna/notes` is linked from Home and Minna.
+It contains five topics and 257 Japanese–Chinese–Vietnamese entries: numbers,
+clock/calendar time, durations, counters, and verb conjugation. Entries include
+kana, romaji, simplified Chinese, pinyin, meanings, and exception notes. Search
+works within the selected topic; topic hashes can be bookmarked. Mobile layouts
+present each table row as a bilingual card.
+
+Audio uses the browser's Speech Synthesis voices, selecting Japanese or Mandarin
+explicitly. If a matching voice is unavailable, listening buttons are disabled
+and written readings remain available. These are device-generated voices, not
+teacher recordings; pronunciation quality depends on the installed voice.
+`scripts/test-minna-notes.cjs` validates required language fields and important
+reading/conjugation distinctions. Content is authored reference material with
+grammar source links, not an official Riki supplement.
+
 Open `/minna` or select **Minna** in the existing navigation. The module extends
 the Kana app with 49 available lessons from Riki, 1,877 vocabulary entries, and
 949 normalized exercises. Lesson 12 is unavailable because the source returned
