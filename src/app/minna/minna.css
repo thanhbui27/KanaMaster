@@ -129,6 +129,7 @@
 .mn-question { text-align: center; margin: 35px 0; }
 .mn-question h2 { font-size: clamp(26px, 4vw, 46px); line-height: 1.6; margin: 18px 0; overflow-wrap: anywhere; }
 .mn-question p { font-size: 12px; color: var(--muted); }
+.mn-question .mn-question-reading { margin: -10px 0 18px; color: var(--indigo); font-size: clamp(18px, 3vw, 24px); line-height: 1.7; overflow-wrap: anywhere; }
 .mn-options { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .mn-options button { display: flex; align-items: center; text-align: left; gap: 12px; border: 1px solid #ddd9d3; border-radius: 14px; min-height: 75px; background: #fffdf9; color: var(--ink); padding: 17px; font-size: 14px; line-height: 1.7; overflow-wrap: anywhere; }
 .mn-options button > span { display: grid; place-items: center; flex-shrink: 0; width: 27px; height: 27px; border-radius: 8px; background: #f0ede7; font-size: 11px; }
