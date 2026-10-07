@@ -18,6 +18,41 @@ npm start
 
 Open `http://localhost:3000`. On a supported Chromium browser, use the in-app install banner or the browser's **Install app** action. On iOS Safari, the banner explains **Share → Add to Home Screen → Add**.
 
+## Repeat: cumulative study plans
+
+Open `/repeat` from the Repeat card on Home. Choose an inclusive date range (up to
+three years), an every-N-days interval, days of each month, or explicit dates.
+Missing month dates are skipped. Pick individual items or filtered groups from
+Minna vocabulary, Kana lessons, reading words/phrases, the Japanese/Chinese study
+handbook, and imported custom collections. Items follow source/file order.
+
+Each session adds the configured number of new items and reviews every item from
+earlier scheduled sessions, even if an earlier session was missed. Once all items
+are introduced, remaining sessions are review-only. Insufficient schedule capacity
+is shown explicitly. Each session supports a list, two-sided flashcards, and a
+typed quiz (normalized text matching, not semantic grading). Completion is manual;
+editing a plan resets its completion markers.
+
+The custom tab provides UTF-8 CSV and JSON templates, validation, and an import
+preview. Required fields: `term`, `meaning`. Optional: `order`, `reading`,
+`wordType`, `language`, `group`. CSV supports any number of `phonetic:Label`
+columns; JSON uses `phonetics: [{ "label": "IPA UK", "value": "..." }]`.
+`order` is a display label; file row order controls the study sequence. Imports
+append collections and are limited to 5 MB / 5,000 entries per file.
+
+Plans and custom vocabulary use `kanamaster-repeat-v1` in localStorage, with
+backup/restore from the custom tab. This is device/browser-local, without account
+sync. Storage failures are surfaced without replacing the old saved data.
+In-app due badges work without notification permission. Opt-in browser reminders
+check every 30 seconds while the app is open, at most once per plan per local day;
+they also catch up overdue sessions. The app has no server push scheduler.
+Export `.ics` to a calendar app for closed-app reminders (floating local times,
+30-minute events, 10-minute alarms; calendar permissions/settings still apply).
+Reimport/update calendar entries after editing a plan.
+
+Run `npm run test:repeat` for schedule, accumulation, import, persistence schema,
+and calendar export regression checks.
+
 ## PWA assets
 
 - Manifest: `public/manifest.webmanifest`

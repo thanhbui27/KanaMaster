@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
+.repeat-due-banner { position:fixed;right:16px;bottom:calc(90px + env(safe-area-inset-bottom));z-index:35;padding:10px 16px;border:1px solid #d4e6d8;border-radius:24px;background:#eaf4ed;color:#285e49;font-size:12px;font-weight:750;text-decoration:none;box-shadow:0 4px 18px #20233b15; }
+
 :root {
   --coral: #f34f3f;
   --coral-dark: #d93d32;

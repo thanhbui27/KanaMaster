@@ -1,6 +1,7 @@
-const CACHE_NAME = "kanamaster-shell-v16";
+const CACHE_NAME = "kanamaster-shell-v17";
 const APP_PAGES = [
   "/",
+  "/repeat",
   "/learn",
   "/learn/hiragana-1",
   "/learn/hiragana-2",
@@ -30,6 +31,15 @@ const APP_PAGES = [
   "/review",
   "/progress"
 ];
+
+self.addEventListener("notificationclick", (event) => {
+  event.notification.close();
+  event.waitUntil(self.clients.matchAll({ type: "window", includeUncontrolled: true }).then(async (clients) => {
+    const client = clients.find(c => new URL(c.url).origin === self.location.origin);
+    if (client) { await client.navigate("/repeat"); return client.focus(); }
+    return self.clients.openWindow("/repeat");
+  }));
+});
 const APP_SHELL = [
   ...APP_PAGES,
   "/offline.html",

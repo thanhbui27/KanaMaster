@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { RegisterServiceWorker } from "@/components/pwa/register-service-worker";
+import { RepeatReminders } from "@/components/repeat/repeat-reminders";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -47,6 +48,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       </head>
       <body>
         {children}
+        <RepeatReminders />
         <RegisterServiceWorker />
       </body>
     </html>

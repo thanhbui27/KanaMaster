@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "test:repeat": "node scripts/test-repeat.cjs",
     "test:minna": "node scripts/test-minna.cjs && node scripts/test-minna-solutions.cjs && node scripts/test-minna-notes.cjs",
     "dev": "next dev",
     "build": "next build",
