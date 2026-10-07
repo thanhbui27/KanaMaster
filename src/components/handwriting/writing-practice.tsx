@@ -19,7 +19,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
 import { HandwritingCanvas } from "@/components/handwriting/handwriting-canvas";
-import { MobileNav } from "@/components/mobile-nav";
 import { KanaScopeSelector } from "@/components/tests/kana-scope-selector";
 import { filterKanaByScope, getKanaEntriesInText } from "@/data/kana";
 import { WORDS_BY_SCRIPT } from "@/data/test-content";
@@ -340,7 +339,7 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
   return (
     <main className="writing-page">
       <header className="writing-topbar">
-        <Link href="/practice" className="icon-link" aria-label="Back to practice modes"><ArrowLeft size={21} /></Link>
+        <Link href="/practice" className="icon-link" aria-label="Về các chế độ luyện tập"><ArrowLeft size={21} /></Link>
         <div className="writing-brand"><Image src="/icons/icon-48x48.png" alt="" width={34} height={34} priority /><span>KanaMaster</span></div>
         <span className="lesson-count">{sessionMode === "test" && testPhase === "running" ? activeTestQuestion?.word ? `${activeTestQuestion.word.question} / ${activeTestQuestion.word.questionCount}` : `${testQuestionIndex + 1} / ${testQuestions.length}` : `${currentIndex + 1} / ${currentCatalogue.length}`}</span>
       </header>
@@ -353,8 +352,8 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
               <button className={scriptMode === "katakana" ? "active" : ""} type="button" onClick={() => changeScriptMode("katakana")}>カ Katakana</button>
             </div>
             <div className="segmented-control" aria-label="Session mode">
-              <button className={sessionMode === "practice" ? "active" : ""} type="button" onClick={() => changeSessionMode("practice")}>Practice</button>
-              <button className={sessionMode === "test" ? "active" : ""} type="button" onClick={() => changeSessionMode("test")}>Test</button>
+              <button className={sessionMode === "practice" ? "active" : ""} type="button" onClick={() => changeSessionMode("practice")}>Luyện tập</button>
+              <button className={sessionMode === "test" ? "active" : ""} type="button" onClick={() => changeSessionMode("test")}>Kiểm tra</button>
             </div>
             <div className="segmented-control prompt-control" aria-label="Prompt type">
               <button className={promptMode === "romaji" ? "active" : ""} type="button" onClick={() => setPromptMode("romaji")}>Text</button>
@@ -365,14 +364,14 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
           {sessionMode === "test" && testPhase === "setup" ? (
             <div className="handwriting-test-setup">
               <span className="panel-kicker">HANDWRITING TEST SETUP</span>
-              <h1>Build a random writing test.</h1>
+              <h1>Thiết lập bài kiểm tra viết.</h1>
               <p>Questions are filtered by your Kana rows first, then shuffled without repeats.</p>
               <div className="settings-grid">
-                <label><span>Mode</span><select value={testSettings.handwritingMode} onChange={(event) => setTestSettings({ ...testSettings, handwritingMode: event.target.value as TestSettings["handwritingMode"] })}><option value="character">Character</option><option value="word">Word · one Kana at a time</option></select></label>
-                <label><span>{testSettings.handwritingMode === "word" ? "Words" : "Questions"}</span><select value={testSettings.questionCount} onChange={(event) => setTestSettings({ ...testSettings, questionCount: event.target.value === "unlimited" ? "unlimited" : Number(event.target.value) as 10 | 20 | 50 })}><option value="10">10</option><option value="20">20</option><option value="50">50</option><option value="unlimited">Unlimited</option></select></label>
-                <label><span>Timer</span><select value={testSettings.timerEnabled ? "on" : "off"} onChange={(event) => setTestSettings({ ...testSettings, timerEnabled: event.target.value === "on" })}><option value="on">On</option><option value="off">Off</option></select></label>
+                <label><span>Mode</span><select value={testSettings.handwritingMode} onChange={(event) => setTestSettings({ ...testSettings, handwritingMode: event.target.value as TestSettings["handwritingMode"] })}><option value="character">Chữ đơn</option><option value="word">Word · one Kana at a time</option></select></label>
+                <label><span>{testSettings.handwritingMode === "word" ? "Words" : "Questions"}</span><select value={testSettings.questionCount} onChange={(event) => setTestSettings({ ...testSettings, questionCount: event.target.value === "unlimited" ? "unlimited" : Number(event.target.value) as 10 | 20 | 50 })}><option value="10">10</option><option value="20">20</option><option value="50">50</option><option value="unlimited">Không giới hạn</option></select></label>
+                <label><span>Đếm thời gian</span><select value={testSettings.timerEnabled ? "on" : "off"} onChange={(event) => setTestSettings({ ...testSettings, timerEnabled: event.target.value === "on" })}><option value="on">Bật</option><option value="off">Tắt</option></select></label>
                 <label><span>Seconds / {testSettings.handwritingMode === "word" ? "word" : "question"}</span><input type="number" min="5" max="300" disabled={!testSettings.timerEnabled} value={testSettings.secondsPerQuestion} onChange={(event) => setTestSettings({ ...testSettings, secondsPerQuestion: Number(event.target.value) })} /></label>
-                {testSettings.handwritingMode === "word" && <label><span>Difficulty</span><select value={testSettings.difficulty} onChange={(event) => setTestSettings({ ...testSettings, difficulty: event.target.value as TestSettings["difficulty"] })}><option value="all">All</option><option value="easy">Easy</option><option value="medium">Medium</option><option value="hard">Hard</option></select></label>}
+                {testSettings.handwritingMode === "word" && <label><span>Độ khó</span><select value={testSettings.difficulty} onChange={(event) => setTestSettings({ ...testSettings, difficulty: event.target.value as TestSettings["difficulty"] })}><option value="all">Tất cả</option><option value="easy">Dễ</option><option value="medium">Vừa</option><option value="hard">Khó</option></select></label>}
               </div>
               <KanaScopeSelector script={scriptMode} settings={testSettings} allowedCategories={["basic"]} onChange={(next) => { setTestSettings(next); setTestValidation(""); }} />
               <p className="handwriting-scope-note">Stroke recognition currently supports Basic Kana rows; Hiragana and Katakana remain separate.</p>
@@ -383,12 +382,12 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
             </div>
           ) : sessionMode === "test" && testPhase === "finished" ? (
             <div className="handwriting-test-finished">
-              <span className="panel-kicker">TEST COMPLETE</span>
+              <span className="panel-kicker">TEST · HOÀN THÀNH</span>
               <strong>{testAnswered ? Math.round((testCorrect / testAnswered) * 100) : 0}%</strong>
-              <h1>{testCorrect} of {testAnswered} {testSettings.handwritingMode === "word" ? "Kana" : "questions"} correct</h1>
+              <h1>{testCorrect} of {testAnswered} {testSettings.handwritingMode === "word" ? "Kana" : "questions"} đúng</h1>
               <p>The next test will create a fresh shuffled queue from the same selected scope.</p>
               <div>
-                <button type="button" onClick={startHandwritingTest}><RotateCcw size={17} /> New test</button>
+                <button type="button" onClick={startHandwritingTest}><RotateCcw size={17} /> Bài kiểm tra mới</button>
                 <button type="button" onClick={() => setTestPhase("setup")}>Change setup</button>
               </div>
             </div>
@@ -430,7 +429,7 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
 
           {!result && (
             <button className="check-writing-button" type="button" onClick={checkAnswer} disabled={strokes.length === 0 || checking}>
-              {checking ? <><LoaderCircle className="spinner" size={20} /> Recognizing…</> : <>Check answer <ArrowRight size={19} /></>}
+              {checking ? <><LoaderCircle className="spinner" size={20} /> Recognizing…</> : <>Kiểm tra <ArrowRight size={19} /></>}
             </button>
           )}
           </>
@@ -446,8 +445,8 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
                   {result.status === "correct" ? <Check /> : result.status === "incorrect" ? <X /> : <CircleHelp />}
                 </span>
                 <div>
-                  <p>{result.status === "correct" ? "Correct!" : result.status === "incorrect" ? "Not quite" : "Low confidence"}</p>
-                  <h2>{result.status === "uncertain" ? "I couldn’t confidently recognize that." : result.status === "correct" ? "Nicely remembered." : "Take another look and try again."}</h2>
+                  <p>{result.status === "correct" ? "Chính xác!" : result.status === "incorrect" ? "Chưa chính xác" : "Low confidence"}</p>
+                  <h2>{result.status === "uncertain" ? "Chưa nhận diện rõ nét viết này." : result.status === "correct" ? "Bạn đã nhớ đúng." : "Xem lại gợi ý và thử viết lại."}</h2>
                 </div>
               </div>
 
@@ -481,9 +480,9 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
               )}
 
               <div className="result-actions">
-                <button type="button" onClick={tryAgain}><RotateCcw size={17} /> Try again</button>
+                <button type="button" onClick={tryAgain}><RotateCcw size={17} /> Thử lại</button>
                 <button type="button" onClick={() => setShowStrokeOrder((value) => !value)}><Grid2X2 size={17} /> Stroke order</button>
-                {result.status !== "uncertain" && <button className="next-button" type="button" onClick={() => nextCharacter()}>Next <ArrowRight size={17} /></button>}
+                {result.status !== "uncertain" && <button className="next-button" type="button" onClick={() => nextCharacter()}>Tiếp theo <ArrowRight size={17} /></button>}
               </div>
             </div>
           ) : (
@@ -501,7 +500,7 @@ export function WritingPractice({ initialKana }: { initialKana?: string }) {
           )}
         </aside>}
       </div>
-      <MobileNav />
+      
     </main>
   );
 }

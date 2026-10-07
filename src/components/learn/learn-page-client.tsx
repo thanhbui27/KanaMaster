@@ -1,17 +1,17 @@
 "use client";
+import { PageHeading } from "@/components/page-heading";
 
 import { ArrowRight, Check, LockKeyhole } from "lucide-react";
 import Link from "next/link";
 import { Fragment, useEffect, useMemo, useState } from "react";
-import { MobileNav } from "@/components/mobile-nav";
 import { KANA_BY_SCRIPT, KANA_CATEGORY_LABELS, type KanaScript } from "@/data/kana";
 import { LEARN_LESSONS, countCompletedKana, getLessonsForScript, isLessonUnlocked } from "@/lib/learn-lessons";
 import { demoProgress, readProgress, type LearningProgress } from "@/lib/progress-storage";
 
 function lessonState(completed: boolean, unlocked: boolean) {
-  if (completed) return "Complete";
-  if (unlocked) return "Learning";
-  return "Locked";
+  if (completed) return "Đã xong";
+  if (unlocked) return "Đang học";
+  return "Chưa mở";
 }
 
 export function LearnPageClient({ initialScript = "hiragana" }: { initialScript?: KanaScript }) {
@@ -30,13 +30,9 @@ export function LearnPageClient({ initialScript = "hiragana" }: { initialScript?
 
   return (
     <main className="standard-page">
-      <header className="standard-header"><Link href="/">KanaMaster</Link><span>Learn · {script === "hiragana" ? "Hiragana" : "Katakana"}</span></header>
-      <section className="standard-intro">
-        <span>SEPARATE KANA PATHS</span>
-        <h1>Learn every Kana by sound group.</h1>
-        <p>Basic Kana, voiced sounds and contracted sounds unlock independently inside each alphabet.</p>
-      </section>
+      <PageHeading eyebrow="BẢNG CHỮ CÁI" title="Học Kana theo từng nhóm âm." description="Chọn Hiragana hoặc Katakana. Hoàn thành từng bài để mở nhóm chữ tiếp theo." />
 
+      <nav className="ui-feature-links" aria-label="Nguồn học"><Link href="/learn" aria-current="page">Bảng chữ cái</Link><Link href="/minna">Minna no Nihongo</Link><Link href="/minna/notes">Sổ tay ngôn ngữ</Link></nav>
       <div className="track-switch" role="group" aria-label="Kana learning track">
         <button className={script === "hiragana" ? "active" : ""} onClick={() => setScript("hiragana")} type="button">ひ Hiragana</button>
         <button className={script === "katakana" ? "active" : ""} onClick={() => setScript("katakana")} type="button">カ Katakana</button>
@@ -59,9 +55,9 @@ export function LearnPageClient({ initialScript = "hiragana" }: { initialScript?
             <>
               <span className="full-lesson-number">{completed ? <Check size={20} /> : unlocked ? lesson.number : <LockKeyhole size={18} />}</span>
               <span>
-                <small>LESSON {lesson.number} · {state.toUpperCase()}</small>
+                <small>BÀI {lesson.number} · {state.toUpperCase()}</small>
                 <strong>{lesson.kana.map((kana) => kana.character).join(" ")}</strong>
-                <em>{lesson.kana.length} items · {lesson.supportsWriting ? "Choose, type, write" : "Choose and type"}</em>
+                <em>{lesson.kana.length} chữ · {lesson.supportsWriting ? "Nhận diện, gõ, viết" : "Nhận diện và gõ"}</em>
               </span>
               {unlocked && <ArrowRight size={20} />}
             </>
@@ -79,7 +75,7 @@ export function LearnPageClient({ initialScript = "hiragana" }: { initialScript?
           );
         })}
       </section>
-      <MobileNav />
+      
     </main>
   );
 }

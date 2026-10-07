@@ -1,7 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { RegisterServiceWorker } from "@/components/pwa/register-service-worker";
-import { RepeatReminders } from "@/components/repeat/repeat-reminders";
+import { AppShell } from "@/components/app-shell";
 import "./globals.css";
+import "./design-system.css";
 
 export const metadata: Metadata = {
   title: { default: "KanaMaster", template: "%s · KanaMaster" },
@@ -42,13 +43,12 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang="vi">
       <head>
         <meta name="apple-mobile-web-app-capable" content="yes" />
       </head>
       <body>
-        {children}
-        <RepeatReminders />
+        <AppShell>{children}</AppShell>
         <RegisterServiceWorker />
       </body>
     </html>

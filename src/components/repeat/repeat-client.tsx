@@ -1,8 +1,7 @@
 "use client";
 
-import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
-import { ArrowLeft, CalendarDays, Check, Download, Plus, RotateCcw } from "lucide-react";
+import { CalendarDays, Check, Download, Plus, RotateCcw } from "lucide-react";
 import { calendarFile, decodeRepeat, EMPTY_REPEAT, importWords, localDate, REPEAT_KEY, scheduleDates, sessionWords, type RepeatStore, type StudyPlan, type StudyWord } from "@/lib/repeat";
 
 function download(name: string, text: string, type = "text/plain") {
@@ -65,7 +64,6 @@ export function RepeatClient({ catalog }: { catalog: StudyWord[] }) {
     } catch { setMessage("Không bật được thông báo trên trình duyệt này. Hãy dùng lịch .ics."); }
   }
   return <main className="repeat-page" lang="vi">
-    <header className="rp-header"><Link href="/"><ArrowLeft size={18} /> KanaMaster</Link><span>HỌC ĐỀU · NHỚ LÂU</span></header>
     <section className="rp-hero"><div><span className="rp-kicker">KHÔNG GIAN ÔN TẬP</span><h1>Repeat<span>.</span></h1><p>Mỗi buổi thêm một chút mới.<br />Ôn lại tất cả những gì đã học.</p></div><div className="rp-example"><CalendarDays size={26} /><strong>01 → 03 → 05 → 07</strong><span>10 từ → 20 từ → 30 từ → 40 từ</span><small>Bạn chọn ngày. Repeat cộng dồn phần ôn.</small></div></section>
     <nav className="rp-tabs" aria-label="Repeat">{([["plans", "Lịch của tôi"], ["setup", "Thiết lập lịch"], ["import", "Từ tùy chỉnh"]] as const).map(([id, label]) => <button key={id} aria-current={tab === id ? "page" : undefined} onClick={() => { setTab(id); setActive(null); }}>{label}</button>)}</nav>
     {message && <div className="rp-message" role="status">{message}<button aria-label="Đóng thông báo" onClick={() => setMessage("")}>×</button></div>}

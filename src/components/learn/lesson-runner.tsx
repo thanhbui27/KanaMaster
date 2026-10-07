@@ -15,7 +15,6 @@ import {
 import Link from "next/link";
 import { FormEvent, useEffect, useMemo, useState } from "react";
 import { HandwritingCanvas } from "@/components/handwriting/handwriting-canvas";
-import { MobileNav } from "@/components/mobile-nav";
 import { KANA_BY_SCRIPT, type KanaEntry } from "@/data/kana";
 import {
   LEARN_LESSONS,
@@ -218,18 +217,18 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
     return (
       <main className="lesson-session-page">
         <header className="subpage-topbar">
-          <Link href="/learn" aria-label="Back to learn">
+          <Link href="/learn" aria-label="Về bảng chữ">
             <ArrowLeft size={20} />
           </Link>
           <strong>{lesson.title}</strong>
-          <span>Loading</span>
+          <span>Đang tải</span>
         </header>
         <section className="lesson-locked-card">
           <CheckCircle2 size={38} />
-          <h1>Loading lesson...</h1>
-          <p>Checking your saved progress on this device.</p>
+          <h1>Đang tải bài học…</h1>
+          <p>Đang đọc tiến độ đã lưu trên thiết bị này.</p>
         </section>
-        <MobileNav />
+        
       </main>
     );
   }
@@ -238,22 +237,22 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
     return (
       <main className="lesson-session-page">
         <header className="subpage-topbar">
-          <Link href="/learn" aria-label="Back to learn">
+          <Link href="/learn" aria-label="Về bảng chữ">
             <ArrowLeft size={20} />
           </Link>
           <strong>{lesson.title}</strong>
-          <span>Locked</span>
+          <span>Chưa mở</span>
         </header>
         <section className="lesson-locked-card">
           <LockKeyhole size={38} />
-          <h1>Finish the previous lesson first.</h1>
+          <h1>Hoàn thành bài trước để tiếp tục.</h1>
           <p>
             Lessons unlock one by one after every Kana in the current lesson is
             completed.
           </p>
-          <Link href="/learn">Back to Learn</Link>
+          <Link href="/learn">Về bảng chữ</Link>
         </section>
-        <MobileNav />
+        
       </main>
     );
   }
@@ -262,32 +261,32 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
     return (
       <main className="lesson-session-page">
         <header className="subpage-topbar">
-          <Link href="/learn" aria-label="Back to learn">
+          <Link href="/learn" aria-label="Về bảng chữ">
             <ArrowLeft size={20} />
           </Link>
           <strong>{lesson.title}</strong>
-          <span>Complete</span>
+          <span>Đã xong</span>
         </header>
         <section className="lesson-complete-card">
           <Check size={38} />
-          <h1>Lesson complete</h1>
+          <h1>Đã hoàn thành bài học</h1>
           <p>
             {lesson.kana.map((kana) => kana.character).join(" ")} is now
             unlocked for review and practice.
           </p>
           <div>
-            <Link href="/learn">All lessons</Link>
+            <Link href="/learn">Tất cả bài học</Link>
             {nextLesson && (
               <Link
                 className="primary-next-link"
                 href={`/learn/${nextLesson.id}`}
               >
-                Next lesson <ArrowRight size={17} />
+                Bài tiếp theo <ArrowRight size={17} />
               </Link>
             )}
           </div>
         </section>
-        <MobileNav />
+        
       </main>
     );
   }
@@ -295,7 +294,7 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
   return (
     <main className="lesson-session-page">
       <header className="subpage-topbar">
-        <Link href="/learn" aria-label="Back to learn">
+        <Link href="/learn" aria-label="Về bảng chữ">
           <ArrowLeft size={20} />
         </Link>
         <strong>{lesson.title}</strong>
@@ -330,8 +329,8 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
             {currentStep.id === "writing"
               ? "WRITE THE KANA"
               : currentStep.id === "typing"
-                ? "TYPE THE READING"
-                : "CHOOSE THE READING"}
+                ? "NHẬP CÁCH ĐỌC"
+                : "CHỌN CÁCH ĐỌC"}
           </span>
           <h1>
             {currentStep.id === "writing"
@@ -341,7 +340,7 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
           <p>
             {currentStep.id === "writing"
               ? "Write the Japanese character in the box."
-              : "What is this kana?"}
+              : "Chữ này đọc như thế nào?"}
           </p>
         </div>
 
@@ -377,7 +376,7 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
             <input
               autoCapitalize="none"
               autoCorrect="off"
-              aria-label="Kana reading"
+              aria-label="Cách đọc Kana"
               disabled={answerState === "correct"}
               onChange={(event) => setTypedAnswer(event.target.value)}
               placeholder="Type romaji..."
@@ -387,7 +386,7 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
               disabled={!typedAnswer.trim() || answerState === "correct"}
               type="submit"
             >
-              Check answer
+              Kiểm tra
             </button>
           </form>
         )}
@@ -462,13 +461,13 @@ export function LessonRunner({ lesson }: LessonRunnerProps) {
               </button>
             ) : (
               <button type="button" onClick={resetQuestion}>
-                Try again
+                Thử lại
               </button>
             )}
           </div>
         )}
       </section>
-      <MobileNav />
+      
     </main>
   );
 }

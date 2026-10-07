@@ -3,14 +3,13 @@
 import { ArrowLeft, ArrowRight, Check, RotateCcw, Timer, X } from "lucide-react";
 import Link from "next/link";
 import { FormEvent, useEffect, useMemo, useRef, useState } from "react";
-import { MobileNav } from "@/components/mobile-nav";
 import { CHARACTER_TEST_KANA, type KanaScript } from "@/data/kana";
 import { recordQuestionResult } from "@/lib/progress-storage";
 
 type QuickPracticeProps = { mode: "recognition" | "typing" | "speed"; initialScript?: KanaScript };
 
 const titles = {
-  recognition: "Recognition",
+  recognition: "Nhận diện",
   typing: "Typing recall",
   speed: "Speed round",
 };
@@ -143,9 +142,9 @@ export function QuickPractice({ mode, initialScript = "hiragana" }: QuickPractic
   return (
     <main className="quick-practice-page">
       <header className="subpage-topbar">
-        <Link href="/practice" aria-label="Back to practice"><ArrowLeft size={20} /></Link>
+        <Link href="/practice" aria-label="Về luyện tập"><ArrowLeft size={20} /></Link>
         <strong>{titles[mode]}</strong>
-        {mode === "speed" ? <span className="timer-chip"><Timer size={14} /> {seconds}s</span> : <span>{score} correct</span>}
+        {mode === "speed" ? <span className="timer-chip"><Timer size={14} /> {seconds}s</span> : <span>{score} đúng</span>}
       </header>
 
       <div className="track-switch compact" role="group" aria-label="Practice alphabet">
@@ -157,29 +156,29 @@ export function QuickPractice({ mode, initialScript = "hiragana" }: QuickPractic
         {mode === "speed" && !running && !finishedSpeedRound ? (
           <div className="round-start">
             <Timer size={36} />
-            <h1>30-second challenge</h1>
-            <p>Choose the reading as quickly as you can.</p>
-            <button type="button" onClick={startRound}>Start round <ArrowRight size={18} /></button>
+            <h1>Thử thách 30 giây</h1>
+            <p>Chọn cách đọc chính xác trong thời gian ngắn nhất.</p>
+            <button type="button" onClick={startRound}>Bắt đầu <ArrowRight size={18} /></button>
           </div>
         ) : finishedSpeedRound ? (
           <div className="round-start">
             <span className="round-score">{score}</span>
-            <h1>Round complete</h1>
-            <p>{score} correct · {wrong} wrong · {score + wrong === 0 ? 0 : Math.round((score / (score + wrong)) * 100)}% accuracy</p>
-            <button type="button" onClick={startRound}><RotateCcw size={17} /> Try again</button>
+            <h1>Hoàn thành lượt luyện</h1>
+            <p>{score} đúng · {wrong} sai · {score + wrong === 0 ? 0 : Math.round((score / (score + wrong)) * 100)}% chính xác</p>
+            <button type="button" onClick={startRound}><RotateCcw size={17} /> Thử lại</button>
           </div>
         ) : (
           <>
             <div className="quiz-prompt">
-              <span>{mode === "typing" ? "TYPE THE READING" : "CHOOSE THE READING"}</span>
+              <span>{mode === "typing" ? "NHẬP CÁCH ĐỌC" : "CHỌN CÁCH ĐỌC"}</span>
               <h1>{current.character}</h1>
-              <p>What is this kana?</p>
+              <p>Chữ này đọc như thế nào?</p>
             </div>
 
             {mode === "typing" ? (
               <form className="typing-form" onSubmit={submitTyping}>
-                <input value={input} onChange={(event) => setInput(event.target.value)} placeholder="Type romaji…" autoCapitalize="none" autoCorrect="off" disabled={answered} aria-label="Kana reading" />
-                {!answered && <button type="submit" disabled={!input.trim()}>Check answer</button>}
+                <input value={input} onChange={(event) => setInput(event.target.value)} placeholder="Nhập Romaji…" autoCapitalize="none" autoCorrect="off" disabled={answered} aria-label="Cách đọc Kana" />
+                {!answered && <button type="submit" disabled={!input.trim()}>Kiểm tra</button>}
               </form>
             ) : (
               <div className="answer-grid">
@@ -193,14 +192,14 @@ export function QuickPractice({ mode, initialScript = "hiragana" }: QuickPractic
             {answered && mode !== "speed" && (
               <div className={`answer-feedback ${isCorrect ? "correct" : "wrong"}`} role="status">
                 {isCorrect ? <Check size={20} /> : <X size={20} />}
-                <div><strong>{isCorrect ? "Correct!" : `Correct answer: ${current.romaji.toUpperCase()}`}</strong><span>{current.character} = {current.romaji.toUpperCase()}</span></div>
-                <button type="button" onClick={next}>Next <ArrowRight size={16} /></button>
+                <div><strong>{isCorrect ? "Chính xác!" : `Đáp án: ${current.romaji.toUpperCase()}`}</strong><span>{current.character} = {current.romaji.toUpperCase()}</span></div>
+                <button type="button" onClick={next}>Tiếp theo <ArrowRight size={16} /></button>
               </div>
             )}
           </>
         )}
       </section>
-      <MobileNav />
+      
     </main>
   );
 }

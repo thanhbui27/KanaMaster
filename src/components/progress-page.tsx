@@ -1,8 +1,8 @@
 "use client";
+import { PageHeading } from "@/components/page-heading";
 
 import Link from "next/link";
 import { Fragment, useEffect, useMemo, useState } from "react";
-import { MobileNav } from "@/components/mobile-nav";
 import { getKanaRows, KANA_BY_SCRIPT, KANA_CATEGORY_LABELS, type KanaScript } from "@/data/kana";
 import { countCompletedKana } from "@/lib/learn-lessons";
 import { demoProgress, getTrackAccuracy, getWeakKanaIds, readProgress, type LearningProgress } from "@/lib/progress-storage";
@@ -20,25 +20,24 @@ export function ProgressPage({ initialScript = "hiragana" }: { initialScript?: K
   const learnedFromStats = Object.values(track.kana).filter((item) => item.learnedAt).length;
   const learned = Math.max(learnedFromStats, countCompletedKana(completedLessonIds, script));
   const weakIds = new Set(getWeakKanaIds(track, 8));
-  const label = script === "hiragana" ? "Hiragana" : "Katakana";
 
   return (
     <main className="standard-page">
-      <header className="standard-header"><Link href="/">KanaMaster</Link><span>Progress · {label}</span></header>
-      <section className="standard-intro"><span>SEPARATE STATISTICS</span><h1>{label} progress.</h1><p>Learning, accuracy and weak-character history for this track only.</p></section>
+      <PageHeading eyebrow="TIẾN ĐỘ HỌC TẬP" title="Mỗi bước nhỏ đều được ghi lại." description="Xem số chữ đã học, độ chính xác và các chữ cần luyện thêm theo từng bảng chữ." />
+      <nav className="ui-feature-links" aria-label="Các loại tiến độ"><Link href="/progress" aria-current="page">Tiến độ Kana</Link><Link href="/minna">Tiến độ từng bài Minna</Link><Link href="/repeat">Buổi học Repeat</Link></nav>
       <div className="track-switch" role="group" aria-label="Progress alphabet">
         <button className={script === "hiragana" ? "active" : ""} onClick={() => setScript("hiragana")} type="button">ひ Hiragana</button>
         <button className={script === "katakana" ? "active" : ""} onClick={() => setScript("katakana")} type="button">カ Katakana</button>
       </div>
       <section className="progress-summary-grid">
-        <article><span>Learned</span><strong>{learned} / {catalogue.length}</strong></article>
-        <article><span>Accuracy</span><strong>{getTrackAccuracy(track)}%</strong></article>
-        <article><span>Total tests</span><strong>{track.totalTests}</strong></article>
-        <article><span>Best score</span><strong>{track.bestScore}%</strong></article>
-        <article><span>Correct / Wrong</span><strong>{track.correctAnswers} / {track.wrongAnswers}</strong></article>
-        <article><span>Current streak</span><strong>{track.currentStreak}</strong></article>
+        <article><span>Đã học</span><strong>{learned} / {catalogue.length}</strong></article>
+        <article><span>Độ chính xác</span><strong>{getTrackAccuracy(track)}%</strong></article>
+        <article><span>Lượt kiểm tra</span><strong>{track.totalTests}</strong></article>
+        <article><span>Điểm cao nhất</span><strong>{track.bestScore}%</strong></article>
+        <article><span>Đúng / Sai</span><strong>{track.correctAnswers} / {track.wrongAnswers}</strong></article>
+        <article><span>Chuỗi ngày học</span><strong>{track.currentStreak}</strong></article>
       </section>
-      <div className="weak-summary"><span>Weak characters</span><strong>{weakIds.size ? catalogue.filter((kana) => weakIds.has(kana.id)).map((kana) => kana.character).join(" · ") : "Complete a test to find them"}</strong></div>
+      <div className="weak-summary"><span>Chữ cần luyện thêm</span><strong>{weakIds.size ? catalogue.filter((kana) => weakIds.has(kana.id)).map((kana) => kana.character).join(" · ") : "Hoàn thành bài kiểm tra để xem"}</strong></div>
       <section className="progress-kana-sections">
         {getKanaRows(script).map((row, rowIndex, rows) => {
           const previous = rows[rowIndex - 1];
@@ -52,14 +51,14 @@ export function ProgressPage({ initialScript = "hiragana" }: { initialScript?: K
                   const attempts = item ? item.correct + item.wrong : 0;
                   const accuracy = attempts ? Math.round((item.correct / attempts) * 100) : 0;
                   const href = typeof kana.strokeCount === "number" ? `/practice/handwriting?kana=${encodeURIComponent(kana.character)}` : `/test/${script}/character`;
-                  return <Link className={weakIds.has(kana.id) ? "weak" : ""} href={href} key={kana.id}><strong>{kana.character}</strong><span>{kana.romaji.toUpperCase()}</span><i>{attempts ? `${item.correct}✓ ${item.wrong}✕ · ${accuracy}%` : "NEW"}</i></Link>;
+                  return <Link className={weakIds.has(kana.id) ? "weak" : ""} href={href} key={kana.id}><strong>{kana.character}</strong><span>{kana.romaji.toUpperCase()}</span><i>{attempts ? `${item.correct}✓ ${item.wrong}✕ · ${accuracy}%` : "CHƯA HỌC"}</i></Link>;
                 })}
               </div>
             </Fragment>
           );
         })}
       </section>
-      <MobileNav />
+      
     </main>
   );
 }

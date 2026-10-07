@@ -4,7 +4,6 @@ import { ArrowLeft, ArrowRight, Check, Clock3, RotateCcw, Settings2, X } from "l
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { FormEvent, useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { MobileNav } from "@/components/mobile-nav";
 import { KanaScopeSelector } from "@/components/tests/kana-scope-selector";
 import type { KanaScript } from "@/data/kana";
 import { buildTestQuestions, normalizeTestAnswer, type TestQuestion } from "@/lib/test-engine";
@@ -16,7 +15,7 @@ type Phase = "loading" | "setup" | "running" | "finished";
 type AnswerResult = { question: TestQuestion; userAnswer: string; correct: boolean; timedOut: boolean };
 type StandardTestKind = Exclude<TestKind, "handwriting">;
 
-const kindLabels: Record<StandardTestKind, string> = { character: "Character Test", word: "Word Test", phrase: "Phrase Test", review: "Smart Review" };
+const kindLabels: Record<StandardTestKind, string> = { character: "Nhận diện chữ", word: "Đọc từ", phrase: "Đọc cụm từ", review: "Ôn Kana" };
 
 export function TestRunner({ script, kind }: { script: KanaScript; kind: StandardTestKind }) {
   const router = useRouter();
@@ -167,57 +166,57 @@ export function TestRunner({ script, kind }: { script: KanaScript; kind: Standar
   const elapsedSeconds = Math.max(0, Math.round((finishedAt - startedAt) / 1000));
   const scriptLabel = script === "hiragana" ? "Hiragana" : "Katakana";
 
-  if (phase === "loading") return <main className="test-page"><section className="test-card empty-state"><h1>Loading…</h1></section></main>;
+  if (phase === "loading") return <main className="test-page"><section className="test-card empty-state"><h1>Đang tải…</h1></section></main>;
 
   return (
     <main className="test-page">
       <header className="subpage-topbar test-topbar">
-        <Link href="/practice" aria-label="Exit test"><ArrowLeft size={20} /></Link>
+        <Link href="/practice" aria-label="Thoát bài kiểm tra"><ArrowLeft size={20} /></Link>
         <strong>{scriptLabel} · {kindLabels[kind]}</strong>
-        {phase === "running" ? <span className="timer-chip"><Clock3 size={14} /> {settings.timerEnabled ? `${remaining}s` : "No timer"}</span> : <span>{scriptLabel}</span>}
+        {phase === "running" ? <span className="timer-chip"><Clock3 size={14} /> {settings.timerEnabled ? `${remaining}s` : "Không đếm giờ"}</span> : <span>{scriptLabel}</span>}
       </header>
 
       {phase === "setup" && (
         <section className="test-card settings-card">
           <Settings2 size={32} />
-          <span className="track-badge">{script === "hiragana" ? "ひ" : "カ"} {scriptLabel.toUpperCase()} ONLY</span>
+          <span className="track-badge">{script === "hiragana" ? "ひ" : "カ"} {scriptLabel.toUpperCase()}</span>
           <h1>{kindLabels[kind]}</h1>
-          <p>Questions and statistics stay inside the {scriptLabel} track.</p>
+          <p>Luyện {scriptLabel}. Kết quả được lưu riêng theo bảng chữ.</p>
           <div className="settings-grid">
-            <label><span>Test type</span><select value={kind} onChange={(event) => { const next = event.target.value; router.push(next === "handwriting" ? "/practice/handwriting" : `/test/${script}/${next}`); }}><option value="character">Character</option><option value="word">Word</option><option value="phrase">Phrase</option><option value="handwriting">Handwriting</option><option value="review">Smart Review</option></select></label>
-            <label><span>Kana script</span><select value={script} onChange={(event) => router.push(`/test/${event.target.value}/${kind}`)}><option value="hiragana">Hiragana only</option><option value="katakana">Katakana only</option></select></label>
-            <label><span>Timer</span><select value={settings.timerEnabled ? "on" : "off"} onChange={(event) => setSettings({ ...settings, timerEnabled: event.target.value === "on" })}><option value="on">On</option><option value="off">Off</option></select></label>
-            <label><span>Seconds / question</span><input type="number" min="5" max="300" disabled={!settings.timerEnabled} value={settings.secondsPerQuestion} onChange={(event) => setSettings({ ...settings, secondsPerQuestion: Number(event.target.value) })} /></label>
-            <label><span>Questions</span><select value={settings.questionCount} onChange={(event) => setSettings({ ...settings, questionCount: event.target.value === "unlimited" ? "unlimited" : Number(event.target.value) as 10 | 20 | 50 })}><option value="10">10</option><option value="20">20</option><option value="50">50</option><option value="unlimited">Unlimited</option></select></label>
-            {kind === "character" && <label><span>Direction</span><select value={settings.direction} onChange={(event) => setSettings({ ...settings, direction: event.target.value as TestSettings["direction"] })}><option value="kana-to-romaji">Kana → Romaji</option><option value="romaji-to-kana">Romaji → Kana</option><option value="random">Both</option></select></label>}
-            {(kind === "word" || kind === "phrase") && <label><span>Difficulty</span><select value={settings.difficulty} onChange={(event) => setSettings({ ...settings, difficulty: event.target.value as TestSettings["difficulty"] })}><option value="all">All</option><option value="easy">Easy</option><option value="medium">Medium</option><option value="hard">Hard</option></select></label>}
+            <label><span>Chế độ kiểm tra</span><select value={kind} onChange={(event) => { const next = event.target.value; router.push(next === "handwriting" ? "/practice/handwriting" : `/test/${script}/${next}`); }}><option value="character">Chữ đơn</option><option value="word">Từ</option><option value="phrase">Cụm từ</option><option value="handwriting">Luyện viết</option><option value="review">Ôn Kana</option></select></label>
+            <label><span>Bảng chữ</span><select value={script} onChange={(event) => router.push(`/test/${event.target.value}/${kind}`)}><option value="hiragana">Hiragana</option><option value="katakana">Katakana</option></select></label>
+            <label><span>Đếm thời gian</span><select value={settings.timerEnabled ? "on" : "off"} onChange={(event) => setSettings({ ...settings, timerEnabled: event.target.value === "on" })}><option value="on">Bật</option><option value="off">Tắt</option></select></label>
+            <label><span>Giây / câu</span><input type="number" min="5" max="300" disabled={!settings.timerEnabled} value={settings.secondsPerQuestion} onChange={(event) => setSettings({ ...settings, secondsPerQuestion: Number(event.target.value) })} /></label>
+            <label><span>Số câu</span><select value={settings.questionCount} onChange={(event) => setSettings({ ...settings, questionCount: event.target.value === "unlimited" ? "unlimited" : Number(event.target.value) as 10 | 20 | 50 })}><option value="10">10</option><option value="20">20</option><option value="50">50</option><option value="unlimited">Không giới hạn</option></select></label>
+            {kind === "character" && <label><span>Chiều kiểm tra</span><select value={settings.direction} onChange={(event) => setSettings({ ...settings, direction: event.target.value as TestSettings["direction"] })}><option value="kana-to-romaji">Kana → Romaji</option><option value="romaji-to-kana">Romaji → Kana</option><option value="random">Hai chiều</option></select></label>}
+            {(kind === "word" || kind === "phrase") && <label><span>Độ khó</span><select value={settings.difficulty} onChange={(event) => setSettings({ ...settings, difficulty: event.target.value as TestSettings["difficulty"] })}><option value="all">Tất cả</option><option value="easy">Dễ</option><option value="medium">Vừa</option><option value="hard">Khó</option></select></label>}
           </div>
           <KanaScopeSelector script={script} settings={settings} onChange={(next) => { setSettings(next); setValidation(""); }} />
-          {setupQuestionCount > 0 && <p className="scope-availability">{setupQuestionCount} matching questions available{settings.questionCount !== "unlimited" && settings.questionCount > setupQuestionCount ? ` · this test will use all ${setupQuestionCount}` : ""}.</p>}
-          {settings.categories.length > 0 && settings.rows.length > 0 && setupQuestionCount === 0 && <p className="form-error" role="alert">No questions match this scope and difficulty. Select more Kana rows.</p>}
+          {setupQuestionCount > 0 && <p className="scope-availability">{setupQuestionCount} câu phù hợp{settings.questionCount !== "unlimited" && settings.questionCount > setupQuestionCount ? ` · bài này sẽ dùng cả ${setupQuestionCount} câu` : ""}.</p>}
+          {settings.categories.length > 0 && settings.rows.length > 0 && setupQuestionCount === 0 && <p className="form-error" role="alert">Không có câu phù hợp. Hãy chọn thêm nhóm chữ hoặc đổi độ khó.</p>}
           {validation && <p className="form-error" role="alert">{validation}</p>}
-          <button className="primary-button test-start-button" type="button" disabled={!canStart} onClick={() => start()}>Start {scriptLabel} test <ArrowRight size={18} /></button>
+          <button className="primary-button test-start-button" type="button" disabled={!canStart} onClick={() => start()}>Bắt đầu kiểm tra {scriptLabel} <ArrowRight size={18} /></button>
         </section>
       )}
 
       {phase === "running" && currentQuestion && (
         <section className="test-card running-test-card">
-          <div className="test-progress"><span>{questionIndex + 1} / {questions.length}</span><i><b style={{ width: `${((questionIndex + (feedback ? 1 : 0)) / questions.length) * 100}%` }} /></i><span>{correctCount} correct</span></div>
+          <div className="test-progress"><span>{questionIndex + 1} / {questions.length}</span><i><b style={{ width: `${((questionIndex + (feedback ? 1 : 0)) / questions.length) * 100}%` }} /></i><span>{correctCount} đúng</span></div>
           <div className="test-question">
-            <span>{currentQuestion.direction === "romaji-to-kana" ? "TYPE THE KANA" : "TYPE THE ROMAJI"}</span>
+            <span>{currentQuestion.direction === "romaji-to-kana" ? "NHẬP CHỮ KANA" : "NHẬP ROMAJI"}</span>
             <h1 className={currentQuestion.prompt.length > 8 ? "long" : ""}>{currentQuestion.prompt}</h1>
-            <p>{currentQuestion.direction === "romaji-to-kana" ? `Which ${scriptLabel} character is this?` : "What is the reading?"}</p>
+            <p>{currentQuestion.direction === "romaji-to-kana" ? `Đây là chữ ${scriptLabel} nào?` : "Cách đọc của chữ này là gì?"}</p>
           </div>
           <form className="typing-form test-answer-form" onSubmit={submit}>
-            <input autoFocus value={input} onChange={(event) => setInput(event.target.value)} disabled={Boolean(feedback)} placeholder={currentQuestion.direction === "romaji-to-kana" ? `Type ${scriptLabel}…` : "Type romaji…"} autoCapitalize="none" autoCorrect="off" />
-            {!feedback && <div className="test-submit-row"><button type="button" className="skip-button" onClick={() => grade("", true)}>Skip</button><button type="submit">Check answer</button></div>}
+            <input autoFocus value={input} onChange={(event) => setInput(event.target.value)} disabled={Boolean(feedback)} placeholder={currentQuestion.direction === "romaji-to-kana" ? `Nhập ${scriptLabel}…` : "Nhập Romaji…"} autoCapitalize="none" autoCorrect="off" />
+            {!feedback && <div className="test-submit-row"><button type="button" className="skip-button" onClick={() => grade("", true)}>Bỏ qua</button><button type="submit">Kiểm tra</button></div>}
           </form>
           {validation && <p className="form-error" role="alert">{validation}</p>}
           {feedback && (
             <div className={`answer-feedback ${feedback.correct ? "correct" : "wrong"}`} role="status">
               {feedback.correct ? <Check size={20} /> : <X size={20} />}
-              <div><strong>{feedback.correct ? "Correct!" : feedback.timedOut ? "Time’s up" : "Not quite"}</strong><span>Correct answer: {feedback.question.answer}</span></div>
-              {!feedback.timedOut && <button type="button" onClick={() => moveNext()}>Next <ArrowRight size={16} /></button>}
+              <div><strong>{feedback.correct ? "Chính xác!" : feedback.timedOut ? "Hết giờ" : "Chưa chính xác"}</strong><span>Đáp án: {feedback.question.answer}</span></div>
+              {!feedback.timedOut && <button type="button" onClick={() => moveNext()}>Tiếp theo <ArrowRight size={16} /></button>}
             </div>
           )}
         </section>
@@ -225,20 +224,20 @@ export function TestRunner({ script, kind }: { script: KanaScript; kind: Standar
 
       {phase === "finished" && (
         <section className="test-card results-card">
-          <span className="track-badge">{scriptLabel.toUpperCase()} COMPLETE</span>
+          <span className="track-badge">{scriptLabel.toUpperCase()} · HOÀN THÀNH</span>
           <div className="result-score">{results.length ? Math.round((correctCount / results.length) * 100) : 0}%</div>
-          <h1>Test complete</h1>
-          <div className="result-stats"><span><b>{correctCount}</b>Correct</span><span><b>{wrongResults.length}</b>Wrong</span><span><b>{elapsedSeconds}s</b>Time</span><span><b>{progress.tracks[script].bestScore}%</b>Best</span></div>
+          <h1>Hoàn thành bài kiểm tra</h1>
+          <div className="result-stats"><span><b>{correctCount}</b>Đúng</span><span><b>{wrongResults.length}</b>Sai</span><span><b>{elapsedSeconds}s</b>Thời gian</span><span><b>{progress.tracks[script].bestScore}%</b>Cao nhất</span></div>
           {wrongResults.length > 0 ? (
-            <div className="mistake-list"><h2>Answers to review</h2>{wrongResults.map((item, index) => <article key={`${item.question.id}-${index}`}><strong>{item.question.prompt}</strong><span>Your answer: {item.userAnswer}</span><b>{item.question.answer}</b></article>)}</div>
-          ) : <p className="perfect-message">No mistakes this time. Nice work!</p>}
+            <div className="mistake-list"><h2>Câu cần ôn lại</h2>{wrongResults.map((item, index) => <article key={`${item.question.id}-${index}`}><strong>{item.question.prompt}</strong><span>Bạn trả lời: {item.userAnswer}</span><b>{item.question.answer}</b></article>)}</div>
+          ) : <p className="perfect-message">Bạn đã trả lời đúng tất cả các câu.</p>}
           <div className="result-buttons">
-            <button type="button" onClick={() => start()}><RotateCcw size={16} /> New test</button>
-            <button type="button" disabled={!wrongResults.length} onClick={() => start(wrongResults.map((item) => item.question))}>Retry mistakes <ArrowRight size={16} /></button>
+            <button type="button" onClick={() => start()}><RotateCcw size={16} /> Bài kiểm tra mới</button>
+            <button type="button" disabled={!wrongResults.length} onClick={() => start(wrongResults.map((item) => item.question))}>Làm lại câu sai <ArrowRight size={16} /></button>
           </div>
         </section>
       )}
-      <MobileNav />
+      
     </main>
   );
 }

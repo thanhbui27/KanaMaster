@@ -1,4 +1,4 @@
-const CACHE_NAME = "kanamaster-shell-v17";
+const CACHE_NAME = "kanamaster-shell-v18";
 const APP_PAGES = [
   "/",
   "/repeat",

@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
+import { CalendarDays } from "lucide-react";
 import { decodeRepeat, localDate, REPEAT_KEY } from "@/lib/repeat";
 
 export function RepeatReminders() {
@@ -34,5 +35,5 @@ export function RepeatReminders() {
     window.addEventListener("focus", check); window.addEventListener("storage", check); window.addEventListener("repeat-updated", check);
     return () => { clearInterval(timer); window.removeEventListener("focus", check); window.removeEventListener("storage", check); window.removeEventListener("repeat-updated", check); };
   }, [router]);
-  return due > 0 ? <Link href="/repeat" className="repeat-due-banner" lang="vi">↻ Repeat · {due} buổi đến hạn</Link> : null;
+  return <Link href="/repeat" className="ui-schedule-link" lang="vi"><CalendarDays size={16} /><span>{due > 0 ? `${due} buổi đến hạn` : "Lịch học của tôi"}</span></Link>;
 }
