@@ -44,12 +44,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "きる",
+                "text": "きります",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "切る",
+                "text": "切ります",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -66,12 +66,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "おくる",
+                "text": "おくります",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "送る",
+                "text": "送ります",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -88,7 +88,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "あげる",
+                "text": "あげます",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -110,7 +110,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "もらう",
+                "text": "もらいます",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -132,12 +132,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "かす",
+                "text": "かします",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "貸す",
+                "text": "貸します",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -154,12 +154,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "かりる",
+                "text": "かります",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "借りる",
+                "text": "借ります",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -176,7 +176,51 @@
                 "colSpan": "1"
               },
               {
-                "text": "かける",
+                "text": "おしえます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "教えます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dạy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ならいます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "習います",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "học; học từ ai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かけます",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -186,14 +230,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "mang",
+                "text": "gọi điện thoại; đeo (kính) — tùy ngữ cảnh",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "8",
+                "text": "10",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -215,7 +259,7 @@
             ],
             [
               {
-                "text": "9",
+                "text": "11",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -225,19 +269,19 @@
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "箸",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "cầu",
+                "text": "đũa",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "10",
+                "text": "12",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -259,7 +303,7 @@
             ],
             [
               {
-                "text": "11",
+                "text": "13",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -281,7 +325,7 @@
             ],
             [
               {
-                "text": "12",
+                "text": "14",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -303,7 +347,7 @@
             ],
             [
               {
-                "text": "13",
+                "text": "15",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -325,7 +369,7 @@
             ],
             [
               {
-                "text": "14",
+                "text": "16",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -347,7 +391,7 @@
             ],
             [
               {
-                "text": "15",
+                "text": "17",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -369,7 +413,7 @@
             ],
             [
               {
-                "text": "16",
+                "text": "18",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -391,7 +435,7 @@
             ],
             [
               {
-                "text": "17",
+                "text": "19",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -413,7 +457,7 @@
             ],
             [
               {
-                "text": "18",
+                "text": "20",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -435,7 +479,7 @@
             ],
             [
               {
-                "text": "19",
+                "text": "21",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -457,7 +501,7 @@
             ],
             [
               {
-                "text": "20",
+                "text": "22",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -479,7 +523,7 @@
             ],
             [
               {
-                "text": "21",
+                "text": "23",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -489,19 +533,19 @@
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "紙",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "tóc",
+                "text": "giấy",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "22",
+                "text": "24",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -523,7 +567,7 @@
             ],
             [
               {
-                "text": "23",
+                "text": "25",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -545,7 +589,7 @@
             ],
             [
               {
-                "text": "24",
+                "text": "26",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -567,7 +611,7 @@
             ],
             [
               {
-                "text": "25",
+                "text": "27",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -582,14 +626,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "hàng hóa",
+                "text": "hành lý; đồ đạc; bưu kiện",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "26",
+                "text": "28",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -611,7 +655,7 @@
             ],
             [
               {
-                "text": "27",
+                "text": "29",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -633,7 +677,7 @@
             ],
             [
               {
-                "text": "28",
+                "text": "30",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -655,7 +699,7 @@
             ],
             [
               {
-                "text": "29",
+                "text": "31",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -677,7 +721,7 @@
             ],
             [
               {
-                "text": "30",
+                "text": "32",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -699,7 +743,7 @@
             ],
             [
               {
-                "text": "31",
+                "text": "33",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -714,14 +758,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "từ bây giờ-",
+                "text": "từ bây giờ; từ đây trở đi",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "32",
+                "text": "34",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -736,14 +780,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "cha ( người khác)",
+                "text": "bố/cha (của người khác)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "33",
+                "text": "35",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -758,14 +802,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "mẹ (\bngười khác)",
+                "text": "mẹ (của người khác)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "34",
+                "text": "36",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -780,14 +824,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "đã rồi",
+                "text": "đã; rồi",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "35",
+                "text": "37",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -802,19 +846,19 @@
                 "colSpan": "1"
               },
               {
-                "text": "vẫn còn , vẫn chưa",
+                "text": "vẫn; vẫn chưa (tùy câu)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "36",
+                "text": "38",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "ごめん‌な‌さい",
+                "text": "ごめんなさい",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -831,12 +875,12 @@
             ],
             [
               {
-                "text": "37",
+                "text": "39",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "いらっしゃい",
+                "text": "いらっしゃいませ",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -846,14 +890,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "xin mời",
+                "text": "kính chào quý khách; xin mời vào",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "38",
+                "text": "40",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -875,12 +919,12 @@
             ],
             [
               {
-                "text": "39",
+                "text": "41",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "しつれします",
+                "text": "しつれいします",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -890,14 +934,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "xin thất lễ",
+                "text": "xin phép; xin thất lễ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "40",
+                "text": "42",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -919,7 +963,7 @@
             ],
             [
               {
-                "text": "41",
+                "text": "43",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -941,7 +985,7 @@
             ],
             [
               {
-                "text": "42",
+                "text": "44",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -964,7 +1008,7 @@
           ]
         }
       ],
-      "text": "STT\nTừ Vựng\nKanji\nÝ nghĩa\n1\nきる\n切る\ncắt\n2\nおくる\n送る\ngửi\n3\nあげる\ntặng\n4\nもらう\nnhận\n5\nかす\n貸す\ncho mượn\n6\nかりる\n借りる\nmượn\n7\nかける\nmang\n8\nて\n手\ntay\n9\nはし\ncầu\n10\nスプーン\nmuỗng\n11\nナイフ\ncon dao\n12\nフォーク\nnĩa\n13\nはさみ\ncái kéo\n14\nファクス\nmáy fax\n15\nワープロ\nmáy đánh chữ\n16\nパソコン\nmáy tính\n17\nパンチ\ncái đục lỗ\n18\nホッチキス\ncái dập ghim\n19\nセロテープ\nbăng dính\n20\nけしゴム\ncục tẩy\n21\nかみ\ntóc\n22\nはな\n花\nhoa\n23\nシャツ\náo sơ mi\n24\nプレゼント\nquà tặng\n25\nにもつ\n荷物\nhàng hóa\n26\nおかね\nお金\ntiền\n27\nきっぷ\nvé (tàu ,xe)\n28\nクリスマス\nLễ Giáng sinh\n29\nちち\n父\ncha mình\n30\nはは\n母\nmẹ mình\n31\nこれから\ntừ bây giờ-\n32\nおとうさん\nお父さん\ncha ( người khác)\n33\nおかあさん\nお母さん\nmẹ (\bngười khác)\n34\nもう\nđã rồi\n35\nまだ\nvẫn còn , vẫn chưa\n36\nごめん‌な‌さい\nxin lỗi\n37\nいらっしゃい\nxin mời\n38\nいってきます\ntôi đi đây\n39\nしつれします\nxin thất lễ\n40\nりょこう\n旅行\ndu lịch\n41\nおみやげ\nお土産\nquà lưu niệm\n42\nヨーロッパ\nChâu Âu",
+      "text": "STT\nTừ Vựng\nKanji\nÝ nghĩa\n1\nきります\n切ります\ncắt\n2\nおくります\n送ります\ngửi\n3\nあげます\n\ntặng\n4\nもらいます\n\nnhận\n5\nかします\n貸します\ncho mượn\n6\nかります\n借ります\nmượn\n7\nおしえます\n教えます\ndạy\n8\nならいます\n習います\nhọc; học từ ai\n9\nかけます\n\ngọi điện thoại; đeo (kính) — tùy ngữ cảnh\n10\nて\n手\ntay\n11\nはし\n箸\nđũa\n12\nスプーン\n\nmuỗng\n13\nナイフ\n\ncon dao\n14\nフォーク\n\nnĩa\n15\nはさみ\n\ncái kéo\n16\nファクス\n\nmáy fax\n17\nワープロ\n\nmáy đánh chữ\n18\nパソコン\n\nmáy tính\n19\nパンチ\n\ncái đục lỗ\n20\nホッチキス\n\ncái dập ghim\n21\nセロテープ\n\nbăng dính\n22\nけしゴム\n\ncục tẩy\n23\nかみ\n紙\ngiấy\n24\nはな\n花\nhoa\n25\nシャツ\n\náo sơ mi\n26\nプレゼント\n\nquà tặng\n27\nにもつ\n荷物\nhành lý; đồ đạc; bưu kiện\n28\nおかね\nお金\ntiền\n29\nきっぷ\n\nvé (tàu ,xe)\n30\nクリスマス\n\nLễ Giáng sinh\n31\nちち\n父\ncha mình\n32\nはは\n母\nmẹ mình\n33\nこれから\n\ntừ bây giờ; từ đây trở đi\n34\nおとうさん\nお父さん\nbố/cha (của người khác)\n35\nおかあさん\nお母さん\nmẹ (của người khác)\n36\nもう\n\nđã; rồi\n37\nまだ\n\nvẫn; vẫn chưa (tùy câu)\n38\nごめんなさい\n\nxin lỗi\n39\nいらっしゃいませ\n\nkính chào quý khách; xin mời vào\n40\nいってきます\n\ntôi đi đây\n41\nしつれいします\n\nxin phép; xin thất lễ\n42\nりょこう\n旅行\ndu lịch\n43\nおみやげ\nお土産\nquà lưu niệm\n44\nヨーロッパ\n\nChâu Âu",
       "ruby": [],
       "links": [],
       "media": []
@@ -987,7 +1031,7 @@
         },
         {
           "type": "text",
-          "text": "Điều cần lưu ý ở đây là trợ từ でcó rất nhiều cách dùng và mỗi cách dùng lại mang một chức năng, một ý nghĩa khác nhau. Trợ từ で ta học trong bài này cũng là chỉ phương tiện và phương pháp, nên nó có chức năng giống với trợ từ で  khi dùng để chỉ cách thức di chuyển ( bằng phương tiện giao thông nào), chứ hoàn toàn khác với chức năng chỉ địa điểm nơi xảy ra hành động mà ta đã học trong bài 6."
+          "text": "Điều cần lưu ý ở đây là trợ từ でcó rất nhiều cách dùng và mỗi cách dùng lại mang một chức năng, một ý nghĩa khác nhau. Trong bài này, trợ từ で chỉ phương tiện hoặc cách thức thực hiện hành động, ví dụ はしで食べます (ăn bằng đũa), にほんごでレポートを書きます (viết báo cáo bằng tiếng Nhật). Cần phân biệt với で chỉ địa điểm diễn ra hành động, đã học ở bài 6, ví dụ レストランで食べます (ăn tại nhà hàng)."
         },
         {
           "type": "table",
@@ -1038,7 +1082,7 @@
           "rows": [
             [
               {
-                "text": "例1 : A:「ありがとう」は　ベトナムごで　なんですか。 “ありがとう” tiếng Việt là gì? B:　「カム・オン」です。 Là “ cảm ơn” 例2 : A:「Chuc ngu ngon」は　にほんごで　なんですか。 “ Chúc ngủ ngon” tiếng Nhật là gì? B:「おやすみなさい」です。 Là “おやすみなさい”.",
+                "text": "例1 : A:「ありがとう」はベトナム語で何ですか。 “ありがとう” tiếng Việt là gì? B:　「カム・オン」です。 Là “ cảm ơn” 例2 : A:「Chúc ngủ ngon」は日本語で何ですか。 “ Chúc ngủ ngon” tiếng Nhật là gì? B:「おやすみなさい」です。 Là “おやすみなさい”.",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1143,7 +1187,7 @@
         },
         {
           "type": "text",
-          "text": "Đôi lúc から được sử dụng thay cho trợ từ に. Nhưng trong trường hợp bạn nhận được hoặc vay cái gì đó từ một tổ chức như trường học hoặc công ty thì chỉ được phép dùng から."
+          "text": "Với もらいます、かります, から thường dùng để chỉ nguồn nhận/vay, đặc biệt tự nhiên khi nguồn là tổ chức như ngân hàng, trường học hoặc công ty. Không nên học thành quy tắc tuyệt đối rằng に luôn sai với mọi tổ chức; hãy ưu tiên mẫu câu trong giáo trình và ngữ cảnh cụ thể."
         },
         {
           "type": "table",
@@ -1197,7 +1241,7 @@
         },
         {
           "type": "text",
-          "text": "Trong trường hợp muốn đưa ra câu trả lời phủ định cho dạng câu hỏi này, không dùng Vませんでした. Vì まだ có nghĩa là chưa, chỉ một động tác hay một trạng thái chưa xảy ra hoặc chưa hoàn thành ở thời điểm hiện tại ( nhưng trong tương lai có thể nó sẽ xảy ra) nên không thể sử dụng cùng với một động từ chỉ một sự thực ở quá khứ là Vませんでした được"
+          "text": "Với câu hỏi もう Vましたか (đã ... chưa?), mẫu trả lời được học ở bài này là はい、もう Vました hoặc いいえ、まだです. Không dùng Vませんでした để diễn đạt “vẫn chưa làm” ở thời điểm hiện tại; tuy nhiên, Vませんでした vẫn đúng khi nói một hành động đã không xảy ra trong quá khứ."
         }
       ],
       "text": "もう\ncó nghĩa là “ rồi” và được sử dụng với động từ ở dạng V\nました\n. Trong trường hợp này, V\nました\nkhông phải có ý nghĩa là hành động xảy ra ở quá khứ mà có nghĩa là hành động đó đã kết thúc rồi.\nCâu trả lời cho câu hỏi\nもう\nV\nました\nlà\nはい、もう\nV\nました\nhoặc\nいいえ、まだです\n例\n1 :\nA:\nもう　にもつを　おくりましたか。\nB:\nはい、\n[\nもう\n]\nおくりました。\n例\n2\n：\nA:\nもう\nあさごはんをたべましたか。\nB:\nいいえ、まだです（\nO\n）\nいいえ、まだたべませんでした（\nX\n）\nà\nkhông dùng\nTrong trường hợp muốn đưa ra câu trả lời phủ định cho dạng câu hỏi này, không dùng V\nませんでした\n. Vì\nまだ\ncó nghĩa là chưa, chỉ một động tác hay một trạng thái chưa xảy ra hoặc chưa hoàn thành ở thời điểm hiện tại ( nhưng trong tương lai có thể nó sẽ xảy ra) nên không thể sử dụng cùng với một động từ chỉ một sự thực ở quá khứ là V\nませんでした\nđược",
