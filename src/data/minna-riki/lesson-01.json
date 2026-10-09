@@ -120,7 +120,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Người kia",
+                "text": "Người kia, người đó",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -142,7 +142,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Vị này Lịch sự tương đương với あのひと",
+                "text": "Người kia (cách nói lịch sự của あのひと)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -164,7 +164,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Các bạn, các anh, các chị, mọi người",
+                "text": "Các anh chị, các ông bà, các bạn, quý vị",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -186,7 +186,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Anh ～, Chị ～, Ông ～, Bà ～ (cách gọi người khác 1 cách lịch sự)",
+                "text": "Anh, chị, ông, bà (thêm sau tên người khác để gọi lịch sự)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -208,7 +208,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Bé ( dùng cho nữ) hoặc gọi thân mật cho trẻ con ( cả nam lẫn nữ)",
+                "text": "Hậu tố thêm sau tên trẻ em thay cho ～さん",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -230,7 +230,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Bé (dùng cho nam) hoặc gọi thân mật",
+                "text": "Hậu tố thêm sau tên em trai",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -252,7 +252,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Người nước ～",
+                "text": "Hậu tố ～人 mang nghĩa “người (nước) ~”; ví dụ アメリカじん: người Mỹ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -274,7 +274,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Giáo viên",
+                "text": "Thầy/cô (không dùng khi nói về nghề nghiệp giáo viên của mình)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -296,7 +296,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Giáo viên ( dùng để nói đến nghề nghiệp)",
+                "text": "Giáo viên",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -318,7 +318,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "học sinh, sinh viên",
+                "text": "Học sinh, sinh viên",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -340,7 +340,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "nhân viên công ty",
+                "text": "Nhân viên công ty",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -362,7 +362,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "nhân viên công ty ～",
+                "text": "Nhân viên công ty ~ (dùng kèm tên công ty)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -384,7 +384,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "nhân viên ngân hàng",
+                "text": "Nhân viên ngân hàng",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -406,7 +406,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "bác sĩ",
+                "text": "Bác sĩ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -428,7 +428,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "nhà nghiên cứu",
+                "text": "Nhà nghiên cứu",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -450,7 +450,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "kỹ sư",
+                "text": "Kỹ sư",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -472,7 +472,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "trường đại học",
+                "text": "Đại học, trường đại học",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -494,7 +494,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "bệnh viện",
+                "text": "Bệnh viện",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -538,7 +538,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "ai (ngài nào, vị nào)",
+                "text": "Ai (どなた là cách nói lịch sự của だれ)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -560,7 +560,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "tuổi",
+                "text": "～ tuổi",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -582,7 +582,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "mấy tuổi",
+                "text": "Mấy tuổi, bao nhiêu tuổi (おいくつ là cách nói lịch sự của なんさい)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -604,7 +604,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "vâng",
+                "text": "Vâng, dạ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -626,7 +626,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "không",
+                "text": "Không",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -648,7 +648,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Xin lỗi ( khi muốn nhờ ai việc gì đó)",
+                "text": "Xin lỗi,...",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -670,7 +670,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Bạn tên gì?",
+                "text": "Tên anh/chị là gì?",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -692,7 +692,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "chào lần đầu gặp nhau",
+                "text": "Rất hân hạnh được gặp anh/chị (câu chào khi lần đầu gặp, trước khi tự giới thiệu)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -714,7 +714,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "rất hân hạnh được làm quen",
+                "text": "Rất mong được anh/chị giúp đỡ; rất vui được làm quen (câu kết sau khi giới thiệu)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -736,7 +736,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "đây là ngài",
+                "text": "Đây là anh/chị/ông/bà ~",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -758,7 +758,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "đến từ ～",
+                "text": "(Tôi) đến từ ~",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1012,17 +1012,83 @@
                 "colSpan": "1"
               },
               {
-                "text": "さくらだいがく",
+                "text": "さくらだいがく／ふじだいがく",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "さ‌く‌ら‌大‌学",
+                "text": "さくら大学／富士大学",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "Trường ĐH Sakura (Hoa Anh Đào)",
+                "text": "Tên các trường đại học (giả tưởng)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "IMC／パワー電気／ブラジルエアー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tên các công ty (giả tưởng)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "AKC",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tên một tổ chức (giả tưởng)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "こうべびょういん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "神戸病院",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tên một bệnh viện (giả tưởng)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }

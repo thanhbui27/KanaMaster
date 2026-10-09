@@ -357,7 +357,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "「あふろに」入ります",
+                "text": "[お風呂に] 入ります",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -533,7 +533,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "風",
+                "text": "風邪",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -876,7 +876,7 @@
           ]
         }
       ],
-      "text": "STT\nTừ Vựng\nKanji\nNghĩa\n1\nおぼえます\n覚えます\nnhớ\n2\nわすれます\n忘れます\nquên\n3\nなくします\nmất, đánh mất\n4\n[レポートを] だします\n出します\nnộp(báo cáo)\n5\nはらいます\n払います\ntrả tiền\n6\nかえします\n返します\ntrả lại\n7\nでかけます\n出かけます\nra ngoài\n8\nぬぎます\n脱ぎます\ncởi(quần áo, giầy)\n9\nもっていきます\n持って行きます\nmang đi\n10\nもってきます\n持って来ます\nmang đến\n11\nしんぱいします\n心配します\nlo lắng\n12\nざんぎょうします\n残業します\nlàm thêm giờ\n13\nしゅっちょうします\n出張します\nđi công tác\n14\n[くすりを] のみます\n「薬を」飲みます\nuống thuốc\n15\n[おふろに] はいります\n「あふろに」入ります\ntắm bồn\n16\nたいせつ[な]\n大切「な」\nquan trọng\n17\nだいじょうぶ[な]\n大丈夫「な」\nkhông sao, không có vấn đề gì\n18\nあぶない\n危ない\nnguy hiểm\n19\nもんだい\n問題\nvấn đề\n20\nこたえ\n答え\ncâu trả lời\n21\nきんえん\n禁煙\ncấm hút thuốc\n22\n[けんこう] ほけんしょう\n健康保険証\nthẻ bảo hiềm(y tế)\n23\nかぜ\n風\ncảm, cúm\n24\nねつ\n熱\nsốt\n25\nびょうき\n病気\nốm, bệnh\n26\nくすり\n薬\nthuốc\n27\n[お]ふろ\nbồn tắm\n28\nうわぎ\n上着\náo khoác\n29\nしたぎ\n下着\nquần áo lót\n30\nせんせい\n先生\nbác sĩ\n31\n２、３にち\n２、３日\nvài ngày\n32\n２、３～\nvài  – ( \"–\" là hậu tố chỉ các đếm)\n33\n～までに\ntrước ~ (chỉ thời gian)\n34\nですから\nvì thế, vì vậy, do đó\n35\nどうしましたか\nCó vần đề gì?/Anh/ Chị bị làm sao?\n36\n[～が] いたいです\nTôi bị đau～\n37\nのど\nhọng\n38\nおだいじに\nAnh/ chị nhớ giữ gìn sức khỏe.(nói vs người bị ốm)",
+      "text": "STT\nTừ Vựng\nKanji\nNghĩa\n1\nおぼえます\n覚えます\nnhớ\n2\nわすれます\n忘れます\nquên\n3\nなくします\n\nmất, đánh mất\n4\n[レポートを] だします\n出します\nnộp(báo cáo)\n5\nはらいます\n払います\ntrả tiền\n6\nかえします\n返します\ntrả lại\n7\nでかけます\n出かけます\nra ngoài\n8\nぬぎます\n脱ぎます\ncởi(quần áo, giầy)\n9\nもっていきます\n持って行きます\nmang đi\n10\nもってきます\n持って来ます\nmang đến\n11\nしんぱいします\n心配します\nlo lắng\n12\nざんぎょうします\n残業します\nlàm thêm giờ\n13\nしゅっちょうします\n出張します\nđi công tác\n14\n[くすりを] のみます\n「薬を」飲みます\nuống thuốc\n15\n[おふろに] はいります\n[お風呂に] 入ります\ntắm bồn\n16\nたいせつ[な]\n大切「な」\nquan trọng\n17\nだいじょうぶ[な]\n大丈夫「な」\nkhông sao, không có vấn đề gì\n18\nあぶない\n危ない\nnguy hiểm\n19\nもんだい\n問題\nvấn đề\n20\nこたえ\n答え\ncâu trả lời\n21\nきんえん\n禁煙\ncấm hút thuốc\n22\n[けんこう] ほけんしょう\n健康保険証\nthẻ bảo hiềm(y tế)\n23\nかぜ\n風邪\ncảm, cúm\n24\nねつ\n熱\nsốt\n25\nびょうき\n病気\nốm, bệnh\n26\nくすり\n薬\nthuốc\n27\n[お]ふろ\n\nbồn tắm\n28\nうわぎ\n上着\náo khoác\n29\nしたぎ\n下着\nquần áo lót\n30\nせんせい\n先生\nbác sĩ\n31\n２、３にち\n２、３日\nvài ngày\n32\n２、３～\n\nvài – ( \"–\" là hậu tố chỉ các đếm)\n33\n～までに\n\ntrước ~ (chỉ thời gian)\n34\nですから\n\nvì thế, vì vậy, do đó\n35\nどうしましたか\n\nCó vần đề gì?/Anh/ Chị bị làm sao?\n36\n[～が] いたいです\n\nTôi bị đau～\n37\nのど\n\nhọng\n38\nおだいじに\n\nAnh/ chị nhớ giữ gìn sức khỏe.(nói vs người bị ốm)",
       "ruby": [],
       "links": [],
       "media": []

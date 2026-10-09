@@ -22,7 +22,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Từ Vựng",
+                "text": "Hiragana",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -44,29 +44,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "みにくい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "Xấu",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "2",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "ハンサム(な)",
+                "text": "ハンサム[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -83,12 +61,12 @@
             ],
             [
               {
-                "text": "3",
+                "text": "2",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "きれい(な)",
+                "text": "きれい[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -98,24 +76,24 @@
                 "colSpan": "1"
               },
               {
-                "text": "(cảnh) đẹp, đẹp (gái), sạch",
+                "text": "đẹp, sạch",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "4",
+                "text": "3",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "しずか(な)",
+                "text": "しずか[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "静か(な)",
+                "text": "静か[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -127,39 +105,39 @@
             ],
             [
               {
-                "text": "5",
+                "text": "4",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "にぎやか(な)",
+                "text": "にぎやか[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "賑やか(な)",
+                "text": "",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "nhộn nhịp",
+                "text": "náo nhiệt",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "6",
+                "text": "5",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "ゆうめい(な)",
+                "text": "ゆうめい[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "有名(な)",
+                "text": "有名[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -171,39 +149,39 @@
             ],
             [
               {
-                "text": "7",
+                "text": "6",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "しんせつ(な)",
+                "text": "しんせつ[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "親切(な)",
+                "text": "親切[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "tử tế",
+                "text": "tốt bụng, thân thiện",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "8",
+                "text": "7",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "げんき(な)",
+                "text": "げんき[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "元気(な)",
+                "text": "元気[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -215,17 +193,17 @@
             ],
             [
               {
-                "text": "9",
+                "text": "8",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "ひま(な)",
+                "text": "ひま[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "暇(な)",
+                "text": "暇[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -237,39 +215,17 @@
             ],
             [
               {
-                "text": "10",
+                "text": "9",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "いそがしい",
+                "text": "べんり[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "忙しい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "bận rộn",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "11",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "べんり(な)",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "便利(な)",
+                "text": "便利[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -281,12 +237,12 @@
             ],
             [
               {
-                "text": "12",
+                "text": "10",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "すてき(な)",
+                "text": "すてき[な]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -296,14 +252,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "tuyệt vời",
+                "text": "đẹp, hay",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "13",
+                "text": "11",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -318,14 +274,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "to, lớn",
+                "text": "lớn, to",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "14",
+                "text": "12",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -340,14 +296,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "nhỏ, bé",
+                "text": "bé, nhỏ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "15",
+                "text": "13",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -369,7 +325,7 @@
             ],
             [
               {
-                "text": "16",
+                "text": "14",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -391,12 +347,12 @@
             ],
             [
               {
-                "text": "17",
+                "text": "15",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "いい",
+                "text": "いい（よい）",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -413,7 +369,7 @@
             ],
             [
               {
-                "text": "18",
+                "text": "16",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -435,7 +391,7 @@
             ],
             [
               {
-                "text": "19",
+                "text": "17",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -445,7 +401,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "熱い",
+                "text": "暑い、熱い",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -457,51 +413,7 @@
             ],
             [
               {
-                "text": "20",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "つめたい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "冷たい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "lạnh",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "21",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "あつい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "暑い",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "(trời) nóng (dùng cho thời tiết)",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "22",
+                "text": "18",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -516,14 +428,36 @@
                 "colSpan": "1"
               },
               {
-                "text": "(trời) lạnh (dùng cho thời tiết)",
+                "text": "lạnh, rét (dùng cho thời tiết)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "23",
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つめたい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "冷たい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lạnh, buốt (dùng cho cảm giác)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -545,7 +479,7 @@
             ],
             [
               {
-                "text": "24",
+                "text": "21",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -555,7 +489,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "優しい",
+                "text": "易しい",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -567,51 +501,7 @@
             ],
             [
               {
-                "text": "25",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "きびしい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "nghiêm khắc",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "26",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "やさしい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "dịu dàng, hiền từ",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "27",
+                "text": "22",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -626,14 +516,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "đắt",
+                "text": "đắt, cao",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "28",
+                "text": "23",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -655,7 +545,7 @@
             ],
             [
               {
-                "text": "29",
+                "text": "24",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -677,29 +567,7 @@
             ],
             [
               {
-                "text": "30",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "たかい",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "高い",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "cao",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "31",
+                "text": "25",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -714,14 +582,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "thú vị",
+                "text": "thú vị, hay",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "32",
+                "text": "26",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -743,7 +611,29 @@
             ],
             [
               {
-                "text": "33",
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いそがしい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "忙しい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "bận",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -758,14 +648,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "vui vẻ",
+                "text": "vui",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "34",
+                "text": "29",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -787,7 +677,7 @@
             ],
             [
               {
-                "text": "35",
+                "text": "30",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -809,7 +699,7 @@
             ],
             [
               {
-                "text": "36",
+                "text": "31",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -831,7 +721,7 @@
             ],
             [
               {
-                "text": "37",
+                "text": "32",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -846,14 +736,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "xanh",
+                "text": "xanh da trời",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "38",
+                "text": "33",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -868,14 +758,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "hoa anh đào",
+                "text": "anh đào (hoa, cây)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "39",
+                "text": "34",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -897,7 +787,7 @@
             ],
             [
               {
-                "text": "40",
+                "text": "35",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -912,14 +802,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "thành phố",
+                "text": "thị trấn, thị xã, thành phố",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "41",
+                "text": "36",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -934,14 +824,36 @@
                 "colSpan": "1"
               },
               {
-                "text": "thức ăn",
+                "text": "đồ ăn",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "42",
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くるま",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "車",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xe ô-tô",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -956,14 +868,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "chỗ",
+                "text": "nơi, chỗ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "43",
+                "text": "39",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -973,7 +885,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "寮",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -985,7 +897,7 @@
             ],
             [
               {
-                "text": "44",
+                "text": "40",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1000,14 +912,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "học tập ( danh từ )",
+                "text": "học",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "45",
+                "text": "41",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1022,36 +934,36 @@
                 "colSpan": "1"
               },
               {
-                "text": "cuộc sống",
+                "text": "cuộc sống, sinh hoạt",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "46",
+                "text": "42",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "(お)しごと",
+                "text": "[お]しごと",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "お仕事",
+                "text": "[お]仕事",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "công việc",
+                "text": "công việc（～をします：làm việc）",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "47",
+                "text": "43",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1066,19 +978,19 @@
                 "colSpan": "1"
               },
               {
-                "text": "như thế nào",
+                "text": "thế nào",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "48",
+                "text": "44",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "どんな",
+                "text": "どんな～",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1088,14 +1000,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "～nào",
+                "text": "～như thế nào",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "49",
+                "text": "45",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1117,7 +1029,12 @@
             ],
             [
               {
-                "text": "",
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とても",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1127,12 +1044,117 @@
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "rất, lắm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あまり",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
                 "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "không ～ lắm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そして",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "và, thêm nữa (nối hai câu)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～が、～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～, nhưng ～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おげんきですか。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お元気ですか。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh/chị có khỏe không?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そうですね。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Thế à./Để tôi xem. (câu nói trong lúc nghĩ câu trả lời)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1140,7 +1162,7 @@
           ]
         }
       ],
-      "text": "STT\nTừ Vựng\nKanji\nÝ nghĩa\n1\nみにくい\nXấu\n2\nハンサム(な)\nđẹp trai\n3\nきれい(な)\n(cảnh) đẹp, đẹp (gái), sạch\n4\nしずか(な)\n静か(な)\nyên tĩnh\n5\nにぎやか(な)\n賑やか(な)\nnhộn nhịp\n6\nゆうめい(な)\n有名(な)\nnổi tiếng\n7\nしんせつ(な)\n親切(な)\ntử tế\n8\nげんき(な)\n元気(な)\nkhỏe\n9\nひま(な)\n暇(な)\nrảnh rỗi\n10\nいそがしい\n忙しい\nbận rộn\n11\nべんり(な)\n便利(な)\ntiện lợi\n12\nすてき(な)\ntuyệt vời\n13\nおおきい\n大きい\nto, lớn\n14\nちいさい\n小さい\nnhỏ, bé\n15\nあたらしい\n新しい\nmới\n16\nふるい\n古い\ncũ\n17\nいい\ntốt\n18\nわるい\n悪い\nxấu\n19\nあつい\n熱い\nnóng\n20\nつめたい\n冷たい\nlạnh\n21\nあつい\n暑い\n(trời) nóng (dùng cho thời tiết)\n22\nさむい\n寒い\n(trời) lạnh (dùng cho thời tiết)\n23\nむずかしい\n難しい\nkhó\n24\nやさしい\n優しい\ndễ\n25\nきびしい\nnghiêm khắc\n26\nやさしい\ndịu dàng, hiền từ\n27\nたかい\n高い\nđắt\n28\nやすい\n安い\nrẻ\n29\nひくい\n低い\nthấp\n30\nたかい\n高い\ncao\n31\nおもしろい\nthú vị\n32\nおいしい\nngon\n33\nたのしい\n楽しい\nvui vẻ\n34\nしろい\n白い\ntrắng\n35\nくろい\n黒い\nđen\n36\nあかい\n赤い\nđỏ\n37\nあおい\n青い\nxanh\n38\nさくら\n桜\nhoa anh đào\n39\nやま\n山\nnúi\n40\nまち\n町\nthành phố\n41\nたべもの\n食べ物\nthức ăn\n42\nところ\n所\nchỗ\n43\nりょう\nký túc xá\n44\nべんきょう\n勉強\nhọc tập ( danh từ )\n45\nせいかつ\n生活\ncuộc sống\n46\n(お)しごと\nお仕事\ncông việc\n47\nどう\nnhư thế nào\n48\nどんな\n～nào\n49\nどれ\ncái nào",
+      "text": "STT\nHiragana\nKanji\nÝ nghĩa\n1\nハンサム[な]\n\nđẹp trai\n2\nきれい[な]\n\nđẹp, sạch\n3\nしずか[な]\n静か[な]\nyên tĩnh\n4\nにぎやか[な]\n\nnáo nhiệt\n5\nゆうめい[な]\n有名[な]\nnổi tiếng\n6\nしんせつ[な]\n親切[な]\ntốt bụng, thân thiện\n7\nげんき[な]\n元気[な]\nkhỏe\n8\nひま[な]\n暇[な]\nrảnh rỗi\n9\nべんり[な]\n便利[な]\ntiện lợi\n10\nすてき[な]\n\nđẹp, hay\n11\nおおきい\n大きい\nlớn, to\n12\nちいさい\n小さい\nbé, nhỏ\n13\nあたらしい\n新しい\nmới\n14\nふるい\n古い\ncũ\n15\nいい（よい）\n\ntốt\n16\nわるい\n悪い\nxấu\n17\nあつい\n暑い、熱い\nnóng\n18\nさむい\n寒い\nlạnh, rét (dùng cho thời tiết)\n19\nつめたい\n冷たい\nlạnh, buốt (dùng cho cảm giác)\n20\nむずかしい\n難しい\nkhó\n21\nやさしい\n易しい\ndễ\n22\nたかい\n高い\nđắt, cao\n23\nやすい\n安い\nrẻ\n24\nひくい\n低い\nthấp\n25\nおもしろい\n\nthú vị, hay\n26\nおいしい\n\nngon\n27\nいそがしい\n忙しい\nbận\n28\nたのしい\n楽しい\nvui\n29\nしろい\n白い\ntrắng\n30\nくろい\n黒い\nđen\n31\nあかい\n赤い\nđỏ\n32\nあおい\n青い\nxanh da trời\n33\nさくら\n桜\nanh đào (hoa, cây)\n34\nやま\n山\nnúi\n35\nまち\n町\nthị trấn, thị xã, thành phố\n36\nたべもの\n食べ物\nđồ ăn\n37\nくるま\n車\nxe ô-tô\n38\nところ\n所\nnơi, chỗ\n39\nりょう\n寮\nký túc xá\n40\nべんきょう\n勉強\nhọc\n41\nせいかつ\n生活\ncuộc sống, sinh hoạt\n42\n[お]しごと\n[お]仕事\ncông việc（～をします：làm việc）\n43\nどう\n\nthế nào\n44\nどんな～\n\n～như thế nào\n45\nどれ\n\ncái nào\n46\nとても\n\nrất, lắm\n47\nあまり\n\nkhông ～ lắm\n48\nそして\n\nvà, thêm nữa (nối hai câu)\n49\n～が、～\n\n～, nhưng ～\n50\nおげんきですか。\nお元気ですか。\nAnh/chị có khỏe không?\n51\nそうですね。\n\nThế à./Để tôi xem. (câu nói trong lúc nghĩ câu trả lời)",
       "ruby": [],
       "links": [],
       "media": []

@@ -49,9 +49,12 @@ rebuilding makes it available without adding UI components.
 ## Import coverage (2026-09-27)
 
 49 of 50 lessons were downloaded, containing 341 article sections and 51 media
-references. Lesson 12 repeatedly returned HTTP 500; the trailing-slash URL
-returned HTTP 404. No content was fabricated for it. Retry with
-`python scripts/crawl_riki.py --start 12 --end 12` when the source recovers.
+references. Riki lesson 12 repeatedly returned HTTP 500; the trailing-slash URL
+returned HTTP 404. `lesson-12.json` is a separate supplement transcribed from the
+user-provided Minna no Nihongo I Vietnamese PDF (printed pages 93–98), and is not
+part of the Riki import. It contains 51 vocabulary entries and five grammar
+sections; the supplied pages have no practice section. The `failures` field in
+`index.json` records the still-failed original Riki import.
 
 All 49 downloaded lessons have a practice section. Lessons 39, 48, 49, and 50
 have no section explicitly titled vocabulary in the downloaded source; their

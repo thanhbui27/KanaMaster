@@ -25,15 +25,17 @@ for (const filename of fs.readdirSync(path.join(root, 'minna-riki')).filter(f =>
     assert.ok(s.explanation.trim().length > 0, `Explanation for ${exercise.id}`);
     assert.ok(exercise.manualCheck, 'Reference comparison must not silently become grading');
   }
-  const stale = structuredClone(file);
-  stale.solutions[0].question += ' changed';
-  assert.throws(() => attachSolutions(lesson, stale), /Stale/);
-  stale.solutions[0].question = file.solutions[0].question;
-  stale.solutions[0].context += ' changed';
-  assert.throws(() => attachSolutions(lesson, stale), /Stale/);
-  assert.throws(() => attachSolutions(lesson, { ...file, solutions: file.solutions.slice(1) }), /mismatch/);
+  if (file.solutions.length) {
+    const stale = structuredClone(file);
+    stale.solutions[0].question += ' changed';
+    assert.throws(() => attachSolutions(lesson, stale), /Stale/);
+    stale.solutions[0].question = file.solutions[0].question;
+    stale.solutions[0].context += ' changed';
+    assert.throws(() => attachSolutions(lesson, stale), /Stale/);
+  }
+  assert.throws(() => attachSolutions(lesson, { ...file, solutions: [...file.solutions, {}] }), /mismatch/);
 }
-assert.equal(lessons.size, 49);
+assert.equal(lessons.size, 50);
 assert.equal(Object.values(stats).reduce((a, b) => a + b), 949);
 assert.ok(matchesReference('ｂ.　寝ました。', ['寝ました']));
 assert.ok(matchesReference(' あの 人は学生です。 ', ['あの人は学生です']));

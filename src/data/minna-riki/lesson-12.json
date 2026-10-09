@@ -1,0 +1,1353 @@
+{
+  "schemaVersion": 1,
+  "lesson": 12,
+  "title": "Từ vựng và ngữ pháp Minna bài 12",
+  "sourceUrl": "https://riki.edu.vn/minna-no-nihongo/bai-12",
+  "fetchedAt": "2026-10-09T00:00:00+07:00",
+  "sections": [
+    {
+      "id": "section-1",
+      "sourceId": "pdf-page-94-95",
+      "title": "I. Từ vựng bài 12",
+      "kind": "vocabulary",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              {
+                "text": "STT",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Hiragana",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Kanji",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ý nghĩa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "1",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かんたん[な]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "簡単[な]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "đơn giản, dễ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "2",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ちかい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "近い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "gần",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "3",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "とおい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "遠い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "xa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "4",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はやい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "速い、早い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhanh, sớm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "5",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おそい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "遅い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chậm, muộn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "6",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おおい[ひとが～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "多い[人が～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhiều [người]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "7",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すくない[ひとが～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "少ない[人が～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ít [người]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "8",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あたたかい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "暖かい、温かい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ấm",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "9",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すずしい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "涼しい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mát",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "10",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あまい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "甘い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ngọt",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "11",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "からい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "辛い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "12",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おもい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "重い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nặng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "13",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かるい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "軽い",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhẹ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "14",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いい[コーヒーが～]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thích, chọn, dùng [cà-phê]",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "15",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "きせつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "季節",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mùa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "16",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はる",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "春",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mùa xuân",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "17",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なつ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "夏",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mùa hè",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "18",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "秋",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mùa thu",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "19",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ふゆ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "冬",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mùa đông",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "20",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "てんき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "天気",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thời tiết",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "21",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "あめ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "雨",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "mưa",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "22",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ゆき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "雪",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tuyết",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "23",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くもり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "曇り",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "có mây",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ホテル",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "khách sạn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "25",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くうこう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "空港",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "sân bay",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "うみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "海",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "biển, đại dương",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "27",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "せかい",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "世界",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thế giới",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "28",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "パーティー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tiệc (~をします: tổ chức tiệc)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "29",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[お]まつり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[お]祭り",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lễ hội",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "しけん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "試験",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "kỳ thi, bài thi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すきやき",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すき焼き",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Sukiyaki (món thịt bò nấu rau)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "さしみ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "刺身",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Sashimi (món gỏi cá sống)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[お]すし",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Sushi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "てんぷら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tempura (món hải sản và rau chiên tẩm bột)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いけばな",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "生け花",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nghệ thuật cắm hoa (~をします: cắm hoa)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もみじ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "紅葉",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lá đỏ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どちら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cái nào",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "どちらも",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "cả hai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "39",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ずっと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "(hơn) hẳn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "はじめて",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "初めて",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "lần đầu tiên",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ただいま。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tôi đã về đây.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おかえりなさい。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お帰りなさい。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh/chị đã về đấy ạ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すごいですね。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ghê quá nhỉ./Hay quá nhỉ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "でも",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "nhưng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つかれました。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "疲れました。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tôi mệt rồi.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ぎおんまつり",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "祇園祭",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Lễ hội Gion (lễ hội nổi tiếng ở Kyoto)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ホンコン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Hồng Kông（香港）",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "シンガポール",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Singapore",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "まいにちや",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "毎日屋",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tên một siêu thị (giả tưởng)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ABCストア",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tên một siêu thị (giả tưởng)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ジャパン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "tên một siêu thị (giả tưởng)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ]
+          ]
+        }
+      ],
+      "text": "STT\nHiragana\nKanji\nÝ nghĩa\n1\nかんたん[な]\n簡単[な]\nđơn giản, dễ\n2\nちかい\n近い\ngần\n3\nとおい\n遠い\nxa\n4\nはやい\n速い、早い\nnhanh, sớm\n5\nおそい\n遅い\nchậm, muộn\n6\nおおい[ひとが～]\n多い[人が～]\nnhiều [người]\n7\nすくない[ひとが～]\n少ない[人が～]\nít [người]\n8\nあたたかい\n暖かい、温かい\nấm\n9\nすずしい\n涼しい\nmát\n10\nあまい\n甘い\nngọt\n11\nからい\n辛い\ncay\n12\nおもい\n重い\nnặng\n13\nかるい\n軽い\nnhẹ\n14\nいい[コーヒーが～]\n\nthích, chọn, dùng [cà-phê]\n15\nきせつ\n季節\nmùa\n16\nはる\n春\nmùa xuân\n17\nなつ\n夏\nmùa hè\n18\nあき\n秋\nmùa thu\n19\nふゆ\n冬\nmùa đông\n20\nてんき\n天気\nthời tiết\n21\nあめ\n雨\nmưa\n22\nゆき\n雪\ntuyết\n23\nくもり\n曇り\ncó mây\n24\nホテル\n\nkhách sạn\n25\nくうこう\n空港\nsân bay\n26\nうみ\n海\nbiển, đại dương\n27\nせかい\n世界\nthế giới\n28\nパーティー\n\ntiệc (~をします: tổ chức tiệc)\n29\n[お]まつり\n[お]祭り\nlễ hội\n30\nしけん\n試験\nkỳ thi, bài thi\n31\nすきやき\nすき焼き\nSukiyaki (món thịt bò nấu rau)\n32\nさしみ\n刺身\nSashimi (món gỏi cá sống)\n33\n[お]すし\n\nSushi\n34\nてんぷら\n\nTempura (món hải sản và rau chiên tẩm bột)\n35\nいけばな\n生け花\nnghệ thuật cắm hoa (~をします: cắm hoa)\n36\nもみじ\n紅葉\nlá đỏ\n37\nどちら\n\ncái nào\n38\nどちらも\n\ncả hai\n39\nずっと\n\n(hơn) hẳn\n40\nはじめて\n初めて\nlần đầu tiên\n41\nただいま。\n\nTôi đã về đây.\n42\nおかえりなさい。\nお帰りなさい。\nAnh/chị đã về đấy ạ.\n43\nすごいですね。\n\nGhê quá nhỉ./Hay quá nhỉ.\n44\nでも\n\nnhưng\n45\nつかれました。\n疲れました。\nTôi mệt rồi.\n46\nぎおんまつり\n祇園祭\nLễ hội Gion (lễ hội nổi tiếng ở Kyoto)\n47\nホンコン\n\nHồng Kông（香港）\n48\nシンガポール\n\nSingapore\n49\nまいにちや\n毎日屋\ntên một siêu thị (giả tưởng)\n50\nABCストア\n\ntên một siêu thị (giả tưởng)\n51\nジャパン\n\ntên một siêu thị (giả tưởng)",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-2",
+      "sourceId": "pdf-page-98-99",
+      "title": "1. Thể quá khứ của danh từ và tính từ な",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Danh từ và tính từ な dùng でした để diễn tả quá khứ khẳng định; dùng じゃありませんでした／ではありませんでした để diễn tả quá khứ phủ định."
+        },
+        {
+          "type": "list",
+          "items": [
+            [
+              {
+                "type": "text",
+                "text": "きのうは雨でした。 — Hôm qua trời mưa."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "試験は簡単じゃありませんでした。 — Bài thi hôm qua không dễ."
+              }
+            ]
+          ],
+          "ordered": false
+        }
+      ],
+      "text": "Danh từ và tính từ な dùng でした để diễn tả quá khứ khẳng định; dùng じゃありませんでした／ではありませんでした để diễn tả quá khứ phủ định.\nきのうは雨でした。 — Hôm qua trời mưa.\n試験は簡単じゃありませんでした。 — Bài thi hôm qua không dễ.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-3",
+      "sourceId": "pdf-page-98-99",
+      "title": "2. Thể quá khứ của tính từ い",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Đổi い cuối tính từ thành かったです. Phủ định quá khứ đổi くないです thành くなかったです."
+        },
+        {
+          "type": "list",
+          "items": [
+            [
+              {
+                "type": "text",
+                "text": "あついです → あつかったです。"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "きのうは暑かったです。 — Hôm qua trời nóng."
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "きのうのパーティーはあまり楽しくなかったです。 — Tiệc hôm qua không vui lắm."
+              }
+            ]
+          ],
+          "ordered": false
+        }
+      ],
+      "text": "Đổi い cuối tính từ thành かったです. Phủ định quá khứ đổi くないです thành くなかったです.\nあついです → あつかったです。\nきのうは暑かったです。 — Hôm qua trời nóng.\nきのうのパーティーはあまり楽しくなかったです。 — Tiệc hôm qua không vui lắm.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-4",
+      "sourceId": "pdf-page-98-99",
+      "title": "3. So sánh hơn: N1 は N2 より",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "N1 は N2 より tính từです: N1 ... hơn N2."
+        },
+        {
+          "type": "list",
+          "items": [
+            [
+              {
+                "type": "text",
+                "text": "この車はあの車より大きいです。 — Xe này lớn hơn xe kia."
+              }
+            ]
+          ],
+          "ordered": false
+        }
+      ],
+      "text": "N1 は N2 より tính từです: N1 ... hơn N2.\nこの車はあの車より大きいです。 — Xe này lớn hơn xe kia.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-5",
+      "sourceId": "pdf-page-98-99",
+      "title": "4. So sánh lựa chọn: N1 と N2 とどちらが",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Hỏi N1 và N2, cái nào ...: N1 と N2 とどちらが tính từですか。Trả lời: N1／N2 のほうが tính từです."
+        },
+        {
+          "type": "list",
+          "items": [
+            [
+              {
+                "type": "text",
+                "text": "サッカーと野球とどちらがおもしろいですか。 — Bóng đá và bóng chày, môn nào thú vị hơn?"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "野球のほうがおもしろいです。 — Bóng chày thú vị hơn."
+              }
+            ]
+          ],
+          "ordered": false
+        }
+      ],
+      "text": "Hỏi N1 và N2, cái nào ...: N1 と N2 とどちらが tính từですか。Trả lời: N1／N2 のほうが tính từです.\nサッカーと野球とどちらがおもしろいですか。 — Bóng đá và bóng chày, môn nào thú vị hơn?\n野球のほうがおもしろいです。 — Bóng chày thú vị hơn.",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "section-6",
+      "sourceId": "pdf-page-98-99",
+      "title": "5. So sánh nhất: N の中で",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "N の中で (何／どこ／だれ／いつ) がいちばん tính từですか。Trả lời: ... がいちばん tính từです. Khi từ để hỏi làm chủ ngữ, dùng が."
+        },
+        {
+          "type": "list",
+          "items": [
+            [
+              {
+                "type": "text",
+                "text": "日本料理の中で何がいちばんおいしいですか。 — Trong các món Nhật, món nào ngon nhất?"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "ヨーロッパの中でどこがいちばん暖かいですか。 — Ở châu Âu, nơi nào ấm nhất?"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "家族の中でだれがいちばん背が高いですか。 — Trong gia đình, ai cao nhất?"
+              }
+            ],
+            [
+              {
+                "type": "text",
+                "text": "一年の中でいつがいちばん寒いですか。 — Trong năm, khi nào lạnh nhất?"
+              }
+            ]
+          ],
+          "ordered": false
+        }
+      ],
+      "text": "N の中で (何／どこ／だれ／いつ) がいちばん tính từですか。Trả lời: ... がいちばん tính từです. Khi từ để hỏi làm chủ ngữ, dùng が.\n日本料理の中で何がいちばんおいしいですか。 — Trong các món Nhật, món nào ngon nhất?\nヨーロッパの中でどこがいちばん暖かいですか。 — Ở châu Âu, nơi nào ấm nhất?\n家族の中でだれがいちばん背が高いですか。 — Trong gia đình, ai cao nhất?\n一年の中でいつがいちばん寒いですか。 — Trong năm, khi nào lạnh nhất?",
+      "ruby": [],
+      "links": [],
+      "media": []
+    }
+  ],
+  "provenance": "Từ vựng và ngữ pháp được chép/đối chiếu từ PDF Minna no Nihongo I bản dịch tiếng Việt do người dùng cung cấp (trang in 93–98). Phần bài tập không có trong các trang này."
+}

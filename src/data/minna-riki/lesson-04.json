@@ -120,7 +120,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "nghỉ ngơi",
+                "text": "nghỉ, nghỉ ngơi",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -142,7 +142,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "học tập",
+                "text": "học",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -164,7 +164,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "kết thúc",
+                "text": "hết, kết thúc, xong",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -186,7 +186,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "cửa hàng bách hóa",
+                "text": "bách hóa",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -274,7 +274,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "viện bảo tàng",
+                "text": "bảo tàng mỹ thuật",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -282,50 +282,6 @@
             [
               {
                 "text": "12",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "でんわばんごう",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "電話番号",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "số điện thoại",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "13",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "なんばん",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "何番",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "số mấy",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "14",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -347,7 +303,7 @@
             ],
             [
               {
-                "text": "15",
+                "text": "13",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -362,19 +318,19 @@
                 "colSpan": "1"
               },
               {
-                "text": "~giờ",
+                "text": "～giờ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "16",
+                "text": "14",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "～ふん / ～ぷん",
+                "text": "～ふん／～ぷん",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -391,7 +347,7 @@
             ],
             [
               {
-                "text": "17",
+                "text": "15",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -406,14 +362,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "phân nửa",
+                "text": "rưỡi, nửa",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "18",
+                "text": "16",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -435,7 +391,7 @@
             ],
             [
               {
-                "text": "19",
+                "text": "17",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -457,7 +413,7 @@
             ],
             [
               {
-                "text": "20",
+                "text": "18",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -472,14 +428,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "sáng (AM: trước 12 giờ)",
+                "text": "trước 12 giờ trưa, sáng",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "21",
+                "text": "19",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -494,14 +450,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "chiều (PM: sau 12 giờ)",
+                "text": "sau 12 giờ trưa, chiều",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "22",
+                "text": "20",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -516,14 +472,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "sáng",
+                "text": "buổi sáng, sáng",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "23",
+                "text": "21",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -538,58 +494,36 @@
                 "colSpan": "1"
               },
               {
-                "text": "trưa",
+                "text": "buổi trưa, trưa",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "24",
+                "text": "22",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "ばん",
+                "text": "ばん／よる",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "晩",
+                "text": "晩／夜",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "tối",
+                "text": "buổi tối, tối",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "25",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "よる",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "夜",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "tối",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "26",
+                "text": "23",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -604,14 +538,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "ngày hôm kia",
+                "text": "hôm kia",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "27",
+                "text": "24",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -621,19 +555,19 @@
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "昨日",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "ngày hôm qua",
+                "text": "hôm qua",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "28",
+                "text": "25",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -655,7 +589,7 @@
             ],
             [
               {
-                "text": "29",
+                "text": "26",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -677,7 +611,7 @@
             ],
             [
               {
-                "text": "30",
+                "text": "27",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -692,14 +626,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "ngày mốt",
+                "text": "ngày kia",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "31",
+                "text": "28",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -721,7 +655,7 @@
             ],
             [
               {
-                "text": "32",
+                "text": "29",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -731,7 +665,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "今晩",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -743,29 +677,7 @@
             ],
             [
               {
-                "text": "33",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "ゆうべ",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "tối hôm qua",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "34",
+                "text": "30",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -780,14 +692,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "nghỉ ngơi (danh từ)",
+                "text": "nghỉ, nghỉ phép, ngày nghỉ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "35",
+                "text": "31",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -809,7 +721,7 @@
             ],
             [
               {
-                "text": "36",
+                "text": "32",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -824,14 +736,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "mỗi sáng",
+                "text": "hằng sáng, mỗi sáng",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "37",
+                "text": "33",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -846,14 +758,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "mỗi tối",
+                "text": "hằng tối, mỗi tối",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "38",
+                "text": "34",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -868,7 +780,95 @@
                 "colSpan": "1"
               },
               {
-                "text": "mỗi ngày",
+                "text": "hằng ngày, mỗi ngày",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "げつようび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "月曜日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thứ hai",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "36",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かようび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "火曜日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thứ ba",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "37",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "すいようび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "水曜日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thứ tư",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "38",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "もくようび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "木曜日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thứ năm",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -880,17 +880,17 @@
                 "colSpan": "1"
               },
               {
-                "text": "ペキン",
+                "text": "きんようび",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "金曜日",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "Bắc Kinh",
+                "text": "thứ sáu",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -902,7 +902,117 @@
                 "colSpan": "1"
               },
               {
-                "text": "バンコク",
+                "text": "どようび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "土曜日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thứ bảy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "にちようび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "日曜日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "chủ nhật",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "42",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんようび",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何曜日",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "thứ mấy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "43",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ばんごう",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "番号",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "số (số điện thoại, số phòng)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "44",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "なんばん",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "何番",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "số bao nhiêu, số mấy",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "45",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～から",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -912,14 +1022,278 @@
                 "colSpan": "1"
               },
               {
-                "text": "Bangkok",
+                "text": "～từ",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "41",
+                "text": "46",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～まで",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～đến",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "47",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～と～",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "～và～ (nối hai danh từ)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "48",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "そちら",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ông/bà, phía ông/bà",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "たいへんですね。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh/chị vất vả quá. (bày tỏ sự thông cảm)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "えーと",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "À, ừ (ngập ngừng khi đang nghĩ)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "104",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "dịch vụ hướng dẫn số điện thoại",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "52",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おねがいします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お願いします",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Nhờ anh/chị. Xin vui lòng giúp.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "53",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "かしこまりました。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Tôi hiểu rồi ạ. Vâng, được rồi ạ.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "54",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お問い合わせの番号",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "お問い合わせの番号",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Số điện thoại mà ông/bà muốn hỏi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "55",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[どうも]ありがとうございます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "[どうも]ありがとうございます",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Xin cảm ơn ông/bà.",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "56",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ニューヨーク",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "New York",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "57",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ペキン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "北京",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bắc Kinh",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "58",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -941,7 +1315,29 @@
             ],
             [
               {
-                "text": "42",
+                "text": "59",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "バンコク",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bang Cốc",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "60",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -963,66 +1359,66 @@
             ],
             [
               {
-                "text": "43",
+                "text": "61",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "たいへんですね",
+                "text": "やまとびじゅつかん",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "大変ですね",
+                "text": "大和美術館",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "vất vả nhỉ",
+                "text": "tên một bảo tàng mỹ thuật (giả tưởng)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "44",
+                "text": "62",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "ばんごうあんない",
+                "text": "おおさかデパート",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "大阪デパート",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "dịch vụ 116 (hỏi số điện thoại)",
+                "text": "tên một cửa hàng bách hóa (giả tưởng)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "45",
+                "text": "63",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "おといあわせ",
+                "text": "みどりとしょかん",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "みどり図書館",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "(số điện thoại) bạn muốn biết / hỏi là",
+                "text": "tên một thư viện (giả tưởng)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1030,7 +1426,7 @@
           ]
         }
       ],
-      "text": "STT\nHiragana\nKanji\nÝ nghĩa\n1\nおきます\nthức dậy\n2\nねます\n寝ます\nngủ\n3\nはたらきます\n働きます\nlàm việc\n4\nやすみます\n休みます\nnghỉ ngơi\n5\nべんきょうします\n勉強します\nhọc tập\n6\nおわります\n終わります\nkết thúc\n7\nデパート\ncửa hàng bách hóa\n8\nぎんこう\n銀行\nngân hàng\n9\nゆうびんきょく\n郵便局\nbưu điện\n10\nとしょかん\n図書館\nthư viện\n11\nびじゅつかん\n美術館\nviện bảo tàng\n12\nでんわばんごう\n電話番号\nsố điện thoại\n13\nなんばん\n何番\nsố mấy\n14\nいま\n今\nbây giờ\n15\n～じ\n～時\n~giờ\n16\n～ふん / ～ぷん\n～分\n～phút\n17\nはん\n半\nphân nửa\n18\nなんじ\n何時\nmấy giờ\n19\nなんぷん\n何分\nmấy phút\n20\nごぜん\n午前\nsáng (AM: trước 12 giờ)\n21\nごご\n午後\nchiều (PM: sau 12 giờ)\n22\nあさ\n朝\nsáng\n23\nひる\n昼\ntrưa\n24\nばん\n晩\ntối\n25\nよる\n夜\ntối\n26\nおととい\nngày hôm kia\n27\nきのう\nngày hôm qua\n28\nきょう\n今日\nhôm nay\n29\nあした\n明日\nngày mai\n30\nあさって\nngày mốt\n31\nけさ\n今朝\nsáng nay\n32\nこんばん\ntối nay\n33\nゆうべ\ntối hôm qua\n34\nやすみ\n休み\nnghỉ ngơi (danh từ)\n35\nひるやすみ\n昼休み\nnghỉ trưa\n36\nまいあさ\n毎朝\nmỗi sáng\n37\nまいばん\n毎晩\nmỗi tối\n38\nまいにち\n毎日\nmỗi ngày\n39\nペキン\nBắc Kinh\n40\nバンコク\nBangkok\n41\nロンドン\nLuân Đôn\n42\nロサンゼルス\nLos Angeles\n43\nたいへんですね\n大変ですね\nvất vả nhỉ\n44\nばんごうあんない\ndịch vụ 116 (hỏi số điện thoại)\n45\nおといあわせ\n(số điện thoại) bạn muốn biết / hỏi là",
+      "text": "STT\nHiragana\nKanji\nÝ nghĩa\n1\nおきます\n\nthức dậy\n2\nねます\n寝ます\nngủ\n3\nはたらきます\n働きます\nlàm việc\n4\nやすみます\n休みます\nnghỉ, nghỉ ngơi\n5\nべんきょうします\n勉強します\nhọc\n6\nおわります\n終わります\nhết, kết thúc, xong\n7\nデパート\n\nbách hóa\n8\nぎんこう\n銀行\nngân hàng\n9\nゆうびんきょく\n郵便局\nbưu điện\n10\nとしょかん\n図書館\nthư viện\n11\nびじゅつかん\n美術館\nbảo tàng mỹ thuật\n12\nいま\n今\nbây giờ\n13\n～じ\n～時\n～giờ\n14\n～ふん／～ぷん\n～分\n～phút\n15\nはん\n半\nrưỡi, nửa\n16\nなんじ\n何時\nmấy giờ\n17\nなんぷん\n何分\nmấy phút\n18\nごぜん\n午前\ntrước 12 giờ trưa, sáng\n19\nごご\n午後\nsau 12 giờ trưa, chiều\n20\nあさ\n朝\nbuổi sáng, sáng\n21\nひる\n昼\nbuổi trưa, trưa\n22\nばん／よる\n晩／夜\nbuổi tối, tối\n23\nおととい\n\nhôm kia\n24\nきのう\n昨日\nhôm qua\n25\nきょう\n今日\nhôm nay\n26\nあした\n明日\nngày mai\n27\nあさって\n\nngày kia\n28\nけさ\n今朝\nsáng nay\n29\nこんばん\n今晩\ntối nay\n30\nやすみ\n休み\nnghỉ, nghỉ phép, ngày nghỉ\n31\nひるやすみ\n昼休み\nnghỉ trưa\n32\nまいあさ\n毎朝\nhằng sáng, mỗi sáng\n33\nまいばん\n毎晩\nhằng tối, mỗi tối\n34\nまいにち\n毎日\nhằng ngày, mỗi ngày\n35\nげつようび\n月曜日\nthứ hai\n36\nかようび\n火曜日\nthứ ba\n37\nすいようび\n水曜日\nthứ tư\n38\nもくようび\n木曜日\nthứ năm\n39\nきんようび\n金曜日\nthứ sáu\n40\nどようび\n土曜日\nthứ bảy\n41\nにちようび\n日曜日\nchủ nhật\n42\nなんようび\n何曜日\nthứ mấy\n43\nばんごう\n番号\nsố (số điện thoại, số phòng)\n44\nなんばん\n何番\nsố bao nhiêu, số mấy\n45\n～から\n\n～từ\n46\n～まで\n\n～đến\n47\n～と～\n\n～và～ (nối hai danh từ)\n48\nそちら\n\nông/bà, phía ông/bà\n49\nたいへんですね。\n\nAnh/chị vất vả quá. (bày tỏ sự thông cảm)\n50\nえーと\n\nÀ, ừ (ngập ngừng khi đang nghĩ)\n51\n104\n\ndịch vụ hướng dẫn số điện thoại\n52\nおねがいします\nお願いします\nNhờ anh/chị. Xin vui lòng giúp.\n53\nかしこまりました。\n\nTôi hiểu rồi ạ. Vâng, được rồi ạ.\n54\nお問い合わせの番号\nお問い合わせの番号\nSố điện thoại mà ông/bà muốn hỏi\n55\n[どうも]ありがとうございます\n[どうも]ありがとうございます\nXin cảm ơn ông/bà.\n56\nニューヨーク\n\nNew York\n57\nペキン\n北京\nBắc Kinh\n58\nロンドン\n\nLuân Đôn\n59\nバンコク\n\nBang Cốc\n60\nロサンゼルス\n\nLos Angeles\n61\nやまとびじゅつかん\n大和美術館\ntên một bảo tàng mỹ thuật (giả tưởng)\n62\nおおさかデパート\n大阪デパート\ntên một cửa hàng bách hóa (giả tưởng)\n63\nみどりとしょかん\nみどり図書館\ntên một thư viện (giả tưởng)",
       "ruby": [],
       "links": [],
       "media": []

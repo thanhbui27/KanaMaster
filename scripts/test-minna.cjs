@@ -15,7 +15,7 @@ const lessons = fs.readdirSync(directory).filter(f => /^lesson-\d+\.json$/.test(
   const raw = JSON.parse(fs.readFileSync(path.join(directory, file), 'utf8'));
   const lesson = normalizeLesson(raw);
   assert.equal(lesson.grammar.length + lesson.vocabularySections.length + lesson.practiceSections.length, raw.sections.length, `No dropped sections in lesson ${lesson.id}`);
-  assert.ok(lesson.exercises.length > 0, `Exercises available in ${lesson.id}`);
+  if (lesson.practiceSections.length) assert.ok(lesson.exercises.length > 0, `Exercises available in ${lesson.id}`);
   for (const exercise of lesson.exercises) {
     assert.ok(exercise.manualCheck);
     assert.equal(exercise.answer, undefined);
@@ -26,7 +26,7 @@ const lessons = fs.readdirSync(directory).filter(f => /^lesson-\d+\.json$/.test(
   return lesson;
 });
 const first = lessons.find(l => l.id === 1);
-assert.equal(first.vocabulary.length, 45);
+assert.equal(first.vocabulary.length, 48);
 assert.equal(first.grammar.length, 5);
 assert.equal(first.exercises.length, 11);
 assert.equal(first.exercises[0].parts.filter(p => p.type === 'input').length, 4, 'Keep multi-line dialogue together');

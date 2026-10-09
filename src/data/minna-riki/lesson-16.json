@@ -22,7 +22,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "Từ Vựng",
+                "text": "Hiragana",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -44,7 +44,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "のります [でんしゃに～]",
+                "text": "のります I [でんしゃに～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -66,12 +66,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "おります [でんしゃに～]",
+                "text": "おります II [でんしゃを～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "降ります [電車に～]",
+                "text": "降ります [電車を～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -88,7 +88,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "のりかえます",
+                "text": "のりかえます II",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -110,12 +110,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "あびます [シャワーを～]",
+                "text": "あびます II [シャワーを～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "浴びます",
+                "text": "浴びます [シャワーを～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -132,7 +132,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "いれます",
+                "text": "いれます II",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -154,7 +154,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "だします",
+                "text": "だします I",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -176,7 +176,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "はいります [だいがくに～]",
+                "text": "はいります I [だいがくに～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -198,7 +198,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "でます [だいがくを～]",
+                "text": "でます II [だいがくを～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -220,7 +220,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "やめます [かいしゃを～]",
+                "text": "やめます II [かいしゃを～]",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -242,7 +242,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "おします",
+                "text": "おします I",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -374,12 +374,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "せが たかい",
+                "text": "せがたかい",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "背が 高い",
+                "text": "背が高い",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -396,12 +396,12 @@
                 "colSpan": "1"
               },
               {
-                "text": "あたまが いい",
+                "text": "あたまがいい",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "頭が いい",
+                "text": "頭がいい",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -572,6 +572,28 @@
                 "colSpan": "1"
               },
               {
+                "text": "くち",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "口",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "miệng",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "26",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
                 "text": "は",
                 "rowSpan": "1",
                 "colSpan": "1"
@@ -589,7 +611,7 @@
             ],
             [
               {
-                "text": "26",
+                "text": "27",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -611,7 +633,7 @@
             ],
             [
               {
-                "text": "27",
+                "text": "28",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -633,7 +655,7 @@
             ],
             [
               {
-                "text": "28",
+                "text": "29",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -655,7 +677,7 @@
             ],
             [
               {
-                "text": "29",
+                "text": "30",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -670,14 +692,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "việc chạy bộ (~をします: chạy bộ)",
+                "text": "việc chạy bộ（～をします：chạy bộ）",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "30",
+                "text": "31",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -699,7 +721,7 @@
             ],
             [
               {
-                "text": "31",
+                "text": "32",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -721,7 +743,7 @@
             ],
             [
               {
-                "text": "32",
+                "text": "33",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -743,7 +765,7 @@
             ],
             [
               {
-                "text": "33",
+                "text": "34",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -758,14 +780,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "đền thờ đạo thần",
+                "text": "đền thờ đạo Thần",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "34",
+                "text": "35",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -775,7 +797,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "留学生",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -787,7 +809,7 @@
             ],
             [
               {
-                "text": "35",
+                "text": "36",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -802,14 +824,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "số―",
+                "text": "số –",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "36",
+                "text": "37",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -824,14 +846,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "làm thế nào~",
+                "text": "làm thế nào ～",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "37",
+                "text": "38",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -846,14 +868,14 @@
                 "colSpan": "1"
               },
               {
-                "text": "cái nào~ (dùng với trường hợp từ ba thứ trở lên)",
+                "text": "cái nào ～ (dùng với trường hợp từ ba thứ trở lên)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "38",
+                "text": "39",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -868,14 +890,36 @@
                 "colSpan": "1"
               },
               {
-                "text": "[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)",
+                "text": "[Không,] tôi còn kém lắm. (cách nói khiêm nhường khi được ai đó khen)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "39",
+                "text": "40",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "おひきだしですか。",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Anh/chị rút tiền ạ?",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "41",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -897,7 +941,7 @@
             ],
             [
               {
-                "text": "40",
+                "text": "42",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -919,7 +963,7 @@
             ],
             [
               {
-                "text": "41",
+                "text": "43",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -941,12 +985,12 @@
             ],
             [
               {
-                "text": "42",
+                "text": "44",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "つぎ に",
+                "text": "つぎに",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -963,29 +1007,7 @@
             ],
             [
               {
-                "text": "43",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "かくにん",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "確認",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "sự xác nhận, sự kiểm tra (~します：xác nhận)",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
-                "text": "44",
+                "text": "45",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1007,44 +1029,22 @@
             ],
             [
               {
-                "text": "45",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "ボタン",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "[",
-                "rowSpan": "1",
-                "colSpan": "1"
-              },
-              {
-                "text": "nút",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ],
-            [
-              {
                 "text": "46",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "アジア",
+                "text": "かくにん",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "神社",
+                "text": "確認",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "châu Á",
+                "text": "sự xác nhận, sự kiểm tra（～します：xác nhận）",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1056,7 +1056,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "りゅうがくせい",
+                "text": "ボタン",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1066,7 +1066,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "lưu học sinh, du học sinh",
+                "text": "nút",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1078,7 +1078,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "一ばん",
+                "text": "JR",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1088,7 +1088,7 @@
                 "colSpan": "1"
               },
               {
-                "text": "số-",
+                "text": "Công ty Đường sắt Nhật Bản",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1096,6 +1096,94 @@
             [
               {
                 "text": "49",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "アジア",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "châu Á",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "50",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "バンドン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bandung (ở Indonesia)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "51",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "ベラクルス",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Veracruz (ở Mexico)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "52",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "フランケン",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Franken (ở Đức)",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "53",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1117,12 +1205,12 @@
             ],
             [
               {
-                "text": "50",
+                "text": "54",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "どの～",
+                "text": "フエ",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -1132,29 +1220,29 @@
                 "colSpan": "1"
               },
               {
-                "text": "cái nào~ (dùng với trường hợp từ ba thứ trở lên)",
+                "text": "Huế",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
             ],
             [
               {
-                "text": "51",
+                "text": "55",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "[いいえ、]まだまだです。",
+                "text": "だいがくまえ",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "",
+                "text": "大学前",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
               {
-                "text": "[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)",
+                "text": "tên một điểm dừng xe buýt (giả tưởng)",
                 "rowSpan": "1",
                 "colSpan": "1"
               }
@@ -1162,7 +1250,7 @@
           ]
         }
       ],
-      "text": "STT\nTừ Vựng\nKanji\nÝ nghĩa\n1\nのります [でんしゃに～]\n乗ります [電車に～]\nđi, lên [tàu]\n2\nおります [でんしゃに～]\n降ります [電車に～]\nxuống [tàu]\n3\nのりかえます\n乗り換えます\nchuyển, đổi (tàu)\n4\nあびます [シャワーを～]\n浴びます\ntắm [vòi hoa sen]\n5\nいれます\n入れます\ncho vào, bỏ vào\n6\nだします\n出します\nlấy ra, rút (tiền)\n7\nはいります [だいがくに～]\n入ります [大学に～]\nvào, nhập học [đại học]\n8\nでます [だいがくを～]\n出ます [大学を～]\nra, tốt nghiệp [đại học]\n9\nやめます [かいしゃを～]\nやめます [会社を～]\nbỏ, thôi [việc công ty]\n10\nおします\n押します\nbấm, ấn (nút)\n11\nわかい\n若い\ntrẻ\n12\nながい\n長い\ndài\n13\nみじかい\n短い\nngắn\n14\nあかるい\n明るい\nsáng\n15\nくらい\n暗い\ntối\n16\nせが たかい\n背が 高い\ncao (dùng cho người)\n17\nあたまが いい\n頭が いい\nthông minh\n18\nからだ\n体\nngười, cơ thể\n19\nあたま\n頭\nđầu\n20\nかみ\n髪\ntóc\n21\nなまえ\n名前\ntên\n22\nかお\n顔\nmặt\n23\nめ\n目\nmắt\n24\nみみ\n耳\ntai\n25\nは\n歯\nrăng\n26\nおなか\nbụng\n27\nあし\n足\nchân\n28\nサービス\ndịch vụ\n29\nジョギング\nviệc chạy bộ (~をします: chạy bộ)\n30\nシャワー\nvòi hoa sen\n31\nみどり\n緑\nmàu xanh lá cây\n32\n[お]てら\n[お]寺\nchùa\n33\nじんじゃ\n神社\nđền thờ đạo thần\n34\nりゅうがくせい\nlưu học sinh, du học sinh\n35\n一ばん\n一番\nsố―\n36\nどうやって\nlàm thế nào~\n37\nどの～\ncái nào~ (dùng với trường hợp từ ba thứ trở lên)\n38\n[いいえ、]まだまだです。\n[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)\n39\nまず\ntrước hết, đầu tiên\n40\nキャッシュカード\nthẻ ngân hàng, thẻ ATM\n41\nあんしょうばんごう\n暗証番号\nmã số bí mật (mật khẩu)\n42\nつぎ に\n次に\ntiếp theo\n43\nかくにん\n確認\nsự xác nhận, sự kiểm tra (~します：xác nhận)\n44\nきんがく\n金額\nsố tiền, khoản tiền\n45\nボタン\n[\nnút\n46\nアジア\n神社\nchâu Á\n47\nりゅうがくせい\nlưu học sinh, du học sinh\n48\n一ばん\nsố-\n49\nベトナム\nViệt Nam\n50\nどの～\ncái nào~ (dùng với trường hợp từ ba thứ trở lên)\n51\n[いいえ、]まだまだです。\n[không,] tôi còn kém lắm. (cách nói khiêm nhường khi ai đó khen)",
+      "text": "STT\nHiragana\nKanji\nÝ nghĩa\n1\nのります I [でんしゃに～]\n乗ります [電車に～]\nđi, lên [tàu]\n2\nおります II [でんしゃを～]\n降ります [電車を～]\nxuống [tàu]\n3\nのりかえます II\n乗り換えます\nchuyển, đổi (tàu)\n4\nあびます II [シャワーを～]\n浴びます [シャワーを～]\ntắm [vòi hoa sen]\n5\nいれます II\n入れます\ncho vào, bỏ vào\n6\nだします I\n出します\nlấy ra, rút (tiền)\n7\nはいります I [だいがくに～]\n入ります [大学に～]\nvào, nhập học [đại học]\n8\nでます II [だいがくを～]\n出ます [大学を～]\nra, tốt nghiệp [đại học]\n9\nやめます II [かいしゃを～]\nやめます [会社を～]\nbỏ, thôi [việc công ty]\n10\nおします I\n押します\nbấm, ấn (nút)\n11\nわかい\n若い\ntrẻ\n12\nながい\n長い\ndài\n13\nみじかい\n短い\nngắn\n14\nあかるい\n明るい\nsáng\n15\nくらい\n暗い\ntối\n16\nせがたかい\n背が高い\ncao (dùng cho người)\n17\nあたまがいい\n頭がいい\nthông minh\n18\nからだ\n体\nngười, cơ thể\n19\nあたま\n頭\nđầu\n20\nかみ\n髪\ntóc\n21\nなまえ\n名前\ntên\n22\nかお\n顔\nmặt\n23\nめ\n目\nmắt\n24\nみみ\n耳\ntai\n25\nくち\n口\nmiệng\n26\nは\n歯\nrăng\n27\nおなか\n\nbụng\n28\nあし\n足\nchân\n29\nサービス\n\ndịch vụ\n30\nジョギング\n\nviệc chạy bộ（～をします：chạy bộ）\n31\nシャワー\n\nvòi hoa sen\n32\nみどり\n緑\nmàu xanh lá cây\n33\n[お]てら\n[お]寺\nchùa\n34\nじんじゃ\n神社\nđền thờ đạo Thần\n35\nりゅうがくせい\n留学生\nlưu học sinh, du học sinh\n36\n一ばん\n一番\nsố –\n37\nどうやって\n\nlàm thế nào ～\n38\nどの～\n\ncái nào ～ (dùng với trường hợp từ ba thứ trở lên)\n39\n[いいえ、]まだまだです。\n\n[Không,] tôi còn kém lắm. (cách nói khiêm nhường khi được ai đó khen)\n40\nおひきだしですか。\n\nAnh/chị rút tiền ạ?\n41\nまず\n\ntrước hết, đầu tiên\n42\nキャッシュカード\n\nthẻ ngân hàng, thẻ ATM\n43\nあんしょうばんごう\n暗証番号\nmã số bí mật (mật khẩu)\n44\nつぎに\n次に\ntiếp theo\n45\nきんがく\n金額\nsố tiền, khoản tiền\n46\nかくにん\n確認\nsự xác nhận, sự kiểm tra（～します：xác nhận）\n47\nボタン\n\nnút\n48\nJR\n\nCông ty Đường sắt Nhật Bản\n49\nアジア\n\nchâu Á\n50\nバンドン\n\nBandung (ở Indonesia)\n51\nベラクルス\n\nVeracruz (ở Mexico)\n52\nフランケン\n\nFranken (ở Đức)\n53\nベトナム\n\nViệt Nam\n54\nフエ\n\nHuế\n55\nだいがくまえ\n大学前\ntên một điểm dừng xe buýt (giả tưởng)",
       "ruby": [],
       "links": [],
       "media": []

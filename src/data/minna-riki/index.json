@@ -90,6 +90,15 @@
       "practiceSections": 1
     },
     {
+      "lesson": 12,
+      "title": "Từ vựng và ngữ pháp Minna bài 12",
+      "file": "lesson-12.json",
+      "sections": 6,
+      "vocabularySections": 1,
+      "practiceSections": 0,
+      "supplementalSource": "PDF Minna no Nihongo I – bản dịch tiếng Việt, trang in 93–98"
+    },
+    {
       "lesson": 13,
       "title": "Từ vựng ngữ pháp Minna bài 13",
       "file": "lesson-13.json",
@@ -399,5 +408,8 @@
       "lesson": 12,
       "error": "No cached HTML; download required"
     }
+  ],
+  "supplementalLessons": [
+    12
   ]
 }

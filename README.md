@@ -85,10 +85,12 @@ reading/conjugation distinctions. Content is authored reference material with
 grammar source links, not an official Riki supplement.
 
 Open `/minna` or select **Minna** in the existing navigation. The module extends
-the Kana app with 49 available lessons from Riki, 1,877 vocabulary entries, and
-949 normalized exercises. Lesson 12 is unavailable because the source returned
-HTTP 500. Lessons 39, 48, 49, and 50 contain grammar and practice but no vocabulary
-table in the imported source.
+the Kana app with 49 lessons imported from Riki plus lesson 12 supplemented from the user-provided
+Vietnamese PDF, for 50 available lessons, 1,939 vocabulary entries, and 949
+normalized exercises. Riki still returns HTTP 500 for lesson 12; the supplemental
+entry contains vocabulary and grammar only, since the provided pages include no
+practice section. Lessons 39, 48, 49, and 50 contain grammar and practice but no
+vocabulary table in the imported Riki source.
 
 Each lesson includes an overview, searchable vocabulary with hidden meanings,
 learned/review flags, flashcards, vocabulary quizzes (Japanese–Vietnamese,
