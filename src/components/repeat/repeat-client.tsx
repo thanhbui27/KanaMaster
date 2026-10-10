@@ -21,6 +21,7 @@ export function RepeatClient({ catalog }: { catalog: StudyWord[] }) {
   const [mode, setMode] = useState<"interval" | "month" | "custom">("interval"), [value, setValue] = useState("2");
   const [perSession, setPerSession] = useState(10), [time, setTime] = useState("20:00");
   const [sessionSizes, setSessionSizes] = useState<number[]>([]);
+  const [sessionGroups, setSessionGroups] = useState<string[][]>([]);
   const [selected, setSelected] = useState<Set<string>>(new Set());
   const [group, setGroup] = useState(""), [query, setQuery] = useState("");
   const [draft, setDraft] = useState<StudyWord[]>([]);
@@ -43,18 +44,27 @@ export function RepeatClient({ catalog }: { catalog: StudyWord[] }) {
   const filtered = words.filter(w => (!group || w.group === group) && `${w.term} ${w.meaning} ${w.reading} ${w.wordType} ${w.phonetics.map(p => p.value).join(" ")}`.toLowerCase().includes(query.toLowerCase()));
   let dates: string[] = [], dateError = "";
   try { dates = scheduleDates(start, end, mode, value); } catch (e) { dateError = (e as Error).message; }
+  const sessionWordKeys = sessionGroups.map(keys => keys.flatMap(key => key === "checked" ? [...selected].map(id => `word:${id}`) : [key]));
+  const previewSessions = dates.map((date, i) => {
+    const allKeys = new Set(sessionWordKeys.slice(0, i + 1).flat());
+    const priorKeys = new Set(sessionWordKeys.slice(0, i).flat());
+    const total = words.filter(w => allKeys.has(`group:${w.group}`) || allKeys.has(`word:${w.id}`));
+    const prior = words.filter(w => priorKeys.has(`group:${w.group}`) || priorKeys.has(`word:${w.id}`));
+    return { date, total: total.length, added: total.length - prior.length };
+  });
   const currentPlan = active ? data.plans.find(p => p.id === active.plan && p.dates.includes(active.date)) : undefined;
   function savePlan() {
     if (dateError) return setMessage(dateError);
-    const chosen = words.filter(w => selected.has(w.id));
-    if (!name.trim() || !chosen.length || !Number.isInteger(perSession) || perSession < 1 || perSession > 5000 || !/^([01]\d|2[0-3]):[0-5]\d$/.test(time)) return setMessage("Nhập tên lịch, chọn ít nhất 1 mục, giờ hợp lệ và số từ mới từ 1–5.000.");
+    const keys = dates.map((_, i) => (sessionWordKeys[i] ?? []).filter(key => key !== "checked"));
+    const included = new Set(keys.flat());
+    const chosen = words.filter(w => included.has(`group:${w.group}`) || included.has(`word:${w.id}`));
+    if (!name.trim() || !chosen.length || !Number.isInteger(perSession) || perSession < 1 || perSession > 5000 || !/^([01]\d|2[0-3]):[0-5]\d$/.test(time)) return setMessage("Hãy chọn ít nhất một bài/nhóm hoặc mục từ riêng cho các buổi học.");
     const old = data.plans.find(p => p.id === editing);
-    const sizes = dates.map((_, i) => Math.max(1, sessionSizes[i] || perSession));
-    const plan: StudyPlan = { id: editing ?? crypto.randomUUID(), name: name.trim(), dates, perSession, sessionSizes: sizes, time, words: chosen, completed: [], reminder: old?.reminder ?? false };
+    const plan: StudyPlan = { id: editing ?? crypto.randomUUID(), name: name.trim(), dates, perSession, sessionGroups: keys, time, words: chosen, completed: [], reminder: old?.reminder ?? false };
     if (persist({ ...data, plans: editing ? data.plans.map(p => p.id === editing ? plan : p) : [...data.plans, plan] })) { setTab("plans"); setEditing(null); setMessage("Đã lưu lịch học."); }
   }
   function edit(plan: StudyPlan) {
-    setEditing(plan.id); setName(plan.name); setStart(plan.dates[0]); setEnd(plan.dates.at(-1)!); setMode("custom"); setValue(plan.dates.join(", ")); setPerSession(plan.perSession); setSessionSizes(plan.sessionSizes ?? plan.dates.map(() => plan.perSession)); setTime(plan.time); setSelected(new Set(plan.words.map(w => w.id))); setTab("setup"); setMessage("");
+    setEditing(plan.id); setName(plan.name); setStart(plan.dates[0]); setEnd(plan.dates.at(-1)!); setMode("custom"); setValue(plan.dates.join(", ")); setPerSession(plan.perSession); setSessionSizes(plan.sessionSizes ?? plan.dates.map(() => plan.perSession)); setSessionGroups(plan.sessionGroups ?? plan.dates.map((_, i) => { const session = sessionWords(plan, i); return session.words.slice(session.oldCount).map(w => `word:${w.id}`); })); setTime(plan.time); setSelected(new Set(plan.words.map(w => w.id))); setTab("setup"); setMessage("");
   }
   async function enableReminder(plan: StudyPlan) {
     if (plan.reminder) { persist({ ...data, plans: data.plans.map(p => p.id === plan.id ? { ...p, reminder: false } : p) }); return; }
@@ -77,9 +87,9 @@ export function RepeatClient({ catalog }: { catalog: StudyWord[] }) {
       {!data.plans.length && <section className="rp-empty"><RotateCcw size={40} /><h3>Bắt đầu một nhịp học mới</h3><p>Chọn khoảng ngày, nguồn từ và số từ mới mỗi buổi.<br />Các buổi sau tự bao gồm phần ôn của những buổi trước.</p></section>}
       {data.plans.map(plan => {
         const due = plan.dates.filter(d => d <= localDate() && !plan.completed.includes(d));
-        const planned = plan.sessionSizes?.length === plan.dates.length ? plan.sessionSizes.reduce((a, b) => a + b, 0) : plan.dates.length * plan.perSession;
-        const remaining = Math.max(0, plan.words.length - planned);
-        return <article className="rp-panel" key={plan.id}><div className="rp-heading"><div><h2>{plan.name}</h2><p>{plan.words.length} mục · {plan.sessionSizes ? "số mục mới tùy chỉnh từng buổi" : `${plan.perSession} từ mới/buổi`} · {plan.time} · {plan.completed.length}/{plan.dates.length} buổi hoàn thành</p></div><span className="rp-badge">{due.length ? `${due.length} buổi đến hạn` : "Theo nhịp của bạn"}</span></div>
+        const assigned = new Set(plan.sessionGroups?.flat() ?? []);
+        const remaining = plan.sessionGroups ? plan.words.filter(w => !assigned.has(`group:${w.group}`) && !assigned.has(`word:${w.id}`)).length : Math.max(0, plan.words.length - plan.dates.length * plan.perSession);
+        return <article className="rp-panel" key={plan.id}><div className="rp-heading"><div><h2>{plan.name}</h2><p>{plan.words.length} mục · {plan.sessionGroups ? "bài/nhóm được chọn riêng cho từng buổi" : `${plan.perSession} từ mới/buổi`} · {plan.time} · {plan.completed.length}/{plan.dates.length} buổi hoàn thành</p></div><span className="rp-badge">{due.length ? `${due.length} buổi đến hạn` : "Theo nhịp của bạn"}</span></div>
           {remaining > 0 && <p className="rp-warning">Còn {remaining} mục chưa được xếp vào buổi nào. Hãy thêm ngày hoặc tăng số từ mới.</p>}
           <div className="rp-actions"><button onClick={() => edit(plan)}>Sửa lịch</button><button onClick={() => enableReminder(plan)}>{plan.reminder ? "Tắt nhắc học" : "Bật nhắc học"}</button><button onClick={() => download("repeat.ics", calendarFile(plan), "text/calendar;charset=utf-8")}><Download size={15} /> Xuất lịch .ics</button><button onClick={() => { if (window.confirm(`Xóa lịch “${plan.name}” và tiến độ của lịch này?`)) persist({ ...data, plans: data.plans.filter(p => p.id !== plan.id) }); }}>Xóa</button></div>
           <div className="rp-sessions">{plan.dates.map((date, i) => { const s = sessionWords(plan, i), done = plan.completed.includes(date); return <button key={date} className={done ? "done" : date <= localDate() ? "due" : ""} onClick={() => setActive({ plan: plan.id, date })}><strong>{done && <Check size={15} />}{date.split("-").reverse().join("/")}</strong><span>{s.newCount} mới + {s.oldCount} ôn</span><small>{done ? "Đã hoàn thành · Ôn lại" : date > localDate() ? "Học trước" : "Bắt đầu học"}</small></button>; })}</div>
@@ -92,15 +102,15 @@ export function RepeatClient({ catalog }: { catalog: StudyWord[] }) {
       <div className="rp-fields"><label>Từ ngày<input type="date" value={start} onInput={e => setStart(e.currentTarget.value)} onChange={e => setStart(e.target.value)} /></label><label>Đến ngày<input type="date" value={end} onInput={e => setEnd(e.currentTarget.value)} onChange={e => setEnd(e.target.value)} /></label></div>
       <label>Cách chọn ngày<select value={mode} onChange={e => { const m = e.target.value as typeof mode; setMode(m); setValue(m === "interval" ? "2" : m === "month" ? "1,3,5,7" : start); }}><option value="interval">Cách nhau N ngày</option><option value="month">Các ngày trong mỗi tháng</option><option value="custom">Chọn các ngày riêng</option></select></label>
       <label>{mode === "interval" ? "Khoảng cách (ngày)" : mode === "month" ? "Ngày trong tháng (ví dụ 1,3,5,7)" : "Các ngày YYYY-MM-DD, cách nhau bằng dấu phẩy"}<input value={value} onChange={e => setValue(e.target.value)} /></label>
-      <div className="rp-fields"><label>Từ mới mỗi buổi<input type="number" min={1} max={5000} value={perSession || ""} onChange={e => setPerSession(+e.target.value)} /></label><label>Giờ nhắc học<input type="time" value={time} onChange={e => setTime(e.target.value)} /></label></div>
-      <p className="rp-note">Ngày không tồn tại (như 31/2) được bỏ qua. Mỗi buổi ôn toàn bộ từ của các buổi trước. Bạn có thể đặt số mục mới riêng cho từng ngày.</p>
-      <div className="rp-preview"><strong>{dateError || `${dates.length} buổi · Đã chọn ${selected.size} mục`}</strong>{dates.map((d, i) => <label key={d}>{d.split("-").reverse().join("/")}<input aria-label={`Số mục mới ngày ${d}`} type="number" min={1} max={5000} value={sessionSizes[i] ?? perSession} onChange={e => setSessionSizes(prev => { const next = dates.map((_, j) => prev[j] ?? perSession); next[i] = +e.target.value; return next; })} /><span>{Math.min(dates.slice(0, i + 1).reduce((sum, _, j) => sum + (sessionSizes[j] ?? perSession), 0), selected.size)} mục cộng dồn</span></label>)}{selected.size > sessionSizes.reduce((a, b) => a + b, 0) && <p className="rp-warning">Còn {selected.size - sessionSizes.reduce((a, b) => a + b, 0)} mục chưa có buổi học.</p>}</div>
+      <div className="rp-fields"><label>Giờ nhắc học<input type="time" value={time} onChange={e => setTime(e.target.value)} /></label></div>
+      <p className="rp-note">Ngày không tồn tại (như 31/2) được bỏ qua. Chọn bài/nhóm riêng cho từng buổi; từ các buổi trước sẽ tự động được ôn lại.</p>
+      <div className="rp-preview"><strong>{dateError || `${dates.length} buổi · Chọn nguồn học riêng cho từng buổi`}</strong>{dates.map((d, i) => <label className="rp-session-source" key={d}><strong>{d.split("-").reverse().join("/")}</strong><select multiple size={Math.min(5, Math.max(3, groups.length + 1))} aria-label={`Bài học và nhóm từ vựng ngày ${d}`} value={sessionGroups[i] ?? []} onChange={e => { const values = [...e.currentTarget.selectedOptions].map(option => option.value); setSessionGroups(prev => dates.map((_, j) => j === i ? values : prev[j] ?? [])); }}><option value="checked">Từ đã tích riêng ({selected.size})</option>{groups.map(g => <option key={g} value={`group:${g}`}>{g} ({words.filter(w => w.group === g).length})</option>)}</select><span>{previewSessions[i].added} mục mới · {previewSessions[i].total} mục cộng dồn</span></label>)}</div>
       {editing && <p className="rp-warning">Lưu thay đổi sẽ đặt lại trạng thái hoàn thành của lịch này. Nếu đã nhập .ics, cần cập nhật lại trong ứng dụng lịch.</p>}
       <button className="rp-primary rp-wide" disabled={!ready || !!dateError || !selected.size} onClick={savePlan}>Lưu lịch học</button>
     </section><section className="rp-panel"><span className="rp-kicker">02 / NỘI DUNG</span><h2>Chọn điều bạn muốn nhớ</h2><p>Chọn cả bài, nhóm hoặc từng từ. Thứ tự học theo danh sách nguồn, bộ custom theo thứ tự dòng nhập.</p>
       <label>Nguồn / bài / nhóm<select value={group} onChange={e => setGroup(e.target.value)}><option value="">Tất cả nguồn ({words.length})</option>{groups.map(g => <option key={g}>{g}</option>)}</select></label>
       <label>Tìm từ, ý nghĩa, cách đọc<input placeholder="学校, trường học, hello…" value={query} onChange={e => setQuery(e.target.value)} /></label>
-      <div className="rp-actions"><button onClick={() => setSelected(new Set([...selected, ...filtered.map(w => w.id)]))}>Chọn {filtered.length} mục đang lọc</button><button onClick={() => { const next = new Set(selected); filtered.forEach(w => next.delete(w.id)); setSelected(next); }}>Bỏ nhóm đang lọc</button><button onClick={() => setSelected(new Set())}>Bỏ tất cả ({selected.size})</button></div>
+      <div className="rp-actions"><button onClick={() => setSelected(new Set([...selected, ...filtered.map(w => w.id)]))}>Chọn {filtered.length} mục đang lọc</button><button onClick={() => { const next = new Set(selected); filtered.forEach(w => next.delete(w.id)); setSelected(next); }}>Bỏ nhóm đang lọc</button><button onClick={() => setSelected(new Set())}>Bỏ tất cả ({selected.size})</button></div><p className="rp-note">Tích từng từ ở đây, rồi chọn “Từ đã tích riêng” trong buổi muốn học. Hoặc chọn cả bài/nhóm ngay trong từng buổi.</p>
       <div className="rp-picker">{filtered.slice(0, 300).map(w => <label key={w.id} className="rp-word-check"><input type="checkbox" checked={selected.has(w.id)} onChange={e => { const next = new Set(selected); if (e.target.checked) next.add(w.id); else next.delete(w.id); setSelected(next); }} /><span><strong>{w.term}</strong><small>{w.meaning || w.reading} · {w.group}</small></span></label>)}{filtered.length > 300 && <p>Hiển thị 300/{filtered.length} mục. Lọc theo nhóm hoặc tìm kiếm để chọn chi tiết; nút chọn nhóm áp dụng cho toàn bộ kết quả.</p>}{!filtered.length && <p>Không tìm thấy mục phù hợp.</p>}</div>
     </section></div>}
     {tab === "import" && <section className="rp-panel"><span className="rp-kicker">TỪ CỦA BẠN · NGÔN NGỮ CỦA BẠN</span><h2>Nhập bộ từ tùy chỉnh</h2><p>{data.custom.length} mục tùy chỉnh đã lưu. Hỗ trợ tiếng Nhật, tiếng Anh và các ngôn ngữ khác.</p>
@@ -109,7 +119,7 @@ export function RepeatClient({ catalog }: { catalog: StudyWord[] }) {
       <label className="rp-upload">Chọn file CSV hoặc JSON (tối đa 5 MB)<input type="file" accept=".csv,.json" disabled={!ready} onChange={async e => {
         const file = e.target.files?.[0]; e.target.value = ""; if (!file) return;
         setDraft([]);
-        try { if (file.size > 5 * 1024 * 1024) throw new Error("File vượt quá 5 MB."); if (!/\.(csv|json)$/i.test(file.name)) throw new Error("Hãy chọn file CSV hoặc JSON."); setDraft(importWords(await file.text(), file.name.toLowerCase().endsWith(".json") ? "json" : "csv", crypto.randomUUID())); setMessage("Đã đọc file. Kiểm tra bản xem trước rồi nhấn Nhập bộ từ."); }
+        try { if (file.size > 5 * 1024 * 1024) throw new Error("File vượt quá 5 MB."); if (!/\.(csv|json)$/i.test(file.name)) throw new Error("Hãy chọn file CSV hoặc JSON."); const batch = crypto.randomUUID(), collection = `Bộ nhập · ${file.name.replace(/\.(csv|json)$/i, "")}`; setDraft(importWords(await file.text(), file.name.toLowerCase().endsWith(".json") ? "json" : "csv", batch).map(w => w.group === "Từ tùy chỉnh" ? { ...w, group: collection } : w)); setMessage("Đã đọc file. Kiểm tra bản xem trước rồi nhấn Nhập bộ từ."); }
         catch (error) { setMessage((error as Error).message); }
       }} /></label>
       {!!draft.length && <><h3>Xem trước {draft.length} mục</h3><WordList words={draft.slice(0, 20)} /><p>Hiển thị tối đa 20 mục đầu. Nhập file sẽ thêm bộ mới, không thay thế bộ cũ.</p><button className="rp-primary" onClick={() => { if (persist({ ...data, custom: [...data.custom, ...draft] })) { setDraft([]); setMessage("Đã nhập bộ từ. Bạn có thể chọn chúng trong Thiết lập lịch."); } }}>Nhập {draft.length} mục</button></>}

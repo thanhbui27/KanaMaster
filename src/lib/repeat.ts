@@ -4,7 +4,7 @@ export type StudyWord = {
 };
 export type StudyPlan = {
   id: string; name: string; dates: string[]; perSession: number; time: string;
-  words: StudyWord[]; completed: string[]; reminder: boolean; sessionSizes?: number[];
+  words: StudyWord[]; completed: string[]; reminder: boolean; sessionSizes?: number[]; sessionGroups?: string[][];
 };
 export type RepeatStore = { version: 1; custom: StudyWord[]; plans: StudyPlan[] };
 export const REPEAT_KEY = "kanamaster-repeat-v1";
@@ -36,6 +36,14 @@ export function scheduleDates(start: string, end: string, mode: "interval" | "mo
   return dates;
 }
 export function sessionWords(plan: StudyPlan, index: number) {
+  if (plan.sessionGroups?.length === plan.dates.length) {
+    const previousGroups = new Set(plan.sessionGroups.slice(0, index).flat());
+    const currentGroups = new Set(plan.sessionGroups.slice(0, index + 1).flat());
+    const previousWords = plan.words.filter(w => previousGroups.has(`group:${w.group}`) || previousGroups.has(`word:${w.id}`));
+    const words = plan.words.filter(w => currentGroups.has(`group:${w.group}`) || currentGroups.has(`word:${w.id}`));
+    const ids = new Set(previousWords.map(w => w.id));
+    return { words, oldCount: previousWords.length, newCount: words.filter(w => !ids.has(w.id)).length };
+  }
   const sizes = plan.sessionSizes?.length === plan.dates.length ? plan.sessionSizes : plan.dates.map(() => plan.perSession);
   const previous = Math.min(sizes.slice(0, index).reduce((a, b) => a + b, 0), plan.words.length);
   const total = Math.min(previous + sizes[index], plan.words.length);
@@ -111,7 +119,8 @@ export function decodeRepeat(raw: string | null): RepeatStore {
   if (data.version !== 1 || !Array.isArray(data.custom) || !data.custom.every(isWord) || !Array.isArray(data.plans) || !data.plans.every(p =>
     p && typeof p.id === "string" && typeof p.name === "string" && typeof p.reminder === "boolean" && /^([01]\d|2[0-3]):[0-5]\d$/.test(p.time) &&
     Number.isInteger(p.perSession) && p.perSession > 0 && Array.isArray(p.dates) && p.dates.length > 0 && p.dates.every(d => typeof d === "string" && validDate(d)) && new Set(p.dates).size === p.dates.length && p.dates.join() === [...p.dates].sort().join() &&
-    (p.sessionSizes === undefined || Array.isArray(p.sessionSizes) && p.sessionSizes.length === p.dates.length && p.sessionSizes.every(n => Number.isInteger(n) && n > 0)) && Array.isArray(p.words) && p.words.length > 0 && p.words.every(isWord) &&
+    (p.sessionSizes === undefined || Array.isArray(p.sessionSizes) && p.sessionSizes.length === p.dates.length && p.sessionSizes.every(n => Number.isInteger(n) && n > 0)) &&
+    (p.sessionGroups === undefined || Array.isArray(p.sessionGroups) && p.sessionGroups.length === p.dates.length && p.sessionGroups.every(groups => Array.isArray(groups) && groups.every(g => typeof g === "string"))) && Array.isArray(p.words) && p.words.length > 0 && p.words.every(isWord) &&
     Array.isArray(p.completed) && p.completed.every(d => p.dates.includes(d)))) throw new Error("Dữ liệu Repeat không hợp lệ. Dữ liệu cũ được giữ nguyên; hãy khôi phục bản sao lưu hợp lệ.");
   return data;
 }
