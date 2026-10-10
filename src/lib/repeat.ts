@@ -4,7 +4,7 @@ export type StudyWord = {
 };
 export type StudyPlan = {
   id: string; name: string; dates: string[]; perSession: number; time: string;
-  words: StudyWord[]; completed: string[]; reminder: boolean;
+  words: StudyWord[]; completed: string[]; reminder: boolean; sessionSizes?: number[];
 };
 export type RepeatStore = { version: 1; custom: StudyWord[]; plans: StudyPlan[] };
 export const REPEAT_KEY = "kanamaster-repeat-v1";
@@ -36,8 +36,9 @@ export function scheduleDates(start: string, end: string, mode: "interval" | "mo
   return dates;
 }
 export function sessionWords(plan: StudyPlan, index: number) {
-  const previous = Math.min(index * plan.perSession, plan.words.length);
-  const total = Math.min((index + 1) * plan.perSession, plan.words.length);
+  const sizes = plan.sessionSizes?.length === plan.dates.length ? plan.sessionSizes : plan.dates.map(() => plan.perSession);
+  const previous = Math.min(sizes.slice(0, index).reduce((a, b) => a + b, 0), plan.words.length);
+  const total = Math.min(previous + sizes[index], plan.words.length);
   return { words: plan.words.slice(0, total), oldCount: previous, newCount: total - previous };
 }
 // Handles quoted commas, escaped quotes and multiline cells (including Excel BOM).
@@ -109,8 +110,8 @@ export function decodeRepeat(raw: string | null): RepeatStore {
   const data = JSON.parse(raw) as RepeatStore;
   if (data.version !== 1 || !Array.isArray(data.custom) || !data.custom.every(isWord) || !Array.isArray(data.plans) || !data.plans.every(p =>
     p && typeof p.id === "string" && typeof p.name === "string" && typeof p.reminder === "boolean" && /^([01]\d|2[0-3]):[0-5]\d$/.test(p.time) &&
-    Number.isInteger(p.perSession) && p.perSession > 0 && Array.isArray(p.words) && p.words.length > 0 && p.words.every(isWord) &&
-    Array.isArray(p.dates) && p.dates.length > 0 && p.dates.every(d => typeof d === "string" && validDate(d)) && new Set(p.dates).size === p.dates.length && p.dates.join() === [...p.dates].sort().join() &&
+    Number.isInteger(p.perSession) && p.perSession > 0 && Array.isArray(p.dates) && p.dates.length > 0 && p.dates.every(d => typeof d === "string" && validDate(d)) && new Set(p.dates).size === p.dates.length && p.dates.join() === [...p.dates].sort().join() &&
+    (p.sessionSizes === undefined || Array.isArray(p.sessionSizes) && p.sessionSizes.length === p.dates.length && p.sessionSizes.every(n => Number.isInteger(n) && n > 0)) && Array.isArray(p.words) && p.words.length > 0 && p.words.every(isWord) &&
     Array.isArray(p.completed) && p.completed.every(d => p.dates.includes(d)))) throw new Error("Dữ liệu Repeat không hợp lệ. Dữ liệu cũ được giữ nguyên; hãy khôi phục bản sao lưu hợp lệ.");
   return data;
 }
