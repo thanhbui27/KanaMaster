@@ -1038,7 +1038,7 @@
     {
       "id": "section-2",
       "sourceId": "content_box29",
-      "title": "2. ここ/そこ/あそこ/こちら/そちら/あちら",
+      "title": "1. ここ/そこ/あそこ/こちら/そちら/あちら",
       "kind": "lesson",
       "blocks": [
         {
@@ -1094,7 +1094,7 @@
     {
       "id": "section-3",
       "sourceId": "content_box31",
-      "title": "3. N1は　N2（địa điểm）です",
+      "title": "2. N1は　N2（địa điểm）です",
       "kind": "lesson",
       "blocks": [
         {
@@ -1154,7 +1154,7 @@
     {
       "id": "section-4",
       "sourceId": "content_box32",
-      "title": "4. どこ/どちら",
+      "title": "3. どこ/どちら",
       "kind": "lesson",
       "blocks": [
         {
@@ -1198,7 +1198,7 @@
     {
       "id": "section-5",
       "sourceId": "content_box33",
-      "title": "5. N1のN2",
+      "title": "4. N1のN2",
       "kind": "lesson",
       "blocks": [
         {
@@ -1224,37 +1224,9 @@
       "media": []
     },
     {
-      "id": "section-6",
-      "sourceId": "content_box34",
-      "title": "6. ～は　いくらですか　―＞　～は～円です。",
-      "kind": "lesson",
-      "blocks": [
-        {
-          "type": "text",
-          "text": "Mẫu này được dùng để hỏi và trả lời về giá tiền của một đồ vật nào đó."
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              {
-                "text": "例1： このネクタイは　１５００円です。 Cái cà vạt này giá 1500 yên. 例2： A : これは　いくらですか。 Cái này bao nhiêu tiền? B : 8400円です。 8400 yên.",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ]
-          ]
-        }
-      ],
-      "text": "Mẫu này được dùng để hỏi và trả lời về giá tiền của một đồ vật nào đó.\n例1\n：\nこのネクタイは　１５００円です。\nCái cà vạt này giá 1500 yên.\n例2\n：\nA :\nこれは　いくらですか。\nCái này bao nhiêu tiền?\nB :\n8400\n円です。\n8400 yên.",
-      "ruby": [],
-      "links": [],
-      "media": []
-    },
-    {
       "id": "section-7",
       "sourceId": "content_box35",
-      "title": "7. こ/そ/あ/ど",
+      "title": "5. こ/そ/あ/ど",
       "kind": "lesson",
       "blocks": [
         {
@@ -1503,6 +1475,22 @@
         }
       ],
       "text": "Các bạn làm #Comment đáp án Riki sẽ chữa và trả lời lại nha\n1.\n例：（\nわたし　、\nわたしは\n、わたしの\n）ミラーです。\n１）（\nこれ、その、ここ\n）は　ドイツの　車です。\n２）（\nそれ、その、そこ\n）かばんは（\nわたし、わたしは、わたしの\n）です。\n３）じむしょは（\nあれ、あの、あそこ\n）です。\n４）すみません。でんわは（\nだれ、なん、どこ\n）ですか。\n2.\n例：それは　（\nなん\n）　ですか。\n...\nじしょです。\n１）すみません。おてあらいは\n(_______)\nですか。\n...\nあちらです。\n２）ミラーさんは　（\n____\n）ですか。\n...\nかいぎしつです。\n３）カメラうりばは　（\n____\n）ですか。\n...  5\nかいです。\n４）おくには　（\n____\n）ですか。\n...\nドイツです。\n５）かいしゃは　（\n____\n）ですか。\n...\nパワーでんきです。\n６）パワーでんきは　（\n____\n）のかいしゃ　ですか。\n...\nコンピューターの　かいしゃです。\n７）これは　（\n____\n）の　ワインですか。\n...\nイタリアの　ワインです。\n８）この　ワインは　（\n____\n）ですか。\n...  2,800\nえんです。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "book-grammar-o",
+      "sourceId": "book-reconciliation",
+      "title": "6. お～",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Tiền tố お được thêm trước một số từ liên quan đến người nghe hoặc người thứ ba để thể hiện sự kính trọng. Ví dụ: お国はどちらですか。— Anh/chị là người nước nào?"
+        }
+      ],
+      "text": "Tiền tố お được thêm trước một số từ liên quan đến người nghe hoặc người thứ ba để thể hiện sự kính trọng. Ví dụ: お国はどちらですか。— Anh/chị là người nước nào?",
       "ruby": [],
       "links": [],
       "media": []

@@ -1516,38 +1516,6 @@
       "media": []
     },
     {
-      "id": "section-10",
-      "sourceId": "content_box199",
-      "title": "10. どれ",
-      "kind": "lesson",
-      "blocks": [
-        {
-          "type": "text",
-          "text": "Từ để hỏi này được dùng khi người nói muốn đề nghị người nghe chọn hoặc chỉ rõ một cái từ những cái ( 3 cái trở lên ) được nêu ra"
-        },
-        {
-          "type": "text",
-          "text": "例　  Anh A chỉ vào khoảng 4,5 cái ô khác nhau và hỏi anh"
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              {
-                "text": "A: Bさんの　かさは　どれですか。 Ô của anh là cái nào? B:　あの　あおいかさです。 Cái màu xanh kia.",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ]
-          ]
-        }
-      ],
-      "text": "Từ để hỏi này được dùng khi người nói muốn đề nghị người nghe chọn hoặc chỉ rõ một cái từ những cái (\n3 cái trở lên\n) được nêu ra\n例\nAnh A chỉ vào khoảng 4,5 cái ô khác nhau và hỏi anh\nA: B\nさんの　かさは　どれですか。\nÔ của anh là cái nào?\nB:\nあの　あおいかさです。\nCái màu xanh kia.",
-      "ruby": [],
-      "links": [],
-      "media": []
-    },
-    {
       "id": "section-11",
       "sourceId": "content_box05",
       "title": "Luyện tập",

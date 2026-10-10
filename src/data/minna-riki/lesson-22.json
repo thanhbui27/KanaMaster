@@ -939,6 +939,22 @@
       "ruby": [],
       "links": [],
       "media": []
+    },
+    {
+      "id": "book-grammar-mashouka",
+      "sourceId": "book-reconciliation",
+      "title": "3. Động từ thể ます + ましょうか",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong bài này, ましょうか được dùng để đề nghị người nói và người nghe cùng làm một việc. Ví dụ: いっしょに行きましょうか。— Chúng ta cùng đi nhé?"
+        }
+      ],
+      "text": "Trong bài này, ましょうか được dùng để đề nghị người nói và người nghe cùng làm một việc. Ví dụ: いっしょに行きましょうか。— Chúng ta cùng đi nhé?",
+      "ruby": [],
+      "links": [],
+      "media": []
     }
   ]
 }

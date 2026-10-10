@@ -1216,7 +1216,7 @@
     {
       "id": "section-6",
       "sourceId": "content_box75",
-      "title": "6. もう　Vました",
+      "title": "5. もう　Vました",
       "kind": "lesson",
       "blocks": [
         {
@@ -1333,6 +1333,22 @@
         }
       ],
       "text": "1.\n例：もう　昼ごはんを　食べましたか。\n...\nいいえ、\nまだです\n。\nこれから\n食べます\n。いっしょに\n食べませんか\n。\n１）もう　大阪城へ　行きましたか。\n...\nいいえ、\n______\n。\n日曜日　ミラーさんと\n______\n。いっしょに\n______\n。\n２）もう　クリスマスカードを　書きましたか。\n...\nはい、\n______\n。\n３）もう　荷物を　送りましたか。\n...\nいいえ、\n______\n。\nきょうの　午後\n______\n。\n４）テレーザちゃんは　もう　寝ましたか。\n...\nはい、\n______\n。\n2.\n例：これは　イタリア　（の）　靴です。\n１）わたしは　はし　（\n____\n）　ごはんを　食べます。\n２）メール　（\n____\n）　レポートを　送りました。\n３）「さようなら」は　英語　（\n____\n）　何ですか。\n４）わたしは　きのう　彼女　（\n____\n）　手紙　（\n____\n）　書きました。\n５）わたしは　友達　（\n____\n）　お土産　（\n____\n）　もらいました。",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "book-grammar-particle-omission",
+      "sourceId": "book-reconciliation",
+      "title": "6. Tỉnh lược trợ từ",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trong hội thoại, khi quan hệ giữa các câu giúp người nghe hiểu rõ ý nghĩa, trợ từ có thể được lược bỏ. Ví dụ: このスプーン（は）、すてきですね。— Cái thìa này đẹp nhỉ! コーヒー（を）、もう一杯いかがですか。— Anh/chị dùng thêm một cốc cà phê nhé?"
+        }
+      ],
+      "text": "Trong hội thoại, khi quan hệ giữa các câu giúp người nghe hiểu rõ ý nghĩa, trợ từ có thể được lược bỏ. Ví dụ: このスプーン（は）、すてきですね。— Cái thìa này đẹp nhỉ! コーヒー（を）、もう一杯いかがですか。— Anh/chị dùng thêm một cốc cà phê nhé?",
       "ruby": [],
       "links": [],
       "media": []

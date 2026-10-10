@@ -27,7 +27,7 @@ const lessons = fs.readdirSync(directory).filter(f => /^lesson-\d+\.json$/.test(
 });
 const first = lessons.find(l => l.id === 1);
 assert.equal(first.vocabulary.length, 48);
-assert.equal(first.grammar.length, 5);
+assert.equal(first.grammar.length, 6);
 assert.equal(first.exercises.length, 11);
 assert.equal(first.exercises[0].parts.filter(p => p.type === 'input').length, 4, 'Keep multi-line dialogue together');
 assert.equal(first.exercises[6].parts.filter(p => p.type === 'input').length, 2, 'Both bracketed choices remain interactive');

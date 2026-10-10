@@ -799,6 +799,22 @@
       "ruby": [],
       "links": [],
       "media": []
+    },
+    {
+      "id": "book-grammar-wa-ga-verb",
+      "sourceId": "book-reconciliation",
+      "title": "3. N1 は N2 が V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Đưa tân ngữ đã được hai người cùng biết lên làm chủ đề bằng は; danh từ chỉ người thực hiện hành động giữ vai trò chủ ngữ với が. Ví dụ: このワインは佐藤さんがくれました。— Rượu vang này là chị Sato tặng tôi."
+        }
+      ],
+      "text": "Đưa tân ngữ đã được hai người cùng biết lên làm chủ đề bằng は; danh từ chỉ người thực hiện hành động giữ vai trò chủ ngữ với が. Ví dụ: このワインは佐藤さんがくれました。— Rượu vang này là chị Sato tặng tôi.",
+      "ruby": [],
+      "links": [],
+      "media": []
     }
   ]
 }

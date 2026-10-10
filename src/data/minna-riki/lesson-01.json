@@ -1558,6 +1558,22 @@
       ],
       "links": [],
       "media": []
+    },
+    {
+      "id": "book-grammar-san",
+      "sourceId": "book-reconciliation",
+      "title": "6. ～さん",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "さん được đặt sau họ hoặc tên của người nghe hay người thứ ba để thể hiện sự lịch sự; không dùng sau tên của chính người nói. Với trẻ em có thể dùng ちゃん trong cách gọi thân mật. Khi đã biết tên người nghe, hãy gọi tên kèm さん thay vì あなた; あなた chủ yếu dùng trong quan hệ rất thân mật."
+        }
+      ],
+      "text": "さん được đặt sau họ hoặc tên của người nghe hay người thứ ba để thể hiện sự lịch sự; không dùng sau tên của chính người nói. Với trẻ em có thể dùng ちゃん trong cách gọi thân mật. Khi đã biết tên người nghe, hãy gọi tên kèm さん thay vì あなた; あなた chủ yếu dùng trong quan hệ rất thân mật.",
+      "ruby": [],
+      "links": [],
+      "media": []
     }
   ]
 }

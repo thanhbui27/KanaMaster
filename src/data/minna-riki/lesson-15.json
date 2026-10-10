@@ -1294,6 +1294,38 @@
       "ruby": [],
       "links": [],
       "media": []
+    },
+    {
+      "id": "book-grammar-ni-verb",
+      "sourceId": "book-reconciliation",
+      "title": "4. N に V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ に biểu thị nơi người hoặc vật có mặt sau khi thực hiện hành động như 入ります (đi vào), 座ります (ngồi), 乗ります (lên xe), 登ります (leo) và 着きます (đến). Ví dụ: ここに座ってもいいですか。— Tôi ngồi ở đây được không?"
+        }
+      ],
+      "text": "Trợ từ に biểu thị nơi người hoặc vật có mặt sau khi thực hiện hành động như 入ります (đi vào), 座ります (ngồi), 乗ります (lên xe), 登ります (leo) và 着きます (đến). Ví dụ: ここに座ってもいいですか。— Tôi ngồi ở đây được không?",
+      "ruby": [],
+      "links": [],
+      "media": []
+    },
+    {
+      "id": "book-grammar-ni-object",
+      "sourceId": "book-reconciliation",
+      "title": "5. N に N を V",
+      "kind": "lesson",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Trợ từ に biểu thị địa điểm mà đồ vật được đặt hoặc ghi lại sau hành động. Ví dụ: ここに車を止めてください。— Hãy đỗ xe ở đây. ここに住所を書いてください。— Hãy ghi địa chỉ vào đây."
+        }
+      ],
+      "text": "Trợ từ に biểu thị địa điểm mà đồ vật được đặt hoặc ghi lại sau hành động. Ví dụ: ここに車を止めてください。— Hãy đỗ xe ở đây. ここに住所を書いてください。— Hãy ghi địa chỉ vào đây.",
+      "ruby": [],
+      "links": [],
+      "media": []
     }
   ]
 }

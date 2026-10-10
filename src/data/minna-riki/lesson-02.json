@@ -528,6 +528,28 @@
                 "colSpan": "1"
               },
               {
+                "text": "CD",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Đĩa CD",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "24",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
                 "text": "[カセット] テープ",
                 "rowSpan": "1",
                 "colSpan": "1"
@@ -545,7 +567,7 @@
             ],
             [
               {
-                "text": "24",
+                "text": "25",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -567,7 +589,7 @@
             ],
             [
               {
-                "text": "25",
+                "text": "26",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -589,7 +611,7 @@
             ],
             [
               {
-                "text": "26",
+                "text": "27",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -611,7 +633,7 @@
             ],
             [
               {
-                "text": "27",
+                "text": "28",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -633,7 +655,7 @@
             ],
             [
               {
-                "text": "28",
+                "text": "29",
                 "rowSpan": "1",
                 "colSpan": "1"
               },
@@ -655,7 +677,117 @@
             ],
             [
               {
-                "text": "29",
+                "text": "30",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "くるま",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "車",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ô tô, xe hơi",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "31",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "つくえ",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "机",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Bàn",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "32",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "いす",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "椅子",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Ghế",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "33",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "チョコレート",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Sô-cô-la",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "34",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "コーヒー",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "",
+                "rowSpan": "1",
+                "colSpan": "1"
+              },
+              {
+                "text": "Cà phê",
+                "rowSpan": "1",
+                "colSpan": "1"
+              }
+            ],
+            [
+              {
+                "text": "35",
                 "rowSpan": "1",
                 "colSpan": "1"
               },

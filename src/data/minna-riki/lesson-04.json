@@ -1434,7 +1434,7 @@
     {
       "id": "section-2",
       "sourceId": "content_box42",
-      "title": "2. 今(いま)　～時(じ)　～分(ふん)です",
+      "title": "1. 今(いま)　～時(じ)　～分(ふん)です",
       "kind": "lesson",
       "blocks": [
         {
@@ -1585,41 +1585,9 @@
       ]
     },
     {
-      "id": "section-3",
-      "sourceId": "content_box43",
-      "title": "3. Vます",
-      "kind": "lesson",
-      "blocks": [
-        {
-          "type": "text",
-          "text": "1) Thể ます là một trong những thể của động từ trong tiếng Nhật. Những động từ kết thúc bằng ますcó chức năng làm vị ngữ của câu."
-        },
-        {
-          "type": "text",
-          "text": "2 ) Thể ます  làm cho câu nghe lịch sự hơn."
-        },
-        {
-          "type": "table",
-          "rows": [
-            [
-              {
-                "text": "例1： わたしは　まいにち　べんきょうします。 Tôi học mỗi ngày.",
-                "rowSpan": "1",
-                "colSpan": "1"
-              }
-            ]
-          ]
-        }
-      ],
-      "text": "1) Thể\nます\nlà một trong những thể của động từ trong tiếng Nhật. Những động từ kết thúc bằng\nます\ncó chức năng làm vị ngữ của câu.\n2 ) Thể\nます\nlàm cho câu nghe lịch sự hơn.\n例1\n：\nわたしは　まいにち　べんきょうします。\nTôi học mỗi ngày.",
-      "ruby": [],
-      "links": [],
-      "media": []
-    },
-    {
       "id": "section-4",
       "sourceId": "content_box44",
-      "title": "3. Vます/Vません/Vました/Vませんでした",
+      "title": "2. Vます/Vません/Vました/Vませんでした",
       "kind": "lesson",
       "blocks": [
         {
@@ -1735,7 +1703,7 @@
     {
       "id": "section-5",
       "sourceId": "content_box45",
-      "title": "4. N (thời gian) に V",
+      "title": "3. N (thời gian) に V",
       "kind": "lesson",
       "blocks": [
         {
@@ -1790,7 +1758,7 @@
     {
       "id": "section-6",
       "sourceId": "content_box46",
-      "title": "6. N1 から N2 まで",
+      "title": "4. N1 から N2 まで",
       "kind": "lesson",
       "blocks": [
         {
@@ -1850,7 +1818,7 @@
     {
       "id": "section-7",
       "sourceId": "content_box47",
-      "title": "6. N1 と N2",
+      "title": "5. N1 と N2",
       "kind": "lesson",
       "blocks": [
         {
@@ -1878,7 +1846,7 @@
     {
       "id": "section-8",
       "sourceId": "content_box48",
-      "title": "7. ね",
+      "title": "6. ね",
       "kind": "lesson",
       "blocks": [
         {
