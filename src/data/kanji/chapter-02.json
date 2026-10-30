@@ -1,0 +1,475 @@
+[
+  {
+    "id": "ch02-01",
+    "chapter": 2,
+    "order": 1,
+    "kanji": "火",
+    "hanViet": "HỎA",
+    "meaning": "lửa",
+    "kunyomi": "ひ、ほ",
+    "onyomi": "カ",
+    "mnemonicText": [
+      "Hìnhảnhđốmlửa"
+    ],
+    "introText": [
+      "火",
+      "Ý nghĩa: lửa",
+      "KUN: ひ、ほ",
+      "ON  :カ",
+      "HỎA",
+      "CÁCH NHỚ:",
+      "Hìnhảnhđốmlửa"
+    ],
+    "exampleText": [
+      "HỎA",
+      "火",
+      "Ý nghĩa: lửa",
+      "火",
+      "ひ",
+      "はな",
+      "花火",
+      "び",
+      "火曜日",
+      "か",
+      "よう び",
+      "火事",
+      "か",
+      "じ",
+      "Pháohoa",
+      "Lửa",
+      "Thứ Ba",
+      "Hỏa hoạn",
+      "KUN: ひ、ほ",
+      "ON  : カ"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch02-02",
+    "chapter": 2,
+    "order": 2,
+    "kanji": "畑",
+    "hanViet": "",
+    "meaning": "ruộng, đồng (chữ Hán do người Nhật sáng tạo)",
+    "kunyomi": "はた、はたけ",
+    "onyomi": "---",
+    "mnemonicText": [
+      "ĐIỀN: 田",
+      "ĐIỀN"
+    ],
+    "introText": [
+      "---",
+      "Ý nghĩa: ruộng, đồng",
+      "(chữ Hán do người Nhật sáng tạo)",
+      "KUN: はた、はたけ",
+      "ON  :　---",
+      "HỎA",
+      "HỎA: 火",
+      "DùngLỬA火 để đốt cỏ ở ĐỒNG RUỘNG 田 để làm vườn畑 canh tác",
+      "CÁCH NHỚ:",
+      "ĐIỀN: 田",
+      "ĐIỀN"
+    ],
+    "exampleText": [
+      "---",
+      "畑",
+      "Ý nghĩa: ruộng, đồng",
+      "畑",
+      "はたけ",
+      "Cánhđồng",
+      "KUN: はた、はたけ",
+      "ON  :　---"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch02-03",
+    "chapter": 2,
+    "order": 3,
+    "kanji": "秋",
+    "hanViet": "THU",
+    "meaning": "mùa thu",
+    "kunyomi": "あき",
+    "onyomi": "シュウ",
+    "mnemonicText": [
+      "THU",
+      "Ý nghĩa: mùa thu",
+      "KUN: あき ON  :　シュウ",
+      "HỎA",
+      "Mùa THU 秋 thu hoạch LÚA 禾 rồi dùng LỬA火 đốt để loại bỏ côn trùng/đốt rơm",
+      "HÒA",
+      "HÒA:禾",
+      "HỎA: 火"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "THU",
+      "Ý nghĩa: mùa thu",
+      "KUN: あき ON  :　シュウ",
+      "HỎA",
+      "Mùa THU 秋 thu hoạch LÚA 禾 rồi dùng LỬA火 đốt để loại bỏ côn trùng/đốt rơm",
+      "HÒA",
+      "HÒA:禾",
+      "HỎA: 火"
+    ],
+    "exampleText": [
+      "THU",
+      "秋",
+      "Ý nghĩa: mùathu",
+      "KUN: あき",
+      "ON  :　シュウ",
+      "秋",
+      "あき",
+      "Mùa thu"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        9,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch02-04",
+    "chapter": 2,
+    "order": 4,
+    "kanji": "水",
+    "hanViet": "THỦY",
+    "meaning": "nước",
+    "kunyomi": "みず",
+    "onyomi": "スイ",
+    "mnemonicText": [
+      "Hìnhảnhlànnước"
+    ],
+    "introText": [
+      "水",
+      "Ý nghĩa: nước",
+      "KUN: みず",
+      "ON  : スイ",
+      "THỦY",
+      "CÁCH NHỚ:",
+      "Hìnhảnhlànnước"
+    ],
+    "exampleText": [
+      "水道",
+      "すい",
+      "どう",
+      "Nước máy",
+      "THỦY",
+      "水",
+      "Ý nghĩa: nước",
+      "KUN: みず",
+      "ON  : スイ",
+      "水",
+      "みず",
+      "水曜日",
+      "すい",
+      "よう  び",
+      "Nước",
+      "Thứ Tư"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        17,
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "id": "ch02-05",
+    "chapter": 2,
+    "order": 5,
+    "kanji": "氷",
+    "hanViet": "BĂNG",
+    "meaning": "băng, đá",
+    "kunyomi": "こおり、ひ",
+    "onyomi": "ヒョウ",
+    "mnemonicText": [],
+    "introText": [
+      "BĂNG",
+      "Ý nghĩa: băng, đá",
+      "KUN: こおり、ひ",
+      "ON  : ヒョウ",
+      "CHỦ",
+      "Nhỏ MỘT GIỌT 丶 nước thần vào, vũngNƯỚC水 bỗng hóa thành BĂNG氷",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "BĂNG",
+      "氷",
+      "Ý nghĩa: băng, đá",
+      "氷",
+      "こおり",
+      "Băng, đá",
+      "KUN: こおり、ひ",
+      "ON  : ヒョウ"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch02-06",
+    "chapter": 2,
+    "order": 6,
+    "kanji": "泳",
+    "hanViet": "VỊNH",
+    "meaning": "bơi lội",
+    "kunyomi": "およ・ぐ",
+    "onyomi": "エイ",
+    "mnemonicText": [
+      "VỊNH",
+      "Ý nghĩa: bơi lội",
+      "KUN: およ・ぐ",
+      "ON  : エイ",
+      "CHỦ",
+      "CHẤM THỦY",
+      "Người BƠI 泳 giữalànNƯỚC",
+      "Vớicáiđầu丶ngoilên"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "VỊNH",
+      "Ý nghĩa: bơi lội",
+      "KUN: およ・ぐ",
+      "ON  : エイ",
+      "CHỦ",
+      "CHẤM THỦY",
+      "Người BƠI 泳 giữalànNƯỚC",
+      "Vớicáiđầu丶ngoilên"
+    ],
+    "exampleText": [
+      "VỊNH",
+      "泳",
+      "Ý nghĩa: bơi lội",
+      "KUN: およ・ぐ",
+      "ON  : エイ",
+      "水泳",
+      "えい",
+      "すい",
+      "泳ぐ",
+      "およ",
+      "Bơi",
+      "Việc bơi lội"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        23,
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch02-07",
+    "chapter": 2,
+    "order": 7,
+    "kanji": "雨",
+    "hanViet": "VŨ",
+    "meaning": "mưa",
+    "kunyomi": "あめ、あま",
+    "onyomi": "ウ",
+    "mnemonicText": [
+      "KUN: あめ、あま",
+      "ON  : ウ",
+      "Hìnhảnhcơnmưa"
+    ],
+    "introText": [
+      "雨",
+      "Ý nghĩa: mưa",
+      "VŨ",
+      "CÁCH NHỚ:",
+      "KUN: あめ、あま",
+      "ON  : ウ",
+      "Hìnhảnhcơnmưa"
+    ],
+    "exampleText": [
+      "VŨ",
+      "雨",
+      "Ý nghĩa: mưa",
+      "KUN: あめ、あま",
+      "ON  : ウ",
+      "雨",
+      "あめ",
+      "Mưa"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        34,
+        35,
+        36
+      ]
+    }
+  },
+  {
+    "id": "ch02-08",
+    "chapter": 2,
+    "order": 8,
+    "kanji": "電",
+    "hanViet": "ĐIỆN",
+    "meaning": "điện",
+    "kunyomi": "---",
+    "onyomi": "デン",
+    "mnemonicText": [
+      "VŨ",
+      "Khi trờiMƯA雨, sấmséttrênCÁNH ĐỒNG 田tạo ra",
+      "DÒNG ĐIỆN 電"
+    ],
+    "introText": [
+      "Ý nghĩa: điện",
+      "KUN: ---",
+      "ON  : デン",
+      "ĐIỆN",
+      "CÁCH NHỚ:",
+      "VŨ",
+      "Khi trờiMƯA雨, sấmséttrênCÁNH ĐỒNG 田tạo ra",
+      "DÒNG ĐIỆN 電"
+    ],
+    "exampleText": [
+      "ĐIỆN",
+      "電",
+      "Ý nghĩa: điện",
+      "KUN: ---",
+      "ON  : デン",
+      "電話",
+      "でん",
+      "わ",
+      "電気",
+      "でん",
+      "電車",
+      "でん",
+      "しゃ",
+      "Điện, bóngđèn",
+      "Điện thoại",
+      "Tàu điện",
+      "電池",
+      "でん",
+      "ち",
+      "Pin",
+      "電源",
+      "でん",
+      "げん",
+      "Nguồn điện",
+      "き"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        37,
+        38,
+        39
+      ]
+    }
+  },
+  {
+    "id": "ch02-09",
+    "chapter": 2,
+    "order": 9,
+    "kanji": "雪",
+    "hanViet": "TUYẾT",
+    "meaning": "tuyết",
+    "kunyomi": "ゆき",
+    "onyomi": "セツ",
+    "mnemonicText": [
+      "KUN:ゆき",
+      "ON  : セツ",
+      "VŨ",
+      "MƯA雨TUYẾT 雪rơixuốngthànhtừnglớpヨtừnglớpchồnglênnhau"
+    ],
+    "introText": [
+      "Ý nghĩa: tuyết",
+      "TUYẾT",
+      "CÁCH NHỚ:",
+      "KUN:ゆき",
+      "ON  : セツ",
+      "VŨ",
+      "MƯA雨TUYẾT 雪rơixuốngthànhtừnglớpヨtừnglớpchồnglênnhau"
+    ],
+    "exampleText": [
+      "TUYẾT",
+      "雪",
+      "Ý nghĩa: tuyết",
+      "KUN:ゆき",
+      "ON  : セツ",
+      "雪",
+      "ゆき",
+      "Tuyết"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        40,
+        41,
+        42
+      ]
+    }
+  },
+  {
+    "id": "ch02-10",
+    "chapter": 2,
+    "order": 10,
+    "kanji": "雲",
+    "hanViet": "VÂN",
+    "meaning": "mây",
+    "kunyomi": "くも",
+    "onyomi": "ウン",
+    "mnemonicText": [
+      "VŨ",
+      "NhữngĐÁM MÂY雲",
+      "đentụlại 云, chuẩnbịcóCƠN MƯA 雨rơixuống"
+    ],
+    "introText": [
+      "Ý nghĩa: mây",
+      "KUN:くも",
+      "ON  : ウン",
+      "VÂN",
+      "CÁCH NHỚ:",
+      "VŨ",
+      "NhữngĐÁM MÂY雲",
+      "đentụlại 云, chuẩnbịcóCƠN MƯA 雨rơixuống"
+    ],
+    "exampleText": [
+      "VÂN",
+      "雲",
+      "Ý nghĩa: mây",
+      "KUN:くも",
+      "ON  : ウン",
+      "雲",
+      "くも",
+      "Mây"
+    ],
+    "source": {
+      "file": "2. Tổng hợp Kanji chương 2 (1).pptx",
+      "slides": [
+        43,
+        44,
+        45
+      ]
+    }
+  }
+]

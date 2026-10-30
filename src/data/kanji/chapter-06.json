@@ -1,0 +1,597 @@
+[
+  {
+    "id": "ch06-01",
+    "chapter": 6,
+    "order": 1,
+    "kanji": "金",
+    "hanViet": "KIM",
+    "meaning": "vàng, tiền",
+    "kunyomi": "かね、かな",
+    "onyomi": "キン、コン",
+    "mnemonicText": [
+      "TrênlàMÁI NHÀ, dướilà",
+      "ĐẤT 土, trongnhàcấtnhiều",
+      "VÀNG 金"
+    ],
+    "introText": [
+      "Ý nghĩa: vàng, tiền",
+      "KUN: かね、かな",
+      "ON  : キン、コン",
+      "KIM",
+      "CÁCH NHỚ:",
+      "TrênlàMÁI NHÀ, dướilà",
+      "ĐẤT 土, trongnhàcấtnhiều",
+      "VÀNG 金"
+    ],
+    "exampleText": [
+      "KIM",
+      "Ý nghĩa: vàng, tiền",
+      "KUN: かね、かな",
+      "ON  : キン、コン",
+      "金曜日",
+      "きん",
+      "お金",
+      "かね",
+      "貯金します",
+      "きん",
+      "ちょ",
+      "金額",
+      "きん",
+      "がく",
+      "Tiền",
+      "ThứSáu",
+      "Tiếtkiệmtiền",
+      "Khoảntiền",
+      "よう び",
+      "現金",
+      "げん",
+      "きん",
+      "Tiềnmặt",
+      "金"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch06-02",
+    "chapter": 6,
+    "order": 2,
+    "kanji": "銀",
+    "hanViet": "NGÂN",
+    "meaning": "bạc",
+    "kunyomi": "---",
+    "onyomi": "ギン",
+    "mnemonicText": [
+      "CẤN"
+    ],
+    "introText": [
+      "NGÂN",
+      "Ý nghĩa: bạc",
+      "KUN: ---",
+      "ON  : ギン",
+      "NGÂN 銀 hànglànơiGIỮ",
+      "(Cấn: 艮) TIỀN 金",
+      "CÁCH NHỚ:",
+      "CẤN"
+    ],
+    "exampleText": [
+      "NGÂN",
+      "銀",
+      "Ý nghĩa: bạc",
+      "KUN: ---",
+      "ON  : ギン",
+      "銀行",
+      "Ngân hàng",
+      "こう",
+      "ぎん"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch06-03",
+    "chapter": 6,
+    "order": 3,
+    "kanji": "行",
+    "hanViet": "HÀNH",
+    "meaning": "đi, thựchiện",
+    "kunyomi": "い・く、ゆ・く おこな・う",
+    "onyomi": "コウ、キュウ",
+    "mnemonicText": [
+      "XÍCH"
+    ],
+    "introText": [
+      "HÀNH",
+      "Ý nghĩa: đi, thựchiện",
+      "KUN: い・く、ゆ・く",
+      "おこな・う",
+      "ON  : コウ、キュウ",
+      "Hìnhảnh con đườngnơimọingườiĐI LẠI 行",
+      "CÁCH NHỚ:",
+      "XÍCH"
+    ],
+    "exampleText": [
+      "HÀNH",
+      "行",
+      "Ý nghĩa: đi, thựchiện",
+      "KUN: い・く、ゆ・く",
+      "おこな・う",
+      "ON  : コウ、キュウ",
+      "行います",
+      "おこな",
+      "行きます",
+      "い",
+      "Đi",
+      "Tiến hành, tổchức"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        9,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch06-04",
+    "chapter": 6,
+    "order": 4,
+    "kanji": "半",
+    "hanViet": "BÁN",
+    "meaning": "mộtnửa",
+    "kunyomi": "なか・ば",
+    "onyomi": "ハン",
+    "mnemonicText": [
+      "Hìnhảnh con dao chặtđứtđôi 3 thanhcủithành",
+      "2 NỬA BẰNG NHAU"
+    ],
+    "introText": [
+      "Ý nghĩa: mộtnửa",
+      "KUN: なか・ば",
+      "ON  : ハン",
+      "BÁN",
+      "CÁCH NHỚ:",
+      "Hìnhảnh con dao chặtđứtđôi 3 thanhcủithành",
+      "2 NỬA BẰNG NHAU"
+    ],
+    "exampleText": [
+      "BÁN",
+      "Ý nghĩa: mộtnửa",
+      "KUN: なか・ば",
+      "ON  : ハン",
+      "半分",
+      "はん",
+      "ぶん",
+      "半年",
+      "はん",
+      "とし",
+      "Mộtnửa, mộtphần",
+      "Nửanăm",
+      "半"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        17,
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "id": "ch06-05",
+    "chapter": 6,
+    "order": 5,
+    "kanji": "米",
+    "hanViet": "MỄ",
+    "meaning": "gạo, Mỹ",
+    "kunyomi": "こめ",
+    "onyomi": "マイ、ベイ",
+    "mnemonicText": [],
+    "introText": [
+      "MỄ",
+      "Ý nghĩa: gạo, Mỹ",
+      "KUN: こめ",
+      "ON  : マイ、ベイ",
+      "HìnhảnhbólúavớinhữnghạtthócGẠO 米",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "MỄ",
+      "米",
+      "Ý nghĩa: gạo, Mỹ",
+      "KUN: こめ",
+      "ON  : マイ、ベイ",
+      "米",
+      "Gạo",
+      "こめ"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch06-06",
+    "chapter": 6,
+    "order": 6,
+    "kanji": "来",
+    "hanViet": "LAI",
+    "meaning": "đến, tươnglai",
+    "kunyomi": "く・る、きた・す",
+    "onyomi": "ライ",
+    "mnemonicText": [
+      "NgườiĐẾN 来 để",
+      "GÁNH GẠO 米 về"
+    ],
+    "introText": [
+      "LAI",
+      "Ý nghĩa: đến, tươnglai",
+      "KUN: く・る、きた・す",
+      "ON  : ライ",
+      "CÁCH NHỚ:",
+      "NgườiĐẾN 来 để",
+      "GÁNH GẠO 米 về"
+    ],
+    "exampleText": [
+      "LAI",
+      "来",
+      "KUN: く・る、きた・す",
+      "ON  : ライ",
+      "来週",
+      "き",
+      "持って来ます",
+      "らい",
+      "Mang đến",
+      "Tuầnsau",
+      "Ý nghĩa: đến, tương lai",
+      "来年",
+      "将来",
+      "再来月",
+      "らい",
+      "らい",
+      "らい",
+      "も",
+      "しゅう",
+      "ねん",
+      "しょう",
+      "さ",
+      "げつ",
+      "Nămsau",
+      "Tương lai",
+      "Thángsaunữa"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        23,
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch06-07",
+    "chapter": 6,
+    "order": 7,
+    "kanji": "前",
+    "hanViet": "TIỀN",
+    "meaning": "trước",
+    "kunyomi": "まえ",
+    "onyomi": "ゼン",
+    "mnemonicText": [
+      "Đêm TRĂNG 月 , mộtngười",
+      "độiđèn䒑 cầm ĐAO 刂",
+      "tiếnvềPHÍA TRƯỚC 前",
+      "NGUYỆT",
+      "ĐAO"
+    ],
+    "introText": [
+      "Ý nghĩa: trước",
+      "KUN: まえ",
+      "ON  : ゼン",
+      "TIỀN",
+      "CÁCH NHỚ:",
+      "Đêm TRĂNG 月 , mộtngười",
+      "độiđèn䒑 cầm ĐAO 刂",
+      "tiếnvềPHÍA TRƯỚC 前",
+      "NGUYỆT",
+      "ĐAO"
+    ],
+    "exampleText": [
+      "TIỀN",
+      "Ý nghĩa: trước",
+      "KUN: まえ",
+      "ON  : ゼン",
+      "名前",
+      "まえ",
+      "な",
+      "駅前",
+      "まえ",
+      "えき",
+      "Phíatrước",
+      "Tên",
+      "前",
+      "前",
+      "午前",
+      "まえ",
+      "ぜん",
+      "ご",
+      "Trướcnhà ga",
+      "Sáng (trước 12h)"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        33,
+        34,
+        35
+      ]
+    }
+  },
+  {
+    "id": "ch06-08",
+    "chapter": 6,
+    "order": 8,
+    "kanji": "帰",
+    "hanViet": "QUY",
+    "meaning": "trở về",
+    "kunyomi": "かえ・る",
+    "onyomi": "キ",
+    "mnemonicText": [
+      "ĐAO",
+      "TRỬU"
+    ],
+    "introText": [
+      "QUY",
+      "Ý nghĩa: trở về",
+      "KUN: かえ・る",
+      "ON  : キ",
+      "TRỞ VỀ 帰 buông DAO 刀cầmCHỔI 帚quétnhà",
+      "CÁCH NHỚ:",
+      "ĐAO",
+      "TRỬU"
+    ],
+    "exampleText": [
+      "QUY",
+      "帰",
+      "Ý nghĩa: trở về",
+      "KUN: かえ・る",
+      "ON  : キ",
+      "帰ります",
+      "Về, trởvề (nhà)",
+      "かえ",
+      "お帰りなさい",
+      "帰国",
+      "かえ",
+      "き",
+      "こく",
+      "Mừngbạntrởvề",
+      "Vềnước"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        36,
+        37,
+        38
+      ]
+    }
+  },
+  {
+    "id": "ch06-09",
+    "chapter": 6,
+    "order": 9,
+    "kanji": "良",
+    "hanViet": "LƯƠNG",
+    "meaning": "tốt",
+    "kunyomi": "よ・い",
+    "onyomi": "リョウ",
+    "mnemonicText": [
+      "Chọnnhữnghạtthóc",
+      "TỐT 良chovàobình",
+      "đểGIỮ  艮"
+    ],
+    "introText": [
+      "Ý nghĩa: tốt",
+      "KUN: よ・い",
+      "ON  : リョウ",
+      "LƯƠNG",
+      "CÁCH NHỚ:",
+      "Chọnnhữnghạtthóc",
+      "TỐT 良chovàobình",
+      "đểGIỮ  艮"
+    ],
+    "exampleText": [
+      "LƯƠNG",
+      "Ý nghĩa: tốt",
+      "よ",
+      "Tốt",
+      "良",
+      "KUN: よ・い",
+      "ON  : リョウ",
+      "良い"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        44,
+        45,
+        46
+      ]
+    }
+  },
+  {
+    "id": "ch06-10",
+    "chapter": 6,
+    "order": 10,
+    "kanji": "食",
+    "hanViet": "THỰC",
+    "meaning": "ăn",
+    "kunyomi": "た・べる、く・う",
+    "onyomi": "ショク、ジキ",
+    "mnemonicText": [
+      "Mởnắp𠆢, lựanhững",
+      "gì NGON 良trongnồi",
+      "mà ĂN 食"
+    ],
+    "introText": [
+      "Ý nghĩa: ăn",
+      "KUN: た・べる、く・う",
+      "ON  : ショク、ジキ",
+      "THỰC",
+      "CÁCH NHỚ:",
+      "Mởnắp𠆢, lựanhững",
+      "gì NGON 良trongnồi",
+      "mà ĂN 食"
+    ],
+    "exampleText": [
+      "THỰC",
+      "Ý nghĩa: ăn",
+      "た",
+      "Ăn",
+      "食",
+      "KUN: た・べる、く・う",
+      "ON  : ショク、ジキ",
+      "食べます",
+      "食事",
+      "和食",
+      "食べ物",
+      "しょく",
+      "しょく",
+      "た",
+      "じ",
+      "わ",
+      "Bữaăn",
+      "Đồănkiểu Nhật",
+      "Đồăn",
+      "もの"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        47,
+        48,
+        49
+      ]
+    }
+  },
+  {
+    "id": "ch06-11",
+    "chapter": 6,
+    "order": 11,
+    "kanji": "飲",
+    "hanViet": "ẨM",
+    "meaning": "uống",
+    "kunyomi": "の・む",
+    "onyomi": "イン",
+    "mnemonicText": [
+      "ĂN 食thìkhôngthể",
+      "THIẾU 欠 UỐNG 飲",
+      "KHIẾM"
+    ],
+    "introText": [
+      "Ý nghĩa: uống",
+      "KUN: の・む",
+      "ON  : イン",
+      "ẨM",
+      "CÁCH NHỚ:",
+      "ĂN 食thìkhôngthể",
+      "THIẾU 欠 UỐNG 飲",
+      "KHIẾM"
+    ],
+    "exampleText": [
+      "ẨM",
+      "Ý nghĩa: uống",
+      "の",
+      "Uống",
+      "飲",
+      "KUN: の・む",
+      "ON  : イン",
+      "飲みます",
+      "飲み物",
+      "の",
+      "もの",
+      "Đồuống"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        50,
+        51,
+        52
+      ]
+    }
+  },
+  {
+    "id": "ch06-12",
+    "chapter": 6,
+    "order": 12,
+    "kanji": "飯",
+    "hanViet": "PHẠN",
+    "meaning": "cơm, bữa ăn",
+    "kunyomi": "めし",
+    "onyomi": "ハン",
+    "mnemonicText": [
+      "Được ĂN 食 CƠM 飯thì",
+      "không bao giờ",
+      "PHẢN ĐỐI 反",
+      "PHẢN"
+    ],
+    "introText": [
+      "Ý nghĩa: cơm, bữa ăn",
+      "KUN: めし",
+      "ON  : ハン",
+      "PHẠN",
+      "CÁCH NHỚ:",
+      "Được ĂN 食 CƠM 飯thì",
+      "không bao giờ",
+      "PHẢN ĐỐI 反",
+      "PHẢN"
+    ],
+    "exampleText": [
+      "PHẠN",
+      "Ý nghĩa: cơm, bữa ăn",
+      "昼ご飯",
+      "はん",
+      "朝ご飯",
+      "はん",
+      "Bữasáng",
+      "Bữatrưa",
+      "飯",
+      "ひる",
+      "KUN: めし",
+      "ON  : ハン",
+      "あさ",
+      "晩ご飯",
+      "ばん",
+      "はん",
+      "Bữatối"
+    ],
+    "source": {
+      "file": "6. Tổng hợp Kanji chương 6.pptx",
+      "slides": [
+        53,
+        54,
+        55
+      ]
+    }
+  }
+]

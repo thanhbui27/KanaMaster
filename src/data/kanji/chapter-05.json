@@ -1,0 +1,590 @@
+[
+  {
+    "id": "ch05-01",
+    "chapter": 5,
+    "order": 1,
+    "kanji": "土",
+    "hanViet": "THỔ",
+    "meaning": "đất",
+    "kunyomi": "つち",
+    "onyomi": "ド",
+    "mnemonicText": [
+      "HìnhảnhmặtĐẤTcó",
+      "câymọclên"
+    ],
+    "introText": [
+      "土",
+      "Ý nghĩa: đất",
+      "KUN: つち",
+      "ON  : ド",
+      "THỔ",
+      "CÁCH NHỚ:",
+      "HìnhảnhmặtĐẤTcó",
+      "câymọclên"
+    ],
+    "exampleText": [
+      "THỔ",
+      "Ý nghĩa: đất",
+      "お土産",
+      "みやげ",
+      "土曜日",
+      "ど",
+      "Thứ Bảy",
+      "Quà, quà lưu niệm",
+      "土",
+      "KUN: つち",
+      "ON  : ド",
+      "よう   び"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch05-02",
+    "chapter": 5,
+    "order": 2,
+    "kanji": "上",
+    "hanViet": "THƯỢNG",
+    "meaning": "trên",
+    "kunyomi": "うえ、うわ、かみ、 あ・げる、のぼ・る",
+    "onyomi": "ジョウ",
+    "mnemonicText": [
+      "上"
+    ],
+    "introText": [
+      "THƯỢNG",
+      "Ý nghĩa: trên",
+      "KUN: うえ、うわ、かみ、",
+      "あ・げる、のぼ・る",
+      "ON  : ジョウ",
+      "Nétthòrabiểuthị",
+      "PHÍA TRÊN",
+      "CÁCH NHỚ:",
+      "上"
+    ],
+    "exampleText": [
+      "THƯỢNG",
+      "上",
+      "Ý nghĩa: trên",
+      "KUN: うえ、うわ、かみ、",
+      "あ・げる、のぼ・る",
+      "ON  : ジョウ",
+      "上",
+      "うえ",
+      "Trên, bêntrên",
+      "上げます",
+      "上着",
+      "以上",
+      "上手な",
+      "あ",
+      "うわ",
+      "ぎ",
+      "い",
+      "じょう",
+      "じょう",
+      "ず",
+      "Nâng lên, giơ lên; tăng lên; cho, tặng",
+      "Áokhoác",
+      "Hơn, trên (đi kèm một giá trị); trên đây",
+      "Giỏi"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch05-03",
+    "chapter": 5,
+    "order": 3,
+    "kanji": "下",
+    "hanViet": "HẠ",
+    "meaning": "dưới",
+    "kunyomi": "した、お・ろす、 お・りる、しも、もと、 さ・げる、くだ・さる",
+    "onyomi": "カ、ゲ",
+    "mnemonicText": [
+      "HẠ",
+      "Ý nghĩa: dưới",
+      "KUN: した、お・ろす、",
+      "お・りる、しも、もと、",
+      "さ・げる、くだ・さる",
+      "ON  : カ、ゲ",
+      "Nétthòrabiểuthị",
+      "PHÍA DƯỚI"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "HẠ",
+      "Ý nghĩa: dưới",
+      "KUN: した、お・ろす、",
+      "お・りる、しも、もと、",
+      "さ・げる、くだ・さる",
+      "ON  : カ、ゲ",
+      "Nétthòrabiểuthị",
+      "PHÍA DƯỚI"
+    ],
+    "exampleText": [
+      "HẠ",
+      "下",
+      "Ý nghĩa: dưới",
+      "下ろします",
+      "お",
+      "下",
+      "した",
+      "Dưới, bêndưới",
+      "Rút (tiền); hạxuống",
+      "ち",
+      "地下",
+      "KUN: した、お・ろす、",
+      "お・りる、しも、もと、",
+      "さ・げる、くだ・さる",
+      "ON  : カ、ゲ",
+      "以下",
+      "下手",
+      "か",
+      "か",
+      "い",
+      "へ",
+      "た",
+      "Dướimặtđất, tầng hầm",
+      "Dưới (đikèmmộtgiátrị),",
+      "dưới đây",
+      "Kém, khônggiỏi"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        9,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch05-04",
+    "chapter": 5,
+    "order": 4,
+    "kanji": "不",
+    "hanViet": "BẤT",
+    "meaning": "không",
+    "kunyomi": "---",
+    "onyomi": "フ、ブ",
+    "mnemonicText": [
+      "KHÔNG 不 (BẤT) được",
+      "ngặtngọn CÂY 木"
+    ],
+    "introText": [
+      "Ý nghĩa: không",
+      "KUN: ---",
+      "ON  : フ、ブ",
+      "BẤT",
+      "CÁCH NHỚ:",
+      "KHÔNG 不 (BẤT) được",
+      "ngặtngọn CÂY 木"
+    ],
+    "exampleText": [
+      "BẤT",
+      "Ý nghĩa: không",
+      "不思議な",
+      "ふ",
+      "不便",
+      "ふ",
+      "Sựbấttiện",
+      "Kìlạ, kìquái",
+      "不",
+      "し   ぎ",
+      "よう",
+      "KUN: ---",
+      "ON  : フ、ブ",
+      "べん"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        12,
+        13,
+        14
+      ]
+    }
+  },
+  {
+    "id": "ch05-05",
+    "chapter": 5,
+    "order": 5,
+    "kanji": "石",
+    "hanViet": "THẠCH",
+    "meaning": "đá",
+    "kunyomi": "いし",
+    "onyomi": "セキ、コク、シャク",
+    "mnemonicText": [
+      "MộtkhốiĐÁ 石 lăn",
+      "xuốngtừváchnúi"
+    ],
+    "introText": [
+      "Ý nghĩa: đá",
+      "KUN: いし",
+      "ON  : セキ、コク、シャク",
+      "THẠCH",
+      "CÁCH NHỚ:",
+      "MộtkhốiĐÁ 石 lăn",
+      "xuốngtừváchnúi"
+    ],
+    "exampleText": [
+      "THẠCH",
+      "Ý nghĩa: đá",
+      "石油",
+      "せき",
+      "いし",
+      "Hòn đá",
+      "Dầu mỏ",
+      "石",
+      "KUN: いし",
+      "ON  : セキ、コク、シャク",
+      "ゆ",
+      "石"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch05-06",
+    "chapter": 5,
+    "order": 6,
+    "kanji": "右",
+    "hanViet": "HỮU",
+    "meaning": "bên phải",
+    "kunyomi": "みぎ",
+    "onyomi": "ウ、ユウ",
+    "mnemonicText": [
+      "Tay PHẢI 右 nắmlại",
+      "viếtchữ"
+    ],
+    "introText": [
+      "Ý nghĩa: bên phải",
+      "KUN: みぎ",
+      "ON  : ウ、ユウ",
+      "HỮU",
+      "CÁCH NHỚ:",
+      "Tay PHẢI 右 nắmlại",
+      "viếtchữ"
+    ],
+    "exampleText": [
+      "HỮU",
+      "Ý nghĩa: bên phải",
+      "みぎ",
+      "Bên phải",
+      "右",
+      "KUN: みぎ",
+      "ON  : ウ、ユウ",
+      "右"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        23,
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch05-07",
+    "chapter": 5,
+    "order": 7,
+    "kanji": "左",
+    "hanViet": "TẢ",
+    "meaning": "bên trái",
+    "kunyomi": "ひだり",
+    "onyomi": "サ",
+    "mnemonicText": [
+      "Tay TRÁI 左 xòehai",
+      "ngón"
+    ],
+    "introText": [
+      "Ý nghĩa: bên trái",
+      "KUN: ひだり",
+      "ON  : サ",
+      "TẢ",
+      "CÁCH NHỚ:",
+      "Tay TRÁI 左 xòehai",
+      "ngón"
+    ],
+    "exampleText": [
+      "TẢ",
+      "Ý nghĩa: bên trái",
+      "ひだり",
+      "Bên trái",
+      "左",
+      "KUN: ひだり",
+      "ON  : サ",
+      "左"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        26,
+        27,
+        28
+      ]
+    }
+  },
+  {
+    "id": "ch05-08",
+    "chapter": 5,
+    "order": 8,
+    "kanji": "友",
+    "hanViet": "HỮU",
+    "meaning": "bạn bè",
+    "kunyomi": "とも",
+    "onyomi": "ユウ",
+    "mnemonicText": [
+      "Hai cánhtaythểhiện",
+      "haingườiBẠN 友 cùng",
+      "quyếttâmlàmgìđó"
+    ],
+    "introText": [
+      "Ý nghĩa: bạn bè",
+      "KUN: とも",
+      "ON  : ユウ",
+      "HỮU",
+      "CÁCH NHỚ:",
+      "Hai cánhtaythểhiện",
+      "haingườiBẠN 友 cùng",
+      "quyếttâmlàmgìđó"
+    ],
+    "exampleText": [
+      "HỮU",
+      "Ý nghĩa: bạn bè",
+      "親友",
+      "ゆう",
+      "友達",
+      "とも",
+      "Bạn bè",
+      "Bạn thân",
+      "友",
+      "しん",
+      "KUN: とも",
+      "ON  : ユウ",
+      "だち"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        29,
+        30,
+        31
+      ]
+    }
+  },
+  {
+    "id": "ch05-09",
+    "chapter": 5,
+    "order": 9,
+    "kanji": "夕",
+    "hanViet": "TỊCH",
+    "meaning": "buổitối",
+    "kunyomi": "ゆう",
+    "onyomi": "セキ",
+    "mnemonicText": [
+      "Hìnhảnhtrăng non"
+    ],
+    "introText": [
+      "Ý nghĩa: buổitối",
+      "KUN: ゆう",
+      "ON  : セキ",
+      "TỊCH",
+      "CÁCH NHỚ:",
+      "Hìnhảnhtrăng non"
+    ],
+    "exampleText": [
+      "TỊCH",
+      "Ý nghĩa: buổitối",
+      "夕方",
+      "ゆう",
+      "Chiều tối",
+      "夕",
+      "KUN: ゆう",
+      "ON  : セキ",
+      "がた"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        40,
+        41,
+        42
+      ]
+    }
+  },
+  {
+    "id": "ch05-10",
+    "chapter": 5,
+    "order": 10,
+    "kanji": "多",
+    "hanViet": "ĐA",
+    "meaning": "nhiều",
+    "kunyomi": "おお・い",
+    "onyomi": "タ",
+    "mnemonicText": [
+      "Hai miếngthịtchồng",
+      "lênnhau→ NHIỀU 多"
+    ],
+    "introText": [
+      "Ý nghĩa: nhiều",
+      "KUN: おお・い",
+      "ON  : タ",
+      "ĐA",
+      "CÁCH NHỚ:",
+      "Hai miếngthịtchồng",
+      "lênnhau→ NHIỀU 多"
+    ],
+    "exampleText": [
+      "ĐA",
+      "Ý nghĩa: nhiều",
+      "おお",
+      "Nhiều",
+      "多",
+      "KUN: おお・い",
+      "ON  : タ",
+      "多い",
+      "多分",
+      "た",
+      "ぶん",
+      "Có lẽ"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        43,
+        44,
+        45
+      ]
+    }
+  },
+  {
+    "id": "ch05-11",
+    "chapter": 5,
+    "order": 11,
+    "kanji": "名",
+    "hanViet": "DANH",
+    "meaning": "tên",
+    "kunyomi": "な",
+    "onyomi": "メイ、ミョウ",
+    "mnemonicText": [
+      "GỌI 口 TÊN 名 em",
+      "trong ĐÊM タ"
+    ],
+    "introText": [
+      "Ý nghĩa: tên",
+      "KUN: な",
+      "ON  : メイ、ミョウ",
+      "DANH",
+      "CÁCH NHỚ:",
+      "GỌI 口 TÊN 名 em",
+      "trong ĐÊM タ"
+    ],
+    "exampleText": [
+      "DANH",
+      "Ý nghĩa: tên",
+      "な",
+      "Tên",
+      "名",
+      "KUN: な",
+      "ON  : メイ、ミョウ",
+      "名前",
+      "名刺",
+      "有名",
+      "まえ",
+      "し",
+      "ゆう",
+      "めい",
+      "めい",
+      "Danh thiếp",
+      "Nổi tiếng"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        46,
+        47,
+        48
+      ]
+    }
+  },
+  {
+    "id": "ch05-12",
+    "chapter": 5,
+    "order": 12,
+    "kanji": "外",
+    "hanViet": "NGOẠI",
+    "meaning": "bênngoài",
+    "kunyomi": "そと、ほか、はず・れる、 はず・す",
+    "onyomi": "ガイ、ゲ",
+    "mnemonicText": [
+      "Ngắm TRĂNG タ BÊN",
+      "NGOÀI 外 khungcửa",
+      "sổト"
+    ],
+    "introText": [
+      "Ý nghĩa: bênngoài",
+      "KUN: そと、ほか、はず・れる、",
+      "はず・す",
+      "ON  : ガイ、ゲ",
+      "NGOẠI",
+      "CÁCH NHỚ:",
+      "Ngắm TRĂNG タ BÊN",
+      "NGOÀI 外 khungcửa",
+      "sổト"
+    ],
+    "exampleText": [
+      "NGOẠI",
+      "Ý nghĩa: bênngoài",
+      "外れます",
+      "外",
+      "そと",
+      "Bên ngoài",
+      "Tuột, lệch",
+      "外",
+      "KUN: そと、ほか、はず・れる、",
+      "はず・す",
+      "ON  : ガイ、ゲ",
+      "こく",
+      "外します",
+      "外国",
+      "海外",
+      "かい",
+      "はず",
+      "はず",
+      "がい",
+      "がい",
+      "Tháo ra, gỡ bỏ,",
+      "rời khỏi (chỗ)",
+      "Nước ngoài",
+      "Nước ngoài"
+    ],
+    "source": {
+      "file": "5. Tổng hợp Kanji chương 5.pptx",
+      "slides": [
+        49,
+        50,
+        51
+      ]
+    }
+  }
+]

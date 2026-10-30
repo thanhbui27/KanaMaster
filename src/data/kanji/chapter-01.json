@@ -1,0 +1,740 @@
+[
+  {
+    "id": "ch01-01",
+    "chapter": 1,
+    "order": 1,
+    "kanji": "一",
+    "hanViet": "NHẤT",
+    "meaning": "một",
+    "kunyomi": "ひと、ひと・つ",
+    "onyomi": "イチ、イツ",
+    "mnemonicText": [
+      "1 que củi"
+    ],
+    "introText": [
+      "一",
+      "Ý nghĩa: một",
+      "KUN: ひと、ひと・つ",
+      "ON  : イチ、イツ",
+      "NHẤT",
+      "CÁCH NHỚ:",
+      "1 que củi"
+    ],
+    "exampleText": [
+      "NHẤT",
+      "一",
+      "Ý nghĩa: một",
+      "KUN: ひと、ひと・つ",
+      "ON  : イチ、イツ",
+      "一",
+      "いち",
+      "一月",
+      "いち",
+      "がつ",
+      "Một",
+      "Tháng 1",
+      "一つ",
+      "ひと",
+      "1 cái",
+      "一日",
+      "つい",
+      "たち",
+      "Ngày mùng 1"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch01-02",
+    "chapter": 1,
+    "order": 2,
+    "kanji": "二",
+    "hanViet": "NHỊ",
+    "meaning": "hai",
+    "kunyomi": "ふた、ふた・つ",
+    "onyomi": "ニ",
+    "mnemonicText": [
+      "2 que củi"
+    ],
+    "introText": [
+      "二",
+      "Ý nghĩa: hai",
+      "KUN: ふた、ふた・つ",
+      "ON  : ニ",
+      "NHỊ",
+      "CÁCH NHỚ:",
+      "2 que củi"
+    ],
+    "exampleText": [
+      "NHỊ",
+      "二",
+      "Ý nghĩa: hai",
+      "KUN: ふた、ふた・つ",
+      "ON  : ニ",
+      "二",
+      "に",
+      "二月",
+      "に",
+      "がつ",
+      "Hai",
+      "Tháng 2",
+      "二つ",
+      "ふた",
+      "2 cái",
+      "二日",
+      "ふつ",
+      "か",
+      "Ngày mùng 2"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch01-03",
+    "chapter": 1,
+    "order": 3,
+    "kanji": "三",
+    "hanViet": "TAM",
+    "meaning": "ba",
+    "kunyomi": "み、み・つ、みっ・つ",
+    "onyomi": "サン",
+    "mnemonicText": [
+      "3 que củi"
+    ],
+    "introText": [
+      "三",
+      "Ý nghĩa: ba",
+      "KUN: み、み・つ、みっ・つ",
+      "ON  : サン",
+      "TAM",
+      "CÁCH NHỚ:",
+      "3 que củi"
+    ],
+    "exampleText": [
+      "TAM",
+      "三",
+      "Ý nghĩa: ba",
+      "KUN: み、み・つ、みっ・つ",
+      "ON  : サン",
+      "三",
+      "さん",
+      "三月",
+      "さん",
+      "がつ",
+      "Ba",
+      "Tháng 3",
+      "三つ",
+      "みっ",
+      "3 cái",
+      "三日",
+      "みっ",
+      "か",
+      "Ngày mùng 3"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        9,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch01-04",
+    "chapter": 1,
+    "order": 4,
+    "kanji": "四",
+    "hanViet": "TỨ",
+    "meaning": "bốn",
+    "kunyomi": "よ、よ・つ、 よっ・つ、よん",
+    "onyomi": "シ",
+    "mnemonicText": [
+      "KUN: よ、よ・つ、",
+      "よっ・つ、よん",
+      "ON  : シ",
+      "Cửasổ 4 cạnhcórèm"
+    ],
+    "introText": [
+      "四",
+      "Ý nghĩa: bốn",
+      "TỨ",
+      "CÁCH NHỚ:",
+      "KUN: よ、よ・つ、",
+      "よっ・つ、よん",
+      "ON  : シ",
+      "Cửasổ 4 cạnhcórèm"
+    ],
+    "exampleText": [
+      "TỨ",
+      "四",
+      "Ý nghĩa: bốn",
+      "KUN: よ、よ・つ、",
+      "よっ・つ、よん",
+      "ON  : シ",
+      "四",
+      "し / よん",
+      "四月",
+      "し",
+      "がつ",
+      "Bốn",
+      "Tháng 4",
+      "四つ",
+      "よっ",
+      "4 cái",
+      "四日",
+      "よっ",
+      "か",
+      "Ngày mùng 4"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        19,
+        20,
+        21
+      ]
+    }
+  },
+  {
+    "id": "ch01-05",
+    "chapter": 1,
+    "order": 5,
+    "kanji": "五",
+    "hanViet": "NGŨ",
+    "meaning": "năm",
+    "kunyomi": "いつ、いつ・つ",
+    "onyomi": "ゴ",
+    "mnemonicText": [
+      "Bêntrongcóhìnhsố 5"
+    ],
+    "introText": [
+      "五",
+      "Ý nghĩa: năm",
+      "KUN: いつ、いつ・つ",
+      "ON  : ゴ",
+      "NGŨ",
+      "CÁCH NHỚ:",
+      "Bêntrongcóhìnhsố 5"
+    ],
+    "exampleText": [
+      "NGŨ",
+      "五",
+      "Ý nghĩa: năm",
+      "KUN: いつ、いつ・つ",
+      "ON  : ゴ",
+      "五",
+      "ご",
+      "五月",
+      "ご",
+      "がつ",
+      "Năm",
+      "Tháng 5",
+      "五つ",
+      "いつ",
+      "5 cái",
+      "五日",
+      "いつ",
+      "か",
+      "Ngày mùng 5"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        22,
+        23,
+        24
+      ]
+    }
+  },
+  {
+    "id": "ch01-06",
+    "chapter": 1,
+    "order": 6,
+    "kanji": "六",
+    "hanViet": "LỤC",
+    "meaning": "sáu",
+    "kunyomi": "む、むい、む・つ、 むっ・つ",
+    "onyomi": "ロク",
+    "mnemonicText": [
+      "KUN: む、むい、む・つ、",
+      "むっ・つ",
+      "ON  : ロク",
+      "Ngườithòlênkhỏi",
+      "mặtđất"
+    ],
+    "introText": [
+      "六",
+      "Ý nghĩa: sáu",
+      "LỤC",
+      "CÁCH NHỚ:",
+      "KUN: む、むい、む・つ、",
+      "むっ・つ",
+      "ON  : ロク",
+      "Ngườithòlênkhỏi",
+      "mặtđất"
+    ],
+    "exampleText": [
+      "LỤC",
+      "六",
+      "Ý nghĩa: sáu",
+      "KUN: む、むい、む・つ、",
+      "むっ・つ",
+      "ON  : ロク",
+      "六",
+      "ろく",
+      "六月",
+      "ろく",
+      "がつ",
+      "Sáu",
+      "Tháng 6",
+      "六つ",
+      "むっ",
+      "6 cái",
+      "六日",
+      "むい",
+      "か",
+      "Ngày mùng 6"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        25,
+        26,
+        27
+      ]
+    }
+  },
+  {
+    "id": "ch01-07",
+    "chapter": 1,
+    "order": 7,
+    "kanji": "七",
+    "hanViet": "THẤT",
+    "meaning": "bảy",
+    "kunyomi": "なな、なな・つ、なの",
+    "onyomi": "シチ",
+    "mnemonicText": [
+      "Số 7 viếtngược"
+    ],
+    "introText": [
+      "七",
+      "Ý nghĩa: bảy",
+      "KUN: なな、なな・つ、なの",
+      "ON  : シチ",
+      "THẤT",
+      "CÁCH NHỚ:",
+      "Số 7 viếtngược"
+    ],
+    "exampleText": [
+      "THẤT",
+      "七",
+      "Ý nghĩa: bảy",
+      "KUN: なな、なな・つ、なのON  : シチ",
+      "七",
+      "しち / なな",
+      "七月",
+      "しち",
+      "がつ",
+      "Bảy",
+      "Tháng 7",
+      "七つ",
+      "なな",
+      "7 cái",
+      "七日",
+      "なの",
+      "か",
+      "Ngày mùng 7"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        28,
+        29,
+        30
+      ]
+    }
+  },
+  {
+    "id": "ch01-08",
+    "chapter": 1,
+    "order": 8,
+    "kanji": "八",
+    "hanViet": "BÁT",
+    "meaning": "tám",
+    "kunyomi": "や、や・つ、 やっ・つ、よう",
+    "onyomi": "ハチ",
+    "mnemonicText": [
+      "KUN:や、や・つ、",
+      "やっ・つ、よう",
+      "ON  : ハチ",
+      "Phânbiệtvớichữ",
+      "Lục六"
+    ],
+    "introText": [
+      "八",
+      "Ý nghĩa: tám",
+      "BÁT",
+      "CÁCH NHỚ:",
+      "KUN:や、や・つ、",
+      "やっ・つ、よう",
+      "ON  : ハチ",
+      "Phânbiệtvớichữ",
+      "Lục六"
+    ],
+    "exampleText": [
+      "BÁT",
+      "八",
+      "Ý nghĩa: tám",
+      "KUN:や、や・つ、",
+      "やっ・つ、よう",
+      "ON  : ハチ",
+      "八",
+      "はち",
+      "八月",
+      "はち",
+      "がつ",
+      "Tám",
+      "Tháng 8",
+      "八つ",
+      "やっ",
+      "8 cái",
+      "八日",
+      "よう",
+      "か",
+      "Ngày mùng 8"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        39,
+        40,
+        41
+      ]
+    }
+  },
+  {
+    "id": "ch01-09",
+    "chapter": 1,
+    "order": 9,
+    "kanji": "九",
+    "hanViet": "CỬU",
+    "meaning": "chín",
+    "kunyomi": "ここの、ここの・つ",
+    "onyomi": "ク、キュウ",
+    "mnemonicText": [
+      "Gầngiốngvớichữか"
+    ],
+    "introText": [
+      "九",
+      "Ý nghĩa: chín",
+      "KUN: ここの、ここの・つ",
+      "ON  : ク、キュウ",
+      "CỬU",
+      "CÁCH NHỚ:",
+      "Gầngiốngvớichữか"
+    ],
+    "exampleText": [
+      "CỬU",
+      "九",
+      "Ý nghĩa: chín",
+      "KUN: ここの、ここの・つ",
+      "ON  : ク、キュウ",
+      "九",
+      "きゅう / く",
+      "九月",
+      "く",
+      "がつ",
+      "Chín",
+      "Tháng 9",
+      "九つ",
+      "ここの",
+      "9 cái",
+      "九日",
+      "ここの",
+      "か",
+      "Ngày mùng 9"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        42,
+        43,
+        44
+      ]
+    }
+  },
+  {
+    "id": "ch01-10",
+    "chapter": 1,
+    "order": 10,
+    "kanji": "十",
+    "hanViet": "THẬP",
+    "meaning": "mười",
+    "kunyomi": "とお、と",
+    "onyomi": "ジュウ、ジッ",
+    "mnemonicText": [
+      "KUN: とお、と",
+      "ON  : ジュウ、ジッ",
+      "Giốngvớichữthậpđỏ"
+    ],
+    "introText": [
+      "十",
+      "Ý nghĩa: mười",
+      "THẬP",
+      "CÁCH NHỚ:",
+      "KUN: とお、と",
+      "ON  : ジュウ、ジッ",
+      "Giốngvớichữthậpđỏ"
+    ],
+    "exampleText": [
+      "THẬP",
+      "十",
+      "Ý nghĩa: mười",
+      "KUN: とお、と",
+      "ON  : ジュウ、ジッ",
+      "十",
+      "じゅう",
+      "十月",
+      "じゅう",
+      "がつ",
+      "Mười",
+      "Tháng 10",
+      "十日",
+      "とお",
+      "か",
+      "Ngày mùng 10"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        45,
+        46,
+        47
+      ]
+    }
+  },
+  {
+    "id": "ch01-11",
+    "chapter": 1,
+    "order": 11,
+    "kanji": "百",
+    "hanViet": "BÁCH",
+    "meaning": "mộttrăm",
+    "kunyomi": "---",
+    "onyomi": "ヒャク",
+    "mnemonicText": [
+      "KUN: ---",
+      "ON  : ヒャク",
+      "Ghépbởi",
+      "chữNhất一 vàbộBạch白",
+      "(màutrắng)"
+    ],
+    "introText": [
+      "百",
+      "Ý nghĩa: mộttrăm",
+      "BÁCH",
+      "CÁCH NHỚ:",
+      "KUN: ---",
+      "ON  : ヒャク",
+      "Ghépbởi",
+      "chữNhất一 vàbộBạch白",
+      "(màutrắng)"
+    ],
+    "exampleText": [
+      "BÁCH",
+      "百",
+      "Ý nghĩa: mộttrăm",
+      "KUN: ---",
+      "ON  : ヒャク",
+      "三 百",
+      "びゃく",
+      "さん",
+      "百",
+      "ひゃく",
+      "六 百",
+      "ぴゃく",
+      "ろっ",
+      "八 百",
+      "ぴゃく",
+      "はっ",
+      "100",
+      "300",
+      "600",
+      "800"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        54,
+        55,
+        56
+      ]
+    }
+  },
+  {
+    "id": "ch01-12",
+    "chapter": 1,
+    "order": 12,
+    "kanji": "千",
+    "hanViet": "THIÊN",
+    "meaning": "một nghìn",
+    "kunyomi": "ち",
+    "onyomi": "セン",
+    "mnemonicText": [
+      "Ghépbởi",
+      "nét phẩy và",
+      "chữ Thập十"
+    ],
+    "introText": [
+      "千",
+      "Ý nghĩa: một nghìn",
+      "KUN: ち",
+      "ON  : セン",
+      "THIÊN",
+      "CÁCH NHỚ:",
+      "Ghépbởi",
+      "nét phẩy và",
+      "chữ Thập十"
+    ],
+    "exampleText": [
+      "THIÊN",
+      "千",
+      "三千",
+      "ぜん",
+      "さん",
+      "二千",
+      "せん",
+      "八千",
+      "せん",
+      "はっ",
+      "2,000",
+      "3,000",
+      "8,000",
+      "Ý nghĩa: mộtnghìn",
+      "KUN: ち",
+      "ON  : セン",
+      "に"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        57,
+        58,
+        59
+      ]
+    }
+  },
+  {
+    "id": "ch01-13",
+    "chapter": 1,
+    "order": 13,
+    "kanji": "万",
+    "hanViet": "VẠN",
+    "meaning": "mộtvạn",
+    "kunyomi": "---",
+    "onyomi": "マン、バン",
+    "mnemonicText": [
+      "Ý nghĩa: mộtvạn",
+      "KUN: ---",
+      "ON  : マン、バン",
+      "Ghépbởi",
+      "chữ Nhất一và",
+      "chữ Kaヵ"
+    ],
+    "introText": [
+      "万",
+      "VẠN",
+      "CÁCH NHỚ:",
+      "Ý nghĩa: mộtvạn",
+      "KUN: ---",
+      "ON  : マン、バン",
+      "Ghépbởi",
+      "chữ Nhất一và",
+      "chữ Kaヵ"
+    ],
+    "exampleText": [
+      "VẠN",
+      "万",
+      "Ý nghĩa: mộtvạn",
+      "KUN: ---",
+      "ON  : マン、バン",
+      "一万",
+      "まん",
+      "1 vạn = 10,000",
+      "いち"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        60,
+        61,
+        62
+      ]
+    }
+  },
+  {
+    "id": "ch01-14",
+    "chapter": 1,
+    "order": 14,
+    "kanji": "円",
+    "hanViet": "VIÊN",
+    "meaning": "vòngtròn, đồngyên",
+    "kunyomi": "まる・い",
+    "onyomi": "エン",
+    "mnemonicText": [
+      "Ý nghĩa: vòngtròn,",
+      "đồngyên",
+      "KUN: まる・い",
+      "ON  : エン",
+      "Kí hiệu",
+      "đồng yên円"
+    ],
+    "introText": [
+      "円",
+      "VIÊN",
+      "CÁCH NHỚ:",
+      "Ý nghĩa: vòngtròn,",
+      "đồngyên",
+      "KUN: まる・い",
+      "ON  : エン",
+      "Kí hiệu",
+      "đồng yên円"
+    ],
+    "exampleText": [
+      "VIÊN",
+      "円",
+      "Ý nghĩa: vòngtròn,",
+      "đồngyên",
+      "KUN: まる・い",
+      "ON  : エン",
+      "五円",
+      "えん",
+      "ご",
+      "円",
+      "えん",
+      "yên – đơn vị tiền tệ của Nhật",
+      "5 yên"
+    ],
+    "source": {
+      "file": "1. Tổng hợp Kanji chương 1 (1).pptx",
+      "slides": [
+        63,
+        64,
+        65
+      ]
+    }
+  }
+]

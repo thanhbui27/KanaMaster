@@ -1,0 +1,580 @@
+[
+  {
+    "id": "ch08-01",
+    "chapter": 8,
+    "order": 1,
+    "kanji": "手",
+    "hanViet": "THỦ",
+    "meaning": "tay",
+    "kunyomi": "て、た",
+    "onyomi": "シュ",
+    "mnemonicText": [
+      "Hìnhảnhbàntay",
+      "手"
+    ],
+    "introText": [
+      "Ý nghĩa: tay",
+      "KUN: て、た",
+      "ON  : シュ",
+      "THỦ",
+      "CÁCH NHỚ:",
+      "Hìnhảnhbàntay",
+      "手"
+    ],
+    "exampleText": [
+      "THỦ",
+      "Ý nghĩa: tay",
+      "KUN: て、た",
+      "ON  : シュ",
+      "手",
+      "手",
+      "tay",
+      "て",
+      "手紙",
+      "手帳",
+      "お手洗い",
+      "bứcthư",
+      "sổtay",
+      "nhàvệsinh",
+      "て",
+      "て",
+      "て",
+      "がみ",
+      "ちょう",
+      "下手な",
+      "た",
+      "あら",
+      "へ",
+      "kém, yếu"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch08-02",
+    "chapter": 8,
+    "order": 2,
+    "kanji": "毛",
+    "hanViet": "MAO",
+    "meaning": "lông",
+    "kunyomi": "け",
+    "onyomi": "モウ",
+    "mnemonicText": [
+      "毛"
+    ],
+    "introText": [
+      "MAO",
+      "Ý nghĩa: lông",
+      "KUN: け",
+      "ON  : モウ",
+      "MAO 毛viếtngượcchiềuvớiTHỦ 手",
+      "CÁCH NHỚ:",
+      "毛"
+    ],
+    "exampleText": [
+      "MAO",
+      "Ý nghĩa: lông",
+      "KUN: け",
+      "ON  : モウ",
+      "け",
+      "毛",
+      "lông",
+      "毛",
+      "毛糸",
+      "毛布",
+      "sợilen",
+      "chăn, chănlông",
+      "け",
+      "もう",
+      "いと",
+      "ふ"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "id": "ch08-03",
+    "chapter": 8,
+    "order": 3,
+    "kanji": "父",
+    "hanViet": "PHỤ",
+    "meaning": "cha, bố",
+    "kunyomi": "ちち",
+    "onyomi": "フ",
+    "mnemonicText": [
+      "BàntayBỐ 父cầm",
+      "cáirìu"
+    ],
+    "introText": [
+      "Ý nghĩa: cha, bố",
+      "KUN: ちち",
+      "ON  : フ",
+      "PHỤ",
+      "CÁCH NHỚ:",
+      "BàntayBỐ 父cầm",
+      "cáirìu"
+    ],
+    "exampleText": [
+      "PHỤ",
+      "Ý nghĩa: cha, bố",
+      "KUN: ちち",
+      "ON  : フ",
+      "父",
+      "そ",
+      "ちち",
+      "bố(mình)",
+      "父",
+      "お父さん",
+      "祖父",
+      "bố(ngườikhác)",
+      "ông(mình)",
+      "とう",
+      "ふ"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        15,
+        16,
+        17
+      ]
+    }
+  },
+  {
+    "id": "ch08-04",
+    "chapter": 8,
+    "order": 4,
+    "kanji": "交",
+    "hanViet": "GIAO",
+    "meaning": "giaonhau",
+    "kunyomi": "ま・ざる、まじ・える、 か・わす",
+    "onyomi": "コウ",
+    "mnemonicText": [
+      "ĐẦU"
+    ],
+    "introText": [
+      "GIAO",
+      "Ý nghĩa: giaonhau",
+      "KUN: ま・ざる、まじ・える、",
+      "か・わす",
+      "ON  : コウ",
+      "BỐ 父 ĐẦU 亠độimũbảohiểmthamgia",
+      "GIAO THÔNG  交",
+      "CÁCH NHỚ:",
+      "ĐẦU"
+    ],
+    "exampleText": [
+      "GIAO",
+      "交",
+      "Ý nghĩa: giaonhau",
+      "KUN: ま・ざる、まじ・える、",
+      "か・わす",
+      "ON  : コウ",
+      "交通",
+      "giaothông",
+      "さ  てん",
+      "こう",
+      "交差点",
+      "こう",
+      "つう",
+      "ばん",
+      "ngãtư, giaođiểm",
+      "交番",
+      "こう",
+      "đồncảnhsát"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        18,
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "id": "ch08-05",
+    "chapter": 8,
+    "order": 5,
+    "kanji": "校",
+    "hanViet": "HIỆU",
+    "meaning": "trườnghọc",
+    "kunyomi": "---",
+    "onyomi": "コウ",
+    "mnemonicText": [
+      "MỘC"
+    ],
+    "introText": [
+      "HIỆU",
+      "Ý nghĩa: trườnghọc",
+      "KUN: ---",
+      "ON  : コウ",
+      "DướigốcCÂY 木ở cổngTRƯỜNG 校cóBỐ 父đội",
+      "MŨ 亠đứngchờ",
+      "CÁCH NHỚ:",
+      "MỘC"
+    ],
+    "exampleText": [
+      "HIỆU",
+      "校",
+      "Ý nghĩa: trườnghọc",
+      "KUN: ---",
+      "ON  : コウ",
+      "こう",
+      "高校",
+      "こう",
+      "trườnghọc",
+      "学校",
+      "こう",
+      "がっ",
+      "trườngcấp 3"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        21,
+        22,
+        23
+      ]
+    }
+  },
+  {
+    "id": "ch08-06",
+    "chapter": 8,
+    "order": 6,
+    "kanji": "母",
+    "hanViet": "MẪU",
+    "meaning": "mẹ",
+    "kunyomi": "はは",
+    "onyomi": "ボ",
+    "mnemonicText": [],
+    "introText": [
+      "MẪU",
+      "Ý nghĩa: mẹ",
+      "KUN: はは",
+      "ON  : ボ",
+      "HìnhảnhNGƯỜI MẸ 母",
+      "với 2 bầusữa",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "MẪU",
+      "母",
+      "Ý nghĩa: mẹ",
+      "KUN: はは",
+      "ON  : ボ",
+      "かあ",
+      "お母さん",
+      "はは",
+      "mẹ(mình)",
+      "母",
+      "ひ",
+      "そ",
+      "mẹ(ngườikhác)",
+      "母の日",
+      "祖母",
+      "はは",
+      "ぼ",
+      "ngàycảmẹ",
+      "bà(mình)"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        31,
+        32,
+        33
+      ]
+    }
+  },
+  {
+    "id": "ch08-07",
+    "chapter": 8,
+    "order": 7,
+    "kanji": "毎",
+    "hanViet": "MỖI",
+    "meaning": "mỗi, hàng (ngày, tuần…)",
+    "kunyomi": "---",
+    "onyomi": "マイ",
+    "mnemonicText": [
+      "MỖI 毎ngày, ngườiphụnữ母khiđingủvẫnphảibệntóc𠂉",
+      "NHÂN NẰM",
+      "VÔ"
+    ],
+    "introText": [
+      "Ý nghĩa: mỗi, hàng (ngày, tuần…)",
+      "KUN: ---",
+      "ON  : マイ",
+      "MỖI",
+      "CÁCH NHỚ:",
+      "MỖI 毎ngày, ngườiphụnữ母khiđingủvẫnphảibệntóc𠂉",
+      "NHÂN NẰM",
+      "VÔ"
+    ],
+    "exampleText": [
+      "MỖI",
+      "Ý nghĩa: mỗi, hàng (ngày, tuần…)",
+      "KUN: ---",
+      "ON  : マイ",
+      "毎朝",
+      "あさ",
+      "まい",
+      "mỗisáng",
+      "毎",
+      "毎晩",
+      "毎日",
+      "mỗitối",
+      "mỗingày",
+      "まい",
+      "まい",
+      "毎週",
+      "まい",
+      "ばん",
+      "にち",
+      "しゅう",
+      "mỗituần"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        34,
+        35,
+        36
+      ]
+    }
+  },
+  {
+    "id": "ch08-08",
+    "chapter": 8,
+    "order": 8,
+    "kanji": "海",
+    "hanViet": "HẢI",
+    "meaning": "biển",
+    "kunyomi": "うみ",
+    "onyomi": "カイ",
+    "mnemonicText": [
+      "THỦY"
+    ],
+    "introText": [
+      "HẢI",
+      "Ý nghĩa: biển",
+      "KUN: うみ",
+      "ON  : カイ",
+      "BIỂN 海lànơi",
+      "NGÀY NÀO 毎",
+      "cũngcóNƯỚC 氵",
+      "CÁCH NHỚ:",
+      "THỦY"
+    ],
+    "exampleText": [
+      "HẢI",
+      "海",
+      "Ý nghĩa: biển",
+      "KUN: うみ",
+      "ON  : カイ",
+      "海",
+      "biển",
+      "がい",
+      "かい",
+      "海外",
+      "うみ",
+      "がん",
+      "nướcngoài",
+      "海岸",
+      "かい",
+      "bờbiển"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        37,
+        38,
+        39
+      ]
+    }
+  },
+  {
+    "id": "ch08-09",
+    "chapter": 8,
+    "order": 9,
+    "kanji": "元",
+    "hanViet": "NGUYÊN",
+    "meaning": "nguồn gốc, ban đầu",
+    "kunyomi": "もと",
+    "onyomi": "ゲン、ガン",
+    "mnemonicText": [
+      "HAI 二 CHÂN BƯỚC",
+      "ĐI 儿trởvềvịtrí",
+      "BAN ĐẦU 元",
+      "NHỊ",
+      "NHÂN ĐI"
+    ],
+    "introText": [
+      "Ý nghĩa: nguồn gốc, ban đầu",
+      "KUN: もと",
+      "ON  : ゲン、ガン",
+      "NGUYÊN",
+      "CÁCH NHỚ:",
+      "HAI 二 CHÂN BƯỚC",
+      "ĐI 儿trởvềvịtrí",
+      "BAN ĐẦU 元",
+      "NHỊ",
+      "NHÂN ĐI"
+    ],
+    "exampleText": [
+      "NGUYÊN",
+      "き",
+      "元気",
+      "げん",
+      "khoẻmạnh",
+      "元",
+      "KUN: もと",
+      "ON  : ゲン、ガン",
+      "Ý nghĩa: nguồn gốc, ban đầu"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        45,
+        46,
+        47
+      ]
+    }
+  },
+  {
+    "id": "ch08-10",
+    "chapter": 8,
+    "order": 10,
+    "kanji": "兄",
+    "hanViet": "HUYNH",
+    "meaning": "anhtrai",
+    "kunyomi": "あに",
+    "onyomi": "ケイ、キョウ",
+    "mnemonicText": [
+      "KHẨU"
+    ],
+    "introText": [
+      "HUYNH",
+      "Ý nghĩa: anhtrai",
+      "KUN: あに",
+      "ON  :　ケイ、キョウ",
+      "ANH TRAI 兄vừa",
+      "BƯỚC ĐI儿 vừaNÓI 口",
+      "CÁCH NHỚ:",
+      "KHẨU"
+    ],
+    "exampleText": [
+      "HUYNH",
+      "兄",
+      "Ý nghĩa: anhtrai",
+      "兄",
+      "anhtrai (mình)",
+      "兄弟",
+      "だい",
+      "anhem",
+      "KUN: あに",
+      "ON  :　ケイ、キョウ",
+      "あに",
+      "きょう"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        48,
+        49,
+        50
+      ]
+    }
+  },
+  {
+    "id": "ch08-11",
+    "chapter": 8,
+    "order": 11,
+    "kanji": "先",
+    "hanViet": "TIÊN",
+    "meaning": "phía trước",
+    "kunyomi": "さき",
+    "onyomi": "セン",
+    "mnemonicText": [],
+    "introText": [
+      "TIÊN",
+      "Ý nghĩa: phía trước",
+      "KUN: さき",
+      "ON  : セン",
+      "Hìnhảnh 1 ngườiđeobalotrênvaiđiPHÍA TRƯỚC 先",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "TIÊN",
+      "先",
+      "Ý nghĩa: phía trước",
+      "先生",
+      "せん",
+      "giáoviên",
+      "せい",
+      "KUN: さき",
+      "ON  : セン"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        51,
+        52,
+        53
+      ]
+    }
+  },
+  {
+    "id": "ch08-12",
+    "chapter": 8,
+    "order": 12,
+    "kanji": "光",
+    "hanViet": "QUANG",
+    "meaning": "ánhsáng",
+    "kunyomi": "ひかり、ひか・る",
+    "onyomi": "コウ",
+    "mnemonicText": [
+      "NGƯỜI BƯỚC ĐI 儿",
+      "vềphíaÁNH SÁNG 光loélên"
+    ],
+    "introText": [
+      "Ý nghĩa: ánhsáng",
+      "KUN: ひかり、ひか・る",
+      "ON  : コウ",
+      "QUANG",
+      "CÁCH NHỚ:",
+      "NGƯỜI BƯỚC ĐI 儿",
+      "vềphíaÁNH SÁNG 光loélên"
+    ],
+    "exampleText": [
+      "QUANG",
+      "Ý nghĩa: ánhsáng",
+      "光",
+      "ひかり",
+      "ánhsáng",
+      "光",
+      "KUN: ひかり、ひか・る",
+      "ON  : コウ"
+    ],
+    "source": {
+      "file": "8. Tổng hợp Kanji chương 8.pptx",
+      "slides": [
+        54,
+        55,
+        56
+      ]
+    }
+  }
+]

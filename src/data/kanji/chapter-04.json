@@ -1,0 +1,385 @@
+[
+  {
+    "id": "ch04-01",
+    "chapter": 4,
+    "order": 1,
+    "kanji": "木",
+    "hanViet": "MỘC",
+    "meaning": "cây",
+    "kunyomi": "き、こ",
+    "onyomi": "ボク、モク",
+    "mnemonicText": [
+      "Hìnhcáicây"
+    ],
+    "introText": [
+      "木",
+      "Ý nghĩa: cây",
+      "KUN: き、こ",
+      "ON  : ボク、モク",
+      "Mộc",
+      "CÁCH NHỚ:",
+      "Hìnhcáicây"
+    ],
+    "exampleText": [
+      "Ý nghĩa: cây",
+      "KUN: き、こ",
+      "ON  : ボク、モク",
+      "木曜日",
+      "もく",
+      "木",
+      "き",
+      "Cây",
+      "Thứ Năm",
+      "よう",
+      "び",
+      "MỘC",
+      "木"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch04-02",
+    "chapter": 4,
+    "order": 2,
+    "kanji": "林",
+    "hanViet": "LÂM",
+    "meaning": "rừng thưa",
+    "kunyomi": "はやし",
+    "onyomi": "リン",
+    "mnemonicText": [
+      "林"
+    ],
+    "introText": [
+      "LÂM",
+      "Ý nghĩa: rừng thưa",
+      "KUN: はやし",
+      "ON  : リン",
+      "Khurừng 2 cáicây",
+      "CÁCH NHỚ:",
+      "林"
+    ],
+    "exampleText": [
+      "林",
+      "Ý nghĩa: rừng thưa",
+      "KUN: はやし",
+      "ON  : リン",
+      "林",
+      "はやし",
+      "Rừng",
+      "LÂM"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch04-03",
+    "chapter": 4,
+    "order": 3,
+    "kanji": "森",
+    "hanViet": "SÂM",
+    "meaning": "rừng rậm",
+    "kunyomi": "もり",
+    "onyomi": "シン",
+    "mnemonicText": [
+      "SÂM",
+      "Ý nghĩa: rừng rậm",
+      "KUN: もり",
+      "ON  : シン",
+      "Khurừng 3 cáicâylớn",
+      "森"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "SÂM",
+      "Ý nghĩa: rừng rậm",
+      "KUN: もり",
+      "ON  : シン",
+      "Khurừng 3 cáicâylớn",
+      "森"
+    ],
+    "exampleText": [
+      "森",
+      "Ý nghĩa: rừng rậm",
+      "KUN: もり",
+      "ON  : シン",
+      "森林",
+      "しん",
+      "森",
+      "もり",
+      "Rừng rậm",
+      "Vùng rừng rậm",
+      "りん",
+      "SÂM"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        9,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch04-04",
+    "chapter": 4,
+    "order": 4,
+    "kanji": "本",
+    "hanViet": "BẢN",
+    "meaning": "cơbản, gốcrễ/sách",
+    "kunyomi": "もと",
+    "onyomi": "ホン",
+    "mnemonicText": [
+      "Chặt CÂY木 lấygỗvềlàmSÁCH本."
+    ],
+    "introText": [
+      "Ý nghĩa: cơbản, gốcrễ/sách",
+      "KUN: もと",
+      "ON  : ホン",
+      "BẢN",
+      "CÁCH NHỚ:",
+      "Chặt CÂY木 lấygỗvềlàmSÁCH本."
+    ],
+    "exampleText": [
+      "KUN: もと",
+      "ON  : ホン",
+      "日本語",
+      "に",
+      "ほん",
+      "日本",
+      "ほん",
+      "本社",
+      "ほん",
+      "しゃ",
+      "本物",
+      "ほん",
+      "もの",
+      "NhậtBản",
+      "Tiếng Nhật",
+      "Trụsởchính",
+      "Hàngthật",
+      "ご",
+      "絵本",
+      "え",
+      "ほん",
+      "Truyệntranh, sáchtranh",
+      "に",
+      "BẢN",
+      "本",
+      "Ý nghĩa: cơbản, gốcrễ/sách"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch04-05",
+    "chapter": 4,
+    "order": 5,
+    "kanji": "体",
+    "hanViet": "THỂ",
+    "meaning": "cơ thể",
+    "kunyomi": "からだ",
+    "onyomi": "タイ、テイ",
+    "mnemonicText": [
+      "NHÂN ĐỨNG"
+    ],
+    "introText": [
+      "THỂ",
+      "Ý nghĩa: cơ thể",
+      "KUN: からだ",
+      "ON  : タイ、テイ",
+      "Con NGƯỜI亻có phần CƠ BẢN本 nhất chính CƠ THỂ体.",
+      "CÁCH NHỚ:",
+      "NHÂN ĐỨNG"
+    ],
+    "exampleText": [
+      "KUN: からだ",
+      "ON  : タイ、テイ",
+      "体育館",
+      "たい",
+      "体",
+      "からだ",
+      "Cơthể",
+      "Phòngtậpthểdục",
+      "体にいい",
+      "いくかん",
+      "Tốtchocơthể",
+      "からだ",
+      "THỂ",
+      "体",
+      "Ý nghĩa: cơ thể"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        23,
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch04-06",
+    "chapter": 4,
+    "order": 6,
+    "kanji": "休",
+    "hanViet": "HƯU",
+    "meaning": "nghỉngơi",
+    "kunyomi": "やす・む",
+    "onyomi": "キュウ",
+    "mnemonicText": [
+      "NHÂN ĐỨNG"
+    ],
+    "introText": [
+      "HƯU",
+      "Ý nghĩa: nghỉngơi",
+      "KUN: やす・む",
+      "ON  : キュウ",
+      "NGƯỜI đứng亻nghỉ dưới",
+      "bóng CÂY 木",
+      "CÁCH NHỚ:",
+      "NHÂN ĐỨNG"
+    ],
+    "exampleText": [
+      "KUN: やす・む",
+      "ON  : キュウ",
+      "昼休み",
+      "やす",
+      "ひる",
+      "休み",
+      "やす",
+      "Kỳnghỉ, đợtnghỉdài",
+      "Nghỉ, vắngmặt",
+      "休 憩します",
+      "連休",
+      "きゅう",
+      "けい",
+      "れん",
+      "きゅう",
+      "Nghỉgiảilao",
+      "Nghỉtrưa",
+      "HƯU",
+      "休",
+      "Ý nghĩa: nghỉ ngơi"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        26,
+        27,
+        28
+      ]
+    }
+  },
+  {
+    "id": "ch04-07",
+    "chapter": 4,
+    "order": 7,
+    "kanji": "長",
+    "hanViet": "TRƯỜNG",
+    "meaning": "dài",
+    "kunyomi": "なが・い",
+    "onyomi": "チョウ",
+    "mnemonicText": [
+      "Hìnhảnhcôgáicómáitócdài"
+    ],
+    "introText": [
+      "長",
+      "Ý nghĩa: dài",
+      "KUN: なが・い",
+      "ON  : チョウ",
+      "TRƯỜNG",
+      "CÁCH NHỚ:",
+      "Hìnhảnhcôgáicómáitócdài"
+    ],
+    "exampleText": [
+      "KUN: なが・い",
+      "ON  : チョウ",
+      "長さ",
+      "なが",
+      "長い",
+      "なが",
+      "Độ dài",
+      "Sốnglâu",
+      "い",
+      "長生き",
+      "なが",
+      "Dài",
+      "TRƯỜNG",
+      "Ý nghĩa: dài",
+      "長"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        33,
+        34,
+        35
+      ]
+    }
+  },
+  {
+    "id": "ch04-08",
+    "chapter": 4,
+    "order": 8,
+    "kanji": "髪",
+    "hanViet": "PHÁT",
+    "meaning": "tóc",
+    "kunyomi": "かみ",
+    "onyomi": "ハツ",
+    "mnemonicText": [],
+    "introText": [
+      "PHÁT",
+      "Ý nghĩa: tóc",
+      "KUN: かみ",
+      "ON  : ハツ",
+      "Tóc髪dài長nêncầnnhờbạn友bệnlại.",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "PHÁT",
+      "Ý nghĩa: tóc",
+      "KUN: かみ",
+      "ON  : ハツ",
+      "髪",
+      "かみ",
+      "Tóc",
+      "髪の毛",
+      "前髪",
+      "かみ",
+      "け",
+      "Sợitóc",
+      "Tócmái",
+      "がみ",
+      "まえ",
+      "髪"
+    ],
+    "source": {
+      "file": "4. Tổng hợp Kanji chương 4.pptx",
+      "slides": [
+        37,
+        38,
+        39
+      ]
+    }
+  }
+]

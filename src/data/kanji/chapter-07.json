@@ -1,0 +1,790 @@
+[
+  {
+    "id": "ch07-01",
+    "chapter": 7,
+    "order": 1,
+    "kanji": "今",
+    "hanViet": "KIM",
+    "meaning": "bâygiờ, hiệntại",
+    "kunyomi": "いま",
+    "onyomi": "コン、キン",
+    "mnemonicText": [
+      "BÂY GIỜ tôi sẽ đi ra（ラ）khỏi nhà  (𠆢)"
+    ],
+    "introText": [
+      "Ý nghĩa: bâygiờ, hiệntại",
+      "KUN: いま",
+      "ON  : コン、キン",
+      "KIM",
+      "CÁCH NHỚ:",
+      "BÂY GIỜ tôi sẽ đi ra（ラ）khỏi nhà  (𠆢)"
+    ],
+    "exampleText": [
+      "KIM",
+      "Ý nghĩa: bâygiờ, hiệntại",
+      "KUN: いま",
+      "ON  : コン、キン",
+      "今",
+      "いま",
+      "Bâygiờ",
+      "今",
+      "今晩",
+      "Tối nay",
+      "こん",
+      "ばん",
+      "今週",
+      "Tuầnnày",
+      "今度",
+      "Lầnnày, lầntới",
+      "こん",
+      "こん",
+      "しゅう",
+      "ど"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch07-02",
+    "chapter": 7,
+    "order": 2,
+    "kanji": "会",
+    "hanViet": "HỘI",
+    "meaning": "gặpgỡ, hộihọp",
+    "kunyomi": "あ・う",
+    "onyomi": "カイ、エ",
+    "mnemonicText": [],
+    "introText": [
+      "HỘI",
+      "Ý nghĩa: gặpgỡ, hộihọp",
+      "KUN: あ・う",
+      "ON  : カイ、エ",
+      "Ở dưới mái nhà （𠆢）có 2 người （二）GẶP nhau nói chuyện riêng tư（ㄙ - bộ khư）",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "HỘI",
+      "会",
+      "Ý nghĩa: gặpgỡ, hộihọp",
+      "KUN: あ・う",
+      "ON  : カイ、エ",
+      "会います",
+      "Gặp",
+      "会社",
+      "あ",
+      "かい",
+      "しゃ",
+      "会社員",
+      "会議",
+      "Công ty",
+      "Nhânviêncông ty",
+      "Cuộchọp",
+      "かい",
+      "かい",
+      "しゃいん",
+      "ぎ"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch07-03",
+    "chapter": 7,
+    "order": 3,
+    "kanji": "合",
+    "hanViet": "HỢP",
+    "meaning": "hợp, phùhợp",
+    "kunyomi": "あ・う",
+    "onyomi": "カッ、ガッ、ゴウ",
+    "mnemonicText": [
+      "KHẨU"
+    ],
+    "introText": [
+      "HỢP",
+      "Ý nghĩa: hợp, phùhợp",
+      "KUN: あ・う",
+      "ON  : カッ、ガッ、ゴウ",
+      "Dưới 1 máinhà亼, MIỆNG 口nóiphảiHỢP 合nhauthìmớichungsốngđược",
+      "CÁCH NHỚ:",
+      "KHẨU"
+    ],
+    "exampleText": [
+      "HỢP",
+      "合",
+      "Ý nghĩa: hợp, phùhợp",
+      "合います",
+      "あ",
+      "Hợp, phùhợp",
+      "し",
+      "KUN: あ・う",
+      "ON  : カッ、ガッ、ゴ",
+      "試合",
+      "間に合います",
+      "合格します",
+      "あい",
+      "あ",
+      "ごう",
+      "ま",
+      "かく",
+      "Trậnđấu, cuộcthi",
+      "Kịp (giờ)",
+      "Đỗ, đậu (kìthi)"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        9,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch07-04",
+    "chapter": 7,
+    "order": 4,
+    "kanji": "口",
+    "hanViet": "KHẨU",
+    "meaning": "miệng, lối ra vào",
+    "kunyomi": "くち",
+    "onyomi": "コウ、ク",
+    "mnemonicText": [
+      "Hìnhảnhcáimiệng口"
+    ],
+    "introText": [
+      "Ý nghĩa: miệng, lối ra vào",
+      "KUN: くち",
+      "ON  : コウ、ク",
+      "KHẨU",
+      "CÁCH NHỚ:",
+      "Hìnhảnhcáimiệng口"
+    ],
+    "exampleText": [
+      "KHẨU",
+      "Ý nghĩa: miệng, lối ra vào",
+      "KUN: くち",
+      "ON  : コウ、ク",
+      "口",
+      "くち",
+      "Miệng",
+      "口",
+      "入り口",
+      "Lốivào",
+      "ぐち",
+      "い",
+      "出口",
+      "Lối ra",
+      "ぐち",
+      "で"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch07-05",
+    "chapter": 7,
+    "order": 5,
+    "kanji": "中",
+    "hanViet": "TRUNG",
+    "meaning": "ở giữa",
+    "kunyomi": "なか",
+    "onyomi": "チュウ、ジュウ",
+    "mnemonicText": [],
+    "introText": [
+      "TRUNG",
+      "Ý nghĩa: ở giữa",
+      "KUN: なか",
+      "ON  : チュウ、ジュウ",
+      "Đưađũa I vào BÊN TRONG 中 MIỆNG 口",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "TRUNG",
+      "中",
+      "Ý nghĩa: ở giữa",
+      "KUN: なか",
+      "ON  : チュウ、ジュウ",
+      "中",
+      "Ở giữa, bêntrong",
+      "真ん中",
+      "なか",
+      "なか",
+      "まん",
+      "中国",
+      "仕事中",
+      "chínhgiữa",
+      "TrungQuốc",
+      "Đanglàmviệc",
+      "ちゅう",
+      "ちゅう",
+      "ごく",
+      "し ごと",
+      "世界中",
+      "Trênkhắpthếgiới",
+      "せ かい",
+      "じゅう"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        23,
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch07-06",
+    "chapter": 7,
+    "order": 6,
+    "kanji": "古",
+    "hanViet": "CỔ",
+    "meaning": "cũ, cổ, xưa",
+    "kunyomi": "ふる・い、ふる・す",
+    "onyomi": "コ",
+    "mnemonicText": [
+      "THẬP"
+    ],
+    "introText": [
+      "CỔ",
+      "Ý nghĩa: cũ, cổ, xưa",
+      "KUN: ふる・い、ふる・す",
+      "ON  : コ",
+      "Chuyện NÓI 口ra đến10 十lầnthìsẽthànhchuyệnCŨ 古",
+      "CÁCH NHỚ:",
+      "THẬP"
+    ],
+    "exampleText": [
+      "CỔ",
+      "古",
+      "Ý nghĩa: cũ, cổ, xưa",
+      "古い",
+      "ふる",
+      "Cũ",
+      "KUN: ふる・い、ふる・す",
+      "ON  : コ"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        26,
+        27,
+        28
+      ]
+    }
+  },
+  {
+    "id": "ch07-07",
+    "chapter": 7,
+    "order": 7,
+    "kanji": "牛",
+    "hanViet": "NGƯU",
+    "meaning": "con bò",
+    "kunyomi": "うし",
+    "onyomi": "ギュウ",
+    "mnemonicText": [
+      "Hìnhảnh con bò"
+    ],
+    "introText": [
+      "Ý nghĩa: con bò",
+      "KUN: うし",
+      "ON  : ギュウ",
+      "NGƯU",
+      "CÁCH NHỚ:",
+      "Hìnhảnh con bò"
+    ],
+    "exampleText": [
+      "NGƯU",
+      "Ý nghĩa: con bò",
+      "KUN: うし",
+      "ON  : ギュウ",
+      "牛",
+      "牛",
+      "Con bò",
+      "うし",
+      "牛乳",
+      "牛肉",
+      "牛どん",
+      "Sữabò",
+      "Thịtbò",
+      "Cơmthịtbò",
+      "ぎゅう",
+      "ぎゅう",
+      "ぎゅう",
+      "にゅう",
+      "にく"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        33,
+        34,
+        35
+      ]
+    }
+  },
+  {
+    "id": "ch07-08",
+    "chapter": 7,
+    "order": 8,
+    "kanji": "物",
+    "hanViet": "VẬT",
+    "meaning": "đồvật",
+    "kunyomi": "もの",
+    "onyomi": "ブツ、モツ",
+    "mnemonicText": [],
+    "introText": [
+      "VẬT",
+      "Ý nghĩa: đồvật",
+      "KUN: もの",
+      "ON  : ブツ、モツ",
+      "CON BÒ 牛chởnhiềuĐỒ",
+      "VẬT 物trênlưng勿",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "VẬT",
+      "Ý nghĩa: đồvật",
+      "KUN: もの",
+      "ON  : ブツ、モツ",
+      "もの",
+      "物",
+      "Đồvật",
+      "物",
+      "果物",
+      "品物",
+      "Tráicây",
+      "Hànghoá",
+      "もの",
+      "もの",
+      "くだ",
+      "しな",
+      "Đồbịbỏquên",
+      "忘れ物",
+      "もの",
+      "わす"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        36,
+        37,
+        38
+      ]
+    }
+  },
+  {
+    "id": "ch07-09",
+    "chapter": 7,
+    "order": 9,
+    "kanji": "午",
+    "hanViet": "NGỌ",
+    "meaning": "trưa",
+    "kunyomi": "---",
+    "onyomi": "ゴ",
+    "mnemonicText": [
+      "NGƯỜI NẰM 𠂉",
+      "từ10 十giờđến",
+      "12 GIỜ TRƯA 午",
+      "NHÂN NẰM",
+      "THẬP",
+      "十"
+    ],
+    "introText": [
+      "Ý nghĩa: trưa",
+      "KUN: ---",
+      "ON  : ゴ",
+      "NGỌ",
+      "CÁCH NHỚ:",
+      "NGƯỜI NẰM 𠂉",
+      "từ10 十giờđến",
+      "12 GIỜ TRƯA 午",
+      "NHÂN NẰM",
+      "THẬP",
+      "十"
+    ],
+    "exampleText": [
+      "NGỌ",
+      "Ý nghĩa: trưa",
+      "午後",
+      "ぜん",
+      "午前",
+      "ご",
+      "Sáng (trước 12h)",
+      "Chiều (sau 12h)",
+      "午",
+      "KUN: ---",
+      "ON  : ゴ",
+      "ご",
+      "ご"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        45,
+        46,
+        47
+      ]
+    }
+  },
+  {
+    "id": "ch07-10",
+    "chapter": 7,
+    "order": 10,
+    "kanji": "年",
+    "hanViet": "NIÊN",
+    "meaning": "năm",
+    "kunyomi": "とし",
+    "onyomi": "ネン",
+    "mnemonicText": [
+      "NHÂN NẰM"
+    ],
+    "introText": [
+      "NIÊN",
+      "Ý nghĩa: năm",
+      "KUN: とし",
+      "ON  :　ネン",
+      "NGƯỜI NẰM 𠂉trên",
+      "CON BÒ 牛quanhNĂM 年",
+      "CÁCH NHỚ:",
+      "NHÂN NẰM"
+    ],
+    "exampleText": [
+      "NIÊN",
+      "年",
+      "Ý nghĩa: năm",
+      "～年",
+      "らい",
+      "Năm~",
+      "半年",
+      "来年",
+      "はん",
+      "きょ",
+      "Nămsau",
+      "Nửanăm",
+      "KUN: とし",
+      "ON  :　ネン",
+      "ねん",
+      "去年",
+      "再来年",
+      "とし",
+      "ねん",
+      "ねん",
+      "ねん",
+      "さ らい",
+      "Nămngoái",
+      "Nămsaunữa"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        48,
+        49,
+        50
+      ]
+    }
+  },
+  {
+    "id": "ch07-11",
+    "chapter": 7,
+    "order": 11,
+    "kanji": "生",
+    "hanViet": "SINH",
+    "meaning": "sống",
+    "kunyomi": "い・きる、う・まれる なま、は・える",
+    "onyomi": "セイ、ショウ",
+    "mnemonicText": [
+      "NHÂN NẰM",
+      "THỔ"
+    ],
+    "introText": [
+      "SINH",
+      "Ý nghĩa: sống",
+      "KUN: い・きる、う・まれる",
+      "なま、は・える",
+      "ON  : セイ、ショウ",
+      "NGƯỜI NẰM 𠂉 SINH 生 con trên MẶT ĐẤT 土",
+      "CÁCH NHỚ:",
+      "NHÂN NẰM",
+      "THỔ"
+    ],
+    "exampleText": [
+      "SINH",
+      "生",
+      "Ý nghĩa: sống",
+      "生まれます",
+      "う",
+      "生け花",
+      "い",
+      "Học sinh, sinhviên",
+      "Nghệthuậtcắmhoa",
+      "ばな",
+      "長生き",
+      "学生",
+      "い",
+      "せい",
+      "たん",
+      "Đượcsinhra",
+      "Sốnglâu",
+      "がく",
+      "なが",
+      "誕生日",
+      "び",
+      "じょう",
+      "Ngàysinh/ ngàysinhnhật",
+      "KUN: い・きる、う・まれる",
+      "なま、は・える",
+      "ON  : セイ、ショウ"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        51,
+        52,
+        53
+      ]
+    }
+  },
+  {
+    "id": "ch07-12",
+    "chapter": 7,
+    "order": 12,
+    "kanji": "気",
+    "hanViet": "KHÍ",
+    "meaning": "khí, tinh thần",
+    "kunyomi": "---",
+    "onyomi": "キ、ケ",
+    "mnemonicText": [
+      "NGƯỜI NẰM 𠂉một MÌNH ーthì KHOẺ 気",
+      "NHÂN NẰM",
+      "NHẤT"
+    ],
+    "introText": [
+      "Ý nghĩa: khí, tinh thần",
+      "KUN: ---",
+      "ON  : キ、ケ",
+      "KHÍ",
+      "CÁCH NHỚ:",
+      "NGƯỜI NẰM 𠂉một MÌNH ーthì KHOẺ 気",
+      "NHÂN NẰM",
+      "NHẤT"
+    ],
+    "exampleText": [
+      "KHÍ",
+      "Ý nghĩa: khí, tinh thần",
+      "天気",
+      "き",
+      "病気",
+      "にん",
+      "Thờitiết",
+      "Bệnh, ốm",
+      "気",
+      "てん",
+      "KUN: ---",
+      "ON  : キ、ケ",
+      "びょう",
+      "人気",
+      "空気",
+      "天気予報",
+      "き",
+      "き",
+      "き",
+      "き",
+      "くう",
+      "てん",
+      "よ  ほう",
+      "Đượcyêuthích",
+      "Khôngkhí",
+      "Dựbáothờitiết"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        54,
+        55,
+        56
+      ]
+    }
+  },
+  {
+    "id": "ch07-13",
+    "chapter": 7,
+    "order": 13,
+    "kanji": "子",
+    "hanViet": "TỬ",
+    "meaning": "đứatrẻ, con",
+    "kunyomi": "こ",
+    "onyomi": "シ、ス",
+    "mnemonicText": [
+      "HìnhảnhEM BÉ 子",
+      "đang dang haitay ra",
+      "TỬ"
+    ],
+    "introText": [
+      "Ý nghĩa: đứatrẻ, con",
+      "KUN: こ",
+      "ON  : シ、ス",
+      "CÁCH NHỚ:",
+      "HìnhảnhEM BÉ 子",
+      "đang dang haitay ra",
+      "TỬ"
+    ],
+    "exampleText": [
+      "TỬ",
+      "Ý nghĩa: đứatrẻ, con",
+      "KUN: こ",
+      "ON  : シ、ス",
+      "息子",
+      "こ",
+      "Con trai",
+      "子",
+      "子供",
+      "Trẻem",
+      "し",
+      "ども",
+      "電子辞書",
+      "Từđiểnđiệntử",
+      "調子",
+      "Tìnhtrạng, trạngthái",
+      "し",
+      "し",
+      "でん",
+      "むす",
+      "こ",
+      "お菓子",
+      "じ  しょ",
+      "ちょう",
+      "か",
+      "Bánh kẹo"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        65,
+        66,
+        67
+      ]
+    }
+  },
+  {
+    "id": "ch07-14",
+    "chapter": 7,
+    "order": 14,
+    "kanji": "字",
+    "hanViet": "TỰ",
+    "meaning": "chữ, chữviết",
+    "kunyomi": "あざ",
+    "onyomi": "ジ",
+    "mnemonicText": [
+      "MIÊN"
+    ],
+    "introText": [
+      "TỰ",
+      "Ý nghĩa: chữ, chữviết",
+      "KUN: あざ",
+      "ON  : ジ",
+      "Ở dướiMÁI NHÀ  宀 dạy",
+      "CHỮ 字cho CON 子",
+      "CÁCH NHỚ:",
+      "MIÊN"
+    ],
+    "exampleText": [
+      "TỰ",
+      "字",
+      "Ý nghĩa: chữ, chữviết",
+      "KUN: あざ",
+      "ON  : ジ",
+      "漢字",
+      "ChữLatinh",
+      "ローマ字",
+      "じ",
+      "じ",
+      "かん",
+      "Chữ Hán"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        68,
+        69,
+        70
+      ]
+    }
+  },
+  {
+    "id": "ch07-15",
+    "chapter": 7,
+    "order": 15,
+    "kanji": "学",
+    "hanViet": "HỌC",
+    "meaning": "học",
+    "kunyomi": "まな・ぶ",
+    "onyomi": "ガク",
+    "mnemonicText": [],
+    "introText": [
+      "HỌC",
+      "Ý nghĩa: học",
+      "KUN: まな・ぶ",
+      "ON  : ガク",
+      "EM BÉ 子 HỌC 学",
+      "Dướimáitrường",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "HỌC",
+      "学",
+      "Ý nghĩa: học",
+      "留学生",
+      "がく",
+      "Du họcsinh",
+      "りゅう",
+      "KUN: まな・ぶ",
+      "ON  : ガク",
+      "大学院",
+      "見学",
+      "学校",
+      "がく",
+      "がく",
+      "がく",
+      "だい",
+      "けん",
+      "Tham quanvới",
+      "mụcđíchhọctập",
+      "Cao học",
+      "Trường học",
+      "入学",
+      "がっ",
+      "せい",
+      "いん",
+      "こう",
+      "にゅう",
+      "Nhậphọc"
+    ],
+    "source": {
+      "file": "7. Tổng hợp Kanji chương 7.pptx",
+      "slides": [
+        71,
+        72,
+        73
+      ]
+    }
+  }
+]

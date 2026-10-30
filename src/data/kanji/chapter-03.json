@@ -1,0 +1,602 @@
+[
+  {
+    "id": "ch03-01",
+    "chapter": 3,
+    "order": 1,
+    "kanji": "日",
+    "hanViet": "NHẬT",
+    "meaning": "mặttrời/ ngày",
+    "kunyomi": "ひ、か",
+    "onyomi": "ニチ、ジツ",
+    "mnemonicText": [
+      "Hìnhảnhmặttrời"
+    ],
+    "introText": [
+      "日",
+      "Ý nghĩa: mặttrời/ ngày",
+      "KUN:　ひ、か",
+      "ON  :　ニチ、ジツ",
+      "NHẬT",
+      "CÁCH NHỚ:",
+      "Hìnhảnhmặttrời"
+    ],
+    "exampleText": [
+      "NHẬT",
+      "日",
+      "KUN:　ひ、か",
+      "ON  :　ニチ、ジツ",
+      "Ý nghĩa: mặttrời/ ngày",
+      "日曜日",
+      "にち",
+      "よう",
+      "母の日",
+      "ひ",
+      "二日",
+      "か",
+      "ふつ",
+      "Ngàycủamẹ",
+      "Chủ nhật",
+      "Mùng 2",
+      "日本",
+      "に",
+      "ほん",
+      "Nhật Bản",
+      "毎日",
+      "にち",
+      "まい",
+      "Mỗi ngày",
+      "はは",
+      "び"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  {
+    "id": "ch03-02",
+    "chapter": 3,
+    "order": 2,
+    "kanji": "白",
+    "hanViet": "BẠCH",
+    "meaning": "trắng",
+    "kunyomi": "しろ・い、しら",
+    "onyomi": "ハク、ビャク",
+    "mnemonicText": [
+      "BẠCH",
+      "Ý nghĩa: trắng",
+      "KUN: しろ・い、しら",
+      "ON  : ハク、ビャク",
+      "NÉT PHẨY",
+      "Chữ Nhật 日thêm nét phẩy là chữ Bạch白"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "BẠCH",
+      "Ý nghĩa: trắng",
+      "KUN: しろ・い、しら",
+      "ON  : ハク、ビャク",
+      "NÉT PHẨY",
+      "Chữ Nhật 日thêm nét phẩy là chữ Bạch白"
+    ],
+    "exampleText": [
+      "BẠCH",
+      "白",
+      "Ý nghĩa: trắng",
+      "KUN: しろ・い、しら",
+      "ON  : ハク、ビャク",
+      "白い",
+      "しろ",
+      "Màutrắng"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        6,
+        7,
+        8
+      ]
+    }
+  },
+  {
+    "id": "ch03-03",
+    "chapter": 3,
+    "order": 3,
+    "kanji": "早",
+    "hanViet": "TẢO",
+    "meaning": "sớm",
+    "kunyomi": "はや・い",
+    "onyomi": "ソウ、サッ",
+    "mnemonicText": [
+      "THẬP"
+    ],
+    "introText": [
+      "TẢO",
+      "Ý nghĩa: sớm",
+      "KUN: はや・い",
+      "ON  : ソウ、サッ",
+      "ÔngMẶT TRỜI 日 cũng phải",
+      "dậy SỚM早 từ10 giờ 十",
+      "CÁCH NHỚ:",
+      "THẬP"
+    ],
+    "exampleText": [
+      "TẢO",
+      "早",
+      "Ý nghĩa: sớm",
+      "早い",
+      "はや",
+      "Sớm",
+      "KUN: はや・い",
+      "ON  : ソウ、サッ"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        9,
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "id": "ch03-04",
+    "chapter": 3,
+    "order": 4,
+    "kanji": "月",
+    "hanViet": "NGUYỆT",
+    "meaning": "mặttrăng/ tháng",
+    "kunyomi": "つき",
+    "onyomi": "ゲツ、ガツ",
+    "mnemonicText": [
+      "Hìnhảnhánhtrăng"
+    ],
+    "introText": [
+      "Ý nghĩa: mặttrăng/",
+      "tháng",
+      "KUN: つき",
+      "ON  : ゲツ、ガツ",
+      "NGUYỆT",
+      "CÁCH NHỚ:",
+      "Hìnhảnhánhtrăng"
+    ],
+    "exampleText": [
+      "NGUYỆT",
+      "月",
+      "KUN: つき",
+      "ON  : ゲツ、ガツ",
+      "月",
+      "つき",
+      "月曜日",
+      "げつ",
+      "よう び",
+      "今月",
+      "げつ",
+      "こん",
+      "Mặttrăng",
+      "Thứ Hai",
+      "Tháng này",
+      "Ý nghĩa: mặttrăng/",
+      "tháng",
+      "来月",
+      "げつ",
+      "らい",
+      "Tháng sau"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        17,
+        18,
+        19
+      ]
+    }
+  },
+  {
+    "id": "ch03-05",
+    "chapter": 3,
+    "order": 5,
+    "kanji": "明",
+    "hanViet": "MINH",
+    "meaning": "sáng",
+    "kunyomi": "あ・ける、あか・るい",
+    "onyomi": "メイ、ミョウ",
+    "mnemonicText": [],
+    "introText": [
+      "MINH",
+      "Ý nghĩa: sáng",
+      "KUN: あ・ける、あか・るい",
+      "ON  : メイ、ミョウ",
+      "NHẬT",
+      "MẶT TRỜI 日 ＋MẶT TRĂNG 月 →rất SÁNG明",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "MINH",
+      "明",
+      "Ý nghĩa: sáng",
+      "KUN: あ・ける、あか・るい",
+      "ON  : メイ、ミョウ",
+      "明るい",
+      "あか",
+      "明日",
+      "あ し た",
+      "説明します",
+      "めい",
+      "せつ",
+      "Sáng",
+      "Ngày mai",
+      "Giải thích",
+      "説明書",
+      "めい",
+      "せつ",
+      "Sách hướng dẫn",
+      "しょ"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        20,
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "id": "ch03-06",
+    "chapter": 3,
+    "order": 6,
+    "kanji": "朝",
+    "hanViet": "TRIỀU",
+    "meaning": "buổi sáng",
+    "kunyomi": "あさ",
+    "onyomi": "チョウ",
+    "mnemonicText": [
+      "TRIỀU",
+      "Ý nghĩa: buổi sáng",
+      "KUN: あさ",
+      "ON  : チョウ",
+      "Một BUỔI SÁNG 朝",
+      "NGÀY 10 十日",
+      "THÁNG 10 十月"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "TRIỀU",
+      "Ý nghĩa: buổi sáng",
+      "KUN: あさ",
+      "ON  : チョウ",
+      "Một BUỔI SÁNG 朝",
+      "NGÀY 10 十日",
+      "THÁNG 10 十月"
+    ],
+    "exampleText": [
+      "TRIỀU",
+      "朝",
+      "Ý nghĩa: buổi sáng",
+      "KUN: あさ",
+      "ON  : チョウ",
+      "朝",
+      "あさ",
+      "毎朝",
+      "あさ",
+      "まい",
+      "今朝",
+      "さ",
+      "け",
+      "Buổisáng",
+      "Mỗi sáng",
+      "Sáng nay",
+      "朝 食",
+      "ちょう",
+      "しょく",
+      "Bữa sáng"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        23,
+        24,
+        25
+      ]
+    }
+  },
+  {
+    "id": "ch03-07",
+    "chapter": 3,
+    "order": 7,
+    "kanji": "大",
+    "hanViet": "ĐẠI",
+    "meaning": "to, lớn",
+    "kunyomi": "おお・ きい",
+    "onyomi": "ダイ、タイ",
+    "mnemonicText": [
+      "Hình ảnh người LỚN 大",
+      "đứng dang rộng chân tay"
+    ],
+    "introText": [
+      "Ý nghĩa: to, lớn",
+      "KUN: おお・ きい",
+      "ON  : ダイ、タイ",
+      "ĐẠI",
+      "CÁCH NHỚ:",
+      "Hình ảnh người LỚN 大",
+      "đứng dang rộng chân tay"
+    ],
+    "exampleText": [
+      "ĐẠI",
+      "大",
+      "Ý nghĩa: to, lớn",
+      "KUN: おお・ きい",
+      "ON  : ダイ、タイ",
+      "大きい",
+      "おお",
+      "大きさ",
+      "おお",
+      "大きな",
+      "おお",
+      "To, lớn",
+      "Độ lớn, kích thước",
+      "To, lớn",
+      "大学",
+      "だい",
+      "Đại học",
+      "がく"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        34,
+        35,
+        36
+      ]
+    }
+  },
+  {
+    "id": "ch03-08",
+    "chapter": 3,
+    "order": 8,
+    "kanji": "犬",
+    "hanViet": "KHUYỂN",
+    "meaning": "con chó",
+    "kunyomi": "いぬ",
+    "onyomi": "ケン",
+    "mnemonicText": [],
+    "introText": [
+      "KHUYỂN",
+      "Ý nghĩa: con chó",
+      "KUN: いぬ",
+      "ON  : ケン",
+      "NÉT PHẨY",
+      "Hình ảnh CON CHÓ 犬vểnh tai",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "KHUYỂN",
+      "犬",
+      "Ý nghĩa: con chó",
+      "犬",
+      "いぬ",
+      "Con chó",
+      "KUN: いぬ",
+      "ON  : ケン"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        37,
+        38,
+        39
+      ]
+    }
+  },
+  {
+    "id": "ch03-09",
+    "chapter": 3,
+    "order": 9,
+    "kanji": "太",
+    "hanViet": "THÁI",
+    "meaning": "béo mập, mặt trời",
+    "kunyomi": "ふと・い、ふと・る",
+    "onyomi": "タイ、タ",
+    "mnemonicText": [
+      "THÁI",
+      "Ý nghĩa: béo mập, mặt trời",
+      "KUN: ふと・い、ふと・る",
+      "ON  : タイ、タ",
+      "NgườiLỚN 大dễ BÉO 太bụng",
+      "NÉT PHẨY"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "THÁI",
+      "Ý nghĩa: béo mập, mặt trời",
+      "KUN: ふと・い、ふと・る",
+      "ON  : タイ、タ",
+      "NgườiLỚN 大dễ BÉO 太bụng",
+      "NÉT PHẨY"
+    ],
+    "exampleText": [
+      "THÁI",
+      "太",
+      "Ý nghĩa: béo mập, mặt trời",
+      "KUN: ふと・い、ふと・る",
+      "ON  : タイ、タ",
+      "太い",
+      "ふと",
+      "太ります",
+      "ふと",
+      "太陽",
+      "たい",
+      "よう",
+      "Béo, mập",
+      "Béo lên, mập lên",
+      "Mặt trời"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        40,
+        41,
+        42
+      ]
+    }
+  },
+  {
+    "id": "ch03-10",
+    "chapter": 3,
+    "order": 10,
+    "kanji": "小",
+    "hanViet": "TIỂU",
+    "meaning": "nhỏ",
+    "kunyomi": "こ、お、ちい・さい",
+    "onyomi": "ショウ",
+    "mnemonicText": [
+      "Em NHỎ小",
+      "taygầnchạmxuốngđất"
+    ],
+    "introText": [
+      "Ý nghĩa: nhỏ",
+      "KUN: こ、お、ちい・さい",
+      "ON  : ショウ",
+      "TIỂU",
+      "CÁCH NHỚ:",
+      "Em NHỎ小",
+      "taygầnchạmxuốngđất"
+    ],
+    "exampleText": [
+      "TIỂU",
+      "小",
+      "Ý nghĩa: nhỏ",
+      "KUN: こ、お、ちい・さい",
+      "ON  : ショウ",
+      "小さな",
+      "ちい",
+      "小さい",
+      "ちい",
+      "小 学校",
+      "しょう",
+      "がっこう",
+      "Nhỏ, bé",
+      "Nhỏ, bé",
+      "Trường tiểu học",
+      "小 説",
+      "しょう",
+      "せつ",
+      "Tiểu thuyết",
+      "小 説家",
+      "しょう",
+      "せつ  か",
+      "Tiểu thuyết gia"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        48,
+        49,
+        50
+      ]
+    }
+  },
+  {
+    "id": "ch03-11",
+    "chapter": 3,
+    "order": 11,
+    "kanji": "少",
+    "hanViet": "THIỂU",
+    "meaning": "ít",
+    "kunyomi": "すく・ない、すこ・し",
+    "onyomi": "ショウ",
+    "mnemonicText": [],
+    "introText": [
+      "THIỂU",
+      "Ý nghĩa: ít",
+      "KUN: すく・ない、すこ・し",
+      "ON  : ショウ",
+      "TIỂU",
+      "đãNhỏ小",
+      "rồi màcòngạchbỏ丿",
+      "bớtđi=> ÍT 少",
+      "CÁCH NHỚ:"
+    ],
+    "exampleText": [
+      "THIỂU",
+      "少",
+      "Ý nghĩa: ít",
+      "KUN: すく・ない、すこ・し",
+      "ON  : ショウ",
+      "少ない",
+      "すく",
+      "少し",
+      "すこ",
+      "Mộtchút",
+      "Ít"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        51,
+        52,
+        53
+      ]
+    }
+  },
+  {
+    "id": "ch03-12",
+    "chapter": 3,
+    "order": 12,
+    "kanji": "京",
+    "hanViet": "KINH",
+    "meaning": "vùng trung tâm đất nước/ cao, lớn",
+    "kunyomi": "---",
+    "onyomi": "キョウ、ケイ",
+    "mnemonicText": [
+      "Ý nghĩa: vùng trung tâm đất nước/ cao, lớn",
+      "KUN: \t---",
+      "ON  : キョウ、ケイ",
+      "TIỂU",
+      "Tòathànhxâytrên",
+      "gòđấtcao",
+      "→KINH THÀNH京",
+      "KINH"
+    ],
+    "introText": [
+      "CÁCH NHỚ:",
+      "Ý nghĩa: vùng trung tâm đất nước/ cao, lớn",
+      "KUN: \t---",
+      "ON  : キョウ、ケイ",
+      "TIỂU",
+      "Tòathànhxâytrên",
+      "gòđấtcao",
+      "→KINH THÀNH京",
+      "KINH"
+    ],
+    "exampleText": [
+      "KINH",
+      "京",
+      "KUN: \t---",
+      "ON  : キョウ、ケイ",
+      "東 京",
+      "きょう",
+      "とう",
+      "京 都",
+      "きょう",
+      "Kyoto",
+      "Tokyo",
+      "Ý nghĩa: vùng trung tâm đất nước/ cao, lớn",
+      "と"
+    ],
+    "source": {
+      "file": "3. Tổng hợp Kanji chương 3 (1).pptx",
+      "slides": [
+        54,
+        55,
+        56
+      ]
+    }
+  }
+]
