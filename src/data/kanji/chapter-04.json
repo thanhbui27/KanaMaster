@@ -9,7 +9,7 @@
     "kunyomi": "き、こ",
     "onyomi": "ボク、モク",
     "mnemonicText": [
-      "Hìnhcáicây"
+      "Hình cái cây."
     ],
     "introText": [
       "木",
@@ -54,7 +54,7 @@
     "kunyomi": "はやし",
     "onyomi": "リン",
     "mnemonicText": [
-      "林"
+      "Khu rừng có hai cái cây 林."
     ],
     "introText": [
       "LÂM",
@@ -94,12 +94,7 @@
     "kunyomi": "もり",
     "onyomi": "シン",
     "mnemonicText": [
-      "SÂM",
-      "Ý nghĩa: rừng rậm",
-      "KUN: もり",
-      "ON  : シン",
-      "Khurừng 3 cáicâylớn",
-      "森"
+      "Khu rừng có ba cái cây 森."
     ],
     "introText": [
       "CÁCH NHỚ:",
@@ -139,11 +134,11 @@
     "order": 4,
     "kanji": "本",
     "hanViet": "BẢN",
-    "meaning": "cơbản, gốcrễ/sách",
+    "meaning": "cơ bản, gốc rễ/sách",
     "kunyomi": "もと",
     "onyomi": "ホン",
     "mnemonicText": [
-      "Chặt CÂY木 lấygỗvềlàmSÁCH本."
+      "Chặt cây 木 lấy gỗ về làm sách 本."
     ],
     "introText": [
       "Ý nghĩa: cơbản, gốcrễ/sách",
@@ -200,7 +195,7 @@
     "kunyomi": "からだ",
     "onyomi": "タイ、テイ",
     "mnemonicText": [
-      "NHÂN ĐỨNG"
+      "Con người 亻 có phần cơ bản 本 nhất là cơ thể 体."
     ],
     "introText": [
       "THỂ",
@@ -243,11 +238,11 @@
     "order": 6,
     "kanji": "休",
     "hanViet": "HƯU",
-    "meaning": "nghỉngơi",
+    "meaning": "nghỉ ngơi",
     "kunyomi": "やす・む",
     "onyomi": "キュウ",
     "mnemonicText": [
-      "NHÂN ĐỨNG"
+      "Người 亻 nghỉ dưới bóng cây 木."
     ],
     "introText": [
       "HƯU",
@@ -300,7 +295,7 @@
     "kunyomi": "なが・い",
     "onyomi": "チョウ",
     "mnemonicText": [
-      "Hìnhảnhcôgáicómáitócdài"
+      "Hình ảnh cô gái có mái tóc dài."
     ],
     "introText": [
       "長",
@@ -346,7 +341,9 @@
     "meaning": "tóc",
     "kunyomi": "かみ",
     "onyomi": "ハツ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Tóc 髪 dài 長 nên cần nhờ bạn 友 bện lại."
+    ],
     "introText": [
       "PHÁT",
       "Ý nghĩa: tóc",

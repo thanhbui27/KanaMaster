@@ -9,7 +9,7 @@
     "kunyomi": "ひと、ひと・つ",
     "onyomi": "イチ、イツ",
     "mnemonicText": [
-      "1 que củi"
+      "Một que củi."
     ],
     "introText": [
       "一",
@@ -60,7 +60,7 @@
     "kunyomi": "ふた、ふた・つ",
     "onyomi": "ニ",
     "mnemonicText": [
-      "2 que củi"
+      "Hai que củi."
     ],
     "introText": [
       "二",
@@ -111,7 +111,7 @@
     "kunyomi": "み、み・つ、みっ・つ",
     "onyomi": "サン",
     "mnemonicText": [
-      "3 que củi"
+      "Ba que củi."
     ],
     "introText": [
       "三",
@@ -159,13 +159,10 @@
     "kanji": "四",
     "hanViet": "TỨ",
     "meaning": "bốn",
-    "kunyomi": "よ、よ・つ、 よっ・つ、よん",
+    "kunyomi": "よ、よ・つ、よっ・つ、よん",
     "onyomi": "シ",
     "mnemonicText": [
-      "KUN: よ、よ・つ、",
-      "よっ・つ、よん",
-      "ON  : シ",
-      "Cửasổ 4 cạnhcórèm"
+      "Cửa sổ bốn cạnh có rèm."
     ],
     "introText": [
       "四",
@@ -218,7 +215,7 @@
     "kunyomi": "いつ、いつ・つ",
     "onyomi": "ゴ",
     "mnemonicText": [
-      "Bêntrongcóhìnhsố 5"
+      "Bên trong có hình số 5."
     ],
     "introText": [
       "五",
@@ -266,14 +263,10 @@
     "kanji": "六",
     "hanViet": "LỤC",
     "meaning": "sáu",
-    "kunyomi": "む、むい、む・つ、 むっ・つ",
+    "kunyomi": "む、むい、む・つ、むっ・つ",
     "onyomi": "ロク",
     "mnemonicText": [
-      "KUN: む、むい、む・つ、",
-      "むっ・つ",
-      "ON  : ロク",
-      "Ngườithòlênkhỏi",
-      "mặtđất"
+      "Người thò lên khỏi mặt đất."
     ],
     "introText": [
       "六",
@@ -327,7 +320,7 @@
     "kunyomi": "なな、なな・つ、なの",
     "onyomi": "シチ",
     "mnemonicText": [
-      "Số 7 viếtngược"
+      "Số 7 viết ngược."
     ],
     "introText": [
       "七",
@@ -374,14 +367,10 @@
     "kanji": "八",
     "hanViet": "BÁT",
     "meaning": "tám",
-    "kunyomi": "や、や・つ、 やっ・つ、よう",
+    "kunyomi": "や、や・つ、やっ・つ、よう",
     "onyomi": "ハチ",
     "mnemonicText": [
-      "KUN:や、や・つ、",
-      "やっ・つ、よう",
-      "ON  : ハチ",
-      "Phânbiệtvớichữ",
-      "Lục六"
+      "Phân biệt với chữ 六 (sáu)."
     ],
     "introText": [
       "八",
@@ -435,7 +424,7 @@
     "kunyomi": "ここの、ここの・つ",
     "onyomi": "ク、キュウ",
     "mnemonicText": [
-      "Gầngiốngvớichữか"
+      "Gần giống chữ か."
     ],
     "introText": [
       "九",
@@ -486,9 +475,7 @@
     "kunyomi": "とお、と",
     "onyomi": "ジュウ、ジッ",
     "mnemonicText": [
-      "KUN: とお、と",
-      "ON  : ジュウ、ジッ",
-      "Giốngvớichữthậpđỏ"
+      "Giống hình chữ thập đỏ."
     ],
     "introText": [
       "十",
@@ -532,15 +519,11 @@
     "order": 11,
     "kanji": "百",
     "hanViet": "BÁCH",
-    "meaning": "mộttrăm",
+    "meaning": "một trăm",
     "kunyomi": "---",
     "onyomi": "ヒャク",
     "mnemonicText": [
-      "KUN: ---",
-      "ON  : ヒャク",
-      "Ghépbởi",
-      "chữNhất一 vàbộBạch白",
-      "(màutrắng)"
+      "Ghép nét 一 và chữ 白."
     ],
     "introText": [
       "百",
@@ -594,9 +577,7 @@
     "kunyomi": "ち",
     "onyomi": "セン",
     "mnemonicText": [
-      "Ghépbởi",
-      "nét phẩy và",
-      "chữ Thập十"
+      "Ghép nét phẩy và chữ 十."
     ],
     "introText": [
       "千",
@@ -643,16 +624,11 @@
     "order": 13,
     "kanji": "万",
     "hanViet": "VẠN",
-    "meaning": "mộtvạn",
+    "meaning": "một vạn",
     "kunyomi": "---",
     "onyomi": "マン、バン",
     "mnemonicText": [
-      "Ý nghĩa: mộtvạn",
-      "KUN: ---",
-      "ON  : マン、バン",
-      "Ghépbởi",
-      "chữ Nhất一và",
-      "chữ Kaヵ"
+      "Ghép nét 一 và chữ ヵ."
     ],
     "introText": [
       "万",
@@ -691,16 +667,11 @@
     "order": 14,
     "kanji": "円",
     "hanViet": "VIÊN",
-    "meaning": "vòngtròn, đồngyên",
+    "meaning": "vòng tròn, đồng yên",
     "kunyomi": "まる・い",
     "onyomi": "エン",
     "mnemonicText": [
-      "Ý nghĩa: vòngtròn,",
-      "đồngyên",
-      "KUN: まる・い",
-      "ON  : エン",
-      "Kí hiệu",
-      "đồng yên円"
+      "Hình gợi nhớ ký hiệu đồng yên 円."
     ],
     "introText": [
       "円",

@@ -9,9 +9,7 @@
     "kunyomi": "かね、かな",
     "onyomi": "キン、コン",
     "mnemonicText": [
-      "TrênlàMÁI NHÀ, dướilà",
-      "ĐẤT 土, trongnhàcấtnhiều",
-      "VÀNG 金"
+      "Dưới mái nhà, trong đất 土 cất nhiều vàng 金."
     ],
     "introText": [
       "Ý nghĩa: vàng, tiền",
@@ -68,7 +66,7 @@
     "kunyomi": "---",
     "onyomi": "ギン",
     "mnemonicText": [
-      "CẤN"
+      "Ngân 銀 hàng là nơi giữ tiền 金."
     ],
     "introText": [
       "NGÂN",
@@ -106,11 +104,11 @@
     "order": 3,
     "kanji": "行",
     "hanViet": "HÀNH",
-    "meaning": "đi, thựchiện",
-    "kunyomi": "い・く、ゆ・く おこな・う",
+    "meaning": "đi, thực hiện",
+    "kunyomi": "い・く、ゆ・く、おこな・う",
     "onyomi": "コウ、キュウ",
     "mnemonicText": [
-      "XÍCH"
+      "Hình ảnh con đường nơi mọi người đi lại."
     ],
     "introText": [
       "HÀNH",
@@ -151,12 +149,11 @@
     "order": 4,
     "kanji": "半",
     "hanViet": "BÁN",
-    "meaning": "mộtnửa",
+    "meaning": "một nửa",
     "kunyomi": "なか・ば",
     "onyomi": "ハン",
     "mnemonicText": [
-      "Hìnhảnh con dao chặtđứtđôi 3 thanhcủithành",
-      "2 NỬA BẰNG NHAU"
+      "Con dao chặt ba thanh củi thành hai nửa bằng nhau."
     ],
     "introText": [
       "Ý nghĩa: mộtnửa",
@@ -200,7 +197,9 @@
     "meaning": "gạo, Mỹ",
     "kunyomi": "こめ",
     "onyomi": "マイ、ベイ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Hình ảnh bó lúa với những hạt gạo 米."
+    ],
     "introText": [
       "MỄ",
       "Ý nghĩa: gạo, Mỹ",
@@ -234,12 +233,11 @@
     "order": 6,
     "kanji": "来",
     "hanViet": "LAI",
-    "meaning": "đến, tươnglai",
+    "meaning": "đến, tương lai",
     "kunyomi": "く・る、きた・す",
     "onyomi": "ライ",
     "mnemonicText": [
-      "NgườiĐẾN 来 để",
-      "GÁNH GẠO 米 về"
+      "Người đến 来 để gánh gạo 米 về."
     ],
     "introText": [
       "LAI",
@@ -297,11 +295,7 @@
     "kunyomi": "まえ",
     "onyomi": "ゼン",
     "mnemonicText": [
-      "Đêm TRĂNG 月 , mộtngười",
-      "độiđèn䒑 cầm ĐAO 刂",
-      "tiếnvềPHÍA TRƯỚC 前",
-      "NGUYỆT",
-      "ĐAO"
+      "Đội đèn dưới trăng 月, cầm dao 刂 tiến về phía trước 前."
     ],
     "introText": [
       "Ý nghĩa: trước",
@@ -356,8 +350,7 @@
     "kunyomi": "かえ・る",
     "onyomi": "キ",
     "mnemonicText": [
-      "ĐAO",
-      "TRỬU"
+      "Trở về 帰, buông dao 刀 cầm chổi 帚 quét nhà."
     ],
     "introText": [
       "QUY",
@@ -405,9 +398,7 @@
     "kunyomi": "よ・い",
     "onyomi": "リョウ",
     "mnemonicText": [
-      "Chọnnhữnghạtthóc",
-      "TỐT 良chovàobình",
-      "đểGIỮ  艮"
+      "Chọn những hạt thóc tốt 良 cho vào bình."
     ],
     "introText": [
       "Ý nghĩa: tốt",
@@ -448,9 +439,7 @@
     "kunyomi": "た・べる、く・う",
     "onyomi": "ショク、ジキ",
     "mnemonicText": [
-      "Mởnắp𠆢, lựanhững",
-      "gì NGON 良trongnồi",
-      "mà ĂN 食"
+      "Mở nắp, lựa những gì ngon 良 trong nồi mà ăn 食."
     ],
     "introText": [
       "Ý nghĩa: ăn",
@@ -503,9 +492,7 @@
     "kunyomi": "の・む",
     "onyomi": "イン",
     "mnemonicText": [
-      "ĂN 食thìkhôngthể",
-      "THIẾU 欠 UỐNG 飲",
-      "KHIẾM"
+      "Ăn 食 thì không thể thiếu uống 飲."
     ],
     "introText": [
       "Ý nghĩa: uống",
@@ -550,10 +537,7 @@
     "kunyomi": "めし",
     "onyomi": "ハン",
     "mnemonicText": [
-      "Được ĂN 食 CƠM 飯thì",
-      "không bao giờ",
-      "PHẢN ĐỐI 反",
-      "PHẢN"
+      "Được ăn 食 cơm 飯 thì không phản đối 反."
     ],
     "introText": [
       "Ý nghĩa: cơm, bữa ăn",

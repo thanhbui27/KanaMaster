@@ -9,7 +9,7 @@
     "kunyomi": "ひ、ほ",
     "onyomi": "カ",
     "mnemonicText": [
-      "Hìnhảnhđốmlửa"
+      "Hình ảnh đốm lửa."
     ],
     "introText": [
       "火",
@@ -61,8 +61,7 @@
     "kunyomi": "はた、はたけ",
     "onyomi": "---",
     "mnemonicText": [
-      "ĐIỀN: 田",
-      "ĐIỀN"
+      "Dùng lửa 火 đốt cỏ trên ruộng 田 để làm vườn 畑."
     ],
     "introText": [
       "---",
@@ -106,14 +105,7 @@
     "kunyomi": "あき",
     "onyomi": "シュウ",
     "mnemonicText": [
-      "THU",
-      "Ý nghĩa: mùa thu",
-      "KUN: あき ON  :　シュウ",
-      "HỎA",
-      "Mùa THU 秋 thu hoạch LÚA 禾 rồi dùng LỬA火 đốt để loại bỏ côn trùng/đốt rơm",
-      "HÒA",
-      "HÒA:禾",
-      "HỎA: 火"
+      "Mùa thu 秋 thu hoạch lúa 禾 rồi dùng lửa 火 đốt rơm."
     ],
     "introText": [
       "CÁCH NHỚ:",
@@ -155,7 +147,7 @@
     "kunyomi": "みず",
     "onyomi": "スイ",
     "mnemonicText": [
-      "Hìnhảnhlànnước"
+      "Hình ảnh làn nước."
     ],
     "introText": [
       "水",
@@ -202,7 +194,9 @@
     "meaning": "băng, đá",
     "kunyomi": "こおり、ひ",
     "onyomi": "ヒョウ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Nhỏ một giọt nước thần vào, vũng nước bỗng hóa thành băng."
+    ],
     "introText": [
       "BĂNG",
       "Ý nghĩa: băng, đá",
@@ -241,14 +235,7 @@
     "kunyomi": "およ・ぐ",
     "onyomi": "エイ",
     "mnemonicText": [
-      "VỊNH",
-      "Ý nghĩa: bơi lội",
-      "KUN: およ・ぐ",
-      "ON  : エイ",
-      "CHỦ",
-      "CHẤM THỦY",
-      "Người BƠI 泳 giữalànNƯỚC",
-      "Vớicáiđầu丶ngoilên"
+      "Người bơi 泳 giữa làn nước, đầu ngoi lên."
     ],
     "introText": [
       "CÁCH NHỚ:",
@@ -294,9 +281,7 @@
     "kunyomi": "あめ、あま",
     "onyomi": "ウ",
     "mnemonicText": [
-      "KUN: あめ、あま",
-      "ON  : ウ",
-      "Hìnhảnhcơnmưa"
+      "Hình ảnh cơn mưa."
     ],
     "introText": [
       "雨",
@@ -336,9 +321,7 @@
     "kunyomi": "---",
     "onyomi": "デン",
     "mnemonicText": [
-      "VŨ",
-      "Khi trờiMƯA雨, sấmséttrênCÁNH ĐỒNG 田tạo ra",
-      "DÒNG ĐIỆN 電"
+      "Khi trời mưa 雨, sấm sét trên cánh đồng 田 tạo ra điện 電."
     ],
     "introText": [
       "Ý nghĩa: điện",
@@ -396,10 +379,7 @@
     "kunyomi": "ゆき",
     "onyomi": "セツ",
     "mnemonicText": [
-      "KUN:ゆき",
-      "ON  : セツ",
-      "VŨ",
-      "MƯA雨TUYẾT 雪rơixuốngthànhtừnglớpヨtừnglớpchồnglênnhau"
+      "Mưa 雨 rơi thành từng lớp tuyết 雪."
     ],
     "introText": [
       "Ý nghĩa: tuyết",
@@ -439,9 +419,7 @@
     "kunyomi": "くも",
     "onyomi": "ウン",
     "mnemonicText": [
-      "VŨ",
-      "NhữngĐÁM MÂY雲",
-      "đentụlại 云, chuẩnbịcóCƠN MƯA 雨rơixuống"
+      "Những đám mây 雲 đen tụ lại, chuẩn bị có cơn mưa 雨."
     ],
     "introText": [
       "Ý nghĩa: mây",

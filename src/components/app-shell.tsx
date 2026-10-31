@@ -10,6 +10,7 @@ const destinations = [
   { href: "/", label: "Tổng quan", icon: House, group: "Không gian học" },
   { href: "/learn", label: "Bảng chữ cái", icon: BookOpen, group: "Không gian học" },
   { href: "/minna", label: "Minna no Nihongo", icon: Library, group: "Không gian học" },
+  { href: "/kanji", label: "Học Kanji", icon: BookOpen, group: "Không gian học" },
   { href: "/minna/notes", label: "Sổ tay ngôn ngữ", icon: NotebookPen, group: "Không gian học" },
   { href: "/repeat", label: "Repeat · Lịch học", icon: CalendarDays, group: "Luyện tập & ghi nhớ" },
   { href: "/practice", label: "Luyện tập", icon: Dumbbell, group: "Luyện tập & ghi nhớ" },
