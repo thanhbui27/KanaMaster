@@ -5,11 +5,11 @@
     "order": 1,
     "kanji": "日",
     "hanViet": "NHẬT",
-    "meaning": "mặttrời/ ngày",
+    "meaning": "mặt trời/ngày",
     "kunyomi": "ひ、か",
     "onyomi": "ニチ、ジツ",
     "mnemonicText": [
-      "Hìnhảnhmặttrời"
+      "Hình ảnh mặt trời."
     ],
     "introText": [
       "日",
@@ -67,12 +67,7 @@
     "kunyomi": "しろ・い、しら",
     "onyomi": "ハク、ビャク",
     "mnemonicText": [
-      "BẠCH",
-      "Ý nghĩa: trắng",
-      "KUN: しろ・い、しら",
-      "ON  : ハク、ビャク",
-      "NÉT PHẨY",
-      "Chữ Nhật 日thêm nét phẩy là chữ Bạch白"
+      "Chữ 日 thêm nét phẩy thành chữ 白."
     ],
     "introText": [
       "CÁCH NHỚ:",
@@ -112,7 +107,7 @@
     "kunyomi": "はや・い",
     "onyomi": "ソウ、サッ",
     "mnemonicText": [
-      "THẬP"
+      "Ông mặt trời 日 dậy sớm 早 từ 10 giờ 十."
     ],
     "introText": [
       "TẢO",
@@ -149,11 +144,11 @@
     "order": 4,
     "kanji": "月",
     "hanViet": "NGUYỆT",
-    "meaning": "mặttrăng/ tháng",
+    "meaning": "mặt trăng/tháng",
     "kunyomi": "つき",
     "onyomi": "ゲツ、ガツ",
     "mnemonicText": [
-      "Hìnhảnhánhtrăng"
+      "Hình ảnh ánh trăng."
     ],
     "introText": [
       "Ý nghĩa: mặttrăng/",
@@ -205,7 +200,9 @@
     "meaning": "sáng",
     "kunyomi": "あ・ける、あか・るい",
     "onyomi": "メイ、ミョウ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Mặt trời 日 và mặt trăng 月 cùng tỏa sáng."
+    ],
     "introText": [
       "MINH",
       "Ý nghĩa: sáng",
@@ -256,13 +253,7 @@
     "kunyomi": "あさ",
     "onyomi": "チョウ",
     "mnemonicText": [
-      "TRIỀU",
-      "Ý nghĩa: buổi sáng",
-      "KUN: あさ",
-      "ON  : チョウ",
-      "Một BUỔI SÁNG 朝",
-      "NGÀY 10 十日",
-      "THÁNG 10 十月"
+      "Một buổi sáng 朝 có ngày 10 十日 và tháng 10 十月."
     ],
     "introText": [
       "CÁCH NHỚ:",
@@ -312,11 +303,10 @@
     "kanji": "大",
     "hanViet": "ĐẠI",
     "meaning": "to, lớn",
-    "kunyomi": "おお・ きい",
+    "kunyomi": "おお・きい",
     "onyomi": "ダイ、タイ",
     "mnemonicText": [
-      "Hình ảnh người LỚN 大",
-      "đứng dang rộng chân tay"
+      "Hình ảnh người lớn 大 đứng dang rộng chân tay."
     ],
     "introText": [
       "Ý nghĩa: to, lớn",
@@ -365,7 +355,9 @@
     "meaning": "con chó",
     "kunyomi": "いぬ",
     "onyomi": "ケン",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Hình ảnh con chó 犬 vểnh tai."
+    ],
     "introText": [
       "KHUYỂN",
       "Ý nghĩa: con chó",
@@ -404,12 +396,7 @@
     "kunyomi": "ふと・い、ふと・る",
     "onyomi": "タイ、タ",
     "mnemonicText": [
-      "THÁI",
-      "Ý nghĩa: béo mập, mặt trời",
-      "KUN: ふと・い、ふと・る",
-      "ON  : タイ、タ",
-      "NgườiLỚN 大dễ BÉO 太bụng",
-      "NÉT PHẨY"
+      "Người lớn 大 dễ béo 太 bụng."
     ],
     "introText": [
       "CÁCH NHỚ:",
@@ -456,8 +443,7 @@
     "kunyomi": "こ、お、ちい・さい",
     "onyomi": "ショウ",
     "mnemonicText": [
-      "Em NHỎ小",
-      "taygầnchạmxuốngđất"
+      "Em nhỏ 小, tay gần chạm xuống đất."
     ],
     "introText": [
       "Ý nghĩa: nhỏ",
@@ -511,7 +497,9 @@
     "meaning": "ít",
     "kunyomi": "すく・ない、すこ・し",
     "onyomi": "ショウ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Đã nhỏ 小 rồi mà còn gạch bớt đi: ít 少."
+    ],
     "introText": [
       "THIỂU",
       "Ý nghĩa: ít",
@@ -555,14 +543,7 @@
     "kunyomi": "---",
     "onyomi": "キョウ、ケイ",
     "mnemonicText": [
-      "Ý nghĩa: vùng trung tâm đất nước/ cao, lớn",
-      "KUN: \t---",
-      "ON  : キョウ、ケイ",
-      "TIỂU",
-      "Tòathànhxâytrên",
-      "gòđấtcao",
-      "→KINH THÀNH京",
-      "KINH"
+      "Tòa thành xây trên gò đất cao: kinh thành 京."
     ],
     "introText": [
       "CÁCH NHỚ:",

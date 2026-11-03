@@ -16,10 +16,11 @@ import { InstallPrompt } from "@/components/pwa/install-prompt";
 export function HomeScreen({ minnaLessons }: { minnaLessons: LessonSummary[] }) {
   const [progress, setProgress] = useState<LearningProgress>(demoProgress);
   const [plans, setPlans] = useState<StudyPlan[]>([]);
+  const [kanjiLearned, setKanjiLearned] = useState(0);
   const [ready, setReady] = useState(false);
   const { data: minna, ready: minnaReady } = useMinnaStore();
   useEffect(() => {
-    const sync = () => { setProgress(readProgress()); setReady(true); try { setPlans(decodeRepeat(localStorage.getItem(REPEAT_KEY)).plans); } catch { setPlans([]); } };
+    const sync = () => { setProgress(readProgress()); setReady(true); try { setPlans(decodeRepeat(localStorage.getItem(REPEAT_KEY)).plans); } catch { setPlans([]); } try { const data = JSON.parse(localStorage.getItem("kanamaster.kanji.v1") || "{}"); setKanjiLearned(Array.isArray(data.learned) ? new Set(data.learned).size : 0); } catch { setKanjiLearned(0); } };
     const frame = requestAnimationFrame(sync);
     window.addEventListener("storage", sync); window.addEventListener("focus", sync);
     return () => { cancelAnimationFrame(frame); window.removeEventListener("storage", sync); window.removeEventListener("focus", sync); };
@@ -51,6 +52,7 @@ export function HomeScreen({ minnaLessons }: { minnaLessons: LessonSummary[] }) 
     <section className="home-section" id="courses"><div className="ui-section-heading"><h2>Khóa học của bạn</h2><span className="home-caption">Bắt đầu từ nền tảng</span></div><div className="home-courses">
       {courses.map(course => <article className="home-course" key={course.key}><span className={`home-course-symbol ${course.color}`} lang="ja">{course.symbol}</span><h3>{course.name}</h3><p>{course.description}</p><div className="home-course-meta"><span>{ready ? `${course.count} / ${course.total} chữ` : "Đang tải…"}</span><span>{ready ? `${Math.round(course.count / course.total * 100)}%` : "—"}</span></div><div className="home-meter"><i style={{ width: `${course.count / course.total * 100}%` }} /></div><Link href={`/learn?script=${course.key}`}>Học bảng chữ <ArrowRight size={16} /></Link></article>)}
       <article className="home-course"><span className="home-course-symbol mint" lang="ja">語</span><h3>Minna no Nihongo</h3><p>Từ vựng, ngữ pháp và bài tập. Ghi nhớ bằng flashcard và kiểm tra với quiz.</p><div className="home-course-meta"><span>{available.length} bài học</span><span>{available.reduce((n,l) => n + l.vocabulary, 0).toLocaleString("vi-VN")} từ</span></div><div className="home-meter"><i style={{width:`${started.length / Math.max(1, available.length) * 100}%`}} /></div><Link href="/minna">Khám phá bài học <ArrowRight size={16} /></Link></article>
+      <article className="home-course"><span className="home-course-symbol indigo" lang="ja">字</span><h3>Học Kanji</h3><p>95 chữ trong bộ N5. Xem cách đọc và ý nghĩa, học bằng flashcard rồi tự kiểm tra.</p><div className="home-course-meta"><span>N5 · 95 chữ</span><span>{ready ? `${kanjiLearned} / 95 chữ đã nhớ` : "Đang tải…"}</span></div><div className="home-meter"><i style={{width:`${Math.min(kanjiLearned, 95) / 95 * 100}%`}} /></div><Link href="/kanji">Bắt đầu học Kanji <ArrowRight size={16} /></Link></article>
     </div></section>
     <section className="home-section"><div className="ui-section-heading"><h2>Luyện theo cách của bạn</h2><Link href="/practice">Tất cả chế độ <ChevronRight size={15} /></Link></div><div className="home-tools">{[
       {href:"/review",title:"Ôn Kana",description:"Tập trung vào chữ còn hay nhầm.",icon:RotateCcw},

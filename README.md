@@ -53,6 +53,25 @@ Reimport/update calendar entries after editing a plan.
 Run `npm run test:repeat` for schedule, accumulation, import, persistence schema,
 and calendar export regression checks.
 
+## Kanji
+
+Open `/kanji` from Home or the navigation to study 2,383 characters across
+N5–N1. The original 95 characters remain in N5; 44 more were added from the
+Mochi and OpenJLPT reference lists. Study in 12-character lessons or browse by
+dictionary radical. Flashcards, quizzes, example words, and local progress are
+available. Imported N4–N1 meanings are currently labeled in English.
+Each level has a searchable reference, flashcards, and a multiple-choice meaning
+quiz. Learned and review flags are saved in browser `localStorage` under
+`kanamaster.kanji.v1`; wrong quiz answers are added to review. The same characters
+are available in Repeat as level groups. The original chapter and order remain
+on each card. These course labels follow the user's study plan. The current
+JLPT does not publish official kanji lists for each level.
+The interpunct in a kunyomi reading
+marks the boundary before kana written after the kanji (for example,
+`おお・きい` → `大きい`). Source slide text is kept in the JSON files, while the
+learning UI uses the reviewed fields and mnemonic text; the slide examples have
+not yet been paired into structured word, reading, and meaning records.
+
 ## PWA assets
 
 - Manifest: `public/manifest.webmanifest`

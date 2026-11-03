@@ -4,6 +4,7 @@ import { getLesson, lessonIds } from "@/lib/minna/server";
 import { LEARN_LESSONS } from "@/lib/learn-lessons";
 import { WORDS_BY_SCRIPT, PHRASES_BY_SCRIPT } from "@/data/test-content";
 import { noteTopics } from "@/data/minna-notes";
+import { firstReading, kanjiEntries, KANJI_LEVELS } from "@/lib/kanji";
 import type { StudyWord } from "@/lib/repeat";
 import "./repeat.css";
 
@@ -33,5 +34,13 @@ export default function RepeatPage() {
       });
     }
   }
+  words.push(...KANJI_LEVELS.flatMap(level => kanjiEntries.filter(entry => entry.level === level).map(entry => ({
+    id: `kanji:${entry.id}`, order: String(entry.sequence), term: entry.kanji, meaning: entry.meaning,
+    reading: firstReading(entry), phonetics: [
+      { label: "Hán Việt", value: entry.hanViet },
+      { label: "Kunyomi", value: entry.kunyomi },
+      { label: "Onyomi", value: entry.onyomi },
+    ].filter(item => item.value && item.value !== "---"), wordType: "Kanji", language: "ja", group: `Kanji · ${entry.level} · Bài ${Math.ceil(entry.sequence / 12)}`,
+  }))));
   return <RepeatClient catalog={words} />;
 }

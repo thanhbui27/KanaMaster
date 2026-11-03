@@ -5,11 +5,11 @@
     "order": 1,
     "kanji": "今",
     "hanViet": "KIM",
-    "meaning": "bâygiờ, hiệntại",
+    "meaning": "bây giờ, hiện tại",
     "kunyomi": "いま",
     "onyomi": "コン、キン",
     "mnemonicText": [
-      "BÂY GIỜ tôi sẽ đi ra（ラ）khỏi nhà  (𠆢)"
+      "Bây giờ 今 tôi đi ra khỏi nhà."
     ],
     "introText": [
       "Ý nghĩa: bâygiờ, hiệntại",
@@ -56,10 +56,12 @@
     "order": 2,
     "kanji": "会",
     "hanViet": "HỘI",
-    "meaning": "gặpgỡ, hộihọp",
+    "meaning": "gặp gỡ, hội họp",
     "kunyomi": "あ・う",
     "onyomi": "カイ、エ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Dưới mái nhà có hai người gặp nhau nói chuyện."
+    ],
     "introText": [
       "HỘI",
       "Ý nghĩa: gặpgỡ, hộihọp",
@@ -105,11 +107,11 @@
     "order": 3,
     "kanji": "合",
     "hanViet": "HỢP",
-    "meaning": "hợp, phùhợp",
+    "meaning": "hợp, phù hợp",
     "kunyomi": "あ・う",
     "onyomi": "カッ、ガッ、ゴウ",
     "mnemonicText": [
-      "KHẨU"
+      "Dưới một mái nhà, lời nói 口 phải hợp 合 nhau."
     ],
     "introText": [
       "HỢP",
@@ -161,7 +163,7 @@
     "kunyomi": "くち",
     "onyomi": "コウ、ク",
     "mnemonicText": [
-      "Hìnhảnhcáimiệng口"
+      "Hình ảnh cái miệng 口."
     ],
     "introText": [
       "Ý nghĩa: miệng, lối ra vào",
@@ -207,7 +209,9 @@
     "meaning": "ở giữa",
     "kunyomi": "なか",
     "onyomi": "チュウ、ジュウ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Đưa chiếc đũa vào giữa miệng 口: 中."
+    ],
     "introText": [
       "TRUNG",
       "Ý nghĩa: ở giữa",
@@ -261,7 +265,7 @@
     "kunyomi": "ふる・い、ふる・す",
     "onyomi": "コ",
     "mnemonicText": [
-      "THẬP"
+      "Chuyện nói 口 đến 10 十 lần thì thành chuyện cũ 古."
     ],
     "introText": [
       "CỔ",
@@ -301,7 +305,7 @@
     "kunyomi": "うし",
     "onyomi": "ギュウ",
     "mnemonicText": [
-      "Hìnhảnh con bò"
+      "Hình ảnh con bò 牛."
     ],
     "introText": [
       "Ý nghĩa: con bò",
@@ -347,10 +351,12 @@
     "order": 8,
     "kanji": "物",
     "hanViet": "VẬT",
-    "meaning": "đồvật",
+    "meaning": "đồ vật",
     "kunyomi": "もの",
     "onyomi": "ブツ、モツ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Con bò 牛 chở nhiều đồ vật 物 trên lưng."
+    ],
     "introText": [
       "VẬT",
       "Ý nghĩa: đồvật",
@@ -401,12 +407,7 @@
     "kunyomi": "---",
     "onyomi": "ゴ",
     "mnemonicText": [
-      "NGƯỜI NẰM 𠂉",
-      "từ10 十giờđến",
-      "12 GIỜ TRƯA 午",
-      "NHÂN NẰM",
-      "THẬP",
-      "十"
+      "Từ 10 十 giờ đến 12 giờ trưa 午."
     ],
     "introText": [
       "Ý nghĩa: trưa",
@@ -455,7 +456,7 @@
     "kunyomi": "とし",
     "onyomi": "ネン",
     "mnemonicText": [
-      "NHÂN NẰM"
+      "Người nằm trên con bò 牛 quanh năm 年."
     ],
     "introText": [
       "NIÊN",
@@ -509,11 +510,10 @@
     "kanji": "生",
     "hanViet": "SINH",
     "meaning": "sống",
-    "kunyomi": "い・きる、う・まれる なま、は・える",
+    "kunyomi": "い・きる、う・まれる、なま、は・える",
     "onyomi": "セイ、ショウ",
     "mnemonicText": [
-      "NHÂN NẰM",
-      "THỔ"
+      "Người sinh 生 con trên mặt đất 土."
     ],
     "introText": [
       "SINH",
@@ -573,9 +573,7 @@
     "kunyomi": "---",
     "onyomi": "キ、ケ",
     "mnemonicText": [
-      "NGƯỜI NẰM 𠂉một MÌNH ーthì KHOẺ 気",
-      "NHÂN NẰM",
-      "NHẤT"
+      "Người nằm một mình thì khỏe 気."
     ],
     "introText": [
       "Ý nghĩa: khí, tinh thần",
@@ -630,13 +628,11 @@
     "order": 13,
     "kanji": "子",
     "hanViet": "TỬ",
-    "meaning": "đứatrẻ, con",
+    "meaning": "đứa trẻ, con",
     "kunyomi": "こ",
     "onyomi": "シ、ス",
     "mnemonicText": [
-      "HìnhảnhEM BÉ 子",
-      "đang dang haitay ra",
-      "TỬ"
+      "Hình ảnh em bé 子 đang dang hai tay ra."
     ],
     "introText": [
       "Ý nghĩa: đứatrẻ, con",
@@ -690,11 +686,11 @@
     "order": 14,
     "kanji": "字",
     "hanViet": "TỰ",
-    "meaning": "chữ, chữviết",
+    "meaning": "chữ, chữ viết",
     "kunyomi": "あざ",
     "onyomi": "ジ",
     "mnemonicText": [
-      "MIÊN"
+      "Dưới mái nhà 宀 dạy chữ 字 cho con 子."
     ],
     "introText": [
       "TỰ",
@@ -738,7 +734,9 @@
     "meaning": "học",
     "kunyomi": "まな・ぶ",
     "onyomi": "ガク",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Em bé 子 học 学 dưới mái trường."
+    ],
     "introText": [
       "HỌC",
       "Ý nghĩa: học",

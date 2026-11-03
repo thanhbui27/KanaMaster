@@ -9,8 +9,7 @@
     "kunyomi": "て、た",
     "onyomi": "シュ",
     "mnemonicText": [
-      "Hìnhảnhbàntay",
-      "手"
+      "Hình ảnh bàn tay 手."
     ],
     "introText": [
       "Ý nghĩa: tay",
@@ -66,7 +65,7 @@
     "kunyomi": "け",
     "onyomi": "モウ",
     "mnemonicText": [
-      "毛"
+      "Chữ 毛 viết ngược chiều với 手."
     ],
     "introText": [
       "MAO",
@@ -114,8 +113,7 @@
     "kunyomi": "ちち",
     "onyomi": "フ",
     "mnemonicText": [
-      "BàntayBỐ 父cầm",
-      "cáirìu"
+      "Bàn tay bố 父 cầm cái rìu."
     ],
     "introText": [
       "Ý nghĩa: cha, bố",
@@ -158,11 +156,11 @@
     "order": 4,
     "kanji": "交",
     "hanViet": "GIAO",
-    "meaning": "giaonhau",
-    "kunyomi": "ま・ざる、まじ・える、 か・わす",
+    "meaning": "giao nhau",
+    "kunyomi": "ま・ざる、まじ・える、か・わす",
     "onyomi": "コウ",
     "mnemonicText": [
-      "ĐẦU"
+      "Bố 父 đội mũ bảo hiểm tham gia giao thông 交."
     ],
     "introText": [
       "GIAO",
@@ -210,11 +208,11 @@
     "order": 5,
     "kanji": "校",
     "hanViet": "HIỆU",
-    "meaning": "trườnghọc",
+    "meaning": "trường học",
     "kunyomi": "---",
     "onyomi": "コウ",
     "mnemonicText": [
-      "MỘC"
+      "Dưới gốc cây 木 ở cổng trường 校 có bố 父 đứng chờ."
     ],
     "introText": [
       "HIỆU",
@@ -259,7 +257,9 @@
     "meaning": "mẹ",
     "kunyomi": "はは",
     "onyomi": "ボ",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Hình ảnh người mẹ 母 với hai bầu sữa."
+    ],
     "introText": [
       "MẪU",
       "Ý nghĩa: mẹ",
@@ -309,9 +309,7 @@
     "kunyomi": "---",
     "onyomi": "マイ",
     "mnemonicText": [
-      "MỖI 毎ngày, ngườiphụnữ母khiđingủvẫnphảibệntóc𠂉",
-      "NHÂN NẰM",
-      "VÔ"
+      "Mỗi 毎 ngày người phụ nữ 母 khi đi ngủ vẫn phải bện tóc."
     ],
     "introText": [
       "Ý nghĩa: mỗi, hàng (ngày, tuần…)",
@@ -365,7 +363,7 @@
     "kunyomi": "うみ",
     "onyomi": "カイ",
     "mnemonicText": [
-      "THỦY"
+      "Biển 海 là nơi ngày nào 毎 cũng có nước 氵."
     ],
     "introText": [
       "HẢI",
@@ -415,11 +413,7 @@
     "kunyomi": "もと",
     "onyomi": "ゲン、ガン",
     "mnemonicText": [
-      "HAI 二 CHÂN BƯỚC",
-      "ĐI 儿trởvềvịtrí",
-      "BAN ĐẦU 元",
-      "NHỊ",
-      "NHÂN ĐI"
+      "Hai chân bước đi 儿 trở về vị trí ban đầu 元."
     ],
     "introText": [
       "Ý nghĩa: nguồn gốc, ban đầu",
@@ -459,11 +453,11 @@
     "order": 10,
     "kanji": "兄",
     "hanViet": "HUYNH",
-    "meaning": "anhtrai",
+    "meaning": "anh trai",
     "kunyomi": "あに",
     "onyomi": "ケイ、キョウ",
     "mnemonicText": [
-      "KHẨU"
+      "Anh trai 兄 vừa bước đi 儿 vừa nói 口."
     ],
     "introText": [
       "HUYNH",
@@ -507,7 +501,9 @@
     "meaning": "phía trước",
     "kunyomi": "さき",
     "onyomi": "セン",
-    "mnemonicText": [],
+    "mnemonicText": [
+      "Hình ảnh một người đeo ba lô đi phía trước 先."
+    ],
     "introText": [
       "TIÊN",
       "Ý nghĩa: phía trước",
@@ -542,12 +538,11 @@
     "order": 12,
     "kanji": "光",
     "hanViet": "QUANG",
-    "meaning": "ánhsáng",
+    "meaning": "ánh sáng",
     "kunyomi": "ひかり、ひか・る",
     "onyomi": "コウ",
     "mnemonicText": [
-      "NGƯỜI BƯỚC ĐI 儿",
-      "vềphíaÁNH SÁNG 光loélên"
+      "Người bước đi 儿 về phía ánh sáng 光."
     ],
     "introText": [
       "Ý nghĩa: ánhsáng",

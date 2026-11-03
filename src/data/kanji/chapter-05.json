@@ -9,8 +9,7 @@
     "kunyomi": "つち",
     "onyomi": "ド",
     "mnemonicText": [
-      "HìnhảnhmặtĐẤTcó",
-      "câymọclên"
+      "Hình ảnh mặt đất có cây mọc lên."
     ],
     "introText": [
       "土",
@@ -52,10 +51,10 @@
     "kanji": "上",
     "hanViet": "THƯỢNG",
     "meaning": "trên",
-    "kunyomi": "うえ、うわ、かみ、 あ・げる、のぼ・る",
+    "kunyomi": "うえ、うわ、かみ、あ・げる、のぼ・る",
     "onyomi": "ジョウ",
     "mnemonicText": [
-      "上"
+      "Nét thò ra biểu thị phía trên 上."
     ],
     "introText": [
       "THƯỢNG",
@@ -110,17 +109,10 @@
     "kanji": "下",
     "hanViet": "HẠ",
     "meaning": "dưới",
-    "kunyomi": "した、お・ろす、 お・りる、しも、もと、 さ・げる、くだ・さる",
+    "kunyomi": "した、お・ろす、お・りる、しも、もと、さ・げる、くだ・さる",
     "onyomi": "カ、ゲ",
     "mnemonicText": [
-      "HẠ",
-      "Ý nghĩa: dưới",
-      "KUN: した、お・ろす、",
-      "お・りる、しも、もと、",
-      "さ・げる、くだ・さる",
-      "ON  : カ、ゲ",
-      "Nétthòrabiểuthị",
-      "PHÍA DƯỚI"
+      "Nét thò ra biểu thị phía dưới 下."
     ],
     "introText": [
       "CÁCH NHỚ:",
@@ -180,8 +172,7 @@
     "kunyomi": "---",
     "onyomi": "フ、ブ",
     "mnemonicText": [
-      "KHÔNG 不 (BẤT) được",
-      "ngặtngọn CÂY 木"
+      "Không 不 được ngắt ngọn cây 木."
     ],
     "introText": [
       "Ý nghĩa: không",
@@ -227,8 +218,7 @@
     "kunyomi": "いし",
     "onyomi": "セキ、コク、シャク",
     "mnemonicText": [
-      "MộtkhốiĐÁ 石 lăn",
-      "xuốngtừváchnúi"
+      "Một khối đá 石 lăn xuống từ vách núi."
     ],
     "introText": [
       "Ý nghĩa: đá",
@@ -272,8 +262,7 @@
     "kunyomi": "みぎ",
     "onyomi": "ウ、ユウ",
     "mnemonicText": [
-      "Tay PHẢI 右 nắmlại",
-      "viếtchữ"
+      "Tay phải 右 nắm lại viết chữ."
     ],
     "introText": [
       "Ý nghĩa: bên phải",
@@ -313,8 +302,7 @@
     "kunyomi": "ひだり",
     "onyomi": "サ",
     "mnemonicText": [
-      "Tay TRÁI 左 xòehai",
-      "ngón"
+      "Tay trái 左 xòe hai ngón."
     ],
     "introText": [
       "Ý nghĩa: bên trái",
@@ -354,9 +342,7 @@
     "kunyomi": "とも",
     "onyomi": "ユウ",
     "mnemonicText": [
-      "Hai cánhtaythểhiện",
-      "haingườiBẠN 友 cùng",
-      "quyếttâmlàmgìđó"
+      "Hai cánh tay thể hiện hai người bạn 友 cùng quyết tâm."
     ],
     "introText": [
       "Ý nghĩa: bạn bè",
@@ -398,11 +384,11 @@
     "order": 9,
     "kanji": "夕",
     "hanViet": "TỊCH",
-    "meaning": "buổitối",
+    "meaning": "buổi tối",
     "kunyomi": "ゆう",
     "onyomi": "セキ",
     "mnemonicText": [
-      "Hìnhảnhtrăng non"
+      "Hình ảnh trăng non."
     ],
     "introText": [
       "Ý nghĩa: buổitối",
@@ -442,8 +428,7 @@
     "kunyomi": "おお・い",
     "onyomi": "タ",
     "mnemonicText": [
-      "Hai miếngthịtchồng",
-      "lênnhau→ NHIỀU 多"
+      "Hai miếng thịt chồng lên nhau: nhiều 多."
     ],
     "introText": [
       "Ý nghĩa: nhiều",
@@ -487,8 +472,7 @@
     "kunyomi": "な",
     "onyomi": "メイ、ミョウ",
     "mnemonicText": [
-      "GỌI 口 TÊN 名 em",
-      "trong ĐÊM タ"
+      "Gọi 口 tên 名 em trong đêm 夕."
     ],
     "introText": [
       "Ý nghĩa: tên",
@@ -533,13 +517,11 @@
     "order": 12,
     "kanji": "外",
     "hanViet": "NGOẠI",
-    "meaning": "bênngoài",
-    "kunyomi": "そと、ほか、はず・れる、 はず・す",
+    "meaning": "bên ngoài",
+    "kunyomi": "そと、ほか、はず・れる、はず・す",
     "onyomi": "ガイ、ゲ",
     "mnemonicText": [
-      "Ngắm TRĂNG タ BÊN",
-      "NGOÀI 外 khungcửa",
-      "sổト"
+      "Ngắm trăng 夕 bên ngoài 外 khung cửa sổ."
     ],
     "introText": [
       "Ý nghĩa: bênngoài",
